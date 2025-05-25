@@ -1,0 +1,350 @@
+{
+  "item_id": "1521",
+  "item_name": "靈魂石碎片(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1521",
+  "item_image": "https://www.gametsg.net/img/2/11/2159db79e55221eb5945e4f63e70422b.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "靈魂石碎片(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "玻璃",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "雅希的殘影",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=577",
+      "monster_id": "577",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-三樓"
+      ]
+    },
+    {
+      "monster_name": "死亡的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=593",
+      "monster_id": "593",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-二樓"
+      ]
+    },
+    {
+      "monster_name": "混沌之影",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=607",
+      "monster_id": "607",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "73",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-一樓"
+      ]
+    },
+    {
+      "monster_name": "死亡的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=671",
+      "monster_id": "671",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-二樓"
+      ]
+    },
+    {
+      "monster_name": "死亡的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=672",
+      "monster_id": "672",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-二樓"
+      ]
+    },
+    {
+      "monster_name": "死亡的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=673",
+      "monster_id": "673",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-二樓"
+      ]
+    },
+    {
+      "monster_name": "火焰之影禁衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=674",
+      "monster_id": "674",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-三樓"
+      ]
+    },
+    {
+      "monster_name": "火焰之影禁衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=675",
+      "monster_id": "675",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-三樓"
+      ]
+    },
+    {
+      "monster_name": "火焰之影禁衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=676",
+      "monster_id": "676",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-三樓"
+      ]
+    },
+    {
+      "monster_name": "火焰之影禁衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=677",
+      "monster_id": "677",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-三樓"
+      ]
+    },
+    {
+      "monster_name": "火焰之影禁衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=678",
+      "monster_id": "678",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-三樓"
+      ]
+    },
+    {
+      "monster_name": "火焰之影禁衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=679",
+      "monster_id": "679",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-三樓"
+      ]
+    },
+    {
+      "monster_name": "火焰之影禁衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=680",
+      "monster_id": "680",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-三樓"
+      ]
+    },
+    {
+      "monster_name": "混沌的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=687",
+      "monster_id": "687",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-二樓",
+        "特殊副本-暗影神殿-一樓"
+      ]
+    },
+    {
+      "monster_name": "混沌的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=688",
+      "monster_id": "688",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-二樓",
+        "特殊副本-暗影神殿-一樓"
+      ]
+    },
+    {
+      "monster_name": "混沌的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=689",
+      "monster_id": "689",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-二樓",
+        "特殊副本-暗影神殿-一樓"
+      ]
+    },
+    {
+      "monster_name": "死亡的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=690",
+      "monster_id": "690",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-暗影神殿-二樓"
+      ]
+    }
+  ]
+}

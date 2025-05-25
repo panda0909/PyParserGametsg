@@ -1,0 +1,41 @@
+{
+  "item_id": "2105",
+  "item_name": "先行者指南第 3 部分",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2105",
+  "item_image": "https://www.gametsg.net/img/2/12/a2c3cb7368779a430c8063f4337acfbb.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時獲得先知的啟蒙增益"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "40",
+  "category_name": "藥水",
+  "basic_info": {
+    "title": "先行者指南第 3 部分",
+    "類型": "其他(藥水)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "玻璃",
+    "重量": "1",
+    "說明": "使用時獲得先知的啟蒙增益"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

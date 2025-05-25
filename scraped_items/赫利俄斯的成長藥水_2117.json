@@ -1,0 +1,48 @@
+{
+  "item_id": "2117",
+  "item_name": "赫利俄斯的成長藥水",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2117",
+  "item_image": "https://www.gametsg.net/img/2/12/926132999053727786986bcb3fdf3d7d.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 1 小時"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "40",
+  "category_name": "藥水",
+  "basic_info": {
+    "title": "赫利俄斯的成長藥水",
+    "類型": "其他(藥水)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "持續時間 1 小時",
+    "材質": "玻璃",
+    "說明": [
+      "使用後立即獲得經驗2000萬,並獲得以下增益效果,持續1小時",
+      "- 經驗加成+70%",
+      "- 藥水恢復率+10%",
+      "- PVE傷害減免+3",
+      "- 魔法/遠距離傷害減免+1%",
+      "* buff時間結束後,獲得15名譽金幣"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,81 @@
+{
+  "item_id": "607",
+  "item_name": "封印的古老的皮盔甲(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=607",
+  "item_image": "https://www.gametsg.net/img/1/4/800a60843a03f7fe88e4ab1b313f9aff.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [],
+  "data_zhiye": "2|4|5|34|12|13",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "封印的古老的皮盔甲(刻印)",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "皮革",
+    "重量": "180"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

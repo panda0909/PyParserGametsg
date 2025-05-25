@@ -1,0 +1,258 @@
+{
+  "item_id": "2616",
+  "item_name": "傲慢之塔2樓移動卷軸",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2616",
+  "item_image": "https://www.gametsg.net/img/2/13/c902051cacee08c5773f1259fd2d32de.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "移動至傲慢之塔2樓",
+    "68級以上可用",
+    "只能在傲慢與信仰之塔入口處使用"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "44",
+  "category_name": "移動道具",
+  "basic_info": {
+    "title": "傲慢之塔2樓移動卷軸",
+    "類型": "其他(移動道具)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.63",
+    "說明": [
+      "移動至傲慢之塔2樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "不幸的安普",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=533",
+      "monster_id": "533",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "歪曲楊果里恩",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=552",
+      "monster_id": "552",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "不幸的思克巴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=557",
+      "monster_id": "557",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "歪曲的梅杜莎",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=571",
+      "monster_id": "571",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "歪曲的蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=572",
+      "monster_id": "572",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "不幸的死亡之劍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=573",
+      "monster_id": "573",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "不幸的多眼怪",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=574",
+      "monster_id": "574",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "歪曲奇美拉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=586",
+      "monster_id": "586",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "不幸的魔狼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=587",
+      "monster_id": "587",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "不幸的密密",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=588",
+      "monster_id": "588",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "歪曲的亞力安",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=605",
+      "monster_id": "605",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "73",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "歪曲蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=606",
+      "monster_id": "606",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "73",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    }
+  ]
+}

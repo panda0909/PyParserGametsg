@@ -1,0 +1,2935 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "23",
+    "item_name": "屠龍劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=23",
+    "item_image": "https://www.gametsg.net/img/1/1/980f780f66bfc358e1973204f508bb3e.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "32 / 28",
+    "item_stats": [
+      "額外攻擊+28",
+      "武器命中+28",
+      "防止武器損壞",
+      "力量+6",
+      "龍額外攻擊+40",
+      "昏迷命中 +10%",
+      "發動:消除聖結界 2%",
+      "發動:混沌狂襲 3%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "1|8|5|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "24",
+    "item_name": "艾莉絲(單手劍)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=24",
+    "item_image": "https://www.gametsg.net/img/1/1/ddda3eb929c18e20c6fac8483e21c3ea.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "27 / 24",
+    "item_stats": [
+      "額外攻擊+23",
+      "武器命中+23",
+      "經驗值獲得量增加+30%",
+      "力量+6",
+      "防止武器損壞",
+      "昏迷命中 +8%",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "1|8|5|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "25",
+    "item_name": "死亡騎士的烈炎之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=25",
+    "item_image": "https://www.gametsg.net/img/1/1/8edb0377c7bf5bbbca54c1bee8642f11.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "18 / 15",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+7",
+      "防止武器損壞",
+      "力量+2",
+      "發動:地獄之火 1%"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "26",
+    "item_name": "死亡騎士的烈炎之劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=26",
+    "item_image": "https://www.gametsg.net/img/1/1/8edb0377c7bf5bbbca54c1bee8642f11.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "18 / 15",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+7",
+      "防止武器損壞",
+      "力量+2",
+      "發動:地獄之火 1%"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "27",
+    "item_name": "艾保羅泰因長劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=27",
+    "item_image": "https://www.gametsg.net/img/1/1/67266e3adff22adb93e82f051bb0d3b2.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "21 / 22",
+    "item_stats": [
+      "額外攻擊+10",
+      "武器命中+15",
+      "力量+3",
+      "昏迷命中 +7%",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "發動:艾保羅泰因的徽章 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "28",
+    "item_name": "歐西里斯單手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=28",
+    "item_image": "https://www.gametsg.net/img/1/1/255f55078ee4492d256cd395fe9544a7.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "18 / 21",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+13",
+      "防止武器損壞",
+      "死亡+3",
+      "力量+3",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|2|52|3|4|8|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "29",
+    "item_name": "克特之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=29",
+    "item_image": "https://www.gametsg.net/img/1/1/35076619331d159dc123bc3855ea3890.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "16 / 14",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+9",
+      "防止武器損壞",
+      "力量+2",
+      "發動:極道落雷 1%"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "30",
+    "item_name": "克特之劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=30",
+    "item_image": "https://www.gametsg.net/img/1/1/35076619331d159dc123bc3855ea3890.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "16 / 14",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+9",
+      "防止武器損壞",
+      "力量+2",
+      "發動:極道落雷 1%"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "31",
+    "item_name": "海陸拜的匕首",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=31",
+    "item_image": "https://www.gametsg.net/img/1/1/28e031a78c3d45f0304cccafd80b0c84.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "16 / 20",
+    "item_stats": [
+      "額外攻擊+8",
+      "+10 武器命中",
+      "防止武器損壞",
+      "力量+3",
+      "昏迷命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "32",
+    "item_name": "惡魔王的單手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=32",
+    "item_image": "https://www.gametsg.net/img/1/1/bca2b60ee4be7e8e9498285de05940ca.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "14 / 13",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+1",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|52|81|8|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "33",
+    "item_name": "惡魔王的單手劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=33",
+    "item_image": "https://www.gametsg.net/img/1/1/bca2b60ee4be7e8e9498285de05940ca.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "14 / 13",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+1",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|52|81|8|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "34",
+    "item_name": "真細劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=34",
+    "item_image": "https://www.gametsg.net/img/1/1/85af1d570f4bf6516a984003cf55d85e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "16 / 14",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+4",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "35",
+    "item_name": "真細劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=35",
+    "item_image": "https://www.gametsg.net/img/1/1/85af1d570f4bf6516a984003cf55d85e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "16 / 14",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+4",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "36",
+    "item_name": "古代黑暗妖精之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=36",
+    "item_image": "https://www.gametsg.net/img/1/1/35cbd6a761d22a621dd9e8f9a6ab301b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "12 / 12",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+3",
+      "最大HP+50",
+      "敏捷+1"
+    ],
+    "data_zhiye": "2",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "37",
+    "item_name": "雷雨之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=37",
+    "item_image": "https://www.gametsg.net/img/1/1/fc5b476387c00f4589c1676b33fe9108.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "13 / 12",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+1",
+      "防止武器損壞",
+      "發動:電擊1%"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "38",
+    "item_name": "雷雨之劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=38",
+    "item_image": "https://www.gametsg.net/img/1/1/fc5b476387c00f4589c1676b33fe9108.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "13 / 12",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+1",
+      "防止武器損壞",
+      "發動:電擊1%"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "39",
+    "item_name": "魔族之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=39",
+    "item_image": "https://www.gametsg.net/img/1/1/df3a50a72d316a2e499ee9cda98f1b5f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "23 / 25",
+    "item_stats": [
+      "武器命中+3",
+      "最大HP+30",
+      "防止武器損壞",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "40",
+    "item_name": "魔族之劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=40",
+    "item_image": "https://www.gametsg.net/img/1/1/df3a50a72d316a2e499ee9cda98f1b5f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "23 / 25",
+    "item_stats": [
+      "武器命中+3",
+      "最大HP+30",
+      "防止武器損壞",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "41",
+    "item_name": "武官之刃",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=41",
+    "item_image": "https://www.gametsg.net/img/1/1/c7a3f1e9ca4fab69cfa1afae038f1b2e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "13 / 10",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "42",
+    "item_name": "武官之刃(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=42",
+    "item_image": "https://www.gametsg.net/img/1/1/c7a3f1e9ca4fab69cfa1afae038f1b2e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "13 / 10",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "43",
+    "item_name": "南瓜傑克的劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=43",
+    "item_image": "https://www.gametsg.net/img/1/1/e4ed441f20b112e2c8831c8270967b42.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "10/10",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+1",
+      "防止武器損壞",
+      "發動:南瓜的玩笑 1%"
+    ],
+    "data_zhiye": "1|2|3|8|52|81",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "44",
+    "item_name": "底比斯歐西里斯單手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=44",
+    "item_image": "https://www.gametsg.net/img/1/1/fc9ae6b34856b7cfd310e142e0f51e4a.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "13 / 12",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+4",
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "1|5|8|52|81|2|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "45",
+    "item_name": "底比斯歐西里斯單手劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=45",
+    "item_image": "https://www.gametsg.net/img/1/1/fc9ae6b34856b7cfd310e142e0f51e4a.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "13 / 12",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+4",
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "1|5|8|52|81|2|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "46",
+    "item_name": "黑燄之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=46",
+    "item_image": "https://www.gametsg.net/img/1/1/35b8f7b817b4ccdc797f5ddac46e4c14.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "16 / 10",
+    "item_stats": [
+      "武器命中+2",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|52|81|12",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "47",
+    "item_name": "黑燄之劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=47",
+    "item_image": "https://www.gametsg.net/img/1/1/35b8f7b817b4ccdc797f5ddac46e4c14.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "16 / 10",
+    "item_stats": [
+      "武器命中+2",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|52|81|12",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "48",
+    "item_name": "細劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=48",
+    "item_image": "https://www.gametsg.net/img/1/1/41eae9ecd5804a7048b0e9edb9a456eb.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "11 / 6",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|5|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "49",
+    "item_name": "細劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=49",
+    "item_image": "https://www.gametsg.net/img/1/1/41eae9ecd5804a7048b0e9edb9a456eb.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "11 / 6",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|5|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "50",
+    "item_name": "鎖子甲破壞者",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=50",
+    "item_image": "https://www.gametsg.net/img/1/1/b5839d700858b74f600e8b17150baca1.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "4 / 5",
+    "item_stats": [
+      "+10 武器命中"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "51",
+    "item_name": "鎖子甲破壞者(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=51",
+    "item_image": "https://www.gametsg.net/img/1/1/b5839d700858b74f600e8b17150baca1.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "4 / 5",
+    "item_stats": [
+      "+10 武器命中"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "52",
+    "item_name": "瑟魯基之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=52",
+    "item_image": "https://www.gametsg.net/img/1/1/bf069c90367cba4db4cc312450ae4086.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "16 / 10",
+    "item_stats": [
+      "武器命中+2"
+    ],
+    "data_zhiye": "1|5|52|81|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "53",
+    "item_name": "瑟魯基之劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=53",
+    "item_image": "https://www.gametsg.net/img/1/1/bf069c90367cba4db4cc312450ae4086.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "16 / 10",
+    "item_stats": [
+      "武器命中+2"
+    ],
+    "data_zhiye": "1|5|52|81|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "54",
+    "item_name": "沉默之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=54",
+    "item_image": "https://www.gametsg.net/img/1/1/ae7de11a3b5a054441aa8e44f38959d2.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "12 / 12",
+    "item_stats": [
+      "武器命中+2",
+      "發動:魔法封印1%"
+    ],
+    "data_zhiye": "1|2|4|5|52|81|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "55",
+    "item_name": "短刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=55",
+    "item_image": "https://www.gametsg.net/img/1/1/b3a0ef2bc66034db93f5bb617a132fa1.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "10 / 12",
+    "item_stats": [
+      "武器命中+1",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "56",
+    "item_name": "短刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=56",
+    "item_image": "https://www.gametsg.net/img/1/1/b3a0ef2bc66034db93f5bb617a132fa1.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "10 / 12",
+    "item_stats": [
+      "武器命中+1",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "57",
+    "item_name": "黃金權杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=57",
+    "item_image": "https://www.gametsg.net/img/1/1/ed5bb61177bf778a91b6decc0aa6e73e.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "14 / 20",
+    "item_stats": [
+      "武器命中+5",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "8",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "58",
+    "item_name": "黃金權杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=58",
+    "item_image": "https://www.gametsg.net/img/1/1/ed5bb61177bf778a91b6decc0aa6e73e.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "14 / 20",
+    "item_stats": [
+      "武器命中+5",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "8",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "59",
+    "item_name": "侵略者之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=59",
+    "item_image": "https://www.gametsg.net/img/1/1/48aab712e418696b607bb534dbb83a4d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "9/11",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "60",
+    "item_name": "侵略者之劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=60",
+    "item_image": "https://www.gametsg.net/img/1/1/48aab712e418696b607bb534dbb83a4d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "9/11",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "61",
+    "item_name": "侏儒短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=61",
+    "item_image": "https://www.gametsg.net/img/1/1/1f11b7db079c59f7d0b4eae9d0056402.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "7 / 8",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "62",
+    "item_name": "闊劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=62",
+    "item_image": "https://www.gametsg.net/img/1/1/9bb63344e43647b781003915920c6f65.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "4 / 6",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "63",
+    "item_name": "大馬士革刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=63",
+    "item_image": "https://www.gametsg.net/img/1/1/9200f3bc8080c1bd5ed5e0017fd85748.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "10/11",
+    "item_stats": [
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "64",
+    "item_name": "大馬士革刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=64",
+    "item_image": "https://www.gametsg.net/img/1/1/9200f3bc8080c1bd5ed5e0017fd85748.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "10/11",
+    "item_stats": [
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "65",
+    "item_name": "拉斯塔巴德長劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=65",
+    "item_image": "https://www.gametsg.net/img/1/1/3c8bbc7e72c3a40efb4f666503d82d60.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "10 / 12",
+    "item_stats": [
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|4|5|52|81|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "66",
+    "item_name": "棍棒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=66",
+    "item_image": "https://www.gametsg.net/img/1/1/919b68d4ec15583e98facba0f7a9fbf8.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "6 / 3",
+    "item_stats": [
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|3|8|52|81",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "67",
+    "item_name": "海賊彎刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=67",
+    "item_image": "https://www.gametsg.net/img/1/1/b4a09b6a80eb706afeecc85f4f5b3a36.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "11 / 6",
+    "item_stats": [
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|4|5|52|81|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "68",
+    "item_name": "海賊彎刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=68",
+    "item_image": "https://www.gametsg.net/img/1/1/b4a09b6a80eb706afeecc85f4f5b3a36.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "11 / 6",
+    "item_stats": [
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|4|5|52|81|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "69",
+    "item_name": "彎刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=69",
+    "item_image": "https://www.gametsg.net/img/1/1/63feefbf7c0107f5ca6c17c38b792391.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "8 / 8",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "70",
+    "item_name": "歐西斯短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=70",
+    "item_image": "https://www.gametsg.net/img/1/1/c31d73d4e246a03410cb37e9f84acf2b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "71",
+    "item_name": "精靈短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=71",
+    "item_image": "https://www.gametsg.net/img/1/1/52eb39407b29a4a3108bb23c35cf42c1.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "8 / 8",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "72",
+    "item_name": "銀長劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=72",
+    "item_image": "https://www.gametsg.net/img/1/1/03d74890eb86864f70f51825c883df16.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "8 / 12",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "73",
+    "item_name": "銀長劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=73",
+    "item_image": "https://www.gametsg.net/img/1/1/03d74890eb86864f70f51825c883df16.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "8 / 12",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "74",
+    "item_name": "武士刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=74",
+    "item_image": "https://www.gametsg.net/img/1/1/c02aa25a71935e0596ed8bbe437c8dd2.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "10 / 12",
+    "item_stats": [
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "75",
+    "item_name": "武士刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=75",
+    "item_image": "https://www.gametsg.net/img/1/1/c02aa25a71935e0596ed8bbe437c8dd2.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "10 / 12",
+    "item_stats": [
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "76",
+    "item_name": "鍋鏟(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=76",
+    "item_image": "https://www.gametsg.net/img/1/1/2de23c29b91ee293a515ca304721cd8d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "5 / 5",
+    "item_stats": [
+      "可登錄道具收藏品"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "77",
+    "item_name": "長劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=77",
+    "item_image": "https://www.gametsg.net/img/1/1/b8282c4f68ca60c9bc6433973987605d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "8 / 12",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "78",
+    "item_name": "長劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=78",
+    "item_image": "https://www.gametsg.net/img/1/1/b8282c4f68ca60c9bc6433973987605d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "8 / 12",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "3",
+    "category_name": "單手劍"
+  },
+  {
+    "item_id": "79",
+    "item_name": "庫傑的棍棒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=79",
+    "item_image": "https://www.gametsg.net/img/1/1/6b2445099fc66212330901a527f9c8d0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "6 / 3",
+    "item_stats": [
+      "防止武器損壞",
+      "發動:變形術(紅色妖魔)1%"
+    ],
+    "data_zhiye": "1|2|4|5|8|52|81|12|13|3|7|32",
+    "category_id": "3",
+    "category_name": "單手劍"
+  }
+]

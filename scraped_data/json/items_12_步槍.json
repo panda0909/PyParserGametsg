@@ -1,0 +1,631 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "345",
+    "item_name": "波斯特步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=345",
+    "item_image": "https://www.gametsg.net/img/1/3/6caaae8c48b0c8ffadb98f942b993d33.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "8 / 9",
+    "item_stats": [
+      "額外攻擊+36",
+      "武器命中+29",
+      "敏捷+5",
+      "智力+3",
+      "雙手武器",
+      "防止武器損壞",
+      "無視遠距離傷害減免 +10",
+      "無視近距離傷害減免+10",
+      "無視遠距離迴避力+5",
+      "貫穿效果",
+      "昏迷命中 +10%",
+      "發動:混沌狂襲 3%",
+      "傷害增加+10%",
+      "發動:消除聖結界 2%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "346",
+    "item_name": "艾莉絲(步槍)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=346",
+    "item_image": "https://www.gametsg.net/img/1/3/e188dfb64b8690b79116347e502b5ed4.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "8 / 9",
+    "item_stats": [
+      "額外攻擊+32",
+      "武器命中+24",
+      "經驗值獲得量增加+30%",
+      "敏捷+5",
+      "智力+2",
+      "雙手武器",
+      "防止武器損壞",
+      "無視遠距離傷害減免+5",
+      "無視近距離傷害減免+5",
+      "無視遠距離迴避力+3",
+      "貫通效果",
+      "昏迷命中 +8%",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "347",
+    "item_name": "格勒西亞的步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=347",
+    "item_image": "https://www.gametsg.net/img/1/3/107e2c9a2883efc39b666c97b169613d.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "8 / 8",
+    "item_stats": [
+      "額外攻擊+15",
+      "武器命中 +20",
+      "敏捷+1",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "無視遠距離傷害減免+2",
+      "智力+1",
+      "無視遠距離迴避力+2",
+      "昏迷命中 +5%",
+      "發動:狙擊手的槍傷10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "348",
+    "item_name": "極品步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=348",
+    "item_image": "https://www.gametsg.net/img/1/3/e39414ddb3513fa9d660bc9422389834.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "7 / 7",
+    "item_stats": [
+      "額外攻擊+12",
+      "武器命中+12",
+      "敏捷+1",
+      "智力+1",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:真實瞄準 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "349",
+    "item_name": "極品步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=349",
+    "item_image": "https://www.gametsg.net/img/1/3/e39414ddb3513fa9d660bc9422389834.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "7 / 7",
+    "item_stats": [
+      "額外攻擊+12",
+      "武器命中+12",
+      "敏捷+1",
+      "智力+1",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:真實瞄準 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "350",
+    "item_name": "歐西里斯步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=350",
+    "item_image": "https://www.gametsg.net/img/1/3/ba989a580aaa33480c35fde02b66cb81.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "7 / 8",
+    "item_stats": [
+      "額外攻擊+12",
+      "武器命中+15",
+      "敏捷+1",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "死亡+3",
+      "智力+1",
+      "昏迷命中 +3%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "351",
+    "item_name": "惡魔王的步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=351",
+    "item_image": "https://www.gametsg.net/img/1/3/374e97ceebe24434973db396eb1148a2.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "4 / 6",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+7",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "352",
+    "item_name": "惡魔王的步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=352",
+    "item_image": "https://www.gametsg.net/img/1/3/374e97ceebe24434973db396eb1148a2.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "4 / 6",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+7",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "353",
+    "item_name": "解放的步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=353",
+    "item_image": "https://www.gametsg.net/img/1/3/30296b827f96e220bce351151ff790a5.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "6 / 5",
+    "item_stats": [
+      "額外攻擊+5",
+      "+10 武器命中",
+      "敏捷+1",
+      "智力+1",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "354",
+    "item_name": "解放的步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=354",
+    "item_image": "https://www.gametsg.net/img/1/3/30296b827f96e220bce351151ff790a5.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "6 / 5",
+    "item_stats": [
+      "額外攻擊+5",
+      "+10 武器命中",
+      "敏捷+1",
+      "智力+1",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "355",
+    "item_name": "魔族的步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=355",
+    "item_image": "https://www.gametsg.net/img/1/3/3f0c539797b97c305ca17604e41318ae.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+4",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:藍惡靈奪魔 4%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "356",
+    "item_name": "魔族的步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=356",
+    "item_image": "https://www.gametsg.net/img/1/3/3f0c539797b97c305ca17604e41318ae.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+4",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:藍惡靈奪魔 4%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "357",
+    "item_name": "特里斯坦的步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=357",
+    "item_image": "https://www.gametsg.net/img/1/3/ff2688363e7ad4b4843e377c27f30afd.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "5 / 4",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+3",
+      "智力+2",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "358",
+    "item_name": "特里斯坦的步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=358",
+    "item_image": "https://www.gametsg.net/img/1/3/ff2688363e7ad4b4843e377c27f30afd.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "5 / 4",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+3",
+      "智力+2",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "359",
+    "item_name": "黃金的步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=359",
+    "item_image": "https://www.gametsg.net/img/1/3/26fc62ae5e7edfd84edcdacb0ddfb687.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "2 / 3",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "360",
+    "item_name": "黃金的步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=360",
+    "item_image": "https://www.gametsg.net/img/1/3/26fc62ae5e7edfd84edcdacb0ddfb687.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "2 / 3",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "361",
+    "item_name": "狩獵步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=361",
+    "item_image": "https://www.gametsg.net/img/1/3/23cd3870686e2aa4e0b6719cb2fbe648.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "3 / 2",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "362",
+    "item_name": "狩獵步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=362",
+    "item_image": "https://www.gametsg.net/img/1/3/23cd3870686e2aa4e0b6719cb2fbe648.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "3 / 2",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "363",
+    "item_name": "狩獵步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=363",
+    "item_image": "https://www.gametsg.net/img/1/3/23cd3870686e2aa4e0b6719cb2fbe648.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "3 / 2",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+1",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "364",
+    "item_name": "獵人的步槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=364",
+    "item_image": "https://www.gametsg.net/img/1/3/cd6b340e7342f751c0a083117565396f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+1",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  },
+  {
+    "item_id": "365",
+    "item_name": "獵人的步槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=365",
+    "item_image": "https://www.gametsg.net/img/1/3/cd6b340e7342f751c0a083117565396f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+1",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "12",
+    "category_name": "步槍"
+  }
+]

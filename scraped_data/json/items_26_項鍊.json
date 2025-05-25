@@ -1,0 +1,1262 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1004",
+    "item_name": "2週年紀念項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1004",
+    "item_image": "https://www.gametsg.net/img/1/7/be8ea6c28dbeae97838af58d185bf229.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "作為道具收藏品，材料使用（不可收藏品重複登錄）",
+      "獲得來源:商店 (紅利)"
+    ],
+    "data_zhiye": "",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1005",
+    "item_name": "火焰之影項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1005",
+    "item_image": "https://www.gametsg.net/img/1/7/b18791e3627cd1f0ad07b47fbe38fa42.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "無視傷害減免+10",
+      "HP吸收"
+    ],
+    "data_zhiye": "",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1006",
+    "item_name": "死亡騎士項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1006",
+    "item_image": "https://www.gametsg.net/img/1/7/7727ab281af24f8a2c47413a0d825c3c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "力量+3",
+      "昏迷命中 +7%",
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1007",
+    "item_name": "光之沙哈的護身符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1007",
+    "item_image": "https://www.gametsg.net/img/1/7/d7661a7203ae3b571fb5aa91fd425124.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+60",
+      "最大MP +20",
+      "敏捷+2",
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1008",
+    "item_name": "光之沙哈的護身符(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1008",
+    "item_image": "https://www.gametsg.net/img/1/7/d7661a7203ae3b571fb5aa91fd425124.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+60",
+      "最大MP +20",
+      "敏捷+2",
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1009",
+    "item_name": "榮譽戰鬥項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1009",
+    "item_image": "https://www.gametsg.net/img/1/7/74f61092b884aea558a9b1f4f37b6594.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "[攻城戰專用裝備]",
+      "離開圍困區域時禁用裝置效果的自動應用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1010",
+    "item_name": "杰弗雷庫的敏捷項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1010",
+    "item_image": "https://www.gametsg.net/img/1/7/aee9c3c415edbffe2f2bb196936f2f01.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "昏迷命中 +5%",
+      "敏捷+5",
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1011",
+    "item_name": "杰弗雷庫的力量項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1011",
+    "item_image": "https://www.gametsg.net/img/1/7/cf01c48a939b2fbdc7a805689abc5ab9.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "力量+3",
+      "昏迷抗性+7%",
+      "昏迷命中 +5%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1012",
+    "item_name": "杰弗雷庫的智力項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1012",
+    "item_image": "https://www.gametsg.net/img/1/7/35982dbebbf879edb82b2618d29d1696.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "昏迷抗性+7%",
+      "智力+3",
+      "魔法穿透3%",
+      "恐怖命中+5%"
+    ],
+    "data_zhiye": "3|34|81",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1013",
+    "item_name": "戰士護身符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1013",
+    "item_image": "https://www.gametsg.net/img/1/7/3e67424b98713399524d2970bf052460.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+60",
+      "最大MP +20",
+      "力量+2",
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1014",
+    "item_name": "戰士護身符(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1014",
+    "item_image": "https://www.gametsg.net/img/1/7/3e67424b98713399524d2970bf052460.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+60",
+      "最大MP +20",
+      "力量+2",
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1015",
+    "item_name": "賢者項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1015",
+    "item_image": "https://www.gametsg.net/img/1/7/5812d7b96f60a6a87bf003ade76cf11b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+60",
+      "最大MP +20",
+      "智力+2",
+      "昏迷抗性+7%",
+      "魔法命中+3",
+      "魔法穿透1%"
+    ],
+    "data_zhiye": "3|34|81",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1016",
+    "item_name": "賢者項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1016",
+    "item_image": "https://www.gametsg.net/img/1/7/5812d7b96f60a6a87bf003ade76cf11b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+60",
+      "最大MP +20",
+      "智力+2",
+      "昏迷抗性+7%",
+      "魔法命中+3",
+      "魔法穿透1%"
+    ],
+    "data_zhiye": "3|34|81",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1024",
+    "item_name": "伊弗利特魔力項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1024",
+    "item_image": "https://www.gametsg.net/img/1/7/68fd3725d5a6e4bb17fad87ba4afbf81.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "魔攻+1",
+      "魔法命中+2",
+      "昏迷抗性+2%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1025",
+    "item_name": "海露拜的腳鐐",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1025",
+    "item_image": "https://www.gametsg.net/img/1/7/e78788be69eb536a9023352211e1039f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "近距離傷害+1",
+      "近距離命中+4",
+      "昏迷命中 +2%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1017",
+    "item_name": "古代巨人項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1017",
+    "item_image": "https://www.gametsg.net/img/1/7/6a952e674aa951404fb285a1791a92cc.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "PVE傷害減免+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1018",
+    "item_name": "變形怪首領項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1018",
+    "item_image": "https://www.gametsg.net/img/1/7/a02d43f6db4b365000160eb0c1e4386f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1019",
+    "item_name": "變形怪首領項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1019",
+    "item_image": "https://www.gametsg.net/img/1/7/a02d43f6db4b365000160eb0c1e4386f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1020",
+    "item_name": "蕾雅項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1020",
+    "item_image": "https://www.gametsg.net/img/1/7/4cc6beb04da263d89c61902eb2919d15.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "MP回復(tic)+5",
+      "魔法命中+1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1021",
+    "item_name": "艾莉絲的項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1021",
+    "item_image": "https://www.gametsg.net/img/1/7/e2731d55405476d6a9de91584ef9df18.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離傷害+1",
+      "遠距離命中+4",
+      "昏迷抗性+2%"
+    ],
+    "data_zhiye": "2|4|34",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1022",
+    "item_name": "艾莉絲的項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1022",
+    "item_image": "https://www.gametsg.net/img/1/7/e2731d55405476d6a9de91584ef9df18.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離傷害+1",
+      "遠距離命中+4",
+      "昏迷抗性+2%"
+    ],
+    "data_zhiye": "2|4|34",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1023",
+    "item_name": "伊弗利特魔力項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1023",
+    "item_image": "https://www.gametsg.net/img/1/7/68fd3725d5a6e4bb17fad87ba4afbf81.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "魔攻+1",
+      "魔法命中+2",
+      "昏迷抗性+2%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1026",
+    "item_name": "黑法師項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1026",
+    "item_image": "https://www.gametsg.net/img/1/7/83766e3641970b140c2f4ac71552680f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "智力+2",
+      "體質-1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1027",
+    "item_name": "黑法師項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1027",
+    "item_image": "https://www.gametsg.net/img/1/7/83766e3641970b140c2f4ac71552680f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "智力+2",
+      "體質-1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1028",
+    "item_name": "發光的古老項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1028",
+    "item_image": "https://www.gametsg.net/img/1/7/b75fee69e35c32355b37f50b2152757a.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "最大MP +50",
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1029",
+    "item_name": "發光的古老項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1029",
+    "item_image": "https://www.gametsg.net/img/1/7/b75fee69e35c32355b37f50b2152757a.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "最大MP +50",
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1030",
+    "item_name": "守護者項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1030",
+    "item_image": "https://www.gametsg.net/img/1/7/cf5f4d0b6e104529e8a77775357000d7.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+30",
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1031",
+    "item_name": "杰弗雷庫的魔眼",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1031",
+    "item_image": "https://www.gametsg.net/img/1/7/1f8637d9ef5fce479e64be960a9ae516.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +10",
+      "智力+1",
+      "體質 +1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1032",
+    "item_name": "杰弗雷庫的魔眼(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1032",
+    "item_image": "https://www.gametsg.net/img/1/7/1f8637d9ef5fce479e64be960a9ae516.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +10",
+      "智力+1",
+      "體質 +1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1033",
+    "item_name": "杰弗雷庫的魔眼(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1033",
+    "item_image": "https://www.gametsg.net/img/1/7/1f8637d9ef5fce479e64be960a9ae516.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +10",
+      "智力+1",
+      "體質 +1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1034",
+    "item_name": "杰弗雷庫的尖牙",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1034",
+    "item_image": "https://www.gametsg.net/img/1/7/bba972f56b9224592b5621b54235bcc1.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "力量+1",
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1035",
+    "item_name": "杰弗雷庫的尖牙(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1035",
+    "item_image": "https://www.gametsg.net/img/1/7/bba972f56b9224592b5621b54235bcc1.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "力量+1",
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1036",
+    "item_name": "杰弗雷庫的尖牙(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1036",
+    "item_image": "https://www.gametsg.net/img/1/7/bba972f56b9224592b5621b54235bcc1.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "力量+1",
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1037",
+    "item_name": "魅力項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1037",
+    "item_image": "https://www.gametsg.net/img/1/7/ebf37ee6c06cca51b9e99b66e8a7cc8d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "魅力+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1038",
+    "item_name": "敏捷項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1038",
+    "item_image": "https://www.gametsg.net/img/1/7/69d29a0bc5ef4cb4650bb85594bef9ab.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1039",
+    "item_name": "敏捷項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1039",
+    "item_image": "https://www.gametsg.net/img/1/7/69d29a0bc5ef4cb4650bb85594bef9ab.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1040",
+    "item_name": "力量項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1040",
+    "item_image": "https://www.gametsg.net/img/1/7/3f4b6c870d873ad21cc657ac5f607acd.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1041",
+    "item_name": "力量項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1041",
+    "item_image": "https://www.gametsg.net/img/1/7/3f4b6c870d873ad21cc657ac5f607acd.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1042",
+    "item_name": "將軍項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1042",
+    "item_image": "https://www.gametsg.net/img/1/7/f5ada3315fecfb2fc6faab660ab16d88.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+80",
+      "最大MP +50",
+      "MP回復 (tic)+2",
+      "HP回復 (tic)+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1043",
+    "item_name": "智力項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1043",
+    "item_image": "https://www.gametsg.net/img/1/7/1bb32be7cb459b6b3e20f21f1a890729.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1044",
+    "item_name": "智力項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1044",
+    "item_image": "https://www.gametsg.net/img/1/7/1bb32be7cb459b6b3e20f21f1a890729.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1045",
+    "item_name": "智慧項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1045",
+    "item_image": "https://www.gametsg.net/img/1/7/8062501ece4dcf2731323d9919550d02.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "精神+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1046",
+    "item_name": "奴隸項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1046",
+    "item_image": "https://www.gametsg.net/img/1/7/673a4460ccda71441f0eccf1376e4fae.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +25"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1047",
+    "item_name": "魔族項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1047",
+    "item_image": "https://www.gametsg.net/img/1/7/26dfa599f0ab42cb8b0affcc55debce5.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+60",
+      "最大MP +50",
+      "HP回復(tic)+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1048",
+    "item_name": "魔族項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1048",
+    "item_image": "https://www.gametsg.net/img/1/7/26dfa599f0ab42cb8b0affcc55debce5.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+60",
+      "最大MP +50",
+      "HP回復(tic)+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1049",
+    "item_name": "約定項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1049",
+    "item_image": "https://www.gametsg.net/img/1/7/35ebd3db25b4ea162e0069261c8056b8.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+25",
+      "最大MP +25"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1050",
+    "item_name": "妖魔戰士護身符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1050",
+    "item_image": "https://www.gametsg.net/img/1/7/e242daed05ed319955efd2466dcd8b08.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1051",
+    "item_name": "妖魔戰士護身符(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1051",
+    "item_image": "https://www.gametsg.net/img/1/7/e242daed05ed319955efd2466dcd8b08.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1052",
+    "item_name": "骷髏項鍊",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1052",
+    "item_image": "https://www.gametsg.net/img/1/7/1e8cce5650500bfd19d1ebe35ac69785.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  },
+  {
+    "item_id": "1053",
+    "item_name": "骷髏項鍊(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1053",
+    "item_image": "https://www.gametsg.net/img/1/7/1e8cce5650500bfd19d1ebe35ac69785.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "26",
+    "category_name": "項鍊"
+  }
+]

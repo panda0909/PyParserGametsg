@@ -1,0 +1,40 @@
+{
+  "item_id": "1435",
+  "item_name": "300天的祝福(活動)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1435",
+  "item_image": "https://www.gametsg.net/img/1/10/40ccfa622f07be5044ad60f0d5e6599c.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "製作受祝福的武器/盔甲魔法卷軸的材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "300天的祝福(活動)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石",
+    "說明": "製作受祝福的武器/盔甲魔法卷軸的材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

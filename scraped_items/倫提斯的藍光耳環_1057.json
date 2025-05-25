@@ -1,0 +1,137 @@
+{
+  "item_id": "1057",
+  "item_name": "倫提斯的藍光耳環",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1057",
+  "item_image": "https://www.gametsg.net/img/1/7/b51862dae91e66507c2bb0e807415c1c.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "藥水恢復率+2%",
+    "藥水恢復量+2"
+  ],
+  "data_zhiye": "",
+  "category_id": "27",
+  "category_name": "耳環",
+  "basic_info": {
+    "title": "倫提斯的藍光耳環",
+    "類型": "飾品(耳環)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "藥水恢復率+2%",
+      "藥水恢復量+2"
+    ],
+    "材質": "原石",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "藥水恢復率+4%，物理防禦力 (AC)-1，藥水恢復量+4"
+    },
+    {
+      "level": "2",
+      "attributes": "藥水恢復率+6%，物理防禦力 (AC)-2，藥水恢復量+6"
+    },
+    {
+      "level": "3",
+      "attributes": "藥水恢復率+8%，物理防禦力 (AC)-3，藥水恢復量+8"
+    },
+    {
+      "level": "4",
+      "attributes": "藥水恢復率+10%，物理防禦力 (AC)-4，藥水恢復量+10"
+    },
+    {
+      "level": "5",
+      "attributes": "藥水恢復率+14%，物理防禦力 (AC)-5，藥水恢復量+12"
+    },
+    {
+      "level": "6",
+      "attributes": "藥水恢復率+17%，物理防禦力 (AC)-6，藥水恢復量+14，持有抗性+9%"
+    },
+    {
+      "level": "7",
+      "attributes": "藥水恢復率+20%，物理防禦力 (AC)-7，藥水恢復量+16，持有抗性+12%"
+    },
+    {
+      "level": "8",
+      "attributes": "藥水恢復率+24%，物理防禦力 (AC)-9，藥水恢復量+19，持有抗性+16%"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2598",
+      "material_id": "2598",
+      "material_name": "倫提斯的藍光耳環箱",
+      "material_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+      "material_grade": "grade00",
+      "material_count": "6"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1057",
+      "material_id": "1057",
+      "material_name": "+3 倫提斯的藍光耳環",
+      "material_image": "https://www.gametsg.net/img/1/7/b51862dae91e66507c2bb0e807415c1c.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1057",
+      "material_id": "1057",
+      "material_name": "+4 倫提斯的藍光耳環",
+      "material_image": "https://www.gametsg.net/img/1/7/b51862dae91e66507c2bb0e807415c1c.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1057",
+      "material_id": "1057",
+      "material_name": "+5 倫提斯的藍光耳環",
+      "material_image": "https://www.gametsg.net/img/1/7/b51862dae91e66507c2bb0e807415c1c.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1057",
+      "material_id": "1057",
+      "material_name": "+6 倫提斯的藍光耳環",
+      "material_image": "https://www.gametsg.net/img/1/7/b51862dae91e66507c2bb0e807415c1c.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1057",
+      "material_id": "1057",
+      "material_name": "+7 倫提斯的藍光耳環",
+      "material_image": "https://www.gametsg.net/img/1/7/b51862dae91e66507c2bb0e807415c1c.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1057",
+      "material_id": "1057",
+      "material_name": "+8 倫提斯的藍光耳環",
+      "material_image": "https://www.gametsg.net/img/1/7/b51862dae91e66507c2bb0e807415c1c.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    }
+  ],
+  "monster_drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "item_id": "2108",
+  "item_name": "伊因哈薩德的恩典 3 級",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2108",
+  "item_image": "https://www.gametsg.net/img/2/12/4bcefdaf5d94b52f80fe03472b92a2ce.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "殷海薩的祝福量增加 +150%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "40",
+  "category_name": "藥水",
+  "basic_info": {
+    "title": "伊因哈薩德的恩典 3 級",
+    "類型": "其他(藥水)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "玻璃",
+    "重量": "1",
+    "說明": "殷海薩的祝福量增加 +150%"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

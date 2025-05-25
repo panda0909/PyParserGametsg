@@ -1,0 +1,740 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "382",
+    "item_name": "艾莉絲(鎖鏈劍)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=382",
+    "item_image": "https://www.gametsg.net/img/1/3/bda72c74bbcc0f2f18ae13e7956d5e27.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "32 / 28",
+    "item_stats": [
+      "額外攻擊+24",
+      "武器命中+19",
+      "經驗值獲得量增加+30%",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +8%",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "383",
+    "item_name": "克洛諾斯之懼",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=383",
+    "item_image": "https://www.gametsg.net/img/1/3/c1a206e93cc8a695758c52a250b1764d.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "35 / 30",
+    "item_stats": [
+      "額外攻擊+28",
+      "武器命中+24",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "近距離爆擊+1%",
+      "昏迷命中 +10%",
+      "發動:混沌狂襲 3%",
+      "傷害增加+10%",
+      "發動:消除聖結界 2%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "384",
+    "item_name": "殲滅者鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=384",
+    "item_image": "https://www.gametsg.net/img/1/3/30fc1ac846a4e9416a0b6af05614af1f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "27 / 22",
+    "item_stats": [
+      "額外攻擊+8",
+      "武器命中+6",
+      "雙手武器",
+      "防止武器損壞",
+      "昏迷命中 +5%",
+      "力量+1",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "385",
+    "item_name": "殲滅者鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=385",
+    "item_image": "https://www.gametsg.net/img/1/3/30fc1ac846a4e9416a0b6af05614af1f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "27 / 22",
+    "item_stats": [
+      "額外攻擊+8",
+      "武器命中+6",
+      "雙手武器",
+      "防止武器損壞",
+      "昏迷命中 +5%",
+      "力量+1",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "386",
+    "item_name": "奥拉奇里亞的鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=386",
+    "item_image": "https://www.gametsg.net/img/1/3/d7f6bc88a0965372e45a99025cd7aed9.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "31 / 26",
+    "item_stats": [
+      "額外攻擊+10",
+      "武器命中+11",
+      "雙手武器",
+      "防止武器損壞",
+      "昏迷命中 +7%",
+      "力量+2",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "發動:奧拉奇里亞的憤怒 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "387",
+    "item_name": "歐西里斯鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=387",
+    "item_image": "https://www.gametsg.net/img/1/3/c4591dbe706b780f7b5e81c6613571ff.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "29 / 25",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+9",
+      "雙手武器",
+      "防止武器損壞",
+      "死亡+3",
+      "昏迷命中 +6%",
+      "力量+1",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "388",
+    "item_name": "寒冰鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=388",
+    "item_image": "https://www.gametsg.net/img/1/3/b408a04dc36d567f0e6e71bd63658003.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "23 / 20",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+4",
+      "雙手武器",
+      "啟動:寒冰地裂術 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "389",
+    "item_name": "寒冰鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=389",
+    "item_image": "https://www.gametsg.net/img/1/3/b408a04dc36d567f0e6e71bd63658003.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "23 / 20",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+4",
+      "雙手武器",
+      "啟動:寒冰地裂術 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "390",
+    "item_name": "嗜血者鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=390",
+    "item_image": "https://www.gametsg.net/img/1/3/28f509b1348395ed443b01b4ebedb21e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "21 / 20",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+5",
+      "雙手武器",
+      "HP吸收",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "391",
+    "item_name": "嗜血者鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=391",
+    "item_image": "https://www.gametsg.net/img/1/3/28f509b1348395ed443b01b4ebedb21e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "21 / 20",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+5",
+      "雙手武器",
+      "HP吸收",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "392",
+    "item_name": "惡魔王鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=392",
+    "item_image": "https://www.gametsg.net/img/1/3/d44f3852963881e7677a059700e6d9e8.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "22 / 20",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+3",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "393",
+    "item_name": "惡魔王鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=393",
+    "item_image": "https://www.gametsg.net/img/1/3/d44f3852963881e7677a059700e6d9e8.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "22 / 20",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+3",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "394",
+    "item_name": "魔族鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=394",
+    "item_image": "https://www.gametsg.net/img/1/3/4b63ef7af6b2d61080858cc5d8bfe051.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "25 / 28",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+8",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "395",
+    "item_name": "魔族鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=395",
+    "item_image": "https://www.gametsg.net/img/1/3/4b63ef7af6b2d61080858cc5d8bfe051.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "25 / 28",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+8",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "396",
+    "item_name": "消滅者鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=396",
+    "item_image": "https://www.gametsg.net/img/1/3/3ef1c22699d2f035144f62c61a6dcfb5.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "17 / 13",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+5",
+      "雙手武器"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "397",
+    "item_name": "消滅者鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=397",
+    "item_image": "https://www.gametsg.net/img/1/3/3ef1c22699d2f035144f62c61a6dcfb5.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "17 / 13",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+5",
+      "雙手武器"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "398",
+    "item_name": "底比斯歐西里斯鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=398",
+    "item_image": "https://www.gametsg.net/img/1/3/195f581b31f9e04d6bff9f304c8782d1.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "19 / 18",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+6",
+      "雙手武器",
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "399",
+    "item_name": "底比斯歐西里斯鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=399",
+    "item_image": "https://www.gametsg.net/img/1/3/195f581b31f9e04d6bff9f304c8782d1.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "19 / 18",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+6",
+      "雙手武器",
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "400",
+    "item_name": "破滅者鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=400",
+    "item_image": "https://www.gametsg.net/img/1/3/c0819b2acd06c8fda161b946e3fc0c4b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "20/17",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+5",
+      "雙手武器",
+      "力量+1"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "401",
+    "item_name": "破滅者鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=401",
+    "item_image": "https://www.gametsg.net/img/1/3/c0819b2acd06c8fda161b946e3fc0c4b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "20/17",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+5",
+      "雙手武器",
+      "力量+1"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "402",
+    "item_name": "共鳴鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=402",
+    "item_image": "https://www.gametsg.net/img/1/3/a8c8123f569866d72a2c7e0f843cacc9.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "20 / 20",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+6",
+      "雙手武器",
+      "力量+1",
+      "精神+2",
+      "發動:共鳴衝擊 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "403",
+    "item_name": "共鳴鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=403",
+    "item_image": "https://www.gametsg.net/img/1/3/a8c8123f569866d72a2c7e0f843cacc9.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "20 / 20",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+6",
+      "雙手武器",
+      "力量+1",
+      "精神+2",
+      "發動:共鳴衝擊 1%"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "404",
+    "item_name": "龍鬥士鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=404",
+    "item_image": "https://www.gametsg.net/img/1/3/1b694cfdc53000552944b752734921b2.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "15 / 12",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "405",
+    "item_name": "龍鬥士鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=405",
+    "item_image": "https://www.gametsg.net/img/1/3/1b694cfdc53000552944b752734921b2.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "15 / 12",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "406",
+    "item_name": "鋼鐵鎖鏈劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=406",
+    "item_image": "https://www.gametsg.net/img/1/3/a3be82023c304e2b79771d0e895f763e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "15 / 10",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+2",
+      "雙手武器"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  },
+  {
+    "item_id": "407",
+    "item_name": "鋼鐵鎖鏈劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=407",
+    "item_image": "https://www.gametsg.net/img/1/3/a3be82023c304e2b79771d0e895f763e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "15 / 10",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+2",
+      "雙手武器"
+    ],
+    "data_zhiye": "5",
+    "category_id": "14",
+    "category_name": "鎖鏈劍"
+  }
+]

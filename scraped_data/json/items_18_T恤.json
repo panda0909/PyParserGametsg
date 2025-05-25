@@ -1,0 +1,743 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "525",
+    "item_name": "光之敏捷皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=525",
+    "item_image": "https://www.gametsg.net/img/1/4/8f6d5594e32350e26946ff64804a5cf2.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離傷害+1",
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "526",
+    "item_name": "光之成長皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=526",
+    "item_image": "https://www.gametsg.net/img/1/4/06242ff610b682d2eeebee966e7b9a74.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "魔法防禦 (MR)+1",
+      "PVE傷害減免+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "527",
+    "item_name": "光之力量皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=527",
+    "item_image": "https://www.gametsg.net/img/1/4/0bdf8062f2d69ef7fab2c753b5afc0b6.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "近距離傷害+1",
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "528",
+    "item_name": "光之智力皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=528",
+    "item_image": "https://www.gametsg.net/img/1/4/93da5a18e4606356202f309140c5698f.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "智力+1",
+      "魔攻+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "529",
+    "item_name": "光之黑貓皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=529",
+    "item_image": "https://www.gametsg.net/img/1/4/4335b958d88494d1a3c4f2d7225c4f78.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "魔法防禦 (MR)+2",
+      "PVE傷害減免+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "530",
+    "item_name": "英雄的光之敏捷皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=530",
+    "item_image": "https://www.gametsg.net/img/1/4/817fce74014c99422fb650eb92ca92ca.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "遠距離傷害+2",
+      "敏捷+2",
+      "PVP遠距離附加傷害+1",
+      "PVP傷害減免+1",
+      "遠距離命中+2",
+      "昏迷抗性+1%",
+      "魔法防禦 (MR)+3",
+      "昏迷命中 +1%"
+    ],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "531",
+    "item_name": "英雄的光之成長皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=531",
+    "item_image": "https://www.gametsg.net/img/1/4/8e6d5abb2287515dabc110442f7e0183.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "魔法防禦 (MR)+6",
+      "經驗值獲得量增加+30%",
+      "PVE傷害減免+2",
+      "金幣掉落量+15%",
+      "PVE傷害減少+5%",
+      "不死族額外傷害+15",
+      "發動:惡魔之吻 2%"
+    ],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "532",
+    "item_name": "英雄的光之力量皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=532",
+    "item_image": "https://www.gametsg.net/img/1/4/bbc0dd0a3eaeae3a26ab41fb65b2a312.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "近距離傷害+2",
+      "力量+2",
+      "PVP近距離附加傷害+1",
+      "PVP傷害減免+1",
+      "近距離命中+2",
+      "昏迷抗性+1%",
+      "魔法防禦 (MR)+3",
+      "昏迷命中 +1%"
+    ],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "533",
+    "item_name": "英雄的光之智力皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=533",
+    "item_image": "https://www.gametsg.net/img/1/4/6f9b0358825b9e95bb1dc7343c898f74.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "智力+2",
+      "魔攻+2",
+      "PVP近距離附加傷害+1",
+      "PVP傷害減免+1",
+      "魔法命中+2",
+      "昏迷抗性+1%",
+      "魔法防禦 (MR)+3",
+      "恐怖命中 +1%",
+      "魔法穿透 1%"
+    ],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "534",
+    "item_name": "英雄的光之黑貓皮夾克",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=534",
+    "item_image": "https://www.gametsg.net/img/1/4/512c7dc4447751a949a07c5ce62e9483.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "魔法防禦 (MR)+7",
+      "經驗值獲得量增加+35%",
+      "PVE傷害減免+3",
+      "金幣掉落量+20%",
+      "PVE傷害減少+5%",
+      "不死族額外傷害+16",
+      "發動:惡魔之吻 2%"
+    ],
+    "data_zhiye": "",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "535",
+    "item_name": "敏捷T恤",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=535",
+    "item_image": "https://www.gametsg.net/img/1/4/5c4539a4f5f70140369eb6c9cf08a9c4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離傷害+1",
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "536",
+    "item_name": "敏捷T恤(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=536",
+    "item_image": "https://www.gametsg.net/img/1/4/5c4539a4f5f70140369eb6c9cf08a9c4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離傷害+1",
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "537",
+    "item_name": "力量T恤",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=537",
+    "item_image": "https://www.gametsg.net/img/1/4/c2a8ae1ea650bf14f200977d2421b073.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "近距離傷害+1",
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "538",
+    "item_name": "力量T恤(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=538",
+    "item_image": "https://www.gametsg.net/img/1/4/c2a8ae1ea650bf14f200977d2421b073.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "近距離傷害+1",
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "539",
+    "item_name": "智力T恤",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=539",
+    "item_image": "https://www.gametsg.net/img/1/4/7f8fb04df8cd2c95ce1d0ae44fb6b3b4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "智力+1",
+      "魔攻+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "540",
+    "item_name": "智力識T恤(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=540",
+    "item_image": "https://www.gametsg.net/img/1/4/7f8fb04df8cd2c95ce1d0ae44fb6b3b4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "智力+1",
+      "魔攻+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "541",
+    "item_name": "老舊的敏捷T恤",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=541",
+    "item_image": "https://www.gametsg.net/img/1/4/e42a4a4d70b57f6aced2fa05f56edbea.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "542",
+    "item_name": "老舊的敏捷T恤(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=542",
+    "item_image": "https://www.gametsg.net/img/1/4/e42a4a4d70b57f6aced2fa05f56edbea.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "543",
+    "item_name": "老舊的力量T恤",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=543",
+    "item_image": "https://www.gametsg.net/img/1/4/6ed8f955672fed56ceb271427839d5f1.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "544",
+    "item_name": "老舊的力量T恤(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=544",
+    "item_image": "https://www.gametsg.net/img/1/4/6ed8f955672fed56ceb271427839d5f1.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "545",
+    "item_name": "老舊的智力T恤",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=545",
+    "item_image": "https://www.gametsg.net/img/1/4/f7fe66d1358ab93eb20ef09e548c9cab.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "3|34|81",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "546",
+    "item_name": "老舊的智力T恤(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=546",
+    "item_image": "https://www.gametsg.net/img/1/4/f7fe66d1358ab93eb20ef09e548c9cab.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "3|34|81",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "547",
+    "item_name": "精靈T恤",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=547",
+    "item_image": "https://www.gametsg.net/img/1/4/b32528abdb8ec1b6c10d0437f753a30d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [],
+    "data_zhiye": "2",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "548",
+    "item_name": "精靈T恤(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=548",
+    "item_image": "https://www.gametsg.net/img/1/4/b32528abdb8ec1b6c10d0437f753a30d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [],
+    "data_zhiye": "2",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "549",
+    "item_name": "T恤",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=549",
+    "item_image": "https://www.gametsg.net/img/1/4/8e06e206d445fd46799176f8e2376af0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  },
+  {
+    "item_id": "550",
+    "item_name": "T恤(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=550",
+    "item_image": "https://www.gametsg.net/img/1/4/8e06e206d445fd46799176f8e2376af0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "18",
+    "category_name": "T恤"
+  }
+]

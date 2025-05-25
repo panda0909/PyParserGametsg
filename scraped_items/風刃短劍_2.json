@@ -1,0 +1,249 @@
+{
+  "item_id": "2",
+  "item_name": "風刃短劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2",
+  "item_image": "https://www.gametsg.net/img/1/1/125b5e6b67063cefeb84446382f94f02.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    }
+  ],
+  "item_level": "25 / 16",
+  "item_stats": [
+    "額外攻擊+28",
+    "武器命中+15",
+    "最大HP值+100",
+    "防止武器損壞",
+    "HP吸收",
+    "力量+5",
+    "昏迷命中 +10%",
+    "發動:混沌狂襲 3%",
+    "傷害增加+10%",
+    "發動:消除聖結界 2%"
+  ],
+  "data_zhiye": "2|8",
+  "category_id": "2",
+  "category_name": "匕首",
+  "basic_info": {
+    "title": "風刃短劍",
+    "類型": "武器(匕首)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "武器攻擊力": "25 / 16",
+    "屬性": [
+      "額外攻擊+28",
+      "武器命中+15",
+      "最大HP值+100",
+      "防止武器損壞",
+      "HP吸收",
+      "力量+5",
+      "昏迷命中 +10%",
+      "發動:混沌狂襲 3%",
+      "傷害增加+10%",
+      "發動:消除聖結界 2%"
+    ],
+    "祝福屬性": "額外攻擊+3",
+    "階段": "1 級",
+    "材質": "黑色米索莉",
+    "重量": "100"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可儲存",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+4，武器命中+1，發動:混沌狂襲1%"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+8，武器命中+2，發動:混沌狂襲2%"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+12，武器命中+3，發動:混沌狂襲3%，傷害增加+3%"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+16，武器命中+4，發動:混沌狂襲4%，傷害增加+3%"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+20，武器命中+5，發動:混沌狂襲5%，傷害增加+3%"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+24，武器命中+6，發動:混沌狂襲6%，傷害增加+6%"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+28，武器命中+7，發動:混沌狂襲7%，傷害增加+6%"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+32，武器命中+8，發動:混沌狂襲8%，傷害增加+6%"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+36，武器命中+9，發動:混沌狂襲9%，傷害增加+9%"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+40，武器命中+10，發動:混沌狂襲10%，傷害增加+9%"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+44，武器命中+11，發動:混沌狂襲11%，傷害增加+9%"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+48，武器命中+12，發動:混沌狂襲12%，傷害增加+9%"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+52，武器命中+13，發動:混沌狂襲13%，傷害增加+9%"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+56，武器命中+14，發動:混沌狂襲14%，傷害增加+9%"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1444",
+      "material_id": "1444",
+      "material_name": "黑暗妖精靈魂結晶體",
+      "material_image": "https://www.gametsg.net/img/1/10/8d01351327c0e0d7434b6da7e913a1dc.jpg",
+      "material_grade": "grade01",
+      "material_count": "4000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+      "material_id": "2749",
+      "material_name": "龍之鑽石",
+      "material_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+      "material_grade": "grade00",
+      "material_count": "2000",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+          "alt_id": "2500",
+          "alt_name": "金幣",
+          "alt_grade": "grade01",
+          "alt_count": "500000000"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "",
+      "material_grade": "grade01",
+      "material_count": "500000000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1488",
+      "material_id": "1488",
+      "material_name": "黑色米索莉金屬板",
+      "material_image": "https://www.gametsg.net/img/1/10/1b124b62060f79abfcdfeeb7138116c0.jpg",
+      "material_grade": "grade01",
+      "material_count": "200"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1330",
+      "material_id": "1330",
+      "material_name": "神話製作秘笈",
+      "material_image": "https://www.gametsg.net/img/1/9/fc0b5a1a8d522ec15d7c168bf05ab6c5.jpg",
+      "material_grade": "grade032",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1331",
+          "alt_id": "1331",
+          "alt_name": "神話製作秘笈(刻印)",
+          "alt_grade": "grade032",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1336",
+          "alt_id": "1336",
+          "alt_name": "史書",
+          "alt_grade": "grade032",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1331",
+      "material_id": "1331",
+      "material_name": "",
+      "material_grade": "grade032",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1336",
+      "material_id": "1336",
+      "material_name": "",
+      "material_grade": "grade032",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1515",
+      "material_id": "1515",
+      "material_name": "黑暗鑄塊",
+      "material_image": "https://www.gametsg.net/img/2/11/675a977d5f8aad30244479a8834fa9b4.jpg",
+      "material_grade": "grade01",
+      "material_count": "1000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "虛空的吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1028",
+      "monster_id": "1028",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-虛空的寺院"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2090",
+    "item_name": "米索利子彈(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2090",
+    "item_image": "https://www.gametsg.net/img/2/12/05789a63fb210657fcf6cee8c412f7b2.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "34",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2091",
+    "item_name": "米索利箭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2091",
+    "item_image": "https://www.gametsg.net/img/2/12/d23a6071d9d63a1622a1f0e5282f9014.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|8|7",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2092",
+    "item_name": "高級奧里哈魯根子彈(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2092",
+    "item_image": "https://www.gametsg.net/img/2/12/338994a5c27db06590a8ea15b3a65b8a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "34",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2093",
+    "item_name": "高級奧里哈魯根箭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2093",
+    "item_image": "https://www.gametsg.net/img/2/12/433026ccc5ff42fc9bf13e46fa90af1f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|7|8",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2094",
+    "item_name": "刺(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2094",
+    "item_image": "https://www.gametsg.net/img/2/12/8041f39f8fc8e8ba1fda793a19f0b1a9.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "4|5",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2095",
+    "item_name": "銀刺(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2095",
+    "item_image": "https://www.gametsg.net/img/2/12/2735d1e1c600dbb98112664b90f237d9.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "4|5",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2096",
+    "item_name": "奧里哈魯根子彈(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2096",
+    "item_image": "https://www.gametsg.net/img/2/12/986e01126facc353962782acd618a17d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "34",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2097",
+    "item_name": "奧里哈魯根箭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2097",
+    "item_image": "https://www.gametsg.net/img/2/12/f031745ad7a81e0098f7297dbf230360.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|8|7",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2098",
+    "item_name": "銀彈(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2098",
+    "item_image": "https://www.gametsg.net/img/2/12/921e99b41e9038ecedada82667db0fc0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "34",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2099",
+    "item_name": "銀箭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2099",
+    "item_image": "https://www.gametsg.net/img/2/12/d07afaf904937c8d2f3507df561ee0f5.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|8|7",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  },
+  {
+    "item_id": "2100",
+    "item_name": "箭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2100",
+    "item_image": "https://www.gametsg.net/img/2/12/4f8152690779bd623c17f12e5c2d0197.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|8|7",
+    "category_id": "39",
+    "category_name": "箭/刺/子彈"
+  }
+]

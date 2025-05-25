@@ -1,0 +1,72 @@
+{
+  "item_id": "2685",
+  "item_name": "死亡之箱(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2685",
+  "item_image": "https://www.gametsg.net/img/2/14/e6c5ec339525ffa61798d9b7512247e4.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時，根據設定的機率獲得以下道具之一。",
+    "靈魂石碎片(刻印)",
+    "龍之珍珠",
+    "強化戰鬥卷軸 (刻印)",
+    "拋棄之地時間補充寶石 (刻印)",
+    "英雄製作秘笈"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "死亡之箱(刻印)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬塊",
+    "重量": "1",
+    "說明": [
+      "使用時，根據設定的機率獲得以下道具之一。",
+      "靈魂石碎片(刻印)",
+      "龍之珍珠",
+      "強化戰鬥卷軸 (刻印)",
+      "拋棄之地時間補充寶石 (刻印)",
+      "英雄製作秘笈"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "死亡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=904",
+      "monster_id": "904",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    }
+  ]
+}

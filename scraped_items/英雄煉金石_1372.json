@@ -1,0 +1,41 @@
+{
+  "item_id": "1372",
+  "item_name": "英雄煉金石",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1372",
+  "item_image": "https://www.gametsg.net/img/1/9/2cc012647885703f96532553a87db735.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "可透過秩序煉金術獲得的製作材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "英雄煉金石",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "1",
+    "說明": "可透過秩序煉金術獲得的製作材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,1234 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "80",
+    "item_name": "吉爾塔斯之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=80",
+    "item_image": "https://www.gametsg.net/img/1/1/afba04b6fa772bb1c211acce63156b82.jpg",
+    "item_grade": "grade052",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "44 / 52",
+    "item_stats": [
+      "額外攻擊+42",
+      "武器命中 +26",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +15%",
+      "無視近距離傷害減免+5",
+      "無視近距離迴避力+5",
+      "發動:狂襲吉爾塔斯 3%",
+      "發動:破壞吉爾塔斯 2%",
+      "發動:混沌吉爾塔斯 10%",
+      "傷害增加 +13%"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "81",
+    "item_name": "封印屠龍者",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=81",
+    "item_image": "https://www.gametsg.net/img/1/1/a5a9f6ad35db0a0d9313d57b0062d87f.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "item_level": "33 / 40",
+    "item_stats": [
+      "額外攻擊+12",
+      "武器命中+9",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "82",
+    "item_name": "艾莉絲(雙手劍)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=82",
+    "item_image": "https://www.gametsg.net/img/1/1/8732715006b5c518f350ef9269f6687e.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "28 / 45",
+    "item_stats": [
+      "額外攻擊+35",
+      "武器命中+16",
+      "經驗值獲得量增加+30%",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +8%",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "1|8|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "83",
+    "item_name": "真·冥皇執行劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=83",
+    "item_image": "https://www.gametsg.net/img/1/1/cbfbf9f861c2a4dba3954402c3c3d256.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "34 / 50",
+    "item_stats": [
+      "額外攻擊+41",
+      "武器命中 +20",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +10%",
+      "發動:混沌狂襲 3%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "1|8|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "84",
+    "item_name": "騎士范德之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=84",
+    "item_image": "https://www.gametsg.net/img/1/1/be7326352fcfe312e11d4804f3f7fd35.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "22 / 34",
+    "item_stats": [
+      "額外攻擊+14",
+      "武器命中+5",
+      "力量+1",
+      "雙手武器",
+      "昏迷命中 +5%",
+      "防止武器損壞",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "85",
+    "item_name": "騎士范德之劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=85",
+    "item_image": "https://www.gametsg.net/img/1/1/be7326352fcfe312e11d4804f3f7fd35.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "22 / 34",
+    "item_stats": [
+      "額外攻擊+14",
+      "武器命中+5",
+      "力量+1",
+      "雙手武器",
+      "昏迷命中 +5%",
+      "防止武器損壞",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "86",
+    "item_name": "艾保羅泰因的雙手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=86",
+    "item_image": "https://www.gametsg.net/img/1/1/33cbc280f4166fc2184117c43df2d7dd.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "23 / 40",
+    "item_stats": [
+      "額外攻擊+16",
+      "武器命中+7",
+      "力量+1",
+      "雙手武器",
+      "昏迷命中 +7%",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "發動:艾保羅泰因的徽章 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "87",
+    "item_name": "歐西里斯雙手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=87",
+    "item_image": "https://www.gametsg.net/img/1/1/99bdaa2ef00ccf587eb47bb750b8819a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "21 / 40",
+    "item_stats": [
+      "額外攻擊+13",
+      "武器命中+4",
+      "力量+1",
+      "雙手武器",
+      "防止武器損壞",
+      "死亡+3",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "88",
+    "item_name": "惡魔王的雙手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=88",
+    "item_image": "https://www.gametsg.net/img/1/1/2480ec7da35608113481ee717e94038b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "23 / 24",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "89",
+    "item_name": "惡魔王的雙手劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=89",
+    "item_image": "https://www.gametsg.net/img/1/1/2480ec7da35608113481ee717e94038b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "23 / 24",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "90",
+    "item_name": "沉默巨劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=90",
+    "item_image": "https://www.gametsg.net/img/1/1/b46f723f559f2ad0138c1d594c044b74.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "25 / 23",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+5",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:魔法封印0.3%"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "91",
+    "item_name": "沉默巨劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=91",
+    "item_image": "https://www.gametsg.net/img/1/1/b46f723f559f2ad0138c1d594c044b74.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "25 / 23",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+5",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:魔法封印0.3%"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "92",
+    "item_name": "武官雙手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=92",
+    "item_image": "https://www.gametsg.net/img/1/1/d429c4d7228392bbf932a67057f9661f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "19 / 23",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+1",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "93",
+    "item_name": "武官雙手劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=93",
+    "item_image": "https://www.gametsg.net/img/1/1/d429c4d7228392bbf932a67057f9661f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "19 / 23",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+1",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "94",
+    "item_name": "紅騎士巨劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=94",
+    "item_image": "https://www.gametsg.net/img/1/1/913a1fb4f9b7b137b2c9516475995d12.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "22 / 23",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "體質 +1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "95",
+    "item_name": "紅騎士巨劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=95",
+    "item_image": "https://www.gametsg.net/img/1/1/913a1fb4f9b7b137b2c9516475995d12.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "22 / 23",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "體質 +1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "96",
+    "item_name": "被遺忘的旅人雙手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=96",
+    "item_image": "https://www.gametsg.net/img/1/1/f9d7ead1e39bff549d5426d3cb76b134.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "97",
+    "item_name": "底比斯歐西里斯雙手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=97",
+    "item_image": "https://www.gametsg.net/img/1/1/c5373cfa5acc20dc4e4a425897f16a69.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "21 / 26",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+5",
+      "雙手武器",
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "98",
+    "item_name": "底比斯歐西里斯雙手劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=98",
+    "item_image": "https://www.gametsg.net/img/1/1/c5373cfa5acc20dc4e4a425897f16a69.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "21 / 26",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+5",
+      "雙手武器",
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "99",
+    "item_name": "毀滅巨劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=99",
+    "item_image": "https://www.gametsg.net/img/1/1/58c5cdf9d656d06287efbdf36358aac4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "19 / 18",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器",
+      "HP吸收"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "100",
+    "item_name": "毀滅巨劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=100",
+    "item_image": "https://www.gametsg.net/img/1/1/58c5cdf9d656d06287efbdf36358aac4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "19 / 18",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器",
+      "HP吸收"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "101",
+    "item_name": "巨劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=101",
+    "item_image": "https://www.gametsg.net/img/1/1/938f1ab7024bdcf0a63225ac18d2ae79.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "20/17",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "102",
+    "item_name": "巨劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=102",
+    "item_image": "https://www.gametsg.net/img/1/1/938f1ab7024bdcf0a63225ac18d2ae79.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "20/17",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "103",
+    "item_name": "蜥蜴王勇士之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=103",
+    "item_image": "https://www.gametsg.net/img/1/1/db579e97689b7f43836279be568a91e7.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "17 / 21",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "104",
+    "item_name": "銀色的大劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=104",
+    "item_image": "https://www.gametsg.net/img/1/1/e8a92bcaa0ab61cb4ca31ba73d93852d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "17 / 21",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "105",
+    "item_name": "銀色的大劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=105",
+    "item_image": "https://www.gametsg.net/img/1/1/e8a92bcaa0ab61cb4ca31ba73d93852d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "17 / 21",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "106",
+    "item_name": "行刑者巨劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=106",
+    "item_image": "https://www.gametsg.net/img/1/1/d4056907b3ff34dfc449c41ac37ffbdd.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "20/10",
+    "item_stats": [
+      "武器命中+1",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "107",
+    "item_name": "雙手劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=107",
+    "item_image": "https://www.gametsg.net/img/1/1/0562294fdba89ae7ca88c6781dedfd8f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "17 / 19",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "108",
+    "item_name": "雙手劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=108",
+    "item_image": "https://www.gametsg.net/img/1/1/0562294fdba89ae7ca88c6781dedfd8f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "17 / 19",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  },
+  {
+    "item_id": "109",
+    "item_name": "血色巨劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=109",
+    "item_image": "https://www.gametsg.net/img/1/1/7360e2c69be49e711d4415b3f5f40584.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "13 / 15",
+    "item_stats": [
+      "額外攻擊+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|52|81",
+    "category_id": "4",
+    "category_name": "雙手劍"
+  }
+]

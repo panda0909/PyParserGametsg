@@ -1,0 +1,41 @@
+{
+  "item_id": "1936",
+  "item_name": "魔法書(操控靈氣)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1936",
+  "item_image": "https://www.gametsg.net/img/2/11/3296ea79564e04e5d72da86110b01d6c.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "王族",
+      "level": "level08"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "魔法書"
+  ],
+  "data_zhiye": "8",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "魔法書(操控靈氣)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "魔法書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

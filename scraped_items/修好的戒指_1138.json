@@ -1,0 +1,77 @@
+{
+  "item_id": "1138",
+  "item_name": "修好的戒指",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1138",
+  "item_image": "https://www.gametsg.net/img/1/8/9e03c4e502e091172ddddf9e50f00d2d.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "0",
+  "item_stats": [
+    "最大MP +5"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "28",
+  "category_name": "戒指",
+  "basic_info": {
+    "title": "修好的戒指",
+    "類型": "飾品(戒指)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "0",
+    "屬性": "最大MP +5",
+    "祝福屬性": "最大HP+5",
+    "材質": "金屬塊",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5,負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10,負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15,負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25,負重獎勵+25"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30,負重獎勵+30"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35,負重獎勵+35"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40,負重獎勵+40"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,47 @@
+{
+  "item_id": "2771",
+  "item_name": "涅默西斯的符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2771",
+  "item_image": "https://www.gametsg.net/uploads/20250114/a6e692291d600a4907394fe933d7be7a.png",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "13/11",
+  "item_stats": [
+    "額外攻擊+3",
+    "武器命中+3",
+    "防止武器損壞",
+    "生命+4"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "涅默西斯的符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "13/11",
+    "屬性": [
+      "額外攻擊+3",
+      "武器命中+3",
+      "防止武器損壞",
+      "生命+4"
+    ],
+    "材質": "奧里哈魯根",
+    "重量": "60"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

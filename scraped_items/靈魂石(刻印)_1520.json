@@ -1,0 +1,40 @@
+{
+  "item_id": "1520",
+  "item_name": "靈魂石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1520",
+  "item_image": "https://www.gametsg.net/img/2/11/8045d7fe926bc6824075da9f268052de.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "死神",
+      "level": "level12"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "12",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "靈魂石(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "材質": "礦石",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

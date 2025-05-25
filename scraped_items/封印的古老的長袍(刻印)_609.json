@@ -1,0 +1,49 @@
+{
+  "item_id": "609",
+  "item_name": "封印的古老的長袍(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=609",
+  "item_image": "https://www.gametsg.net/img/1/4/6ef379b16281a5043a71a70e0177589b.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [],
+  "data_zhiye": "3|81",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "封印的古老的長袍(刻印)",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "布",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

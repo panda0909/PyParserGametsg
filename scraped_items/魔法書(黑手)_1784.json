@@ -1,0 +1,98 @@
+{
+  "item_id": "1784",
+  "item_name": "魔法書(黑手)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1784",
+  "item_image": "https://www.gametsg.net/img/2/11/bfd151509a36454ec455750020ef1704.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "魔法書"
+  ],
+  "data_zhiye": "3",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "魔法書(黑手)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "魔法書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "地龍的阿魯巴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=470",
+      "monster_id": "470",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-龍之谷地監-5樓",
+        "亞丁大陸地監-龍之谷地監-6樓",
+        "亞丁大陸地監-龍之谷地監-7樓"
+      ]
+    },
+    {
+      "monster_name": "阿勒尼亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=761",
+      "monster_id": "761",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "50",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-05.沉靜的森林"
+      ]
+    },
+    {
+      "monster_name": "泰坦高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=919",
+      "monster_id": "919",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    }
+  ]
+}

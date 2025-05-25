@@ -1,0 +1,57 @@
+{
+  "item_id": "2521",
+  "item_name": "工匠武器魔法卷軸(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2521",
+  "item_image": "https://www.gametsg.net/img/2/13/ba107ee03414889a1c845b8a171c030d.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "+9 可用於武器的魔法書",
+    "以一定機率增加附魔值",
+    "如果失敗,武器仍然完好無損.",
+    "無法使用骨製武器和黑秘銀武器.",
+    "每個物品等級可用的最大附魔值",
+    "普通~英雄 +9",
+    "傳說 +9 ~ +10",
+    "神話 +9 ~ +11"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "43",
+  "category_name": "強化卷軸",
+  "basic_info": {
+    "title": "工匠武器魔法卷軸(刻印)",
+    "類型": "其他(強化卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.63",
+    "說明": [
+      "+9 可用於武器的魔法書",
+      "以一定機率增加附魔值",
+      "如果失敗,武器仍然完好無損.",
+      "無法使用骨製武器和黑秘銀武器.",
+      "每個物品等級可用的最大附魔值",
+      "普通~英雄 +9",
+      "傳說 +9 ~ +10",
+      "神話 +9 ~ +11"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

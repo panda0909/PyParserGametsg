@@ -1,0 +1,1963 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "844",
+    "item_name": "火焰之影長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=844",
+    "item_image": "https://www.gametsg.net/img/1/6/a55857b6c49c47b4ac7314ef8a1c9f59.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-19",
+    "item_stats": [
+      "無視傷害減少4%",
+      "傷害減免+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "845",
+    "item_name": "艾歐丁長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=845",
+    "item_image": "https://www.gametsg.net/img/1/6/fadcde24841bbff4552414588017ad50.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [
+      "無視傷害減免+10",
+      "移動速度+10%",
+      "力量+5"
+    ],
+    "data_zhiye": "1|4|8|5|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "846",
+    "item_name": "守護者長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=846",
+    "item_image": "https://www.gametsg.net/img/1/6/467244a682aade327f4a6a82e716d34e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "力量+2"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "847",
+    "item_name": "納格巴斯長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=847",
+    "item_image": "https://www.gametsg.net/img/1/6/6c5b65b9c37bf0cf1cd06caf476ded4b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "PVP傷害減免+10",
+      "暗黑抗性+50%",
+      "發動:黑暗的詛咒 1%"
+    ],
+    "data_zhiye": "2|1|4|8|34|5|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "848",
+    "item_name": "納西里斯的長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=848",
+    "item_image": "https://www.gametsg.net/img/1/6/f68ae747f35bab81abc9d85249ba117c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "力量+1",
+      "傷害減免+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "849",
+    "item_name": "戴歐斯的長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=849",
+    "item_image": "https://www.gametsg.net/img/1/6/5eddca4450120dec4d485e01cf78169f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大HP+100",
+      "無視傷害減少2%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "850",
+    "item_name": "戴歐斯的長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=850",
+    "item_image": "https://www.gametsg.net/img/1/6/5eddca4450120dec4d485e01cf78169f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大HP+100",
+      "無視傷害減少2%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "851",
+    "item_name": "吸血鬼長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=851",
+    "item_image": "https://www.gametsg.net/img/1/6/5f6f725c160d1330f23073685dee93f4.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "智力+2"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "852",
+    "item_name": "艾莉絲長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=852",
+    "item_image": "https://www.gametsg.net/img/1/6/671c7a6eb1c52094a2608024e3c43219.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "敏捷+2",
+      "傷害減免+1"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "853",
+    "item_name": "歐吉王的皮長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=853",
+    "item_image": "https://www.gametsg.net/img/1/6/08cc2ec862aa0ebca87f38b16aa4f612.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大HP+100",
+      "力量+3",
+      "傷害減免+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "854",
+    "item_name": "月靈的皮長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=854",
+    "item_image": "https://www.gametsg.net/img/1/6/2dd22a5d71d518382664fa8b5c1a2673.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "MP回復(tic)+5",
+      "PVP傷害減免+10"
+    ],
+    "data_zhiye": "3",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "855",
+    "item_name": "真埃斯卡洛斯長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=855",
+    "item_image": "https://www.gametsg.net/img/1/6/6a87e0ccbdcb6ee845b434b93b15e196.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "856",
+    "item_name": "真埃斯卡洛斯長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=856",
+    "item_image": "https://www.gametsg.net/img/1/6/6a87e0ccbdcb6ee845b434b93b15e196.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "857",
+    "item_name": "真·冥皇長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=857",
+    "item_image": "https://www.gametsg.net/img/1/6/90b64233b1be913892416ad9a4816689.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "858",
+    "item_name": "古龍皮長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=858",
+    "item_image": "https://www.gametsg.net/img/1/6/1a71a586150fec5be4966b991813168d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "敏捷+1",
+      "遠距離命中+1"
+    ],
+    "data_zhiye": "34|2",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "859",
+    "item_name": "格勒西亞長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=859",
+    "item_image": "https://www.gametsg.net",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "34|2",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "860",
+    "item_name": "格勒西亞長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=860",
+    "item_image": "https://www.gametsg.net",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "34|2",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "861",
+    "item_name": "寒冰長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=861",
+    "item_image": "https://www.gametsg.net",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "5|8",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "862",
+    "item_name": "寒冰長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=862",
+    "item_image": "https://www.gametsg.net/img/1/6/400fc372dad1c9835120ede79e4958f6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "5|8",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "863",
+    "item_name": "騎士長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=863",
+    "item_image": "https://www.gametsg.net/img/1/6/77c51021770a896dd90acbf86a3cecbc.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "864",
+    "item_name": "惡魔長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=864",
+    "item_image": "https://www.gametsg.net/img/1/6/dd4ae4d75424ae92ca464a47f0c13c68.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "865",
+    "item_name": "惡魔長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=865",
+    "item_image": "https://www.gametsg.net/img/1/6/dd4ae4d75424ae92ca464a47f0c13c68.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "866",
+    "item_name": "死亡騎士長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=866",
+    "item_image": "https://www.gametsg.net/img/1/6/3812e6fd476e18359bdfc87b00c7600f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "867",
+    "item_name": "死亡騎士長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=867",
+    "item_image": "https://www.gametsg.net/img/1/6/3812e6fd476e18359bdfc87b00c7600f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "868",
+    "item_name": "魔獸軍王長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=868",
+    "item_image": "https://www.gametsg.net/img/1/6/59f8d1c7c41942c06ebd2520f86a7066.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "869",
+    "item_name": "魔獸軍王長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=869",
+    "item_image": "https://www.gametsg.net/img/1/6/59f8d1c7c41942c06ebd2520f86a7066.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "870",
+    "item_name": "瑪幽的冰凍長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=870",
+    "item_image": "https://www.gametsg.net/img/1/6/e3eec8cb3c4d6743f8dd68b74f3795b0.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "力量+1",
+      "寒冰抗性+10%"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "871",
+    "item_name": "瑪幽的冰凍長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=871",
+    "item_image": "https://www.gametsg.net/img/1/6/e3eec8cb3c4d6743f8dd68b74f3795b0.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "力量+1",
+      "寒冰抗性+10%"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "872",
+    "item_name": "冰之女王魅力涼鞋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=872",
+    "item_image": "https://www.gametsg.net/img/1/6/da0d7c689fa7e67fd8b2c5e351974f5d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "8",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "873",
+    "item_name": "冰之女王魅力涼鞋(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=873",
+    "item_image": "https://www.gametsg.net/img/1/6/da0d7c689fa7e67fd8b2c5e351974f5d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "8",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "874",
+    "item_name": "埃斯卡洛斯長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=874",
+    "item_image": "https://www.gametsg.net/img/1/6/07d9c3294ecdfd91abd5bca73a5b52ce.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "875",
+    "item_name": "埃斯卡洛斯長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=875",
+    "item_image": "https://www.gametsg.net/img/1/6/07d9c3294ecdfd91abd5bca73a5b52ce.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "876",
+    "item_name": "克特長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=876",
+    "item_image": "https://www.gametsg.net/img/1/6/1595cf944d6083f9afb5329f1a8eb713.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "877",
+    "item_name": "克特長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=877",
+    "item_image": "https://www.gametsg.net/img/1/6/1595cf944d6083f9afb5329f1a8eb713.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "878",
+    "item_name": "塔拉斯長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=878",
+    "item_image": "https://www.gametsg.net/img/1/6/329b094e827bf142485e05693d425aca.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "魔法防禦 (MR)+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "879",
+    "item_name": "海賊的長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=879",
+    "item_image": "https://www.gametsg.net/img/1/6/ef1af530629ea638b9e37bc02a945070.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "880",
+    "item_name": "黑長者涼鞋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=880",
+    "item_image": "https://www.gametsg.net/img/1/6/3aedd77bb6c8ebc88aadd398e1eae6c8.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "MP回復(tic)+5",
+      "智力+1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "881",
+    "item_name": "武官長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=881",
+    "item_image": "https://www.gametsg.net/img/1/6/3841432565449f3c3997570c13e7fd22.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "882",
+    "item_name": "武官長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=882",
+    "item_image": "https://www.gametsg.net/img/1/6/3841432565449f3c3997570c13e7fd22.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "883",
+    "item_name": "敏捷的長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=883",
+    "item_image": "https://www.gametsg.net/img/1/6/f29baf18a5d25f29e85621c89a8faec3.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "884",
+    "item_name": "敏捷的長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=884",
+    "item_image": "https://www.gametsg.net/img/1/6/f29baf18a5d25f29e85621c89a8faec3.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "885",
+    "item_name": "神官長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=885",
+    "item_image": "https://www.gametsg.net/img/1/6/f02aa46b1877a7465ba3e028b1a94140.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +10"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "886",
+    "item_name": "神官長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=886",
+    "item_image": "https://www.gametsg.net/img/1/6/f02aa46b1877a7465ba3e028b1a94140.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +10"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "887",
+    "item_name": "遠征者皮靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=887",
+    "item_image": "https://www.gametsg.net/img/1/6/1ab7f691a912f96ee57ae65ce043702f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "敏捷-1",
+      "智力+2"
+    ],
+    "data_zhiye": "34",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "888",
+    "item_name": "遠征者皮靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=888",
+    "item_image": "https://www.gametsg.net/img/1/6/1ab7f691a912f96ee57ae65ce043702f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "敏捷-1",
+      "智力+2"
+    ],
+    "data_zhiye": "34",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "889",
+    "item_name": "力量的長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=889",
+    "item_image": "https://www.gametsg.net/img/1/6/19be25013ffc5378dff66e3bc4d9b3ac.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "890",
+    "item_name": "力量的長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=890",
+    "item_image": "https://www.gametsg.net/img/1/6/19be25013ffc5378dff66e3bc4d9b3ac.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "891",
+    "item_name": "異界戰鬥長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=891",
+    "item_image": "https://www.gametsg.net/img/1/6/37c2cd64c2f55d114ec1885f56c47103.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+10",
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "892",
+    "item_name": "異界戰鬥長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=892",
+    "item_image": "https://www.gametsg.net/img/1/6/37c2cd64c2f55d114ec1885f56c47103.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+10",
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "893",
+    "item_name": "被遺忘的旅人長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=893",
+    "item_image": "https://www.gametsg.net/img/1/6/52a234c38785b961761772f6a3b96df4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "遺忘之島中發現的古代物品"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "894",
+    "item_name": "智力的長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=894",
+    "item_image": "https://www.gametsg.net/img/1/6/fb5f964457e818feefbabb32eb97a7ef.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "895",
+    "item_name": "智力的長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=895",
+    "item_image": "https://www.gametsg.net/img/1/6/fb5f964457e818feefbabb32eb97a7ef.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "896",
+    "item_name": "智慧的長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=896",
+    "item_image": "https://www.gametsg.net/img/1/6/51d845318d157c044b39b16ce5a6dfe3.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "精神+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "897",
+    "item_name": "鋼鐵長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=897",
+    "item_image": "https://www.gametsg.net/img/1/6/9172ace0d3e94d05bd3daa4426cb4bda.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "898",
+    "item_name": "鋼鐵長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=898",
+    "item_image": "https://www.gametsg.net/img/1/6/9172ace0d3e94d05bd3daa4426cb4bda.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "899",
+    "item_name": "影子長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=899",
+    "item_image": "https://www.gametsg.net/img/1/6/3fef249140953893dc062116aa5903ca.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+50",
+      "HP回復 (tic)+4"
+    ],
+    "data_zhiye": "4",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "900",
+    "item_name": "影子長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=900",
+    "item_image": "https://www.gametsg.net/img/1/6/3fef249140953893dc062116aa5903ca.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+50",
+      "HP回復 (tic)+4"
+    ],
+    "data_zhiye": "4",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "901",
+    "item_name": "黑暗棲林者長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=901",
+    "item_image": "https://www.gametsg.net/img/1/6/9b324118d67dd328a12a74e4407a23a5.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+30"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "902",
+    "item_name": "黑暗棲林者長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=902",
+    "item_image": "https://www.gametsg.net/img/1/6/9b324118d67dd328a12a74e4407a23a5.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+30"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "903",
+    "item_name": "深水長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=903",
+    "item_image": "https://www.gametsg.net/img/1/6/b535c0c9bd4a1d6e8f5c364e99593a63.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "佩戴後可在水下呼吸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "904",
+    "item_name": "深水長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=904",
+    "item_image": "https://www.gametsg.net/img/1/6/b535c0c9bd4a1d6e8f5c364e99593a63.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "佩戴後可在水下呼吸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "905",
+    "item_name": "黑暗長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=905",
+    "item_image": "https://www.gametsg.net/img/1/6/8077f303235c681bb92fbe97758eed68.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "4",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "906",
+    "item_name": "黑暗長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=906",
+    "item_image": "https://www.gametsg.net/img/1/6/8077f303235c681bb92fbe97758eed68.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "4",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "907",
+    "item_name": "異界長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=907",
+    "item_image": "https://www.gametsg.net/img/1/6/24c7b5e5f6be78acfc8138dcd4c00290.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "908",
+    "item_name": "異界長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=908",
+    "item_image": "https://www.gametsg.net/img/1/6/24c7b5e5f6be78acfc8138dcd4c00290.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "909",
+    "item_name": "拉斯塔巴德長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=909",
+    "item_image": "https://www.gametsg.net/img/1/6/b56aec11307637748cf613a18cca7dbb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|52|81|7|12|13",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "910",
+    "item_name": "長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=910",
+    "item_image": "https://www.gametsg.net/img/1/6/2e19a31e1265f31c95ba5f4372ede5f7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "911",
+    "item_name": "長靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=911",
+    "item_image": "https://www.gametsg.net/img/1/6/2e19a31e1265f31c95ba5f4372ede5f7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "912",
+    "item_name": "演奏者長靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=912",
+    "item_image": "https://www.gametsg.net/img/1/6/e82ff5b0c581a9b43d3c02a6a68a4dcd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "913",
+    "item_name": "短靴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=913",
+    "item_image": "https://www.gametsg.net/img/1/6/4eb3ed62a37f327dc8c4a4f8825c94ef.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  },
+  {
+    "item_id": "914",
+    "item_name": "短靴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=914",
+    "item_image": "https://www.gametsg.net/img/1/6/4eb3ed62a37f327dc8c4a4f8825c94ef.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "22",
+    "category_name": "鞋子"
+  }
+]

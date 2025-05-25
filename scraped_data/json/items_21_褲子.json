@@ -1,0 +1,678 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "818",
+    "item_name": "艾歐丁的褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=818",
+    "item_image": "https://www.gametsg.net/img/1/6/ab2027cad481d5b48d701dcc395b4823.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "體質+5",
+      "無視傷害減免+10",
+      "持續傷害減少50%"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "819",
+    "item_name": "格拉迪翁的褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=819",
+    "item_image": "https://www.gametsg.net/img/1/6/d5894816e5030ba9ab3cf1f7ab9272c7.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "PVP傷害減免+10",
+      "近距離暴擊抗性+5%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "820",
+    "item_name": "納格巴斯褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=820",
+    "item_image": "https://www.gametsg.net/img/1/6/e90754e69f84f0a421ae5ab83cbe5128.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "PVP傷害減免+10",
+      "暗黑抗性+50%",
+      "發動:黑暗的詛咒 1%"
+    ],
+    "data_zhiye": "1|4|8|5|52|81|7|12|13",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "821",
+    "item_name": "戴歐斯的褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=821",
+    "item_image": "https://www.gametsg.net/img/1/6/718bf4b25d1b314fb06cb355058ed755.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大HP+200",
+      "無視傷害減少2%"
+    ],
+    "data_zhiye": "4|5|52|81|8",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "822",
+    "item_name": "死神的覺醒褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=822",
+    "item_image": "https://www.gametsg.net/img/1/6/bdf828189a4e1afd3017ac0c7286ea56.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "傷害減免+2",
+      "死亡+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "823",
+    "item_name": "薩拉赫的褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=823",
+    "item_image": "https://www.gametsg.net/img/1/6/ccd9e1b3efef07e9eb81bb86397589ee.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "PVP傷害減免+10",
+      "遠距離暴擊抗性 +5%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "824",
+    "item_name": "神聖的敏捷脛甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=824",
+    "item_image": "https://www.gametsg.net/img/1/6/805dbc71c6b15e580f9d381af4134ca6.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "傷害減免+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "825",
+    "item_name": "神聖的成長褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=825",
+    "item_image": "https://www.gametsg.net/img/1/6/132420d0a97f836b5465655d6d99893d.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "經驗值獲得量增加+10%",
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "826",
+    "item_name": "神聖的力量脛甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=826",
+    "item_image": "https://www.gametsg.net/img/1/6/fc3a23bd2ac1822f6cf3977d588e2eb2.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "傷害減免+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "827",
+    "item_name": "神聖的智力脛甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=827",
+    "item_image": "https://www.gametsg.net/img/1/6/9a7c2635a84e3848c1d2f38cdc635628.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "傷害減免+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "828",
+    "item_name": "魔法防禦褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=828",
+    "item_image": "https://www.gametsg.net/img/1/6/f133bbaa41c01c6a4dd3f7fca615f221.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "魔法防禦 (MR)+2",
+      "減少魔法傷害+3%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "829",
+    "item_name": "魔法防禦褲子(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=829",
+    "item_image": "https://www.gametsg.net/img/1/6/f133bbaa41c01c6a4dd3f7fca615f221.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "魔法防禦 (MR)+2",
+      "減少魔法傷害+3%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "830",
+    "item_name": "敏捷脛甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=830",
+    "item_image": "https://www.gametsg.net/img/1/6/799cb2aac95c67afc966fffe0cc661fe.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "831",
+    "item_name": "敏捷脛甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=831",
+    "item_image": "https://www.gametsg.net/img/1/6/799cb2aac95c67afc966fffe0cc661fe.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "832",
+    "item_name": "成長褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=832",
+    "item_image": "https://www.gametsg.net/img/1/6/16f2bd1b772a0e53145485b1f9fe2340.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "經驗值獲得量增加+3%",
+      "PVE傷害減免+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "833",
+    "item_name": "阿努比斯褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=833",
+    "item_image": "https://www.gametsg.net/img/1/6/3b92f568b873f4f240cdfba02c250af4.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "傷害減免+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "834",
+    "item_name": "阿努比斯褲子(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=834",
+    "item_image": "https://www.gametsg.net/img/1/6/3b92f568b873f4f240cdfba02c250af4.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "傷害減免+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "835",
+    "item_name": "力量脛甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=835",
+    "item_image": "https://www.gametsg.net/img/1/6/06ed7b8eac7f0b44227666cf473231a3.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "836",
+    "item_name": "力量脛甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=836",
+    "item_image": "https://www.gametsg.net/img/1/6/06ed7b8eac7f0b44227666cf473231a3.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "837",
+    "item_name": "智力脛甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=837",
+    "item_image": "https://www.gametsg.net/img/1/6/eb8784fcc44db25146fb1cd760f28b70.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "838",
+    "item_name": "智力脛甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=838",
+    "item_image": "https://www.gametsg.net/img/1/6/eb8784fcc44db25146fb1cd760f28b70.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "839",
+    "item_name": "體力褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=839",
+    "item_image": "https://www.gametsg.net/img/1/6/4d5725ef7bb0338f63414ec77e74abe2.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "最大HP+25",
+      "體質 +1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "840",
+    "item_name": "體力褲子(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=840",
+    "item_image": "https://www.gametsg.net/img/1/6/4d5725ef7bb0338f63414ec77e74abe2.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "最大HP+25",
+      "體質 +1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "841",
+    "item_name": "鐵門褲子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=841",
+    "item_image": "https://www.gametsg.net/img/1/6/d00b00d6f904585dc94ac0de5dd4e8af.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "842",
+    "item_name": "鐵門褲子(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=842",
+    "item_image": "https://www.gametsg.net/img/1/6/d00b00d6f904585dc94ac0de5dd4e8af.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  },
+  {
+    "item_id": "843",
+    "item_name": "鐵褲子(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=843",
+    "item_image": "https://www.gametsg.net/img/1/6/fd75411c0c3f2200ff827ad79a0400f1.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "21",
+    "category_name": "褲子"
+  }
+]

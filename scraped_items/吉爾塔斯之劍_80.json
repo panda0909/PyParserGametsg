@@ -1,0 +1,188 @@
+{
+  "item_id": "80",
+  "item_name": "吉爾塔斯之劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=80",
+  "item_image": "https://www.gametsg.net/img/1/1/afba04b6fa772bb1c211acce63156b82.jpg",
+  "item_grade": "grade052",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "44 / 52",
+  "item_stats": [
+    "額外攻擊+42",
+    "武器命中 +26",
+    "力量+5",
+    "防止武器損壞",
+    "雙手武器",
+    "昏迷命中 +15%",
+    "無視近距離傷害減免+5",
+    "無視近距離迴避力+5",
+    "發動:狂襲吉爾塔斯 3%",
+    "發動:破壞吉爾塔斯 2%",
+    "發動:混沌吉爾塔斯 10%",
+    "傷害增加 +13%"
+  ],
+  "data_zhiye": "1|5|8|52|81",
+  "category_id": "4",
+  "category_name": "雙手劍",
+  "basic_info": {
+    "title": "吉爾塔斯之劍",
+    "類型": "武器(雙手劍)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "武器攻擊力": "44 / 52",
+    "屬性": [
+      "額外攻擊+42",
+      "武器命中 +26",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +15%",
+      "無視近距離傷害減免+5",
+      "無視近距離迴避力+5",
+      "發動:狂襲吉爾塔斯 3%",
+      "發動:破壞吉爾塔斯 2%",
+      "發動:混沌吉爾塔斯 10%",
+      "傷害增加 +13%"
+    ],
+    "材質": "黑色米索莉",
+    "重量": "60"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+5,武器命中+1,發動:吉爾塔斯崩潰1%"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+10,武器命中+2,發動:吉爾塔斯崩潰2%"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+15,武器命中+3,傷害增加+3%,發動:吉爾塔斯崩潰3%"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+20,武器命中+4,傷害增加+3%,發動:吉爾塔斯崩潰4%"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+25,武器命中+5,傷害增加+3%,發動:吉爾塔斯崩潰5%"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+30,武器命中+6,傷害增加+6%,發動:吉爾塔斯崩潰6%"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+35,武器命中+7,傷害增加+6%,發動:吉爾塔斯崩潰7%"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+40,武器命中+8,傷害增加+6%,發動:吉爾塔斯崩潰8%"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+45,武器命中+9,傷害增加+9%,發動:吉爾塔斯崩潰9%"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+50,武器命中+10,傷害增加+9%,發動:吉爾塔斯崩潰10%"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+55,武器命中+11,傷害增加+9%,發動:吉爾塔斯崩潰11%"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+60,武器命中+12,傷害增加+9%,發動:吉爾塔斯崩潰12%"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+65,武器命中+13,傷害增加+9%,發動:吉爾塔斯崩潰13%"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+70,武器命中+14,傷害增加+9%,發動:吉爾塔斯崩潰14%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "支配者吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1",
+      "monster_id": "1",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "150",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    }
+  ]
+}

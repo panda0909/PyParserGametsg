@@ -1,0 +1,464 @@
+{
+  "item_id": "606",
+  "item_name": "封印的古老的皮盔甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=606",
+  "item_image": "https://www.gametsg.net/img/1/4/800a60843a03f7fe88e4ab1b313f9aff.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [],
+  "data_zhiye": "2|4|5|34|12|13",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "封印的古老的皮盔甲",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "皮革",
+    "重量": "180"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "黑暗妖精",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=139",
+      "monster_id": "139",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "高崙守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=164",
+      "monster_id": "164",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "高崙守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=165",
+      "monster_id": "165",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "高崙守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=167",
+      "monster_id": "167",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "安普長者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=168",
+      "monster_id": "168",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "青藍之殼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=173",
+      "monster_id": "173",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "赤紅之殼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=174",
+      "monster_id": "174",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "黃色之殼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=175",
+      "monster_id": "175",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "盔甲高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=176",
+      "monster_id": "176",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "泰拉高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=177",
+      "monster_id": "177",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "閃電高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=178",
+      "monster_id": "178",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "地獄之火高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=179",
+      "monster_id": "179",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "火焰高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=180",
+      "monster_id": "180",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "怪手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=181",
+      "monster_id": "181",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "岩石高崙岩",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=182",
+      "monster_id": "182",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "強化高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=183",
+      "monster_id": "183",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "胄甲卡司特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=184",
+      "monster_id": "184",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "腐蝕的魔法高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=185",
+      "monster_id": "185",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    },
+    {
+      "monster_name": "變形怪",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=204",
+      "monster_id": "204",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "小鬼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=266",
+      "monster_id": "266",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "古代守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=898",
+      "monster_id": "898",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    }
+  ]
+}

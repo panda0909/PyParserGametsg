@@ -1,0 +1,404 @@
+{
+  "item_id": "2687",
+  "item_name": "初級庫庫爾坎的獎勵箱",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2687",
+  "item_image": "https://www.gametsg.net/img/2/14/552d75f80bc7681bf9421905496050e3.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "開啟後有機率獲得下列其一道具 提卡爾庫庫爾坎之矛/提卡爾庫庫爾坎之盾/提卡爾庫庫爾坎面具 提卡爾庫庫爾坎鐵手甲/杰弗雷庫的魔眼/杰弗雷庫的尖牙 純白的萬能藥/對盔甲施法的卷軸/對武器施法的卷軸 高級皮革/高級金屬板/高級布/高級原石/名譽金幣(數量不等) 變身製作硬幣(數量不等)/魔法娃娃製作硬幣(數量不等)/金幣(數量不等)"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "初級庫庫爾坎的獎勵箱",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金",
+    "重量": "0.04",
+    "說明": "開啟後有機率獲得下列其一道具 提卡爾庫庫爾坎之矛/提卡爾庫庫爾坎之盾/提卡爾庫庫爾坎面具 提卡爾庫庫爾坎鐵手甲/杰弗雷庫的魔眼/杰弗雷庫的尖牙 純白的萬能藥/對盔甲施法的卷軸/對武器施法的卷軸 高級皮革/高級金屬板/高級布/高級原石/名譽金幣(數量不等) 變身製作硬幣(數量不等)/魔法娃娃製作硬幣(數量不等)/金幣(數量不等)"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "杰弗雷庫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=132",
+      "monster_id": "132",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "杰弗雷庫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=133",
+      "monster_id": "133",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫阿茲特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=881",
+      "monster_id": "881",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫阿茲特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=882",
+      "monster_id": "882",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫優卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=883",
+      "monster_id": "883",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫優卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=884",
+      "monster_id": "884",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫卡伊拉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=885",
+      "monster_id": "885",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫卡伊拉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=886",
+      "monster_id": "886",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫巴拉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=887",
+      "monster_id": "887",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫巴拉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=888",
+      "monster_id": "888",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫艾托",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=889",
+      "monster_id": "889",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "艾庫艾托",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=890",
+      "monster_id": "890",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "薩德泥偶",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=891",
+      "monster_id": "891",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "薩德泥偶",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=892",
+      "monster_id": "892",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "薩德司卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=893",
+      "monster_id": "893",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "薩德司卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=894",
+      "monster_id": "894",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "薩德提歐",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=895",
+      "monster_id": "895",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "薩德提歐",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=896",
+      "monster_id": "896",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    }
+  ]
+}

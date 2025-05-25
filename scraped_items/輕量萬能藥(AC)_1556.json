@@ -1,0 +1,45 @@
+{
+  "item_id": "1556",
+  "item_name": "輕量萬能藥(AC)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1556",
+  "item_image": "https://www.gametsg.net/img/2/11/e22d96eee0c367573e58bf7a02c6bc9d.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "可用 Pure Elixir 代替",
+    "製作/活動/長生不老藥重組"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "輕量萬能藥(AC)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "玻璃",
+    "重量": "20",
+    "說明": [
+      "可用 Pure Elixir 代替",
+      "製作/活動/長生不老藥重組"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "item_id": "1571",
+  "item_name": "二級黑魔石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1571",
+  "item_image": "https://www.gametsg.net/img/2/11/b136976ca33b3b7989e1c1a55fd8307a.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "4",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "二級黑魔石(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.2",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,60 @@
+{
+  "item_id": "1405",
+  "item_name": "帕拉葛里的精髓",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1405",
+  "item_image": "https://www.gametsg.net/img/1/9/2df105e9c18d34bed0ec0fb44210bf76.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "帕拉葛里的精髓",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "惡夢的帕拉葛里",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1025",
+      "monster_id": "1025",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    }
+  ]
+}

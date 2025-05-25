@@ -1,0 +1,44 @@
+{
+  "item_id": "2491",
+  "item_name": "國王的硬幣",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2491",
+  "item_image": "https://www.gametsg.net/img/2/12/bb7bdfac3c0464f0fb3f9597484aeaea.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "哪裡獲取:",
+    "戰利品店"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "國王的硬幣",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": [
+      "哪裡獲取:",
+      "戰利品店"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

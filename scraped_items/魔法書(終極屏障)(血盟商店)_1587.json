@@ -1,0 +1,41 @@
+{
+  "item_id": "1587",
+  "item_name": "魔法書(終極屏障)(血盟商店)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1587",
+  "item_image": "https://www.gametsg.net/img/2/11/0d558cdadb310c691bf5023198aeddb5.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "魔法書"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "魔法書(終極屏障)(血盟商店)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "魔法書"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

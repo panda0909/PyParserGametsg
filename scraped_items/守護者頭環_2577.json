@@ -1,0 +1,53 @@
+{
+  "item_id": "2577",
+  "item_name": "守護者頭環",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2577",
+  "item_image": "https://www.gametsg.net/img/2/13/61f83398f548ad2a56fb2062548e9f27.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 10 分鐘",
+    "傷害減免+3"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "45",
+  "category_name": "魔眼",
+  "basic_info": {
+    "title": "守護者頭環",
+    "類型": "其他(魔眼)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "持續時間 10 分鐘",
+      "傷害減免+3"
+    ],
+    "材質": "奧里哈魯根",
+    "重量": "0.01",
+    "說明": [
+      "拿著物品時:",
+      "[傷害減免+3]",
+      "使用物品時:",
+      "[PVP傷害減免+5]",
+      "消耗品:",
+      "[10名譽金幣]"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

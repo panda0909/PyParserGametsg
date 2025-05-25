@@ -1,0 +1,250 @@
+{
+  "item_id": "701",
+  "item_name": "巨蟻女皇的金翅膀",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=701",
+  "item_image": "https://www.gametsg.net/img/1/5/1785671675cffe433bd57460666b3d9d.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    },
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-4",
+  "item_stats": [
+    "最大HP+50",
+    "魔法防禦 (MR)+6",
+    "近距離暴擊傷害+3"
+  ],
+  "data_zhiye": "1|2|5|8|34|52|81|7|12|13",
+  "category_id": "19",
+  "category_name": "斗篷",
+  "basic_info": {
+    "title": "巨蟻女皇的金翅膀",
+    "類型": "防具(斗篷)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-4",
+    "屬性": [
+      "最大HP+50",
+      "魔法防禦 (MR)+6",
+      "近距離暴擊傷害+3"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "布",
+    "重量": "1"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1,魔法防禦 (MR)+3"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2,魔法防禦 (MR)+6"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3,魔法防禦 (MR)+9"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4,魔法防禦 (MR)+12"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,魔法防禦 (MR)+15"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,魔法防禦 (MR)+18"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,魔法防禦 (MR)+21"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,魔法防禦 (MR)+24"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,魔法防禦 (MR)+27"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,魔法防禦 (MR)+30"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,魔法防禦 (MR)+33"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,魔法防禦 (MR)+36"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,魔法防禦 (MR)+39"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,魔法防禦 (MR)+42"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1448",
+      "material_id": "1448",
+      "material_name": "地之氣息",
+      "material_image": "https://www.gametsg.net/img/1/10/fa55deab318041241d481adf42c4fd26.jpg",
+      "material_grade": "grade01",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1371",
+      "material_id": "1371",
+      "material_name": "英雄防具製作秘傳(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/9/45d1eade9615cb0816a7949037fb1ff7.jpg",
+      "material_grade": "grade04",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+          "alt_id": "1373",
+          "alt_name": "英雄製作秘笈",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+          "alt_id": "1374",
+          "alt_name": "英雄製作秘笈(刻印)",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+      "material_id": "1373",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+      "material_id": "1374",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2757",
+      "material_id": "2757",
+      "material_name": "最高級的布",
+      "material_image": "https://www.gametsg.net/img/3/25/ae909309915392f57c616f2377927e32.jpg",
+      "material_grade": "grade00",
+      "material_count": "24"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "400"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "5000000"
+    }
+  ],
+  "monster_drops": []
+}

@@ -1,0 +1,821 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1197",
+    "item_name": "大地女神的優質符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1197",
+    "item_image": "https://www.gametsg.net/img/1/8/7b4c0a0b5d8992c8c89c80cdea38b81b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "遠距離傷害+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%",
+      "MP吸收",
+      "攻擊速度+5%",
+      "+5% 移動速度",
+      "裝備技能:蓋亞之風",
+      "裝備技能:蓋亞之力"
+    ],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1198",
+    "item_name": "大地女神的符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1198",
+    "item_image": "https://www.gametsg.net/img/1/8/579231671524bab5ad85ae4dc745711a.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "遠距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%",
+      "MP吸收",
+      "攻擊速度+5%",
+      "移動速度 +5%",
+      "裝備技能:蓋亞之風",
+      "裝備技能:蓋亞之力"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1199",
+    "item_name": "格蘭肯的優質遺物(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1199",
+    "item_image": "https://www.gametsg.net/img/1/8/311ca6e2f6987a54fc1985e1f8f86b2d.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "近距離傷害+1",
+      "遠距離傷害+1",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔攻+1",
+      "魔法命中+2",
+      "支撐抗性+10%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1200",
+    "item_name": "格蘭肯的遺物(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1200",
+    "item_image": "https://www.gametsg.net/img/1/8/285103654b4fe5258ec86846b48a9364.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "近距離傷害+1",
+      "遠距離傷害+1",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔攻+1",
+      "魔法命中+2",
+      "支撐抗性+10%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1201",
+    "item_name": "納格巴斯的優質符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1201",
+    "item_image": "https://www.gametsg.net/img/1/8/ca112e66852f461930b0bfecff1df96a.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "遠距離傷害+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%",
+      "MP吸收",
+      "攻擊速度+5%",
+      "移動速度 +5%",
+      "裝備技能:納格巴斯之風",
+      "配戴技巧:納格巴斯的活力"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1202",
+    "item_name": "納格巴斯的符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1202",
+    "item_image": "https://www.gametsg.net/img/1/8/bc1c57aa0ce0bcbc5535568e86271f6c.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "遠距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%",
+      "MP吸收",
+      "攻擊速度+5%",
+      "移動速度 +5%",
+      "裝備技能:納格巴斯之風",
+      "配戴技巧:納格巴斯的活力"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1203",
+    "item_name": "德波拉奇的優質符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1203",
+    "item_image": "https://www.gametsg.net/img/1/8/ee83f30e2bd87cb49c5ecf19a48d4f3d.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "遠距離傷害+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%",
+      "MP吸收",
+      "攻擊速度+5%",
+      "移動速度 +5%",
+      "穿戴技能:德波羅熱之風",
+      "配戴技巧:德波羅熱的活力"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1204",
+    "item_name": "德波拉奇的符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1204",
+    "item_image": "https://www.gametsg.net/img/1/8/d32d612e4ca98506e9147c0995814b29.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "遠距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%",
+      "MP吸收",
+      "攻擊速度+5%",
+      "移動速度 +5%",
+      "穿戴技能:德波羅熱之風",
+      "配戴技巧:德波羅熱的活力"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1205",
+    "item_name": "巴爾森的精美印章(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1205",
+    "item_image": "https://www.gametsg.net/img/1/8/98d17f492319102208a1739f1498040f.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "遠距離傷害+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1206",
+    "item_name": "巴爾森的印章(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1206",
+    "item_image": "https://www.gametsg.net/img/1/8/4ba183991c42f0281fed6c2b9c90b012.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "遠距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1207",
+    "item_name": "瓦爾基麗高級徽章(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1207",
+    "item_image": "https://www.gametsg.net/img/1/8/a7e7f57f9cc706f9a601d130780d097b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "遠距離傷害+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1208",
+    "item_name": "瓦爾基麗徽章(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1208",
+    "item_image": "https://www.gametsg.net/img/1/8/15d3bffdd9aee8a46fcd884fb0cd2d4d.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "遠距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1209",
+    "item_name": "狂戰士高級徽章(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1209",
+    "item_image": "https://www.gametsg.net/img/1/8/9ffb3f5d142ad018c6140c1cb3b3cfdd.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "遠距離傷害+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1210",
+    "item_name": "狂戰士徽章(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1210",
+    "item_image": "https://www.gametsg.net/img/1/8/399b7718becc83dedc6c6ce4b69f8c57.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "遠距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1211",
+    "item_name": "艾歐丁的優質符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1211",
+    "item_image": "https://www.gametsg.net/img/1/8/b1d0d479a0d28b093f7a1277aa17a3c0.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "遠距離傷害+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%",
+      "MP吸收",
+      "攻擊速度+5%",
+      "移動速度 +5%",
+      "裝備技能:伊奧丁之風",
+      "裝備技能:伊奧丁之力"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1212",
+    "item_name": "艾歐丁的符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1212",
+    "item_image": "https://www.gametsg.net/img/1/8/3384829a487d3f2f262cceb8b65cd8c1.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "藥水恢復率+5%",
+      "經驗值獲得量增加+20%",
+      "近距離傷害+3",
+      "遠距離傷害+3",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔法命中+3",
+      "魔法傷害+3",
+      "HP吸收",
+      "MP絕對恢復量+12",
+      "昏迷抗性+10%",
+      "MP吸收",
+      "攻擊速度+5%",
+      "移動速度 +5%",
+      "裝備技能:伊奧丁之風",
+      "裝備技能:伊奧丁之力"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1213",
+    "item_name": "支配符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1213",
+    "item_image": "https://www.gametsg.net/img/1/8/76f11ecd90f5d22cb5e2e888febfb97c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "魔法防禦 (MR) +25",
+      "昏迷命中 +3%",
+      "恐怖命中 +3%"
+    ],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1214",
+    "item_name": "統治符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1214",
+    "item_image": "https://www.gametsg.net/img/1/8/d481a204697e2d86d111e80d033111e5.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "魔法防禦 (MR) +25",
+      "昏迷抗性+3%",
+      "恐怖抗性 +3%"
+    ],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1215",
+    "item_name": "憤怒符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1215",
+    "item_image": "https://www.gametsg.net/img/1/8/16d525c221efca8218e08adeda34a827.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "決勝一擊+3%",
+      "魔法防禦 (MR)+15",
+      "決勝一擊增幅率+10%"
+    ],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1216",
+    "item_name": "意志符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1216",
+    "item_image": "https://www.gametsg.net/img/1/8/3c6fb6aae852443d986f617a14e53758.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "傷害減免+1",
+      "魔法防禦 (MR)+15"
+    ],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1217",
+    "item_name": "敏捷符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1217",
+    "item_image": "https://www.gametsg.net/img/1/8/b95a4fb9dd4bc1beea0bcf15f0b94756.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "敏捷+1",
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1218",
+    "item_name": "成長符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1218",
+    "item_image": "https://www.gametsg.net/img/1/8/c085d1b74bd1f25c16e9ffc3430aa373.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "魔法防禦(MR)+5",
+      "經驗值獲得量增加+3%"
+    ],
+    "data_zhiye": "",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1219",
+    "item_name": "智力符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1219",
+    "item_image": "https://www.gametsg.net/img/1/8/5eadf8366d74e4f36c15752a238c6850.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "智力+1",
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1220",
+    "item_name": "智慧符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1220",
+    "item_image": "https://www.gametsg.net/img/1/8/ce1f44b7bdbc44905370c4f02dce9e7e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "精神+1",
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1221",
+    "item_name": "體力符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1221",
+    "item_image": "https://www.gametsg.net/img/1/8/d1047b6ce951ef43ff53ddcf9b07f8e8.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "體質 +1",
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  },
+  {
+    "item_id": "1222",
+    "item_name": "力量符石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1222",
+    "item_image": "https://www.gametsg.net/img/1/8/f4412d9f25a3f7b8b67631df6a6e18e6.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "力量+1",
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "30",
+    "category_name": "符石"
+  }
+]

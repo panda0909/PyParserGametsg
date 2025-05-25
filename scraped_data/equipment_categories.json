@@ -1,0 +1,222 @@
+[
+  {
+    "type_id": "3",
+    "category_name": "單手劍",
+    "url": "https://www.gametsg.net/equip?type_name=3"
+  },
+  {
+    "type_id": "4",
+    "category_name": "雙手劍",
+    "url": "https://www.gametsg.net/equip?type_name=4"
+  },
+  {
+    "type_id": "5",
+    "category_name": "弓",
+    "url": "https://www.gametsg.net/equip?type_name=5"
+  },
+  {
+    "type_id": "15",
+    "category_name": "鐮刀",
+    "url": "https://www.gametsg.net/equip?type_name=15"
+  },
+  {
+    "type_id": "2",
+    "category_name": "匕首",
+    "url": "https://www.gametsg.net/equip?type_name=2"
+  },
+  {
+    "type_id": "6",
+    "category_name": "矛",
+    "url": "https://www.gametsg.net/equip?type_name=6"
+  },
+  {
+    "type_id": "7",
+    "category_name": "斧頭",
+    "url": "https://www.gametsg.net/equip?type_name=7"
+  },
+  {
+    "type_id": "8",
+    "category_name": "魔杖",
+    "url": "https://www.gametsg.net/equip?type_name=8"
+  },
+  {
+    "type_id": "9",
+    "category_name": "雙刀",
+    "url": "https://www.gametsg.net/equip?type_name=9"
+  },
+  {
+    "type_id": "10",
+    "category_name": "鋼爪",
+    "url": "https://www.gametsg.net/equip?type_name=10"
+  },
+  {
+    "type_id": "12",
+    "category_name": "步槍",
+    "url": "https://www.gametsg.net/equip?type_name=12"
+  },
+  {
+    "type_id": "13",
+    "category_name": "手持火炮",
+    "url": "https://www.gametsg.net/equip?type_name=13"
+  },
+  {
+    "type_id": "14",
+    "category_name": "鎖鏈劍",
+    "url": "https://www.gametsg.net/equip?type_name=14"
+  },
+  {
+    "type_id": "11",
+    "category_name": "鐵手甲",
+    "url": "https://www.gametsg.net/equip?type_name=11"
+  },
+  {
+    "type_id": "48",
+    "category_name": "符石劍",
+    "url": "https://www.gametsg.net/equip?type_name=48"
+  },
+  {
+    "type_id": "17",
+    "category_name": "頭盔",
+    "url": "https://www.gametsg.net/equip?type_name=17"
+  },
+  {
+    "type_id": "47",
+    "category_name": "盔甲",
+    "url": "https://www.gametsg.net/equip?type_name=47"
+  },
+  {
+    "type_id": "23",
+    "category_name": "盾牌/臂甲",
+    "url": "https://www.gametsg.net/equip?type_name=23"
+  },
+  {
+    "type_id": "19",
+    "category_name": "斗篷",
+    "url": "https://www.gametsg.net/equip?type_name=19"
+  },
+  {
+    "type_id": "20",
+    "category_name": "手套",
+    "url": "https://www.gametsg.net/equip?type_name=20"
+  },
+  {
+    "type_id": "22",
+    "category_name": "鞋子",
+    "url": "https://www.gametsg.net/equip?type_name=22"
+  },
+  {
+    "type_id": "21",
+    "category_name": "褲子",
+    "url": "https://www.gametsg.net/equip?type_name=21"
+  },
+  {
+    "type_id": "18",
+    "category_name": "T恤",
+    "url": "https://www.gametsg.net/equip?type_name=18"
+  },
+  {
+    "type_id": "24",
+    "category_name": "肩甲",
+    "url": "https://www.gametsg.net/equip?type_name=24"
+  },
+  {
+    "type_id": "29",
+    "category_name": "腰帶",
+    "url": "https://www.gametsg.net/equip?type_name=29"
+  },
+  {
+    "type_id": "27",
+    "category_name": "耳環",
+    "url": "https://www.gametsg.net/equip?type_name=27"
+  },
+  {
+    "type_id": "26",
+    "category_name": "項鍊",
+    "url": "https://www.gametsg.net/equip?type_name=26"
+  },
+  {
+    "type_id": "28",
+    "category_name": "戒指",
+    "url": "https://www.gametsg.net/equip?type_name=28"
+  },
+  {
+    "type_id": "30",
+    "category_name": "符石",
+    "url": "https://www.gametsg.net/equip?type_name=30"
+  },
+  {
+    "type_id": "31",
+    "category_name": "印章",
+    "url": "https://www.gametsg.net/equip?type_name=31"
+  },
+  {
+    "type_id": "32",
+    "category_name": "手環",
+    "url": "https://www.gametsg.net/equip?type_name=32"
+  },
+  {
+    "type_id": "33",
+    "category_name": "徽章",
+    "url": "https://www.gametsg.net/equip?type_name=33"
+  },
+  {
+    "type_id": "34",
+    "category_name": "水晶",
+    "url": "https://www.gametsg.net/equip?type_name=34"
+  },
+  {
+    "type_id": "41",
+    "category_name": "卡片",
+    "url": "https://www.gametsg.net/equip?type_name=41"
+  },
+  {
+    "type_id": "38",
+    "category_name": "魔法書",
+    "url": "https://www.gametsg.net/equip?type_name=38"
+  },
+  {
+    "type_id": "36",
+    "category_name": "卷軸",
+    "url": "https://www.gametsg.net/equip?type_name=36"
+  },
+  {
+    "type_id": "37",
+    "category_name": "材料",
+    "url": "https://www.gametsg.net/equip?type_name=37"
+  },
+  {
+    "type_id": "39",
+    "category_name": "箭/刺/子彈",
+    "url": "https://www.gametsg.net/equip?type_name=39"
+  },
+  {
+    "type_id": "40",
+    "category_name": "藥水",
+    "url": "https://www.gametsg.net/equip?type_name=40"
+  },
+  {
+    "type_id": "42",
+    "category_name": "硬幣",
+    "url": "https://www.gametsg.net/equip?type_name=42"
+  },
+  {
+    "type_id": "43",
+    "category_name": "強化卷軸",
+    "url": "https://www.gametsg.net/equip?type_name=43"
+  },
+  {
+    "type_id": "44",
+    "category_name": "移動道具",
+    "url": "https://www.gametsg.net/equip?type_name=44"
+  },
+  {
+    "type_id": "45",
+    "category_name": "魔眼",
+    "url": "https://www.gametsg.net/equip?type_name=45"
+  },
+  {
+    "type_id": "46",
+    "category_name": "其他",
+    "url": "https://www.gametsg.net/equip?type_name=46"
+  }
+]

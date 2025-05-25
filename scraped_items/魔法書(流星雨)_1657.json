@@ -1,0 +1,120 @@
+{
+  "item_id": "1657",
+  "item_name": "魔法書(流星雨)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1657",
+  "item_image": "https://www.gametsg.net/img/2/11/ae330b30e03dd86f91c7301c03f178da.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "魔法書"
+  ],
+  "data_zhiye": "3",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "魔法書(流星雨)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "魔法書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "巴拉卡斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=16",
+      "monster_id": "16",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "其他-巴拉卡斯保護區"
+      ]
+    },
+    {
+      "monster_name": "烈炎火花不死鳥",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=361",
+      "monster_id": "361",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "惡魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=362",
+      "monster_id": "362",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-象牙塔-8 樓-出場時間:22:00"
+      ]
+    },
+    {
+      "monster_name": "惡魔監視者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=576",
+      "monster_id": "576",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-象牙塔-7 樓"
+      ]
+    },
+    {
+      "monster_name": "黑暗的伊芙利",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=658",
+      "monster_id": "658",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "69",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(19:00)"
+      ]
+    }
+  ]
+}

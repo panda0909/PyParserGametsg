@@ -1,0 +1,109 @@
+{
+  "item_id": "2064",
+  "item_name": "龍斗士書板(覺醒:巴拉卡斯)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2064",
+  "item_image": "https://www.gametsg.net/img/2/12/a03864b2b77d20299c76f52a966ca78c.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "龍鬥士書板"
+  ],
+  "data_zhiye": "5",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "龍斗士書板(覺醒:巴拉卡斯)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "龍鬥士書板"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "長老:提亞麥斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=77",
+      "monster_id": "77",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "92",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-魔獸軍王室"
+      ]
+    },
+    {
+      "monster_name": "恐怖的地獄犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=359",
+      "monster_id": "359",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "阿西塔基奧",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=360",
+      "monster_id": "360",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "熔岩高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=423",
+      "monster_id": "423",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    }
+  ]
+}

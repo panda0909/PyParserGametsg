@@ -1,0 +1,136 @@
+{
+  "item_id": "922",
+  "item_name": "沙蟲的臂甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=922",
+  "item_image": "https://www.gametsg.net/img/1/6/d95239bdad4bc8d5796ecdf867f8c6ed.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-2",
+  "item_stats": [
+    "力量+1",
+    "近距離傷害+2",
+    "無視近距離傷害減免+2",
+    "昏迷命中 +5%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "沙蟲的臂甲",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-2",
+    "屬性": [
+      "力量+1",
+      "近距離傷害+2",
+      "無視近距離傷害減免+2",
+      "昏迷命中 +5%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "骨頭",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,近戰傷害+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,近距離傷害+1"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,近距離傷害+2"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,近距離傷害+2"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,近距離傷害+3"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,近距離傷害+3"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,近距離傷害+4"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,近距離傷害+5"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,近距離傷害+6"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,近距離傷害+7"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "沙蟲的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=941",
+      "monster_id": "941",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-20 級突襲副本 (神話)"
+      ]
+    }
+  ]
+}

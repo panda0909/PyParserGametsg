@@ -1,0 +1,60 @@
+{
+  "item_id": "1815",
+  "item_name": "死神之書(幽魂盔甲(安魂曲))",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1815",
+  "item_image": "https://www.gametsg.net/img/2/11/f06aef7118e3fa00a95a209c9be37c1d.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "死神",
+      "level": "level12"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "死神之書"
+  ],
+  "data_zhiye": "12",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "死神之書(幽魂盔甲(安魂曲))",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.01",
+    "說明": "死神之書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "薩拉赫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=51",
+      "monster_id": "51",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    }
+  ]
+}

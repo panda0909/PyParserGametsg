@@ -1,0 +1,767 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "311",
+    "item_name": "巴蘭卡鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=311",
+    "item_image": "https://www.gametsg.net/img/1/2/e5ad097ae4a3fae3164369a548f89dda.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "24 / 23",
+    "item_stats": [
+      "額外攻擊+8",
+      "武器命中+6",
+      "力量+2",
+      "雙手武器",
+      "防止武器損壞",
+      "破甲命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "312",
+    "item_name": "布魯迪卡的鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=312",
+    "item_image": "https://www.gametsg.net/img/1/2/49bd9368f09ca42b61ce1cee28b8bc82.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "28 / 26",
+    "item_stats": [
+      "額外攻擊+10",
+      "武器命中+9",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "無視近距離迴避力+2",
+      "無視近距離傷害減免+2",
+      "破壞盔甲 +10%",
+      "發動:影之詛咒 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "313",
+    "item_name": "歐西里斯的鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=313",
+    "item_image": "https://www.gametsg.net/img/1/2/6601f15552092a340f19b5bf3b7b721a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "26 / 24",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+7",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "死亡+3",
+      "破甲命中 +7%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "314",
+    "item_name": "震怒的鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=314",
+    "item_image": "https://www.gametsg.net/img/1/2/c46d4ef4b33bd70a3699ab714248c2db.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "24/20",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+6",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "破壞盔甲命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "315",
+    "item_name": "震怒的鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=315",
+    "item_image": "https://www.gametsg.net/img/1/2/c46d4ef4b33bd70a3699ab714248c2db.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "24/20",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+6",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "破壞盔甲命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "316",
+    "item_name": "惡魔王的鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=316",
+    "item_image": "https://www.gametsg.net/img/1/2/a2eb826fdb5672acc601307260e3a202.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "25 / 17",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+3",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "317",
+    "item_name": "恨之鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=317",
+    "item_image": "https://www.gametsg.net/img/1/3/1efdb946a1fad76d874ebbc2dd577148.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "26 / 15",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "318",
+    "item_name": "恨之鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=318",
+    "item_image": "https://www.gametsg.net/img/1/3/1efdb946a1fad76d874ebbc2dd577148.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "26 / 15",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "319",
+    "item_name": "暗黑鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=319",
+    "item_image": "https://www.gametsg.net/img/1/3/d44bbe47116bca6b61f2dc1b55929c8e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "24/18",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+4",
+      "力量+1",
+      "防止武器損壞",
+      "雙手武器",
+      "依照指定概率的附加傷害1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "320",
+    "item_name": "暗黑鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=320",
+    "item_image": "https://www.gametsg.net/img/1/3/d44bbe47116bca6b61f2dc1b55929c8e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "24/18",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+4",
+      "力量+1",
+      "防止武器損壞",
+      "雙手武器",
+      "依照指定概率的附加傷害1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "321",
+    "item_name": "魔族的鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=321",
+    "item_image": "https://www.gametsg.net/img/1/3/6e7dab3eb88398b82dfa2b494337f78b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "24 / 26",
+    "item_stats": [
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器",
+      "HP回復(tic)+1",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "322",
+    "item_name": "魔族的鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=322",
+    "item_image": "https://www.gametsg.net/img/1/3/6e7dab3eb88398b82dfa2b494337f78b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "24 / 26",
+    "item_stats": [
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器",
+      "HP回復(tic)+1",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "323",
+    "item_name": "銀光鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=323",
+    "item_image": "https://www.gametsg.net/img/1/3/ca0deae9edd6e5c54fa245a3deff6690.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "13 / 10",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "324",
+    "item_name": "銀光鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=324",
+    "item_image": "https://www.gametsg.net/img/1/3/ca0deae9edd6e5c54fa245a3deff6690.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "13 / 10",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "325",
+    "item_name": "壞鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=325",
+    "item_image": "https://www.gametsg.net/img/1/3/32351fd91e2aa99ba4b948e6ef4bd9ff.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "19 / 18",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+6",
+      "力量+1",
+      "精神+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:猛爆劇毒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "326",
+    "item_name": "壞鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=326",
+    "item_image": "https://www.gametsg.net/img/1/3/32351fd91e2aa99ba4b948e6ef4bd9ff.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "19 / 18",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+6",
+      "力量+1",
+      "精神+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:猛爆劇毒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "327",
+    "item_name": "大馬士革鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=327",
+    "item_image": "https://www.gametsg.net/img/1/3/b9b3be5c0f20b931d2a7ecc96db74315.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "17 / 13",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "328",
+    "item_name": "大馬士革鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=328",
+    "item_image": "https://www.gametsg.net/img/1/3/b9b3be5c0f20b931d2a7ecc96db74315.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "17 / 13",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "329",
+    "item_name": "黑暗鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=329",
+    "item_image": "https://www.gametsg.net/img/1/3/d44bbe47116bca6b61f2dc1b55929c8e.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "14 / 11",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "330",
+    "item_name": "黑暗鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=330",
+    "item_image": "https://www.gametsg.net/img/1/3/d44bbe47116bca6b61f2dc1b55929c8e.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "14 / 11",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "331",
+    "item_name": "幽暗鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=331",
+    "item_image": "https://www.gametsg.net/img/1/3/296bda8cee74c77f11f70001ee35b036.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "17 / 15",
+    "item_stats": [
+      "額外攻擊+3",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "332",
+    "item_name": "幽暗鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=332",
+    "item_image": "https://www.gametsg.net/img/1/3/296bda8cee74c77f11f70001ee35b036.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "17 / 15",
+    "item_stats": [
+      "額外攻擊+3",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "333",
+    "item_name": "鋼鐵鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=333",
+    "item_image": "https://www.gametsg.net/img/1/3/c6348e6b9ba04f6519d81ba0982b0700.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "10/8",
+    "item_stats": [
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "334",
+    "item_name": "鋼鐵鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=334",
+    "item_image": "https://www.gametsg.net/img/1/3/c6348e6b9ba04f6519d81ba0982b0700.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "10/8",
+    "item_stats": [
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "335",
+    "item_name": "青銅鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=335",
+    "item_image": "https://www.gametsg.net/img/1/3/07ab4a415a248fb130e631fdfcadcfdd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "8 / 7",
+    "item_stats": [
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "336",
+    "item_name": "青銅鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=336",
+    "item_image": "https://www.gametsg.net/img/1/3/07ab4a415a248fb130e631fdfcadcfdd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "8 / 7",
+    "item_stats": [
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "337",
+    "item_name": "暗影鋼爪",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=337",
+    "item_image": "https://www.gametsg.net/img/1/3/296bda8cee74c77f11f70001ee35b036.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "12 / 10",
+    "item_stats": [
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  },
+  {
+    "item_id": "338",
+    "item_name": "暗影鋼爪(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=338",
+    "item_image": "https://www.gametsg.net/img/1/3/296bda8cee74c77f11f70001ee35b036.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "12 / 10",
+    "item_stats": [
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "10",
+    "category_name": "鋼爪"
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "item_id": "1766",
+  "item_name": "技術書(猛烈攻擊)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1766",
+  "item_image": "https://www.gametsg.net/img/2/11/c3cd8b2a2680cc2fd2ac1d06504aa4e9.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "技術書"
+  ],
+  "data_zhiye": "1",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "技術書(猛烈攻擊)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "技術書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "烈焰的熔岩高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=509",
+      "monster_id": "509",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "79",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-烈焰地監-2樓"
+      ]
+    },
+    {
+      "monster_name": "巨大守護螞蟻",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=769",
+      "monster_id": "769",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "45",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-巨蟻洞穴"
+      ]
+    }
+  ]
+}

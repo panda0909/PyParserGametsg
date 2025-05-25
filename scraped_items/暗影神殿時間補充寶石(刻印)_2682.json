@@ -1,0 +1,97 @@
+{
+  "item_id": "2682",
+  "item_name": "暗影神殿時間補充寶石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2682",
+  "item_image": "https://www.gametsg.net/img/2/14/037c54745a86b1dced90a4b125c6f099.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "時間補充量1小時"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "暗影神殿時間補充寶石(刻印)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "時間補充量1小時",
+    "材質": "礦物質",
+    "重量": "2",
+    "說明": "70級以上可用"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "混沌的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=901",
+      "monster_id": "901",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "死亡的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=902",
+      "monster_id": "902",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "火焰之影禁衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=903",
+      "monster_id": "903",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    }
+  ]
+}

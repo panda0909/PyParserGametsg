@@ -1,0 +1,65 @@
+{
+  "item_id": "611",
+  "item_name": "封印的古老的鱗甲(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=611",
+  "item_image": "https://www.gametsg.net/img/1/4/af7844ad3cc2b08d8cb9e4a7ce4bdc1d.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [],
+  "data_zhiye": "5|8|12|13",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "封印的古老的鱗甲(刻印)",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "龍鱗",
+    "重量": "200"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

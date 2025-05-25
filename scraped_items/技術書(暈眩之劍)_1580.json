@@ -1,0 +1,72 @@
+{
+  "item_id": "1580",
+  "item_name": "技術書(暈眩之劍)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1580",
+  "item_image": "https://www.gametsg.net/img/2/11/b5e590b814d42ed62074f8b706216018.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "技術書"
+  ],
+  "data_zhiye": "1",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "技術書(暈眩之劍)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "技術書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "支配者吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1",
+      "monster_id": "1",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "150",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    }
+  ]
+}

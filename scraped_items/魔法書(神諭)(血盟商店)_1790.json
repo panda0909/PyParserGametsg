@@ -1,0 +1,41 @@
+{
+  "item_id": "1790",
+  "item_name": "魔法書(神諭)(血盟商店)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1790",
+  "item_image": "https://www.gametsg.net/img/2/11/4dadfedc08338ea3f1b42ea5848ae653.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "魔法書"
+  ],
+  "data_zhiye": "3",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "魔法書(神諭)(血盟商店)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "魔法書"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

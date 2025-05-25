@@ -1,0 +1,138 @@
+{
+  "item_id": "1778",
+  "item_name": "魔法書(勇猛盔甲)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1778",
+  "item_image": "https://www.gametsg.net/img/2/11/3296ea79564e04e5d72da86110b01d6c.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "王族",
+      "level": "level08"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "魔法書"
+  ],
+  "data_zhiye": "8",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "魔法書(勇猛盔甲)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "魔法書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "底比斯 歐西里斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=18",
+      "monster_id": "18",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    },
+    {
+      "monster_name": "底比斯阿努比斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=24",
+      "monster_id": "24",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "98",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    },
+    {
+      "monster_name": "底比斯賀洛斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=25",
+      "monster_id": "25",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "98",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    },
+    {
+      "monster_name": "杰弗雷庫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=132",
+      "monster_id": "132",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "杰弗雷庫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=133",
+      "monster_id": "133",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    }
+  ]
+}

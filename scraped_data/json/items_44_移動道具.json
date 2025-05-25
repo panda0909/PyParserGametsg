@@ -1,0 +1,1383 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2560",
+    "item_name": "傲慢之塔6樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2560",
+    "item_image": "https://www.gametsg.net/img/2/13/065fc28e2909c2dce156428188c0bf58.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第六層主宰符時",
+      "能夠從傲慢之塔6樓傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2561",
+    "item_name": "傲慢之塔7樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2561",
+    "item_image": "https://www.gametsg.net/img/2/13/035161e95cf3f1aee1d5bacd9dfe1bcd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2562",
+    "item_name": "傲慢之塔7樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2562",
+    "item_image": "https://www.gametsg.net/img/2/13/5c86706b815676434ace099064150844.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第七層主宰符時",
+      "可以從傲慢之塔的7層傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2563",
+    "item_name": "傲慢之塔8樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2563",
+    "item_image": "https://www.gametsg.net/img/2/13/bb1aa9bd80818a71cb9f32968e3520c8.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2564",
+    "item_name": "傲慢之塔8樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2564",
+    "item_image": "https://www.gametsg.net/img/2/13/7f567270a7191d2dd49d0a0be52d3e40.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第八層主宰符時",
+      "可以從傲慢之塔8樓傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2565",
+    "item_name": "傲慢之塔9樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2565",
+    "item_image": "https://www.gametsg.net/img/2/13/6b43666346bb1574d6a660c372b88aec.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2566",
+    "item_name": "傲慢之塔9樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2566",
+    "item_image": "https://www.gametsg.net/img/2/13/8999601945b698c608502c570944cb54.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有九層主宰符時",
+      "能夠從傲慢之塔9樓傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2567",
+    "item_name": "受祝福的海賊的項鏈",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2567",
+    "item_image": "https://www.gametsg.net/img/2/13/2eb0c28a879685ef81ebe0de8124cd84.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,移動到海盜的墓地",
+      "88級以上可用",
+      "僅適用於海盜島",
+      "然而,它不能在海賊之墓中使用.",
+      "擁有神聖海賊吊墜可以傳送到上半場、下半場和海盜之墓.",
+      "進入上半場、下半場、海賊之墓時,請應用海賊王的祝福.",
+      "[海賊王的祝福]",
+      "近距離傷害+5",
+      "遠距離傷害+5",
+      "魔法傷害+5",
+      "攻擊速度+10%",
+      "經驗值獲得量增加+20%",
+      "昏迷抗性+10%",
+      "恐怖抗性 +10%",
+      "找出隱藏的對象",
+      "識破分身模仿",
+      "精英海盜辨識深淵寶箱怪"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2568",
+    "item_name": "哈爾巴斯的氣息",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2568",
+    "item_image": "https://www.gametsg.net/img/2/13/eabeba9dd33e939424f1cb183885c6bc.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時移動至暗黑龍的實驗室"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2569",
+    "item_name": "海盜船藏寶圖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2569",
+    "item_image": "https://www.gametsg.net/img/2/13/a29ae0b2121408280ce5a8d5958f30e7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "移動到海盜船的地下室,在那裡偵測到危險的能量.",
+      "使用一次後,10分鐘後可重複使用."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2570",
+    "item_name": "海賊的項鏈",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2570",
+    "item_image": "https://www.gametsg.net/img/2/13/21b282e819bfd0c0c915467bfdf69797.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,移動到海盜的墓地",
+      "88級以上可用",
+      "僅適用於海盜島",
+      "然而,它不能在海賊之墓中使用.",
+      "進入上半場、下半場和海賊之墓時,請應用海賊的祝福.",
+      "[海盜的祝福]",
+      "近距離傷害+5",
+      "遠距離傷害+5",
+      "魔法傷害+5",
+      "攻擊速度+5%",
+      "經驗值獲得量增加+10%",
+      "昏迷抗性+5%",
+      "恐怖抗性 +5%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2571",
+    "item_name": "傳送回家的卷軸(血盟)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2571",
+    "item_image": "https://www.gametsg.net/img/2/13/6f82ca5bc69fba13381eb958da6a30e4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時返回血盟小屋"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2572",
+    "item_name": "幻想的傲慢之塔支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2572",
+    "item_image": "https://www.gametsg.net/img/2/13/ffce668e036496103b4fff31da270f41.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有傲慢之塔主宰符時",
+      "可以從傲慢之塔的 1 樓到 10 層傳送",
+      "傲慢之塔 1 至 10 層,進入信念之塔後",
+      "應用艾保羅泰因的絕望",
+      "[艾保羅泰因的絕望]",
+      "近/遠傷害+5",
+      "近距離/射程/魔法命中+5",
+      "魔攻+5",
+      "無視傷害減少+5",
+      "傷害減免+3",
+      "攻擊速度+15%",
+      "移動速度 +5%",
+      "施法速度+5%",
+      "找出隱藏的對象",
+      "識破分身模仿"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2531",
+    "item_name": "國王的狩獵場門票(活動)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2531",
+    "item_image": "https://www.gametsg.net/img/2/13/eff818de8b9129ae92afa62789c6c4a0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,你將被帶到國王的魔法狩獵場.",
+      "這個地下城每天只能使用2分鐘,並且會掉落TJ幣."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2532",
+    "item_name": "傳送回家的卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2532",
+    "item_image": "https://www.gametsg.net/img/2/13/e9970461882f81b86586dc52aef4c3fb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "去附近的小鎮"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2533",
+    "item_name": "裂紋的瞬間移動卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2533",
+    "item_image": "https://www.gametsg.net/img/2/13/abc557571f4d065a9c28dfc4214ad569.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "透過另一個世界的裂縫可以進行傳送.",
+      "只能在異界裂痕中使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2534",
+    "item_name": "藏寶圖卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2534",
+    "item_image": "https://www.gametsg.net/img/2/13/15208a558a6d08d6f25e4e65ec094711.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,移動到隱藏位置."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2535",
+    "item_name": "閃亮的哈爾巴斯的氣息",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2535",
+    "item_image": "https://www.gametsg.net/img/2/13/8e0aaf74a770c40645a1f4c9ba2b31c2.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,移動至暗黑龍的高級實驗室."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2536",
+    "item_name": "瞬間移動卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2536",
+    "item_image": "https://www.gametsg.net/img/2/13/732923fec6b38bf5596ff982d72d9119.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "去一個隨機的地方"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2537",
+    "item_name": "信念之塔1樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2537",
+    "item_image": "https://www.gametsg.net/img/2/13/3708483bb1887f2103618f601d378202.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2538",
+    "item_name": "信念之塔2樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2538",
+    "item_image": "https://www.gametsg.net/img/2/13/0bb9a1bbdd7d312119ab68a56403618a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2539",
+    "item_name": "信念之塔2樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2539",
+    "item_image": "https://www.gametsg.net/img/2/13/9bb8ce32e140eeec40c13c45081c3010.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有二層主宰符時",
+      "可以從信仰之塔二樓傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2540",
+    "item_name": "信念之塔3樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2540",
+    "item_image": "https://www.gametsg.net/img/2/13/75281638c43e0fe9238d98a73e391021.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2541",
+    "item_name": "信念之塔3樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2541",
+    "item_image": "https://www.gametsg.net/img/2/13/5905ac44324de7c79363edb83f6f6309.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第三層主宰符時",
+      "可以從信仰之塔第三層傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2542",
+    "item_name": "教堂護身符 - 盾牌",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2542",
+    "item_image": "https://www.gametsg.net/img/2/13/b3be70ae2b343e23896a8aada79a3035.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,納格巴斯教堂",
+      "前往守護者之盾區域",
+      "獲得後2小時30分鐘內銷毀"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2543",
+    "item_name": "教堂護身符 - 聖杯",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2543",
+    "item_image": "https://www.gametsg.net/img/2/13/c08060d49977033194cb7ce4e9a5bb0d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,納格巴斯教堂",
+      "前往暮光聖杯區域",
+      "獲得後2小時30分鐘內銷毀"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2544",
+    "item_name": "教堂護身符 - 十字架",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2544",
+    "item_image": "https://www.gametsg.net/img/2/13/b91911abaf0fc497821c6270e0fbb572.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,納格巴斯教堂",
+      "前往朝聖十字區",
+      "獲得後2小時30分鐘內銷毀"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2545",
+    "item_name": "教堂護身符 - 鐘",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2545",
+    "item_image": "https://www.gametsg.net/img/2/13/9759f0d893f04be34b2dbc5075cd0336.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,納格巴斯教堂",
+      "前往鈴聲區域",
+      "獲得後2小時30分鐘內銷毀"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2546",
+    "item_name": "教堂護身符 - 劍刃",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2546",
+    "item_image": "https://www.gametsg.net/img/2/13/2ba8a83833111143712fd42556ab075c.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,納格巴斯教堂",
+      "前往沉默之刃區域",
+      "獲得後2小時30分鐘內銷毀"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2547",
+    "item_name": "傲慢之塔10樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2547",
+    "item_image": "https://www.gametsg.net/img/2/13/3a86d1563618ed1e84f8ced3c186335d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2548",
+    "item_name": "傲慢之塔10樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2548",
+    "item_image": "https://www.gametsg.net/img/2/13/c0cd427f27e4c175c8e9cead76ff6b23.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第十層主宰符時",
+      "可以從傲慢之塔的 10 層傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2549",
+    "item_name": "傲慢之塔1樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2549",
+    "item_image": "https://www.gametsg.net/img/2/13/faa290995cee19736fabcd2f04c9ff8d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2550",
+    "item_name": "傲慢之塔1樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2550",
+    "item_image": "https://www.gametsg.net/img/2/13/37ddf2f19e72e531e9a30072d2df7a0e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第一層主宰符時",
+      "可以從傲慢之塔第1層傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2551",
+    "item_name": "傲慢之塔2樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2551",
+    "item_image": "https://www.gametsg.net/img/2/13/1a0cdc5a5acd5b62681f375c30155bca.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2552",
+    "item_name": "傲慢之塔2樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2552",
+    "item_image": "https://www.gametsg.net/img/2/13/fb28f7655a90b3e79b00b728cc7e7397.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有二層主宰符時",
+      "可以從傲慢之塔的第2層傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2553",
+    "item_name": "傲慢之塔3樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2553",
+    "item_image": "https://www.gametsg.net/img/2/13/9f7e38606ad509af625d1376fd955aa1.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2554",
+    "item_name": "傲慢之塔3樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2554",
+    "item_image": "https://www.gametsg.net/img/2/13/8f3570d29737632500ce358432a8c5ba.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第三層主宰符時",
+      "可以從傲慢之塔第3層傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2555",
+    "item_name": "傲慢之塔4樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2555",
+    "item_image": "https://www.gametsg.net/img/2/13/3992dd22c4d2aba6bb739197f5986da0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2556",
+    "item_name": "傲慢之塔4樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2556",
+    "item_image": "https://www.gametsg.net/img/2/13/93d6d594a3efc78cf0e3f51e31d2751b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第四層主宰符時",
+      "可以從傲慢之塔4樓傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2557",
+    "item_name": "傲慢之塔5樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2557",
+    "item_image": "https://www.gametsg.net/img/2/13/58f9f3cb101eefaebed39a14301eb3cc.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2558",
+    "item_name": "傲慢之塔5樓支配符咒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2558",
+    "item_image": "https://www.gametsg.net/img/2/13/1912fe249ca8970d9f7f7dbe2b3950b6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第五層主宰符時",
+      "能夠從傲慢之塔5層傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2559",
+    "item_name": "傲慢之塔6樓傳送符",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2559",
+    "item_image": "https://www.gametsg.net/img/2/13/78d517d662946e0bc62beffb1a043c0a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2614",
+    "item_name": "傲慢之塔1樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2614",
+    "item_image": "https://www.gametsg.net/img/2/13/d0d17fc711540f10241d53565e732f35.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "前往傲慢之塔第一層",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2616",
+    "item_name": "傲慢之塔2樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2616",
+    "item_image": "https://www.gametsg.net/img/2/13/c902051cacee08c5773f1259fd2d32de.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "移動至傲慢之塔2樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2617",
+    "item_name": "傲慢之塔3樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2617",
+    "item_image": "https://www.gametsg.net/img/2/13/69d5c6b0a01b648804a1c2d47ebddd6c.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "移動至傲慢之塔3樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2621",
+    "item_name": "傲慢之塔4樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2621",
+    "item_image": "https://www.gametsg.net/img/2/13/112bdf172383e8f04710e359c84e9f5b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "移動至傲慢之塔4樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2622",
+    "item_name": "傲慢之塔5樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2622",
+    "item_image": "https://www.gametsg.net/img/2/14/68e9046207f336e22412bd4dcb63b589.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "移動至傲慢之塔5樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2623",
+    "item_name": "傲慢之塔6樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2623",
+    "item_image": "https://www.gametsg.net/img/2/14/47cccde45708157a2e7dc051e654e658.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "移動至傲慢之塔6樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2625",
+    "item_name": "傲慢之塔7樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2625",
+    "item_image": "https://www.gametsg.net/img/2/14/1f3c3ea095ed501691492fd4c23399f5.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "移動至傲慢之塔7樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2634",
+    "item_name": "傲慢之塔8樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2634",
+    "item_image": "https://www.gametsg.net/img/2/14/217648785a734346955a69685d83b263.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "前往傲慢之塔第八層",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2670",
+    "item_name": "傲慢之塔9樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2670",
+    "item_image": "https://www.gametsg.net/img/2/14/b6ef944e3a857811ac0d3e04b8029e6b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "前往傲慢之塔第九層",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2680",
+    "item_name": "傲慢之塔10樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2680",
+    "item_image": "https://www.gametsg.net/img/2/14/417a6f4f9b958253a64c3f55f74dbf6c.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "移動至傲慢之塔10樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  },
+  {
+    "item_id": "2719",
+    "item_name": "信念之塔2樓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2719",
+    "item_image": "https://www.gametsg.net/img/2/14/45b8c8b6f43f29d16dd3dedac0817808.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "前往信念之塔二樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處以及塔內使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "44",
+    "category_name": "移動道具"
+  }
+]

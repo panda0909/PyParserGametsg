@@ -1,0 +1,243 @@
+{
+  "item_id": "735",
+  "item_name": "歐西斯斗篷",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=735",
+  "item_image": "https://www.gametsg.net/img/1/5/4bc6d48a59c2c690fc4a7828090d7f94.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    },
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "0",
+  "item_stats": [],
+  "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+  "category_id": "19",
+  "category_name": "斗篷",
+  "basic_info": {
+    "title": "歐西斯斗篷",
+    "類型": "防具(斗篷)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "0",
+    "祝福屬性": "魔法防禦 (MR)+1",
+    "材質": "布",
+    "重量": "10",
+    "套裝裝備": [
+      "歐西斯環甲",
+      "歐西斯斗篷",
+      "歐西斯頭盔",
+      "阿克海盾牌"
+    ],
+    "套裝屬性": [
+      "4套裝效果",
+      "物理防禦力 (AC)-3"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "妖魔戰士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=848",
+      "monster_id": "848",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "20",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "說話之島-08.蜘蛛森林",
+        "說話之島-12.黑騎士團港口",
+        "說話之島-09.說話之島地監入口",
+        "說話之島-05.妖魔瞭望塔",
+        "說話之島-06.妖魔部落",
+        "亞丁大陸-05.沉靜的森林",
+        "亞丁大陸-33.慰靈所",
+        "亞丁大陸-35.枯燥的荒野",
+        "亞丁大陸-67.銀騎士村莊東邊森林"
+      ]
+    },
+    {
+      "monster_name": "森林妖魔戰士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=850",
+      "monster_id": "850",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "20",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-18.亡者的墓穴",
+        "亞丁大陸-10.黑暗森林內部",
+        "亞丁大陸-41.沙蟲的巢穴"
+      ]
+    }
+  ]
+}

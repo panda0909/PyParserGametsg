@@ -1,0 +1,507 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "366",
+    "item_name": "格勒西亞的手持火炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=366",
+    "item_image": "https://www.gametsg.net/img/1/3/f2f43ba3948db4f23f6112ef3cf444c7.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "13 / 14",
+    "item_stats": [
+      "額外攻擊+14",
+      "武器命中+12",
+      "敏捷+5",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "智力+1",
+      "遠距離爆擊 +5%",
+      "昏迷命中 +5%",
+      "無視遠距離傷害減免+2",
+      "無視遠距離迴避力+2",
+      "發動:狙擊手的槍傷10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "367",
+    "item_name": "紫羅蘭火炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=367",
+    "item_image": "https://www.gametsg.net/img/1/3/3af8476c380f2345012ec0c8acbd4323.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "11 / 12",
+    "item_stats": [
+      "額外攻擊+10",
+      "武器命中+9",
+      "敏捷+5",
+      "智力+1",
+      "體質 +1",
+      "雙手武器",
+      "遠距離爆擊+3%",
+      "貫通效果",
+      "防止武器損壞",
+      "發動:真實瞄準 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "368",
+    "item_name": "紫羅蘭火炮(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=368",
+    "item_image": "https://www.gametsg.net/img/1/3/3af8476c380f2345012ec0c8acbd4323.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "11 / 12",
+    "item_stats": [
+      "額外攻擊+10",
+      "武器命中+9",
+      "敏捷+5",
+      "智力+1",
+      "體質 +1",
+      "雙手武器",
+      "遠距離爆擊+3%",
+      "貫通效果",
+      "防止武器損壞",
+      "發動:真實瞄準 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "369",
+    "item_name": "歐西里斯的手持火炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=369",
+    "item_image": "https://www.gametsg.net/img/1/3/33e2c4bced6cc485be371f1e2cf52a0b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "12 / 13",
+    "item_stats": [
+      "額外攻擊+10",
+      "+10 武器命中",
+      "敏捷+5",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "死亡+3",
+      "智力+1",
+      "遠距離暴擊+4%",
+      "昏迷命中 +3%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "370",
+    "item_name": "惡魔王的手持火炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=370",
+    "item_image": "https://www.gametsg.net/img/1/3/e7977abb8da3c9f4db03671c5bd76eb7.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "9/10",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+6",
+      "雙手武器",
+      "防止武器損壞",
+      "貫通效果",
+      "遠距離暴擊+1%",
+      "敏捷+1",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "371",
+    "item_name": "不死鳥衝擊炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=371",
+    "item_image": "https://www.gametsg.net/img/1/3/27774dab0789e3e21be24b0e3b4826ef.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "9/10",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+5",
+      "敏捷+2",
+      "雙手武器",
+      "遠距離暴擊+1%",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "372",
+    "item_name": "不死鳥衝擊炮(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=372",
+    "item_image": "https://www.gametsg.net/img/1/3/27774dab0789e3e21be24b0e3b4826ef.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "9/10",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+5",
+      "敏捷+2",
+      "雙手武器",
+      "遠距離暴擊+1%",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "373",
+    "item_name": "神的手持火炮(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=373",
+    "item_image": "https://www.gametsg.net/img/1/3/270f0d1d420ba5afbef16e2d0c46dd9b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "6 / 8",
+    "item_stats": [
+      "額外攻擊+3",
+      "敏捷+2",
+      "智力+1",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "374",
+    "item_name": "末日衝擊炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=374",
+    "item_image": "https://www.gametsg.net/img/1/3/964f59305babb57a8b5682527aa06e2a.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "7 / 9",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+2",
+      "智力+2",
+      "雙手武器",
+      "遠距離暴擊+1%",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "375",
+    "item_name": "末日衝衝擊炮(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=375",
+    "item_image": "https://www.gametsg.net/img/1/3/964f59305babb57a8b5682527aa06e2a.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "7 / 9",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+2",
+      "智力+2",
+      "雙手武器",
+      "遠距離暴擊+1%",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "376",
+    "item_name": "雙重大炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=376",
+    "item_image": "https://www.gametsg.net/img/1/3/39670682e78c4ebfbe27521a9961e936.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "3 / 4",
+    "item_stats": [
+      "額外攻擊+1",
+      "雙手武器",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "377",
+    "item_name": "雙重大炮(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=377",
+    "item_image": "https://www.gametsg.net/img/1/3/39670682e78c4ebfbe27521a9961e936.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "3 / 4",
+    "item_stats": [
+      "額外攻擊+1",
+      "雙手武器",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "378",
+    "item_name": "衝擊炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=378",
+    "item_image": "https://www.gametsg.net/img/1/3/bf3cae14c63cb1bcee26a409e0e722ff.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "2 / 5",
+    "item_stats": [
+      "額外攻擊+1",
+      "雙手武器",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "379",
+    "item_name": "衝擊炮(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=379",
+    "item_image": "https://www.gametsg.net/img/1/3/bf3cae14c63cb1bcee26a409e0e722ff.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "2 / 5",
+    "item_stats": [
+      "額外攻擊+1",
+      "雙手武器",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "380",
+    "item_name": "鋼鐵大炮",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=380",
+    "item_image": "https://www.gametsg.net/img/1/3/30b7e00942e6efeaba2563c2336d73a7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中-1",
+      "雙手武器",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  },
+  {
+    "item_id": "381",
+    "item_name": "鋼鐵大炮(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=381",
+    "item_image": "https://www.gametsg.net/img/1/3/30b7e00942e6efeaba2563c2336d73a7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中-1",
+      "雙手武器",
+      "貫通效果",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "34",
+    "category_id": "13",
+    "category_name": "手持火炮"
+  }
+]

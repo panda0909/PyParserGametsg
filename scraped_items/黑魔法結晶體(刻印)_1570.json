@@ -1,0 +1,40 @@
+{
+  "item_id": "1570",
+  "item_name": "黑魔法結晶體(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1570",
+  "item_image": "https://www.gametsg.net/img/2/11/a0be5429dcf6a6027cd8911dbb00f91c.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "神奇成分"
+  ],
+  "data_zhiye": "52",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "黑魔法結晶體(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "材質": "原石",
+    "說明": "神奇成分"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

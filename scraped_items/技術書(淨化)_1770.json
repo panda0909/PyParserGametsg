@@ -1,0 +1,80 @@
+{
+  "item_id": "1770",
+  "item_name": "技術書(淨化)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1770",
+  "item_image": "https://www.gametsg.net/img/2/11/659ad787f8b7de7fe57b638a57f1afe4.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "技術書"
+  ],
+  "data_zhiye": "1",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "技術書(淨化)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "技術書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "異界巴爾巴度斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=144",
+      "monster_id": "144",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_areas": [
+        "亞丁大陸地監-異界裂縫"
+      ]
+    },
+    {
+      "monster_name": "沙蟲的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=941",
+      "monster_id": "941",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-20 級突襲副本 (神話)"
+      ]
+    }
+  ]
+}

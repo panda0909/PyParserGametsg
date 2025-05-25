@@ -1,0 +1,40 @@
+{
+  "item_id": "1543",
+  "item_name": "最高級祝福粉末",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1543",
+  "item_image": "https://www.gametsg.net/img/2/11/80ab34ef760304addf0cb78d588f7082.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "透過頂級熔煉可以獲得的材料物品"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "最高級祝福粉末",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦物質",
+    "說明": "透過頂級熔煉可以獲得的材料物品"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

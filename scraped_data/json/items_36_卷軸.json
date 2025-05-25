@@ -1,0 +1,533 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1254",
+    "item_name": "戰場的神話(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1254",
+    "item_image": "https://www.gametsg.net/img/1/9/719ca88b2334068bda990afda9924711.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:3 分鐘",
+      "冷卻時間 (秒) 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1255",
+    "item_name": "覺醒的粉末",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1255",
+    "item_image": "https://www.gametsg.net/img/1/9/72720ee4a9958cd61c8cfc5d04a48e3c.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1256",
+    "item_name": "高崙結晶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1256",
+    "item_image": "https://www.gametsg.net/img/1/9/69625cf698dddbbd777b823afcd4132e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1257",
+    "item_name": "魔法卷軸(負重强化)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1257",
+    "item_image": "https://www.gametsg.net/img/1/9/799b7b88ce17b01df2496c9a47bee3ab.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1258",
+    "item_name": "魔法卷軸(聖潔之光)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1258",
+    "item_image": "https://www.gametsg.net/img/1/9/9690904d5e1548917f3b6156ba2eb053.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1259",
+    "item_name": "魔法卷軸(鎧甲護持)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1259",
+    "item_image": "https://www.gametsg.net/img/1/9/51efbe9ee4cdc994a7873fc1beb29e97.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1260",
+    "item_name": "魔法卷軸(鋼鐵防護)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1260",
+    "item_image": "https://www.gametsg.net/img/1/9/b8b5ac8afbfc075b1fe108fe02643341.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 14 分 20 秒"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1261",
+    "item_name": "魔法卷軸(靈魂昇華)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1261",
+    "item_image": "https://www.gametsg.net/img/1/9/f0994048322c684cc8b346f479facddd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:20 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1262",
+    "item_name": "魔法卷軸(附魔強化)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1262",
+    "item_image": "https://www.gametsg.net/img/1/9/531475e0bd101a46a0ae18b19578db92.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:6 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1263",
+    "item_name": "魔法卷軸(魔法屏障)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1263",
+    "item_image": "https://www.gametsg.net/img/1/9/551c21a3fa9e1d240cec2de4dbb361e3.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 16 秒"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1264",
+    "item_name": "魔法娃娃召唤卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1264",
+    "item_image": "https://www.gametsg.net/img/1/9/ec5a6f929dd78fff39285f6197a93a53.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1265",
+    "item_name": "仙后座的祝福卷軸(活動)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1265",
+    "item_image": "https://www.gametsg.net/img/1/9/0f1430fa22e8a7d84beef5d20d63ab1e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1266",
+    "item_name": "變身卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1266",
+    "item_image": "https://www.gametsg.net/img/1/9/831779f6b29352e4e909dd92ef2cf294.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1267",
+    "item_name": "聖物召喚卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1267",
+    "item_image": "https://www.gametsg.net/img/1/9/b2fc16fc37bb43f074269a21a89096bd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1268",
+    "item_name": "地之結晶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1268",
+    "item_image": "https://www.gametsg.net/img/1/9/e37ada50c97f2a5b2744c0766d5eb7c6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1269",
+    "item_name": "水之結晶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1269",
+    "item_image": "https://www.gametsg.net/img/1/9/329e3dd966c2d701268e59b755b9d023.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1270",
+    "item_name": "強化戰鬥卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1270",
+    "item_image": "https://www.gametsg.net/img/1/9/0f1430fa22e8a7d84beef5d20d63ab1e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "1271",
+    "item_name": "火之結晶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1271",
+    "item_image": "https://www.gametsg.net/img/1/9/9b049f740a32c825fd2f3bf37966f29f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "2596",
+    "item_name": "強化戰鬥卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2596",
+    "item_image": "https://www.gametsg.net/img/1/9/0f1430fa22e8a7d84beef5d20d63ab1e.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "2597",
+    "item_name": "龍之珍珠",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2597",
+    "item_image": "https://www.gametsg.net/img/2/13/fd1e7a598cedf7a56eee6f31eca79948.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "2637",
+    "item_name": "龍之珍珠(綁定)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2637",
+    "item_image": "https://www.gametsg.net/img/2/13/fd1e7a598cedf7a56eee6f31eca79948.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  },
+  {
+    "item_id": "2663",
+    "item_name": "龍之珍珠(血盟突襲)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2663",
+    "item_image": "https://www.gametsg.net/img/2/13/fd1e7a598cedf7a56eee6f31eca79948.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "36",
+    "category_name": "卷軸"
+  }
+]

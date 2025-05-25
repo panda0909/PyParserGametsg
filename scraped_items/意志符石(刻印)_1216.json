@@ -1,0 +1,82 @@
+{
+  "item_id": "1216",
+  "item_name": "意志符石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1216",
+  "item_image": "https://www.gametsg.net/img/1/8/3c6fb6aae852443d986f617a14e53758.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "傷害減免+1",
+    "魔法防禦 (MR)+15"
+  ],
+  "data_zhiye": "",
+  "category_id": "30",
+  "category_name": "符石",
+  "basic_info": {
+    "title": "意志符石(刻印)",
+    "類型": "飾品(符石)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": [
+      "傷害減免+1",
+      "魔法防禦 (MR)+15"
+    ],
+    "祝福屬性": "藥水恢復率+1%",
+    "材質": "礦石",
+    "重量": "1",
+    "說明": "可以用印章/符石強化石進行強化"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "機率傷害減免 2%"
+    },
+    {
+      "level": "2",
+      "attributes": "機率傷害減免4%，PVP傷害減免+1"
+    },
+    {
+      "level": "3",
+      "attributes": "機率傷害減免6%，PVP傷害減免+2"
+    },
+    {
+      "level": "4",
+      "attributes": "機率傷害減免8%，PVP傷害減免+3"
+    },
+    {
+      "level": "5",
+      "attributes": "機率傷害減免10%，PVP傷害減免+4"
+    },
+    {
+      "level": "6",
+      "attributes": "機率傷害減免12%，PVP傷害減免+5"
+    },
+    {
+      "level": "7",
+      "attributes": "機率傷害減免14%，PVP傷害減免+6"
+    },
+    {
+      "level": "8",
+      "attributes": "機率傷害減免16%，PVP傷害減免+7"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

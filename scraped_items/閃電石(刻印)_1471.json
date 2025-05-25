@@ -1,0 +1,40 @@
+{
+  "item_id": "1471",
+  "item_name": "閃電石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1471",
+  "item_image": "https://www.gametsg.net/img/1/10/5c0c258f103c80db550f8b1a8efbc41b.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "死神",
+      "level": "level12"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "12",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "閃電石(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "材質": "礦石",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

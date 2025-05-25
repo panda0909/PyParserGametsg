@@ -1,0 +1,68 @@
+{
+  "item_id": "1418",
+  "item_name": "水龍的憑證",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1418",
+  "item_image": "https://www.gametsg.net/img/1/10/6997ef325e05d62ac692aad7266f9a9c.jpg",
+  "item_grade": "grade02",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "水龍魔眼材質"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "水龍的憑證",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "玻璃",
+    "重量": "1",
+    "說明": "水龍魔眼材質"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "法利昂的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=17",
+      "monster_id": "17",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-17 級 突襲 (神話)"
+      ]
+    }
+  ]
+}

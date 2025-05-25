@@ -1,0 +1,97 @@
+{
+  "item_id": "1181",
+  "item_name": "皮帶(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1181",
+  "item_image": "https://www.gametsg.net/img/1/8/515dd0a24f5ae1c8a5341c8f85c96128.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "最大HP+30",
+    "負重獎勵+250"
+  ],
+  "data_zhiye": "",
+  "category_id": "29",
+  "category_name": "腰帶",
+  "basic_info": {
+    "title": "皮帶(刻印)",
+    "類型": "飾品(腰帶)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "最大HP+30",
+      "負重獎勵+250"
+    ],
+    "祝福屬性": "最大HP+5",
+    "材質": "皮革",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5，負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10，負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15，負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20，負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25，負重獎勵+25"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30，負重獎勵+30"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35，負重獎勵+35"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40，負重獎勵+40"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2592",
+      "material_id": "2592",
+      "material_name": "皮革",
+      "material_image": "https://www.gametsg.net/img/2/13/5151a5527475ac59523112b8ff4dbf94.jpg",
+      "material_grade": "grade00",
+      "material_count": "5"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "10000"
+    }
+  ],
+  "monster_drops": []
+}

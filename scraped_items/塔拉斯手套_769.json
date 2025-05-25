@@ -1,0 +1,190 @@
+{
+  "item_id": "769",
+  "item_name": "塔拉斯手套",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=769",
+  "item_image": "https://www.gametsg.net/img/1/5/d5795be4f280e40115d82c6ca3079540.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "MP回復(tic)+1",
+    "力量+2"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "20",
+  "category_name": "手套",
+  "basic_info": {
+    "title": "塔拉斯手套",
+    "類型": "防具(手套)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "MP回復(tic)+1",
+      "力量+2"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "皮革",
+    "重量": "25"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1353",
+      "material_id": "1353",
+      "material_name": "惡魔的氣息",
+      "material_image": "https://www.gametsg.net/img/1/9/1047c539a6db205cf7f89dff277fcd9e.jpg",
+      "material_grade": "grade04",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1371",
+          "alt_id": "1371",
+          "alt_name": "英雄防具製作秘傳(刻印)",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+          "alt_id": "1373",
+          "alt_name": "英雄製作秘笈",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+          "alt_id": "1374",
+          "alt_name": "英雄製作秘笈(刻印)",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1371",
+      "material_id": "1371",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+      "material_id": "1373",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+      "material_id": "1374",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=756",
+      "material_id": "756",
+      "material_name": "惡魔手套",
+      "material_image": "https://www.gametsg.net/img/1/5/660e06a4c531f7af045ff5cc932d4f6f.jpg",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1509",
+      "material_id": "1509",
+      "material_name": "惡魔的皮革",
+      "material_image": "https://www.gametsg.net/img/1/10/237ecd11aa5fb0a6c80522bf91b5de11.jpg",
+      "material_grade": "grade01",
+      "material_count": "200"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "400"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "5000000"
+    }
+  ],
+  "monster_drops": []
+}

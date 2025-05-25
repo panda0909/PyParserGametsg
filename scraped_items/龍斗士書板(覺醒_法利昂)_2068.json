@@ -1,0 +1,145 @@
+{
+  "item_id": "2068",
+  "item_name": "龍斗士書板(覺醒:法利昂)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2068",
+  "item_image": "https://www.gametsg.net/img/2/12/a03864b2b77d20299c76f52a966ca78c.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "龍鬥士書板"
+  ],
+  "data_zhiye": "5",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "龍斗士書板(覺醒:法利昂)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "龍鬥士書板"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "長老:安迪斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=145",
+      "monster_id": "145",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "拉斯塔巴德-魔獸軍王的職務室"
+      ]
+    },
+    {
+      "monster_name": "暗黑迪古",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=398",
+      "monster_id": "398",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "碼頭周圍蟹人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=399",
+      "monster_id": "399",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "奎斯坦修",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=641",
+      "monster_id": "641",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "希爾黛斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=685",
+      "monster_id": "685",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "美人魚",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=718",
+      "monster_id": "718",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "63",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    }
+  ]
+}

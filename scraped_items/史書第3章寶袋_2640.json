@@ -1,0 +1,167 @@
+{
+  "item_id": "2640",
+  "item_name": "史書第3章寶袋",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2640",
+  "item_image": "https://www.gametsg.net/img/2/14/8a17141af8ce384e0295c4c037a04fb1.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時，有機率獲得3本歷史書。"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "史書第3章寶袋",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "皮革",
+    "重量": "0.1",
+    "說明": "使用時，有機率獲得3本歷史書。"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "支配者吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1",
+      "monster_id": "1",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "150",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=3",
+      "monster_id": "3",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "飛龍王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=34",
+      "monster_id": "34",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "97",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "長老:安迪斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=145",
+      "monster_id": "145",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "拉斯塔巴德-魔獸軍王的職務室"
+      ]
+    },
+    {
+      "monster_name": "古代守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=898",
+      "monster_id": "898",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    }
+  ]
+}

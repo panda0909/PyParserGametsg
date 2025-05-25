@@ -1,0 +1,114 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "33",
+    "category_name": "徽章"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "33",
+    "category_name": "徽章"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "33",
+    "category_name": "徽章"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "33",
+    "category_name": "徽章"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "33",
+    "category_name": "徽章"
+  },
+  {
+    "item_id": "1246",
+    "item_name": "獵人徽章",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1246",
+    "item_image": "https://www.gametsg.net/img/1/9/6efb634753c3ef2c0970496074e03800.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "33",
+    "category_name": "徽章"
+  },
+  {
+    "item_id": "1247",
+    "item_name": "指揮官徽章",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1247",
+    "item_image": "https://www.gametsg.net/img/1/9/167af7df67151d495e9ef6cbf4a2ee34.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "33",
+    "category_name": "徽章"
+  }
+]

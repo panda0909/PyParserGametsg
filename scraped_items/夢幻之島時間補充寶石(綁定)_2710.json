@@ -1,0 +1,511 @@
+{
+  "item_id": "2710",
+  "item_name": "夢幻之島時間補充寶石(綁定)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2710",
+  "item_image": "https://www.gametsg.net/img/2/14/411ce30ac68f700febe052fa48995313.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "補充時間1小時"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "夢幻之島時間補充寶石(綁定)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "補充時間1小時",
+    "材質": "礦物質",
+    "重量": "2",
+    "說明": "60級以上可用"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "火炎蛋",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=924",
+      "monster_id": "924",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "火蜥蜴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=925",
+      "monster_id": "925",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "冰人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=926",
+      "monster_id": "926",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "冰石高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=927",
+      "monster_id": "927",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "殺人蜂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=928",
+      "monster_id": "928",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "閃電球",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=929",
+      "monster_id": "929",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "暴走兔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=930",
+      "monster_id": "930",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "鎧甲守護神",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=931",
+      "monster_id": "931",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "獨角獸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=932",
+      "monster_id": "932",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "蘑菇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=933",
+      "monster_id": "933",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "夢魘",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=934",
+      "monster_id": "934",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "火精靈王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=935",
+      "monster_id": "935",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "水精靈王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=936",
+      "monster_id": "936",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "風精靈王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=937",
+      "monster_id": "937",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "土精靈王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=938",
+      "monster_id": "938",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "夢魘",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=939",
+      "monster_id": "939",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "覺醒的火炎蛋",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1009",
+      "monster_id": "1009",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "覺醒火蜥蜴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1010",
+      "monster_id": "1010",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "覺醒冰人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1011",
+      "monster_id": "1011",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "覺醒冰石高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1012",
+      "monster_id": "1012",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "覺醒殺人蜂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1013",
+      "monster_id": "1013",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "覺醒閃電球",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1014",
+      "monster_id": "1014",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "覺醒暴走兔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1015",
+      "monster_id": "1015",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    },
+    {
+      "monster_name": "覺醒護甲守護神",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1016",
+      "monster_id": "1016",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    }
+  ]
+}

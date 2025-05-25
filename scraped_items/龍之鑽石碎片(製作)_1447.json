@@ -1,0 +1,37 @@
+{
+  "item_id": "1447",
+  "item_name": "龍之鑽石碎片(製作)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1447",
+  "item_image": "https://www.gametsg.net/img/1/10/9eabd19f7ddb446a5e77a5b84e31e12d.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "龍之鑽石碎片(製作)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

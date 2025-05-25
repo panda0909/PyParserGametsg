@@ -1,0 +1,289 @@
+{
+  "item_id": "2734",
+  "item_name": "防禦強化卷軸(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2734",
+  "item_image": "https://www.gametsg.net/img/2/14/826156ffc70c7fd8a15c525ffeac2216.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 30 分鐘"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "防禦強化卷軸(刻印)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "持續時間 30 分鐘",
+    "材質": "紙",
+    "重量": "0.01",
+    "說明": [
+      "應用以下效果 1800 秒",
+      "- 物理防禦力 (AC)-3",
+      "- 傷害減少+2",
+      "- 魔法防禦 (MR)+3",
+      "(不可取消)"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "驕慢的屠殺者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=36",
+      "monster_id": "36",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "97",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的曼托迪亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=53",
+      "monster_id": "53",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的洛加利烏斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=54",
+      "monster_id": "54",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "驕慢的奈爾伽爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=55",
+      "monster_id": "55",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的觸手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=65",
+      "monster_id": "65",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的幼蟲",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=66",
+      "monster_id": "66",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的科亞庫克",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=67",
+      "monster_id": "67",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的殭屍騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=68",
+      "monster_id": "68",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的骷髏之翅",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=69",
+      "monster_id": "69",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的阿塔巴克",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=70",
+      "monster_id": "70",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的恩特奇亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=71",
+      "monster_id": "71",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "93",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "驕慢的奈爾伽爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=150",
+      "monster_id": "150",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "驕慢的札拉奇爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=186",
+      "monster_id": "186",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "驕慢的亡魂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=224",
+      "monster_id": "224",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "殘殺獵犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=258",
+      "monster_id": "258",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    }
+  ]
+}

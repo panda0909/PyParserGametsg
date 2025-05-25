@@ -1,0 +1,43 @@
+{
+  "item_id": "2774",
+  "item_name": "朱紅",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2774",
+  "item_image": "https://www.gametsg.net/uploads/20250114/8c3adcc33895382ea9392a114478a664.png",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "10/8",
+  "item_stats": [
+    "HP吸收",
+    "生命+3"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "朱紅",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "10/8",
+    "屬性": [
+      "HP吸收",
+      "生命+3"
+    ],
+    "材質": "金屬塊",
+    "重量": "120"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,58 @@
+{
+  "item_id": "1371",
+  "item_name": "英雄防具製作秘籍(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1371",
+  "item_image": "https://www.gametsg.net/img/1/9/45d1eade9615cb0816a7949037fb1ff7.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "英雄防具製作秘籍(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+      "material_id": "2749",
+      "material_name": "龍之鑽石",
+      "material_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+      "material_grade": "grade00",
+      "material_count": "100"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1357",
+      "material_id": "1357",
+      "material_name": "封印的英雄防具製作秘笈",
+      "material_image": "https://www.gametsg.net/img/1/9/8ae18339797ff8044b2e41bc635ea88d.jpg",
+      "material_grade": "grade04",
+      "material_count": "1"
+    }
+  ],
+  "monster_drops": []
+}

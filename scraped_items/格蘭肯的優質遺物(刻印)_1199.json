@@ -1,0 +1,59 @@
+{
+  "item_id": "1199",
+  "item_name": "格蘭肯的優質遺物(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1199",
+  "item_image": "https://www.gametsg.net/img/1/8/311ca6e2f6987a54fc1985e1f8f86b2d.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "藥水恢復率+5%",
+    "近距離傷害+1",
+    "遠距離傷害+1",
+    "近距離命中+3",
+    "遠距離命中+3",
+    "魔攻+1",
+    "魔法命中+2",
+    "支撐抗性+10%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "30",
+  "category_name": "符石",
+  "basic_info": {
+    "title": "格蘭肯的優質遺物(刻印)",
+    "類型": "飾品(符石)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": [
+      "藥水恢復率+5%",
+      "近距離傷害+1",
+      "遠距離傷害+1",
+      "近距離命中+3",
+      "遠距離命中+3",
+      "魔攻+1",
+      "魔法命中+2",
+      "支撐抗性+10%"
+    ],
+    "材質": "礦石",
+    "說明": "6小時後刪除"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

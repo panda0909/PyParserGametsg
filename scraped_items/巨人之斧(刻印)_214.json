@@ -1,0 +1,112 @@
+{
+  "item_id": "214",
+  "item_name": "巨人之斧(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=214",
+  "item_image": "https://www.gametsg.net/img/1/2/615f68286443def3b1586f71d316f4bb.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    }
+  ],
+  "item_level": "24/25",
+  "item_stats": [
+    "額外攻擊+3",
+    "武器命中+1",
+    "防止武器損壞",
+    "雙手武器",
+    "力量+1"
+  ],
+  "data_zhiye": "7",
+  "category_id": "7",
+  "category_name": "斧頭",
+  "basic_info": {
+    "title": "巨人之斧(刻印)",
+    "類型": "武器(斧頭)",
+    "職業": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "武器攻擊力": "24/25",
+    "屬性": [
+      "額外攻擊+3",
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1"
+    ],
+    "祝福屬性": "武器命中+1",
+    "材質": "金屬塊",
+    "重量": "130"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器命中+2"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+8,武器命中+8"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+9,武器命中+9"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+11,武器命中+10"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+13,武器命中+11"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+15,武器命中+12"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+17,武器命中+13"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+19,武器命中+14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

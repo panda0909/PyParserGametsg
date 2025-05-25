@@ -1,0 +1,924 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "2",
+    "item_name": "風刃短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2",
+    "item_image": "https://www.gametsg.net/img/1/1/125b5e6b67063cefeb84446382f94f02.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "25 / 16",
+    "item_stats": [
+      "額外攻擊+28",
+      "武器命中+15",
+      "最大HP值+100",
+      "防止武器損壞",
+      "HP吸收",
+      "力量+5",
+      "昏迷命中 +10%",
+      "發動:混沌狂襲 3%",
+      "傷害增加+10%",
+      "發動:消除聖結界 2%"
+    ],
+    "data_zhiye": "2|8",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "3",
+    "item_name": "生命之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=3",
+    "item_image": "https://www.gametsg.net/img/1/1/c76a748d245c430d4854ddb47f8d4462.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "item_level": "21 / 13",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+10",
+      "防止武器損壞",
+      "HP吸收"
+    ],
+    "data_zhiye": "2|1|3|4|8|52",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "4",
+    "item_name": "艾莉絲(短劍)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=4",
+    "item_image": "https://www.gametsg.net/img/1/1/5b8d2275d90ed91014de89c307ad10a7.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "24 / 14",
+    "item_stats": [
+      "額外攻擊+21",
+      "武器命中+11",
+      "經驗值獲得量增加+30%",
+      "力量+5",
+      "防止武器損壞",
+      "昏迷命中 +8%",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "2|8",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "5",
+    "item_name": "甘特的短刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=5",
+    "item_image": "https://www.gametsg.net/img/1/1/0958857cb647714d26493b6e6785aa34.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "23 / 12",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+4",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "力量+2",
+      "昏迷命中 +7%",
+      "無視近距離迴避力+2",
+      "發動:甘特的絕望 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2|8",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "6",
+    "item_name": "阿斯態爾的短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=6",
+    "item_image": "https://www.gametsg.net/img/1/1/6fea5fbfa746aefb1056feb71a836953.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "19/9",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+1",
+      "敏捷+1",
+      "力量+1",
+      "昏迷命中 +5%",
+      "防止武器損壞",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2|8",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "7",
+    "item_name": "歐西里斯短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=7",
+    "item_image": "https://www.gametsg.net/img/1/1/89e09999c04e4c3e56da2cb2aa43748b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "21 / 11",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+2",
+      "防止武器損壞",
+      "死亡+3",
+      "敏捷+1",
+      "力量+1",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2|8",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "8",
+    "item_name": "惡魔王的匕首",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=8",
+    "item_image": "https://www.gametsg.net/img/1/1/1a4b110a40f403addba9962c815792c7.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "10/7",
+    "item_stats": [
+      "額外攻擊+3",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2|8",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "9",
+    "item_name": "奧里哈魯根短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=9",
+    "item_image": "https://www.gametsg.net/img/1/1/aab2ab47989f1a2a85d59380371684e1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "9 / 7",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "10",
+    "item_name": "奧里哈魯根短劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=10",
+    "item_image": "https://www.gametsg.net/img/1/1/aab2ab47989f1a2a85d59380371684e1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "9 / 7",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "11",
+    "item_name": "魔力短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=11",
+    "item_image": "https://www.gametsg.net/img/1/1/cfdfd50873cb236f782465a8bc145de1.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "6 / 4",
+    "item_stats": [
+      "額外攻擊+1",
+      "力量+1",
+      "MP回復(tic)+1",
+      "MP吸收"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "12",
+    "item_name": "魔力短劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=12",
+    "item_image": "https://www.gametsg.net/img/1/1/cfdfd50873cb236f782465a8bc145de1.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "6 / 4",
+    "item_stats": [
+      "額外攻擊+1",
+      "力量+1",
+      "MP回復(tic)+1",
+      "MP吸收"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "13",
+    "item_name": "水晶短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=13",
+    "item_image": "https://www.gametsg.net/img/1/1/7b151a544fc392e7f129bb36a27f9f36.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "10 / 4",
+    "item_stats": [
+      "額外攻擊+1"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "14",
+    "item_name": "水晶短劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=14",
+    "item_image": "https://www.gametsg.net/img/1/1/7b151a544fc392e7f129bb36a27f9f36.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "10 / 4",
+    "item_stats": [
+      "額外攻擊+1"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "15",
+    "item_name": "底比斯歐西里斯短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=15",
+    "item_image": "https://www.gametsg.net/img/1/1/f7827879ec0c2d60593f67539e512d41.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "7 / 4",
+    "item_stats": [
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "8|2",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "16",
+    "item_name": "底比斯歐西里斯短劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=16",
+    "item_image": "https://www.gametsg.net/img/1/1/f7827879ec0c2d60593f67539e512d41.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "7 / 4",
+    "item_stats": [
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "8|2",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "17",
+    "item_name": "小丑短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=17",
+    "item_image": "https://www.gametsg.net/img/1/1/ce7ec2ebf275a9ede2e7a3ec9778a629.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "item_level": "9 / 4",
+    "item_stats": [
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|3|4|8|52",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "18",
+    "item_name": "米索莉短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=18",
+    "item_image": "https://www.gametsg.net/img/1/1/b4b9598d26f34093f96a8725be8ee14a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "6 / 5",
+    "item_stats": [
+      "魔攻+1",
+      "MP回復(tic)+3"
+    ],
+    "data_zhiye": "1|2|3|4|8|34|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "19",
+    "item_name": "米索莉短劍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=19",
+    "item_image": "https://www.gametsg.net/img/1/1/b4b9598d26f34093f96a8725be8ee14a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "6 / 5",
+    "item_stats": [
+      "魔攻+1",
+      "MP回復(tic)+3"
+    ],
+    "data_zhiye": "1|2|3|4|8|34|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "20",
+    "item_name": "拉斯塔巴德短劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=20",
+    "item_image": "https://www.gametsg.net/img/1/1/12356073cf8622bd8e5fccfd81fda4e8.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "4 / 3",
+    "item_stats": [
+      "武器命中+2"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "21",
+    "item_name": "拉斯塔巴德之劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=21",
+    "item_image": "https://www.gametsg.net/img/1/1/013186e17cfa19492f8fe551ffb3f59f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "8 / 8",
+    "item_stats": [
+      "武器命中+1"
+    ],
+    "data_zhiye": "1|2|3|4|8|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  },
+  {
+    "item_id": "22",
+    "item_name": "歐西斯匕首",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=22",
+    "item_image": "https://www.gametsg.net/img/1/1/5a68e91c06ee3bc53a482ba1872fd0ca.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "2 / 3",
+    "item_stats": [
+      "武器命中+2"
+    ],
+    "data_zhiye": "1|2|3|4|8|34|52|12",
+    "category_id": "2",
+    "category_name": "匕首"
+  }
+]

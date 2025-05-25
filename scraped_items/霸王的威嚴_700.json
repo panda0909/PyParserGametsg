@@ -1,0 +1,119 @@
+{
+  "item_id": "700",
+  "item_name": "霸王的威嚴",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=700",
+  "item_image": "https://www.gametsg.net/img/1/5/d098332191c6f548f5825bb59476c874.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "王族",
+      "level": "level08"
+    }
+  ],
+  "item_level": "-5",
+  "item_stats": [
+    "力量+3",
+    "智力+3",
+    "精神+3",
+    "敏捷+5",
+    "體質 +3",
+    "魅力+3",
+    "傷害減免+3",
+    "裝備技能:獅子心",
+    "恐怖 命中+5%"
+  ],
+  "data_zhiye": "8",
+  "category_id": "19",
+  "category_name": "斗篷",
+  "basic_info": {
+    "title": "霸王的威嚴",
+    "類型": "防具(斗篷)",
+    "職業": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "物理防禦 (AC)": "-5",
+    "屬性": [
+      "力量+3",
+      "智力+3",
+      "精神+3",
+      "敏捷+5",
+      "體質 +3",
+      "魅力+3",
+      "傷害減免+3",
+      "裝備技能:獅子心",
+      "恐怖 命中+5%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "布",
+    "重量": "10"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,1136 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1150",
+    "item_name": "奇岩的忍耐",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1150",
+    "item_image": "https://www.gametsg.net/img/1/8/da1135ea03a1950f1c4ba03fecc83844.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "負重獎勵+3000",
+      "傷害減免+5",
+      "無視傷害減免+5",
+      "昏迷抗性+3%"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1151",
+    "item_name": "死神腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1151",
+    "item_image": "https://www.gametsg.net/img/1/8/00d9562e2bcccc4472767dcd749ea59a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "負重獎勵+2000",
+      "傷害減免+2",
+      "無視傷害減免+2",
+      "死亡+3"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1152",
+    "item_name": "古代巨人戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1152",
+    "item_image": "https://www.gametsg.net/img/1/8/6e81c027bd4b7232b643dbcae60f1260.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "力量+3",
+      "傷害減免+1",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1153",
+    "item_name": "榮譽戰鬥腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1153",
+    "item_image": "https://www.gametsg.net/img/1/8/e5519b1098c6251aa2ba8dc584db108c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "[攻城戰專用裝備]",
+      "離開圍困區域時禁用裝置效果的自動應用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1154",
+    "item_name": "歐吉王腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1154",
+    "item_image": "https://www.gametsg.net/img/1/8/7b49654ed6995bf27cf483d797d3b803.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+20",
+      "負重獎勵+1500",
+      "傷害減免+2"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1155",
+    "item_name": "波賽頓的腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1155",
+    "item_image": "https://www.gametsg.net/img/1/8/1e9ed768a81f13e2a2b2d739cd7a776a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "最大HP+50",
+      "藥水恢復率+8%",
+      "負重獎勵+2000",
+      "傷害減免+1",
+      "藥水恢復量+8"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1156",
+    "item_name": "飛龍皮帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1156",
+    "item_image": "https://www.gametsg.net/img/1/8/39314d57155d527e91a6193d1feca8d6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "負重獎勵+1000",
+      "傷害減免+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1157",
+    "item_name": "飛龍皮帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1157",
+    "item_image": "https://www.gametsg.net/img/1/8/39314d57155d527e91a6193d1feca8d6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "負重獎勵+1000",
+      "傷害減免+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1158",
+    "item_name": "狂龍敏捷腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1158",
+    "item_image": "https://www.gametsg.net/img/1/8/d35831bf627ee6060f6b6d275e85267f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "敏捷+1",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1159",
+    "item_name": "狂龍敏捷腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1159",
+    "item_image": "https://www.gametsg.net/img/1/8/d35831bf627ee6060f6b6d275e85267f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "敏捷+1",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1160",
+    "item_name": "巴蘭卡骷髏腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1160",
+    "item_image": "https://www.gametsg.net/img/1/8/daca2a3cbd91b945fa2bd9a47ea1f706.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1161",
+    "item_name": "巴蘭卡骷髏腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1161",
+    "item_image": "https://www.gametsg.net/img/1/8/daca2a3cbd91b945fa2bd9a47ea1f706.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1162",
+    "item_name": "成長的腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1162",
+    "item_image": "https://www.gametsg.net/img/1/8/28fc5809c25a1660cf992b157af15293.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "經驗值獲得量增加+2%",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1163",
+    "item_name": "狂龍力量腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1163",
+    "item_image": "https://www.gametsg.net/img/1/8/17c16cc47bb12e34192ed81ac9daf342.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "力量+1",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1164",
+    "item_name": "狂龍力量腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1164",
+    "item_image": "https://www.gametsg.net/img/1/8/17c16cc47bb12e34192ed81ac9daf342.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "力量+1",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1165",
+    "item_name": "狂龍智力腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1165",
+    "item_image": "https://www.gametsg.net/img/1/8/471b215d60fc85e58e95bb3f6efddd38.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "智力+1",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1166",
+    "item_name": "狂龍智力腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1166",
+    "item_image": "https://www.gametsg.net/img/1/8/471b215d60fc85e58e95bb3f6efddd38.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+50",
+      "智力+1",
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1167",
+    "item_name": "泰坦皮帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1167",
+    "item_image": "https://www.gametsg.net/img/1/8/2ddcf6d572e81baf49e0ff0a9754bc98.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "負重獎勵+1850"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1168",
+    "item_name": "泰坦皮帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1168",
+    "item_image": "https://www.gametsg.net/img/1/8/2ddcf6d572e81baf49e0ff0a9754bc98.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "負重獎勵+1850"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1169",
+    "item_name": "飛龍皮帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1169",
+    "item_image": "https://www.gametsg.net/img/1/8/643f05eadf5b9c66fe7e2a6a4e771e44.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "MP回復 (tic)+2",
+      "負重獎勵+500"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1170",
+    "item_name": "底比斯歐西里斯腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1170",
+    "item_image": "https://www.gametsg.net/img/1/8/a6d71403424d383414a5624362b502ac.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復 (tic)+2",
+      "負重獎勵+750"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1171",
+    "item_name": "底比斯歐西里斯腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1171",
+    "item_image": "https://www.gametsg.net/img/1/8/a6d71403424d383414a5624362b502ac.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復 (tic)+2",
+      "負重獎勵+750"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1172",
+    "item_name": "黑暗腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1172",
+    "item_image": "https://www.gametsg.net/img/1/8/1b5ace83cc42f359f35cbbc4d1e59157.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "敏捷+3"
+    ],
+    "data_zhiye": "4",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1173",
+    "item_name": "黑暗腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1173",
+    "item_image": "https://www.gametsg.net/img/1/8/1b5ace83cc42f359f35cbbc4d1e59157.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "敏捷+3"
+    ],
+    "data_zhiye": "4",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1174",
+    "item_name": "歐吉皮帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1174",
+    "item_image": "https://www.gametsg.net/img/1/8/e7be61eebeedbdf9090433a244561651.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1175",
+    "item_name": "歐吉皮帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1175",
+    "item_image": "https://www.gametsg.net/img/1/8/e7be61eebeedbdf9090433a244561651.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "負重獎勵+1000"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1176",
+    "item_name": "勇敢皮帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1176",
+    "item_image": "https://www.gametsg.net/img/1/8/44e49ba4eaf8fc3d792995215ae77e6d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+30"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1177",
+    "item_name": "勇敢皮帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1177",
+    "item_image": "https://www.gametsg.net/img/1/8/44e49ba4eaf8fc3d792995215ae77e6d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+30"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1178",
+    "item_name": "多羅腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1178",
+    "item_image": "https://www.gametsg.net/img/1/8/5a7168d94f392e9ec9a89efd6a1312bb.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "負重獎勵+500"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1179",
+    "item_name": "多羅腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1179",
+    "item_image": "https://www.gametsg.net/img/1/8/5a7168d94f392e9ec9a89efd6a1312bb.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "負重獎勵+500"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1180",
+    "item_name": "皮帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1180",
+    "item_image": "https://www.gametsg.net/img/1/8/515dd0a24f5ae1c8a5341c8f85c96128.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+30",
+      "負重獎勵+250"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1181",
+    "item_name": "皮帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1181",
+    "item_image": "https://www.gametsg.net/img/1/8/515dd0a24f5ae1c8a5341c8f85c96128.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+30",
+      "負重獎勵+250"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1182",
+    "item_name": "老舊的身體腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1182",
+    "item_image": "https://www.gametsg.net/img/1/8/7c4df93b3c635b19939d65f0cf179598.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1183",
+    "item_name": "老舊的靈魂腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1183",
+    "item_image": "https://www.gametsg.net/img/1/8/b5a33e7b6e24ec454ae0ba4db64b1628.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+15",
+      "最大MP+15"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1184",
+    "item_name": "老舊的精神腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1184",
+    "item_image": "https://www.gametsg.net/img/1/8/e71d67d5921c820f3a1479c690d406ed.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +30"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1185",
+    "item_name": "閃亮的身體腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1185",
+    "item_image": "https://www.gametsg.net/img/1/8/8a4e5a51e7b2aa8a37932b4335718c86.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+50",
+      "HP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1186",
+    "item_name": "閃亮的身體腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1186",
+    "item_image": "https://www.gametsg.net/img/1/8/8a4e5a51e7b2aa8a37932b4335718c86.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+50",
+      "HP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1187",
+    "item_name": "閃亮的靈魂腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1187",
+    "item_image": "https://www.gametsg.net/img/1/8/70eb3fa59a59317ca2bf53dd5c3c44d6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+20",
+      "最大MP+20",
+      "MP回復(tic)+1",
+      "HP回復(tic)+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1188",
+    "item_name": "閃亮的靈魂腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1188",
+    "item_image": "https://www.gametsg.net/img/1/8/70eb3fa59a59317ca2bf53dd5c3c44d6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+20",
+      "最大MP+20",
+      "MP回復(tic)+1",
+      "HP回復(tic)+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1189",
+    "item_name": "閃亮的精神腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1189",
+    "item_image": "https://www.gametsg.net/img/1/8/fffc32a18711174f2c7b5476c945b4ae.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +50",
+      "MP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1190",
+    "item_name": "閃亮的精神腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1190",
+    "item_image": "https://www.gametsg.net/img/1/8/fffc32a18711174f2c7b5476c945b4ae.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +50",
+      "MP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1191",
+    "item_name": "身體腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1191",
+    "item_image": "https://www.gametsg.net/img/1/8/fff6bd92276fb99fa37e53da9022cd58.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+50"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1192",
+    "item_name": "身體腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1192",
+    "item_image": "https://www.gametsg.net/img/1/8/fff6bd92276fb99fa37e53da9022cd58.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+50"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1193",
+    "item_name": "靈魂腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1193",
+    "item_image": "https://www.gametsg.net/img/1/8/85563b63a07bac983fc752b5b8276299.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+25",
+      "最大MP+25"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1194",
+    "item_name": "靈魂腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1194",
+    "item_image": "https://www.gametsg.net/img/1/8/85563b63a07bac983fc752b5b8276299.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+25",
+      "最大MP+25"
+    ],
+    "data_zhiye": "",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1195",
+    "item_name": "精神腰帶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1195",
+    "item_image": "https://www.gametsg.net/img/1/8/2f97b1cedf1026f699b47b0cd7e1c49b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +50"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  },
+  {
+    "item_id": "1196",
+    "item_name": "精神腰帶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1196",
+    "item_image": "https://www.gametsg.net/img/1/8/2f97b1cedf1026f699b47b0cd7e1c49b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +50"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "29",
+    "category_name": "腰帶"
+  }
+]

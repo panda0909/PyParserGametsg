@@ -1,0 +1,58 @@
+{
+  "item_id": "1417",
+  "item_name": "炎魔的火焰球",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1417",
+  "item_image": "https://www.gametsg.net/img/1/10/10c8ffb342a99d3256aa571b003ef372.jpg",
+  "item_grade": "grade02",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "炎魔的庇護",
+    "炎魔戰利品箱製作材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "炎魔的火焰球",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "玻璃",
+    "重量": "1",
+    "說明": [
+      "炎魔的庇護",
+      "炎魔戰利品箱製作材料"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "地獄炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=293",
+      "monster_id": "293",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_areas": [
+        "其他-血盟-14 級 突襲 (傳奇)"
+      ]
+    }
+  ]
+}

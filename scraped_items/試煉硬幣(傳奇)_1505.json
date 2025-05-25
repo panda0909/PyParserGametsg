@@ -1,0 +1,40 @@
+{
+  "item_id": "1505",
+  "item_name": "試煉硬幣(傳奇)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1505",
+  "item_image": "https://www.gametsg.net/img/1/10/ea613e0ff2aa5959efb5efb5231c399f.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "註冊物品收藏或製作改造工藝品 20,000 金幣"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "試煉硬幣(傳奇)",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": "註冊物品收藏或製作改造工藝品 20,000 金幣"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

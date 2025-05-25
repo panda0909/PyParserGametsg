@@ -1,0 +1,176 @@
+{
+  "item_id": "558",
+  "item_name": "巫妖覺醒斗篷",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=558",
+  "item_image": "https://www.gametsg.net/img/1/4/848ffbe1fd8aa542bc7f1e12c1a38956.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-9",
+  "item_stats": [
+    "MP回復(tic)+15",
+    "無視 MP 恢復懲罰 20%",
+    "魔攻+5"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "巫妖覺醒斗篷",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-9",
+    "屬性": [
+      "MP回復(tic)+15",
+      "無視 MP 恢復懲罰 20%",
+      "魔攻+5"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "布",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,魔攻 +1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,魔攻 +2"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,魔攻 +3"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,魔攻 +4"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,魔攻 +5"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,魔攻 +6"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,魔攻 +7"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,魔攻 +8"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,魔攻 +9"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,魔攻 +10"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "不滅的巫妖",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=72",
+      "monster_id": "72",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "支配的巫妖",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=914",
+      "monster_id": "914",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    }
+  ]
+}

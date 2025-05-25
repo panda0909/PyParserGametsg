@@ -1,0 +1,334 @@
+{
+  "item_id": "774",
+  "item_name": "石製手套",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=774",
+  "item_image": "https://www.gametsg.net/img/1/5/434c82279c371de407a9491b91b5a703.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "傷害減免+1"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "20",
+  "category_name": "手套",
+  "basic_info": {
+    "title": "石製手套",
+    "類型": "防具(手套)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": "傷害減免+1",
+    "祝福屬性": "+100 負重獎勵",
+    "材質": "礦石",
+    "重量": "50"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "支配者吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1",
+      "monster_id": "1",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "150",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=3",
+      "monster_id": "3",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "安塔瑞斯的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=15",
+      "monster_id": "15",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-15 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "巴拉卡斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=16",
+      "monster_id": "16",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "其他-巴拉卡斯保護區"
+      ]
+    },
+    {
+      "monster_name": "不滅的龍骨",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=188",
+      "monster_id": "188",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髏騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=236",
+      "monster_id": "236",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髏戰士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=264",
+      "monster_id": "264",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髅弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=294",
+      "monster_id": "294",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髅近衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=295",
+      "monster_id": "295",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "變種巨蟻女皇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=649",
+      "monster_id": "649",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-11 級 突襲 (高級)"
+      ]
+    },
+    {
+      "monster_name": "古代守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=898",
+      "monster_id": "898",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    }
+  ]
+}

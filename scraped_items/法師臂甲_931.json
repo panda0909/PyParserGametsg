@@ -1,0 +1,184 @@
+{
+  "item_id": "931",
+  "item_name": "法師臂甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=931",
+  "item_image": "https://www.gametsg.net/img/1/6/2752206af783e78fcdb80277fcb8538f.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-2",
+  "item_stats": [
+    "智力+2",
+    "昏迷抗性+3%"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "法師臂甲",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-2",
+    "屬性": [
+      "智力+2",
+      "昏迷抗性+3%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "骨頭",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,魔攻 +1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,魔攻 +1"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,魔攻 +2"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,魔攻 +2"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,魔攻 +3"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,魔攻 +3"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,魔攻 +4"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,魔攻 +4"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,魔攻 +5"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,魔攻 +5"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1466",
+      "material_id": "1466",
+      "material_name": "水之皮革",
+      "material_image": "https://www.gametsg.net/img/1/10/2ee034627da17e553025547b92269f42.jpg",
+      "material_grade": "grade01",
+      "material_count": "5"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1371",
+      "material_id": "1371",
+      "material_name": "英雄防具製作秘傳(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/9/45d1eade9615cb0816a7949037fb1ff7.jpg",
+      "material_grade": "grade04",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+          "alt_id": "1373",
+          "alt_name": "英雄製作秘笈",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+          "alt_id": "1374",
+          "alt_name": "英雄製作秘笈(刻印)",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+      "material_id": "1373",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+      "material_id": "1374",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2756",
+      "material_id": "2756",
+      "material_name": "最高級的金屬板",
+      "material_image": "https://www.gametsg.net/img/3/25/d7fc5be606f350295cefbfb203708905.jpg",
+      "material_grade": "grade00",
+      "material_count": "12"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "400"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "5000000"
+    }
+  ],
+  "monster_drops": []
+}

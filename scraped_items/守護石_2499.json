@@ -1,0 +1,73 @@
+{
+  "item_id": "2499",
+  "item_name": "守護石",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2499",
+  "item_image": "https://www.gametsg.net/img/2/13/9a5187859445c02ed246e0783e2f81eb.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "守護槽開口材質"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "守護石",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦石",
+    "說明": "守護槽開口材質"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1450",
+      "material_id": "1450",
+      "material_name": "魔法石寶石(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/10/28a3d97f395664f657674b82fb9c4a39.jpg",
+      "material_grade": "grade01",
+      "material_count": "100"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2600",
+      "material_id": "2600",
+      "material_name": "祝福賦予卷軸",
+      "material_image": "https://www.gametsg.net/img/2/13/3de8449f825981123346aecf0547351f.jpg",
+      "material_grade": "grade00",
+      "material_count": "2",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2760",
+          "alt_id": "2760",
+          "alt_name": "受祝福的強化卷軸(刻印)",
+          "alt_grade": "grade00",
+          "alt_count": "2"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2760",
+      "material_id": "2760",
+      "material_name": "",
+      "material_grade": "grade00",
+      "material_count": "2"
+    }
+  ],
+  "monster_drops": []
+}

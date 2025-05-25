@@ -1,0 +1,296 @@
+{
+  "item_id": "2498",
+  "item_name": "聖物製作硬幣",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2498",
+  "item_image": "https://www.gametsg.net/img/2/13/8e504d670265f0428fa360c5f31146f0.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "聖物製作硬幣",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "邪惡的鐮刀死神",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=2",
+      "monster_id": "2",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    },
+    {
+      "monster_name": "祭司長納格巴斯 (分身)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=7",
+      "monster_id": "7",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "祭司長納格巴斯 (本體)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=8",
+      "monster_id": "8",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黃金騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=615",
+      "monster_id": "615",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "72",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(22:00)"
+      ]
+    },
+    {
+      "monster_name": "真冰魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=635",
+      "monster_id": "635",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "71",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(21:00)"
+      ]
+    },
+    {
+      "monster_name": "高崙守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=648",
+      "monster_id": "648",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(20:00)"
+      ]
+    },
+    {
+      "monster_name": "被遺忘的巴拉卡斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=650",
+      "monster_id": "650",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(12:00)"
+      ]
+    },
+    {
+      "monster_name": "黑暗的伊芙利",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=658",
+      "monster_id": "658",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "69",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(19:00)"
+      ]
+    },
+    {
+      "monster_name": "遺忘的不死鳥",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=659",
+      "monster_id": "659",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "69",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(12:00)"
+      ]
+    },
+    {
+      "monster_name": "咒術師努宙斯爾斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=681",
+      "monster_id": "681",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_areas": [
+        "其他-世界首領突襲-(13:00)"
+      ]
+    },
+    {
+      "monster_name": "被遺忘的冰雪女王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=691",
+      "monster_id": "691",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(12:00)"
+      ]
+    },
+    {
+      "monster_name": "火焰之影",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=920",
+      "monster_id": "920",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    },
+    {
+      "monster_name": "炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=921",
+      "monster_id": "921",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    },
+    {
+      "monster_name": "虛空的吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1028",
+      "monster_id": "1028",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-虛空的寺院"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "item_id": "445",
+  "item_name": "指揮官的頭盔",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=445",
+  "item_image": "https://www.gametsg.net/img/1/3/80e77e58f02a14b6144c16a4bf96e3ad.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-4",
+  "item_stats": [
+    "魔法防禦 (MR)+10",
+    "昏迷抗性+10%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "17",
+  "category_name": "頭盔",
+  "basic_info": {
+    "title": "指揮官的頭盔",
+    "類型": "防具(頭盔)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-4",
+    "屬性": [
+      "魔法防禦 (MR)+10",
+      "昏迷抗性+10%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "皮革",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1470",
+      "material_id": "1470",
+      "material_name": "白金金屬板",
+      "material_image": "https://www.gametsg.net/img/1/10/1656bb84b0a408611dc6d14e85d99335.jpg",
+      "material_grade": "grade01",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1345",
+      "material_id": "1345",
+      "material_name": "傳說防具製作秘笈(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/9/ccd5dfccdc3efedcfada5a9be74b4855.jpg",
+      "material_grade": "grade05",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+          "alt_id": "1348",
+          "alt_name": "傳說製作秘笈",
+          "alt_grade": "grade05",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+          "alt_id": "1349",
+          "alt_name": "傳說製作秘笈(刻印)",
+          "alt_grade": "grade05",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+      "material_id": "1348",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+      "material_id": "1349",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2755",
+      "material_id": "2755",
+      "material_name": "最高級皮革",
+      "material_image": "https://www.gametsg.net/img/3/25/8705804bec5ec77b5345aad349fea3ba.jpg",
+      "material_grade": "grade00",
+      "material_count": "32"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "800"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "50000000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "不滅的龍骨",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=188",
+      "monster_id": "188",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髏騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=236",
+      "monster_id": "236",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    }
+  ]
+}

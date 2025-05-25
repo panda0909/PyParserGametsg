@@ -1,0 +1,136 @@
+{
+  "item_id": "925",
+  "item_name": "船長的銀光臂甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=925",
+  "item_image": "https://www.gametsg.net/img/1/6/6e566a430c4c003824e1d2d0fcc40c01.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "槍手",
+      "level": "level09"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    }
+  ],
+  "item_level": "-4",
+  "item_stats": [
+    "遠距離傷害+3",
+    "敏捷+2",
+    "昏迷抗性+7%",
+    "傷害減免+1"
+  ],
+  "data_zhiye": "34|2",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "船長的銀光臂甲",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "物理防禦 (AC)": "-4",
+    "屬性": [
+      "遠距離傷害+3",
+      "敏捷+2",
+      "昏迷抗性+7%",
+      "傷害減免+1"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "黑色米索莉",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,傷害減免+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,傷害減免+1"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,傷害減免+2"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,傷害減免+2"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,傷害減免+3"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,傷害減免+3"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,傷害減免+4"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,傷害減免+5"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,傷害減免+6"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,傷害減免+7"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "海賊狙擊手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=43",
+      "monster_id": "43",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "96",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    }
+  ]
+}

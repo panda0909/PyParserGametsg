@@ -1,0 +1,68 @@
+{
+  "item_id": "1351",
+  "item_name": "法利昂之心",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1351",
+  "item_image": "https://www.gametsg.net/img/1/9/9f34cd81c69a5ea4c1017101aefa2e43.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "法利昂之心",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "動物性",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "法利昂的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=17",
+      "monster_id": "17",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-17 級 突襲 (神話)"
+      ]
+    }
+  ]
+}

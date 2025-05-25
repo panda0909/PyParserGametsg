@@ -1,0 +1,114 @@
+{
+  "item_id": "1551",
+  "item_name": "風靈的屬性石",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1551",
+  "item_image": "https://www.gametsg.net/img/2/11/c8052923e1554e569dab4f5c10bff357.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "風靈的屬性石",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "銀",
+    "重量": "0.01",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "狂風的始祖鳥",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=189",
+      "monster_id": "189",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    },
+    {
+      "monster_name": "狂風的莫斯奇托",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=259",
+      "monster_id": "259",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    },
+    {
+      "monster_name": "狂風的食火雞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=355",
+      "monster_id": "355",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    },
+    {
+      "monster_name": "狂風的始祖鳥",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=383",
+      "monster_id": "383",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    }
+  ]
+}

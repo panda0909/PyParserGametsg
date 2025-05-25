@@ -1,0 +1,111 @@
+{
+  "item_id": "1844",
+  "item_name": "精靈水晶(精準射擊)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1844",
+  "item_image": "https://www.gametsg.net/img/2/11/5aeba4bf247512efc740127a6a576413.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "精靈水晶"
+  ],
+  "data_zhiye": "2",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "精靈水晶(精準射擊)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "亞力安王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=45",
+      "monster_id": "45",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "翼龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=387",
+      "monster_id": "387",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-74.風龍窟",
+        "拉斯塔巴德-中央廣場"
+      ]
+    },
+    {
+      "monster_name": "曼波兔王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=521",
+      "monster_id": "521",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    },
+    {
+      "monster_name": "風靈之主",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=646",
+      "monster_id": "646",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    }
+  ]
+}

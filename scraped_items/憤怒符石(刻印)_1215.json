@@ -1,0 +1,84 @@
+{
+  "item_id": "1215",
+  "item_name": "憤怒符石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1215",
+  "item_image": "https://www.gametsg.net/img/1/8/16d525c221efca8218e08adeda34a827.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "決勝一擊+3%",
+    "魔法防禦 (MR)+15",
+    "決勝一擊增幅率+10%"
+  ],
+  "data_zhiye": "",
+  "category_id": "30",
+  "category_name": "符石",
+  "basic_info": {
+    "title": "憤怒符石(刻印)",
+    "類型": "飾品(符石)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": [
+      "決勝一擊+3%",
+      "魔法防禦 (MR)+15",
+      "決勝一擊增幅率+10%"
+    ],
+    "祝福屬性": "藥水恢復率+1%",
+    "材質": "礦石",
+    "重量": "1",
+    "說明": "可以用印章/符石強化石進行強化"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "造成額外攻擊的幾率 2%"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊幾率4%，無視PVP傷害減免+1"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊幾率 6%，無視 PVP 傷害減免 +2"
+    },
+    {
+      "level": "4",
+      "attributes": "機率額外攻擊8%，無視PVP傷害減免+3"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊幾率10%，無視PVP傷害減免+4"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊機率12%，無視PVP傷害減免+5"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊機率14%，無視PVP傷害減免+6"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊機率16%，無視PVP傷害減免+7"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,170 @@
+{
+  "item_id": "468",
+  "item_name": "杰弗雷庫的皮革頭盔",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=468",
+  "item_image": "https://www.gametsg.net/img/1/3/22bdb6fda6bc772c88b436c98cf774d3.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "敏捷+1"
+  ],
+  "data_zhiye": "2|34",
+  "category_id": "17",
+  "category_name": "頭盔",
+  "basic_info": {
+    "title": "杰弗雷庫的皮革頭盔",
+    "類型": "防具(頭盔)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": "敏捷+1",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "皮革",
+    "重量": "20"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,遠距離命中+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,遠距離命中+2"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,遠距離命中+3"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,遠距離命中+4"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,遠距離命中+5"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,遠距離命中+6"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,遠距離命中+7"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,遠距離命中+8"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,遠距離命中+9"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,遠距離命中+10"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "杰弗雷庫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=132",
+      "monster_id": "132",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    },
+    {
+      "monster_name": "杰弗雷庫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=133",
+      "monster_id": "133",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-提卡爾寺院"
+      ]
+    }
+  ]
+}

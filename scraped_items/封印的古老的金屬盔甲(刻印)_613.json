@@ -1,0 +1,65 @@
+{
+  "item_id": "613",
+  "item_name": "封印的古老的金屬盔甲(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=613",
+  "item_image": "https://www.gametsg.net/img/1/4/2868e938971591dc8aa482a33ea4c5c8.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    },
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [],
+  "data_zhiye": "1|52|81|7",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "封印的古老的金屬盔甲(刻印)",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "金屬塊",
+    "重量": "280"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

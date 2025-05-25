@@ -1,0 +1,117 @@
+{
+  "item_id": "2730",
+  "item_name": "波諾斯戰利品箱",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2730",
+  "item_image": "https://www.gametsg.net/img/2/14/8cc81865b0dba161069797924ed0c5f2.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時,依照設定的機率取得物品"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "波諾斯戰利品箱",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "重量": "0.1",
+    "說明": "使用時,依照設定的機率取得物品"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "樹精",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=127",
+      "monster_id": "127",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-22.被雷擊中的枯樹",
+        "亞丁大陸-23.妖魔森林伐木區",
+        "亞丁大陸-24.妖魔森林內部"
+      ]
+    },
+    {
+      "monster_name": "卡司特王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=128",
+      "monster_id": "128",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-25.妖魔部落"
+      ]
+    },
+    {
+      "monster_name": "烏勒庫斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=129",
+      "monster_id": "129",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-23.妖魔森林伐木區"
+      ]
+    },
+    {
+      "monster_name": "奈克偌斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=130",
+      "monster_id": "130",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-22.被雷擊中的枯樹",
+        "亞丁大陸-24.妖魔森林內部"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "item_id": "555",
+  "item_name": "火焰之影盔甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=555",
+  "item_image": "https://www.gametsg.net/img/1/4/1d327254ddd89ad6d691a4206533d9d8.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-24",
+  "item_stats": [
+    "無視傷害減免4%",
+    "傷害減免+10"
+  ],
+  "data_zhiye": "",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "火焰之影盔甲",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-24",
+    "屬性": [
+      "無視傷害減免4%",
+      "傷害減免+10"
+    ],
+    "祝福屬性": "物理防禦 (AC)-3",
+    "材質": "骨",
+    "重量": "0.01",
+    "套裝裝備": [
+      "火焰之影頭盔",
+      "火焰之影盔甲",
+      "火焰之影斗篷",
+      "火焰之影手套",
+      "火焰之影長靴"
+    ],
+    "套裝屬性": [
+      "2套效果",
+      "物理防御力(AC)-10",
+      "力量+1",
+      "敏捷+1",
+      "CON +1",
+      "智力+1",
+      "精神+1",
+      "CHA+1",
+      "3組效果",
+      "物理防御力(AC)-5",
+      "力量+1",
+      "敏捷+1",
+      "CON +1",
+      "智力+1",
+      "精神+1",
+      "CHA+1",
+      "4組效果",
+      "物理防御力(AC)-5",
+      "力量+1",
+      "敏捷+1",
+      "CON +1",
+      "智力+1",
+      "精神+1",
+      "CHA+1",
+      "5組效果",
+      "物理防御力(AC)-5",
+      "力量+1",
+      "敏捷+1",
+      "CON +1",
+      "智力+1",
+      "精神+1",
+      "CHA+1",
+      "HP吸收",
+      "MP吸收",
+      "發動:火焰之影的權能100%"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可儲存",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,53 @@
+{
+  "item_id": "2582",
+  "item_name": "頂級庇護(1階)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2582",
+  "item_image": "https://www.gametsg.net/img/2/13/09571c38a45b529205d7964c11faa7cd.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 10 分鐘",
+    "PVP傷害減免+1"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "45",
+  "category_name": "魔眼",
+  "basic_info": {
+    "title": "頂級庇護(1階)",
+    "類型": "其他(魔眼)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "持續時間 10 分鐘",
+      "PVP傷害減免+1"
+    ],
+    "材質": "金的",
+    "重量": "0.01",
+    "說明": [
+      "拿著物品時:",
+      "[PVP傷害減免+1]",
+      "使用物品時:",
+      "[PVP傷害減免+1]",
+      "消耗品:",
+      "[10名譽金幣]"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

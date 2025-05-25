@@ -1,0 +1,164 @@
+{
+  "item_id": "552",
+  "item_name": "席琳的霸氣",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=552",
+  "item_image": "https://www.gametsg.net/img/1/4/99b1ff29e47e9b0dc2375bd1e608f57c.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-16",
+  "item_stats": [
+    "最大HP+1000",
+    "毒抗性+100%",
+    "全屬性抗性+50%",
+    "近距離傷害+5",
+    "近距離命中+3",
+    "無視近距離傷害​​減免+5%",
+    "傷害減免+8",
+    "免疫減速效果",
+    "強制轉化免疫",
+    "無視PVP傷害減免+5%",
+    "啟動:席琳的庇護 5%"
+  ],
+  "data_zhiye": "2|4|8|5|12|13",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "席琳的霸氣",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-16",
+    "屬性": [
+      "最大HP+1000",
+      "毒抗性+100%",
+      "全屬性抗性+50%",
+      "近距離傷害+5",
+      "近距離命中+3",
+      "無視近距離傷害​​減免+5%",
+      "傷害減免+8",
+      "免疫減速效果",
+      "強制轉化免疫",
+      "無視PVP傷害減免+5%",
+      "啟動:席琳的庇護 5%"
+    ],
+    "祝福屬性": "物理防禦 (AC)-3",
+    "材質": "龍鱗",
+    "重量": "100",
+    "說明": "被擊時依指定概率發動席琳的庇護"
+  },
+  "detail_info": {
+    "倉庫": "可儲存",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

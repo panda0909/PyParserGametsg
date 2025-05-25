@@ -1,0 +1,191 @@
+{
+  "item_id": "1021",
+  "item_name": "艾莉絲的項鍊",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1021",
+  "item_image": "https://www.gametsg.net/img/1/7/e2731d55405476d6a9de91584ef9df18.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "遠距離傷害+1",
+    "遠距離命中+4",
+    "昏迷抗性+2%"
+  ],
+  "data_zhiye": "2|4|34",
+  "category_id": "26",
+  "category_name": "項鍊",
+  "basic_info": {
+    "title": "艾莉絲的項鍊",
+    "類型": "飾品(項鍊)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "遠距離傷害+1",
+      "遠距離命中+4",
+      "昏迷抗性+2%"
+    ],
+    "祝福屬性": "藥水恢復率+1%",
+    "材質": "原石",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+10,負重獎勵+10"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+30,負重獎勵+30"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+40,負重獎勵+40"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+50,物理防禦力 (AC)-1,負重獎勵+50,魔法防禦 (MR)+2"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+60,物理防禦力 (AC)-2,負重獎勵+60,魔法防禦 (MR)+4"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+70,物理防禦力 (AC)-3,負重獎勵+70,魔法防禦 (MR)+6"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+80,物理防禦力 (AC)-4,負重獎勵+80,魔法防禦 (MR)+8"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "艾莉絲",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=73",
+      "monster_id": "73",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    },
+    {
+      "monster_name": "殘酷的艾莉絲",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=162",
+      "monster_id": "162",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_areas": [
+        "傲慢之塔-7樓(殘忍)"
+      ]
+    },
+    {
+      "monster_name": "鐮刀死神的監視者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=879",
+      "monster_id": "879",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-7樓(殘忍)",
+        "其他-外觀-殘忍的冰原老虎"
+      ]
+    },
+    {
+      "monster_name": "支配的艾莉絲",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=912",
+      "monster_id": "912",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    }
+  ]
+}

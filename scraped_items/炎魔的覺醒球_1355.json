@@ -1,0 +1,72 @@
+{
+  "item_id": "1355",
+  "item_name": "炎魔的覺醒球",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1355",
+  "item_image": "https://www.gametsg.net/img/1/9/39c84dbd918c99289c2f35b1af024787.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "覺醒:炎魔的防護製作材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "炎魔的覺醒球",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "玻璃",
+    "重量": "1",
+    "說明": "覺醒:炎魔的防護製作材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "異界的炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=905",
+      "monster_id": "905",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "亞丁大陸地監-異界裂縫"
+      ]
+    },
+    {
+      "monster_name": "炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=921",
+      "monster_id": "921",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    }
+  ]
+}

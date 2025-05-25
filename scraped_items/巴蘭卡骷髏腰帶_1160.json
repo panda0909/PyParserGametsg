@@ -1,0 +1,196 @@
+{
+  "item_id": "1160",
+  "item_name": "巴蘭卡骷髏腰帶",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1160",
+  "item_image": "https://www.gametsg.net/img/1/8/daca2a3cbd91b945fa2bd9a47ea1f706.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "最大HP+50",
+    "負重獎勵+1000"
+  ],
+  "data_zhiye": "",
+  "category_id": "29",
+  "category_name": "腰帶",
+  "basic_info": {
+    "title": "巴蘭卡骷髏腰帶",
+    "類型": "飾品(腰帶)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "最大HP+50",
+      "負重獎勵+1000"
+    ],
+    "祝福屬性": "藥水恢復率+1%",
+    "材質": "皮革",
+    "重量": "40"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+10，負重獎勵+10"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+20，負重獎勵+20"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+30，負重獎勵+30"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+40，負重獎勵+40"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+50，負重獎勵+50，近距離暴擊抗性+2%，遠距離暴擊抗性+2%，PVE傷害減免+1"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+60，負重獎勵+60，近距離暴擊抗性+4%，遠距離暴擊抗性+4%，PVE傷害減免+2"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+70，負重獎勵+70，近距離暴擊抗性+6%，遠距離暴擊抗性+6%，PVE傷害減免+3"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+80，負重獎勵+80，近距離暴擊抗性+8%，遠距離暴擊抗性+8%，PVE傷害減免+4"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1444",
+      "material_id": "1444",
+      "material_name": "黑暗妖精靈魂結晶體",
+      "material_image": "https://www.gametsg.net/img/1/10/8d01351327c0e0d7434b6da7e913a1dc.jpg",
+      "material_grade": "grade01",
+      "material_count": "1000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1383",
+      "material_id": "1383",
+      "material_name": "法令軍王印章",
+      "material_image": "https://www.gametsg.net/img/1/9/a1f8278dea6a795e283e3f9c41f915de.jpg",
+      "material_grade": "grade03",
+      "material_count": "10",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+          "alt_id": "1373",
+          "alt_name": "英雄製作秘笈",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+          "alt_id": "1374",
+          "alt_name": "英雄製作秘笈(刻印)",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+      "material_id": "1373",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+      "material_id": "1374",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1515",
+      "material_id": "1515",
+      "material_name": "黑暗鑄塊",
+      "material_image": "https://www.gametsg.net/img/2/11/675a977d5f8aad30244479a8834fa9b4.jpg",
+      "material_grade": "grade01",
+      "material_count": "50"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2758",
+      "material_id": "2758",
+      "material_name": "最高級的原石",
+      "material_image": "https://www.gametsg.net/img/3/25/0a50a4adceb8686cb9fca6d208a5bacb.jpg",
+      "material_grade": "grade00",
+      "material_count": "50"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "5000000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "覺醒的魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=3",
+      "monster_id": "3",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=41",
+      "monster_id": "41",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "96",
+      "monster_areas": [
+        "拉斯塔巴德-魔獸調教廠",
+        "其他-魔獸軍王室"
+      ]
+    }
+  ]
+}

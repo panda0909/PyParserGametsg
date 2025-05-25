@@ -1,0 +1,68 @@
+{
+  "item_id": "1804",
+  "item_name": "秘傳(落雷(神秘))",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1804",
+  "item_image": "https://www.gametsg.net/img/2/11/94f5f12b08aca1b4af593a0ef1266444.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "秘傳"
+  ],
+  "data_zhiye": "13",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "秘傳(落雷(神秘))",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.01",
+    "說明": "秘傳"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "林德拜爾的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=21",
+      "monster_id": "21",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-18 級 突襲 (神話)"
+      ]
+    }
+  ]
+}

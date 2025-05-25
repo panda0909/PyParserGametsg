@@ -1,0 +1,453 @@
+{
+  "item_id": "2136",
+  "item_name": "慎重藥水(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2136",
+  "item_image": "https://www.gametsg.net/img/2/12/cf670434c895c81dba85df19f45f23cc.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間:5 分鐘"
+  ],
+  "data_zhiye": "3",
+  "category_id": "40",
+  "category_name": "藥水",
+  "basic_info": {
+    "title": "慎重藥水(刻印)",
+    "類型": "其他(藥水)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "屬性": "持續時間:5 分鐘",
+    "材質": "玻璃",
+    "重量": "1.25",
+    "說明": "魔法攻擊力和MP回復量增加"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "翼龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=387",
+      "monster_id": "387",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-74.風龍窟",
+        "拉斯塔巴德-中央廣場"
+      ]
+    },
+    {
+      "monster_name": "熔岩高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=423",
+      "monster_id": "423",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "火焰高倫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=424",
+      "monster_id": "424",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "地龍的阿魯巴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=470",
+      "monster_id": "470",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-龍之谷地監-5樓",
+        "亞丁大陸地監-龍之谷地監-6樓",
+        "亞丁大陸地監-龍之谷地監-7樓"
+      ]
+    },
+    {
+      "monster_name": "烈焰的夸霧",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=489",
+      "monster_id": "489",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-烈焰地監-2樓"
+      ]
+    },
+    {
+      "monster_name": "哈維",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=536",
+      "monster_id": "536",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-74.風龍窟"
+      ]
+    },
+    {
+      "monster_name": "烈焰的爆彈花",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=550",
+      "monster_id": "550",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-烈焰地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "艾爾摩魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=638",
+      "monster_id": "638",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁",
+        "亞丁大陸-55.艾爾摩戰場"
+      ]
+    },
+    {
+      "monster_name": "水靈之主",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=645",
+      "monster_id": "645",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    },
+    {
+      "monster_name": "海星",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=663",
+      "monster_id": "663",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "水靈奴隸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=667",
+      "monster_id": "667",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    },
+    {
+      "monster_name": "黑長者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=697",
+      "monster_id": "697",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "65",
+      "monster_areas": [
+        "亞丁大陸-82.龍之谷三岔路",
+        "亞丁大陸-85.龍之谷地監東邊入口",
+        "亞丁大陸-84.龍之谷地監北邊入口",
+        "亞丁大陸-86.龍之谷地監西邊入口",
+        "亞丁大陸-83.龍之谷地監中央入口"
+      ]
+    },
+    {
+      "monster_name": "水靈",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=705",
+      "monster_id": "705",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "65",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    },
+    {
+      "monster_name": "蜥蜴人魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=724",
+      "monster_id": "724",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "62",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-03.亞丁吉普賽村",
+        "亞丁大陸地監-伊娃王國地監-3樓"
+      ]
+    },
+    {
+      "monster_name": "卡伊拉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=729",
+      "monster_id": "729",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "60",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-12.南部地區",
+        "亞丁大陸-70.海音沼澤",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-68.鏡子森林"
+      ]
+    },
+    {
+      "monster_name": "多眼怪",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=748",
+      "monster_id": "748",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "59",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-12.南部地區",
+        "亞丁大陸-70.海音沼澤",
+        "亞丁大陸-27.密林地帶"
+      ]
+    },
+    {
+      "monster_name": "邪惡蜥蜴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=785",
+      "monster_id": "785",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "39",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-41.沙蟲的巢穴",
+        "亞丁大陸-34.東部沙漠地帶"
+      ]
+    },
+    {
+      "monster_name": "強化白蟻群",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=791",
+      "monster_id": "791",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "37",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-巨蟻洞穴-一樓",
+        "亞丁大陸地監-巨蟻洞穴-二樓"
+      ]
+    },
+    {
+      "monster_name": "漆黑的地獄犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=802",
+      "monster_id": "802",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "33",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": []
+    },
+    {
+      "monster_name": "長者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=804",
+      "monster_id": "804",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "32",
+      "monster_areas": [
+        "說話之島-08.蜘蛛森林",
+        "說話之島-13.黑騎士團野營區",
+        "說話之島-01.侏儒部落(東)",
+        "亞丁大陸-76.魔法師的研究室"
+      ]
+    },
+    {
+      "monster_name": "叛徒長者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=805",
+      "monster_id": "805",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "32",
+      "monster_areas": []
+    },
+    {
+      "monster_name": "地獄犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=823",
+      "monster_id": "823",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "28",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-古魯丁地監-5樓",
+        "亞丁大陸地監-古魯丁地監-6 樓",
+        "亞丁大陸地監-古魯丁地監-7 樓"
+      ]
+    },
+    {
+      "monster_name": "漂浮之眼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=830",
+      "monster_id": "830",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "27",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "說話之島-05.妖魔瞭望塔",
+        "亞丁大陸-58.西部沙漠地帶",
+        "亞丁大陸地監-古魯丁地監-6 樓"
+      ]
+    }
+  ]
+}

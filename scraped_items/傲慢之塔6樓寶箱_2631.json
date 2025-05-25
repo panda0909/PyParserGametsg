@@ -1,0 +1,68 @@
+{
+  "item_id": "2631",
+  "item_name": "傲慢之塔6樓寶箱",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2631",
+  "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時,傲慢之塔6樓寶箱獲得"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "傲慢之塔6樓寶箱",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金",
+    "說明": "使用時,傲慢之塔6樓寶箱獲得"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2623",
+      "material_id": "2623",
+      "material_name": "傲慢之塔6樓移動卷軸",
+      "material_image": "https://www.gametsg.net/img/2/14/47cccde45708157a2e7dc051e654e658.jpg",
+      "material_grade": "grade00",
+      "material_count": "100"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "不死的殭屍將軍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=477",
+      "monster_id": "477",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-6樓(不死)"
+      ]
+    }
+  ]
+}

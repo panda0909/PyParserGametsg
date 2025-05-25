@@ -1,0 +1,49 @@
+{
+  "item_id": "2776",
+  "item_name": "魔族符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2776",
+  "item_image": "https://www.gametsg.net/uploads/20250114/6e4d6b2f049682a1fc00a258fd1612a2.png",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "18/20",
+  "item_stats": [
+    "武器命中+2",
+    "最大HP+30",
+    "防止武器損壞",
+    "生命+3",
+    "發動：白惡魔逆襲 4%"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "魔族符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "18/20",
+    "屬性": [
+      "武器命中+2",
+      "最大HP+30",
+      "防止武器損壞",
+      "生命+3",
+      "發動：白惡魔逆襲 4%"
+    ],
+    "材質": "黑色米索莉",
+    "重量": "35"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

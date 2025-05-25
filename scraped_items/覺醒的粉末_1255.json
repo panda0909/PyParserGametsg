@@ -1,0 +1,45 @@
+{
+  "item_id": "1255",
+  "item_name": "覺醒的粉末",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1255",
+  "item_image": "https://www.gametsg.net/img/1/9/72720ee4a9958cd61c8cfc5d04a48e3c.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 30 分鐘"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "36",
+  "category_name": "卷軸",
+  "basic_info": {
+    "title": "覺醒的粉末",
+    "類型": "其他(卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "持續時間 30 分鐘",
+    "材質": "礦物質",
+    "說明": [
+      "利用暗黑龍哈爾巴斯的力量讓艾比諾覺醒的粉末.",
+      "僅適用於艾比諾盆地",
+      "使用時,艾比諾覺醒BUFF被啟動."
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

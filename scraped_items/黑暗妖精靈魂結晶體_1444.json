@@ -1,0 +1,605 @@
+{
+  "item_id": "1444",
+  "item_name": "黑暗妖精靈魂結晶體",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1444",
+  "item_image": "https://www.gametsg.net/img/1/10/8d01351327c0e0d7434b6da7e913a1dc.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "黑暗妖精靈魂結晶體",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石",
+    "重量": "0.01",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "覺醒的魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=3",
+      "monster_id": "3",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的暗殺軍王史雷佛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=4",
+      "monster_id": "4",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的法令軍王蕾雅",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=5",
+      "monster_id": "5",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的冥法之王海露拜",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=6",
+      "monster_id": "6",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "冥法軍王海露拜",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=35",
+      "monster_id": "35",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "97",
+      "monster_areas": [
+        "其他-冥法軍王室"
+      ]
+    },
+    {
+      "monster_name": "魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=41",
+      "monster_id": "41",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "96",
+      "monster_areas": [
+        "拉斯塔巴德-魔獸調教廠",
+        "其他-魔獸軍王室"
+      ]
+    },
+    {
+      "monster_name": "法令軍王蕾雅",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=42",
+      "monster_id": "42",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "96",
+      "monster_areas": [
+        "拉斯塔巴德-魔獸軍王的職務室"
+      ]
+    },
+    {
+      "monster_name": "暗殺軍王史雷佛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=47",
+      "monster_id": "47",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "95",
+      "monster_areas": [
+        "拉斯塔巴德-暗殺軍王的職務室",
+        "其他-暗殺軍王室"
+      ]
+    },
+    {
+      "monster_name": "長老:提亞麥斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=77",
+      "monster_id": "77",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "92",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-魔獸軍王室"
+      ]
+    },
+    {
+      "monster_name": "長老:比亞塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=116",
+      "monster_id": "116",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "91",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-暗殺軍王室"
+      ]
+    },
+    {
+      "monster_name": "長老:安迪斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=145",
+      "monster_id": "145",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "拉斯塔巴德-魔獸軍王的職務室"
+      ]
+    },
+    {
+      "monster_name": "長老:巴洛麥斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=146",
+      "monster_id": "146",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "拉斯塔巴德-魔獸軍王的職務室"
+      ]
+    },
+    {
+      "monster_name": "長老:巴洛德",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=147",
+      "monster_id": "147",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-冥法軍王室"
+      ]
+    },
+    {
+      "monster_name": "長老:凱伊納",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=170",
+      "monster_id": "170",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-暗殺軍王室"
+      ]
+    },
+    {
+      "monster_name": "長老:伊戴亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=171",
+      "monster_id": "171",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-魔獸軍王室"
+      ]
+    },
+    {
+      "monster_name": "長老:拉米阿斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=172",
+      "monster_id": "172",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-冥法軍王室"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精巡守",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=437",
+      "monster_id": "437",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精警衛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=438",
+      "monster_id": "438",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "82",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精將軍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=439",
+      "monster_id": "439",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精盜賊",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=454",
+      "monster_id": "454",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "81",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精士兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=510",
+      "monster_id": "510",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "拉斯塔巴德-地下決鬥場",
+        "拉斯塔巴德-暗殺軍王的職務室"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=511",
+      "monster_id": "511",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場"
+      ]
+    },
+    {
+      "monster_name": "魔獸團長黑劍魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=512",
+      "monster_id": "512",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_areas": [
+        "拉斯塔巴德-魔獸調教廠",
+        "其他-野獸訓練場"
+      ]
+    },
+    {
+      "monster_name": "魔法團長卡米爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=513",
+      "monster_id": "513",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_areas": [
+        "其他-黑魔法修練場"
+      ]
+    },
+    {
+      "monster_name": "傭兵隊長梅派斯托",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=514",
+      "monster_id": "514",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_areas": [
+        "拉斯塔巴德-地下決鬥場"
+      ]
+    },
+    {
+      "monster_name": "親衛隊長尤里奥斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=515",
+      "monster_id": "515",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_areas": [
+        "拉斯塔巴德-惡魔之路祭壇"
+      ]
+    },
+    {
+      "monster_name": "暗殺軍團凱特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=529",
+      "monster_id": "529",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-地下決鬥場"
+      ]
+    },
+    {
+      "monster_name": "冥法團長格里波司",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=530",
+      "monster_id": "530",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_areas": [
+        "其他-惡魔之路傭兵室"
+      ]
+    },
+    {
+      "monster_name": "近衛隊長薩普利",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=531",
+      "monster_id": "531",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_areas": [
+        "拉斯塔巴德-地下控制室"
+      ]
+    },
+    {
+      "monster_name": "神官隊長辛克雷歐",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=532",
+      "monster_id": "532",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_areas": [
+        "其他-黑魔法實驗室"
+      ]
+    }
+  ]
+}

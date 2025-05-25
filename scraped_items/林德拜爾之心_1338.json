@@ -1,0 +1,68 @@
+{
+  "item_id": "1338",
+  "item_name": "林德拜爾之心",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1338",
+  "item_image": "https://www.gametsg.net/img/1/9/64f20fa0a4b47c4b62a891a4b12624ec.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "林德拜爾之心",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "動物性",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "林德拜爾的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=21",
+      "monster_id": "21",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-18 級 突襲 (神話)"
+      ]
+    }
+  ]
+}

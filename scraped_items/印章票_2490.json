@@ -1,0 +1,40 @@
+{
+  "item_id": "2490",
+  "item_name": "印章票",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2490",
+  "item_image": "https://www.gametsg.net/img/1/10/8486b60f5b08632ca31b5f16711d4e20.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "封印商人貨幣"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "印章票",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "說明": "封印商人貨幣"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

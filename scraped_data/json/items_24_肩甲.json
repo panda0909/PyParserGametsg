@@ -1,0 +1,217 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "998",
+    "item_name": "光之敏捷肩甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=998",
+    "item_image": "https://www.gametsg.net/img/1/7/f66b9f92b3e2127f3c854098af071e6f.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "999",
+    "item_name": "光之力量肩甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=999",
+    "item_image": "https://www.gametsg.net/img/1/7/51f07a3b725072c33d0e4587312fa1ed.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "1000",
+    "item_name": "光之智力肩甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1000",
+    "item_image": "https://www.gametsg.net/img/1/7/f650fbfc3cf9159d769cf6764d2bca8d.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "1001",
+    "item_name": "英雄的光之敏捷肩甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1001",
+    "item_image": "https://www.gametsg.net/img/1/7/bdd82e60720509371bc91039f376a441.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "敏捷+2",
+      "遠距離傷害+4",
+      "遠距離命中+5",
+      "傷害減免+3",
+      "HP吸收",
+      "昏迷抗性+1%",
+      "昏迷命中 +1%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "1002",
+    "item_name": "英雄的光之力量肩甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1002",
+    "item_image": "https://www.gametsg.net/img/1/7/77ef443fda1d6559abec15ba7f7bb2e2.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "力量+2",
+      "近距離傷害+4",
+      "近距離命中+5",
+      "傷害減免+3",
+      "HP吸收",
+      "昏迷抗性+1%",
+      "昏迷命中 +1%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "24",
+    "category_name": "肩甲"
+  },
+  {
+    "item_id": "1003",
+    "item_name": "英雄的光之智力肩甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1003",
+    "item_image": "https://www.gametsg.net/img/1/7/1cd3fdc75316074a38e502055c5d2c77.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "智力+2",
+      "魔攻+4",
+      "魔法命中+5",
+      "傷害減免+3",
+      "HP吸收",
+      "昏迷抗性+1%",
+      "昏迷命中 +1%",
+      "魔法穿透1%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "24",
+    "category_name": "肩甲"
+  }
+]

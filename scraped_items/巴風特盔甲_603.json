@@ -1,0 +1,125 @@
+{
+  "item_id": "603",
+  "item_name": "巴風特盔甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=603",
+  "item_image": "https://www.gametsg.net/img/1/4/2a2b9dc9835e64db4092d56df78d71b7.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-8",
+  "item_stats": [
+    "傷害減免+2",
+    "毒抗性+100%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "巴風特盔甲",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-8",
+    "屬性": [
+      "傷害減免+2",
+      "毒抗性+100%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "原石",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1,魔法防禦 (MR)+1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2,魔法防禦 (MR)+2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3,魔法防禦 (MR)+3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4,魔法防禦 (MR)+4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,魔法防禦 (MR)+5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,魔法防禦 (MR)+6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,魔法防禦 (MR)+7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,魔法防禦 (MR)+8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,魔法防禦 (MR)+9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,魔法防禦 (MR)+10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,魔法防禦 (MR)+11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,魔法防禦 (MR)+12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,魔法防禦 (MR)+13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,魔法防禦 (MR)+14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "巴風特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=798",
+      "monster_id": "798",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "35",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-38.死亡廢墟",
+        "亞丁大陸-62.邪惡神殿"
+      ]
+    }
+  ]
+}

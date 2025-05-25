@@ -1,0 +1,45 @@
+{
+  "item_id": "2540",
+  "item_name": "信念之塔3樓傳送符",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2540",
+  "item_image": "https://www.gametsg.net/img/2/13/75281638c43e0fe9238d98a73e391021.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "位於傲慢與信念之塔入口處",
+    "68級以上可用"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "44",
+  "category_name": "移動道具",
+  "basic_info": {
+    "title": "信念之塔3樓傳送符",
+    "類型": "其他(移動道具)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

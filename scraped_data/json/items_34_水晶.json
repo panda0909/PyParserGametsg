@@ -1,0 +1,207 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "1248",
+    "item_name": "水龍的水晶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1248",
+    "item_image": "https://www.gametsg.net/img/1/9/d6f92d7de6012a39a0d4774d347115d9.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "水屬性抗性+10%",
+      "最大HP+50",
+      "負重獎勵+200"
+    ],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "1249",
+    "item_name": "地龍的水晶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1249",
+    "item_image": "https://www.gametsg.net/img/1/9/a30465b1daa6329d6fb072302ecfe2fd.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "土屬性抗性+10%",
+      "負重獎勵+200"
+    ],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "1250",
+    "item_name": "風龍的水晶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1250",
+    "item_image": "https://www.gametsg.net/img/1/9/ac5eff6a02d448411e1cbc2c0f3069a7.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "風屬性抗性+10%",
+      "攻擊速度+2%",
+      "負重獎勵+200"
+    ],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "1251",
+    "item_name": "火龍的水晶",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1251",
+    "item_image": "https://www.gametsg.net/img/1/9/702956507b26395bb2e1e67645fa0678.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "火屬性抗性+10%",
+      "負重獎勵+200",
+      "近距離命中+1",
+      "遠距離命中+1",
+      "魔法命中+1"
+    ],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "1252",
+    "item_name": "亞丁水晶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1252",
+    "item_image": "https://www.gametsg.net/img/1/9/f361d57abed8648d21abec690214389b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "負重獎勵+100"
+    ],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  },
+  {
+    "item_id": "1253",
+    "item_name": "埃斯卡洛斯水晶(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1253",
+    "item_image": "https://www.gametsg.net/img/1/9/138feca0e61cb586fda1894b12bc49b0.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "負重獎勵+100"
+    ],
+    "data_zhiye": "",
+    "category_id": "34",
+    "category_name": "水晶"
+  }
+]

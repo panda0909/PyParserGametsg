@@ -1,0 +1,110 @@
+{
+  "item_id": "1154",
+  "item_name": "歐吉王腰帶",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1154",
+  "item_image": "https://www.gametsg.net/img/1/8/7b49654ed6995bf27cf483d797d3b803.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "最大HP+20",
+    "負重獎勵+1500",
+    "傷害減免+2"
+  ],
+  "data_zhiye": "",
+  "category_id": "29",
+  "category_name": "腰帶",
+  "basic_info": {
+    "title": "歐吉王腰帶",
+    "類型": "飾品(腰帶)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": [
+      "最大HP+20",
+      "負重獎勵+1500",
+      "傷害減免+2"
+    ],
+    "祝福屬性": "藥水恢復率+2%",
+    "材質": "皮革",
+    "重量": "50"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+20，負重獎勵+20"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+40，負重獎勵+40"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+60，負重獎勵+60"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+80，負重獎勵+80"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+100，負重獎勵+100，近距離暴擊抗性+2%，遠距離暴擊抗性+2%，PVE傷害減免+1，傷害減免+1"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+120，負重獎勵+120，近距離暴擊抗性+4%，遠距離暴擊抗性+4%，PVE傷害減免+2，傷害減免+2"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+140，負重獎勵+140，近距離暴擊抗性+6%，遠距離暴擊抗性+6%，PVE傷害減免+3，傷害減免+3"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+160，負重獎勵+160，近距離暴擊抗性+8%，遠距離暴擊抗性+8%，PVE傷害減免+4，傷害減免+4"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "歐吉王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=39",
+      "monster_id": "39",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "96",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    }
+  ]
+}

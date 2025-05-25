@@ -1,0 +1,84 @@
+{
+  "item_id": "1619",
+  "item_name": "狂戰士印章(泰坦:上升)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1619",
+  "item_image": "https://www.gametsg.net/img/2/11/e5b2b163d4d7cdc3ebdb0fcfcab82ceb.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "印章"
+  ],
+  "data_zhiye": "7",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "狂戰士印章(泰坦:上升)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "印章"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "嫉妒的公主伊莎貝",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=22",
+      "monster_id": "22",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "古代巨人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=476",
+      "monster_id": "476",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-78.黃昏山脈"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的公主伊莎貝",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1026",
+      "monster_id": "1026",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    }
+  ]
+}

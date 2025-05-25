@@ -1,0 +1,93 @@
+{
+  "item_id": "1179",
+  "item_name": "多羅腰帶(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1179",
+  "item_image": "https://www.gametsg.net/img/1/8/5a7168d94f392e9ec9a89efd6a1312bb.jpg",
+  "item_grade": "grade02",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "負重獎勵+500"
+  ],
+  "data_zhiye": "",
+  "category_id": "29",
+  "category_name": "腰帶",
+  "basic_info": {
+    "title": "多羅腰帶(刻印)",
+    "類型": "飾品(腰帶)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "負重獎勵+500",
+    "祝福屬性": "最大HP+10",
+    "材質": "皮革",
+    "重量": "50"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5，負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10，負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15，負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20，負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25，負重獎勵+25"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30，負重獎勵+30"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35，負重獎勵+35"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40，負重獎勵+40"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2601",
+      "material_id": "2601",
+      "material_name": "高級皮革",
+      "material_image": "https://www.gametsg.net/img/2/13/521e69ae756a16723daf3332d4cac5f1.jpg",
+      "material_grade": "grade00",
+      "material_count": "8"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "50000"
+    }
+  ],
+  "monster_drops": []
+}

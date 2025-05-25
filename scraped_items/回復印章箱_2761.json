@@ -1,0 +1,41 @@
+{
+  "item_id": "2761",
+  "item_name": "回復印章箱",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2761",
+  "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "一個盒子,內含 1 個回復印章和 8 個印章/符石強化石"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "回復印章箱",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原木",
+    "重量": "0.01",
+    "說明": "一個盒子,內含 1 個回復印章和 8 個印章/符石強化石"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

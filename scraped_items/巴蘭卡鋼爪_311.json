@@ -1,0 +1,248 @@
+{
+  "item_id": "311",
+  "item_name": "巴蘭卡鋼爪",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=311",
+  "item_image": "https://www.gametsg.net/img/1/2/e5ad097ae4a3fae3164369a548f89dda.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    }
+  ],
+  "item_level": "24 / 23",
+  "item_stats": [
+    "額外攻擊+8",
+    "武器命中+6",
+    "力量+2",
+    "雙手武器",
+    "防止武器損壞",
+    "破甲命中 +5%",
+    "發動:緋紅旋渦 10%",
+    "發動:格蘭肯的憤怒 1%"
+  ],
+  "data_zhiye": "4",
+  "category_id": "10",
+  "category_name": "鋼爪",
+  "basic_info": {
+    "title": "巴蘭卡鋼爪",
+    "類型": "武器(鋼爪)",
+    "職業": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "武器攻擊力": "24 / 23",
+    "屬性": [
+      "額外攻擊+8",
+      "武器命中+6",
+      "力量+2",
+      "雙手武器",
+      "防止武器損壞",
+      "破甲命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "祝福屬性": "額外攻擊+1",
+    "階段": "3 級",
+    "材質": "奧里哈魯根",
+    "重量": "40"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器命中+2"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7,傷害增加+3%"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+10,武器命中+8,傷害增加+4%"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+13,武器命中+9,傷害增加+5%"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+16,武器命中+10,傷害增加+6%"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+19,武器命中+11,傷害增加+7%"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+22,武器命中+12,傷害增加+7%"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+25,武器命中+13,傷害增加+7%"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+28,武器命中+14,傷害增加+7%"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1337",
+      "material_id": "1337",
+      "material_name": "4大軍王的玉璽",
+      "material_image": "https://www.gametsg.net/img/1/9/bbdd88ad7d0f86fef4d54bf452fbd08c.jpg",
+      "material_grade": "grade05",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1344",
+          "alt_id": "1344",
+          "alt_name": "傳說武器製作秘笈(刻印)",
+          "alt_grade": "grade05",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+          "alt_id": "1348",
+          "alt_name": "傳說製作秘笈",
+          "alt_grade": "grade05",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+          "alt_id": "1349",
+          "alt_name": "傳說製作秘笈(刻印)",
+          "alt_grade": "grade05",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1344",
+      "material_id": "1344",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+      "material_id": "1348",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+      "material_id": "1349",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1444",
+      "material_id": "1444",
+      "material_name": "黑暗妖精靈魂結晶體",
+      "material_image": "https://www.gametsg.net/img/1/10/8d01351327c0e0d7434b6da7e913a1dc.jpg",
+      "material_grade": "grade01",
+      "material_count": "2000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1488",
+      "material_id": "1488",
+      "material_name": "黑色米索莉金屬板",
+      "material_image": "https://www.gametsg.net/img/1/10/1b124b62060f79abfcdfeeb7138116c0.jpg",
+      "material_grade": "grade01",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1515",
+      "material_id": "1515",
+      "material_name": "黑暗鑄塊",
+      "material_image": "https://www.gametsg.net/img/2/11/675a977d5f8aad30244479a8834fa9b4.jpg",
+      "material_grade": "grade01",
+      "material_count": "500"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "50000000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "覺醒的魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=3",
+      "monster_id": "3",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=41",
+      "monster_id": "41",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "96",
+      "monster_areas": [
+        "拉斯塔巴德-魔獸調教廠",
+        "其他-魔獸軍王室"
+      ]
+    }
+  ]
+}

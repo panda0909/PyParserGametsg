@@ -1,0 +1,43 @@
+{
+  "item_id": "1078",
+  "item_name": "300天紀念戒指",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1078",
+  "item_image": "https://www.gametsg.net/img/1/7/410c076caa29d0428399b16bc6ee6a0d.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "0",
+  "item_stats": [
+    "用作1週年戒指的材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "28",
+  "category_name": "戒指",
+  "basic_info": {
+    "title": "300天紀念戒指",
+    "類型": "飾品(戒指)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "0",
+    "材質": "原石",
+    "重量": "3",
+    "說明": "用作1週年戒指的材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

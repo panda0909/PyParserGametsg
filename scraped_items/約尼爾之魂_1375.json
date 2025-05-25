@@ -1,0 +1,52 @@
+{
+  "item_id": "1375",
+  "item_name": "約尼爾之魂",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1375",
+  "item_image": "https://www.gametsg.net/img/1/9/b966df91afcca26d0eb878e2c63dc4bd.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "約尼爾之魂",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "約尼爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=31",
+      "monster_id": "31",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "98",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    }
+  ]
+}

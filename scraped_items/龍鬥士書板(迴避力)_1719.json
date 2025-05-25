@@ -1,0 +1,90 @@
+{
+  "item_id": "1719",
+  "item_name": "龍鬥士書板(迴避力)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1719",
+  "item_image": "https://www.gametsg.net/img/2/11/9c2e7c7d3c31346e7366aec2d0abee13.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "龍鬥士書板"
+  ],
+  "data_zhiye": "5",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "龍鬥士書板(迴避力)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "龍鬥士書板"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "混沌",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=27",
+      "monster_id": "27",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "98",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    },
+    {
+      "monster_name": "傲慢的烏格奴斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=60",
+      "monster_id": "60",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "94",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-10樓(傲慢)"
+      ]
+    }
+  ]
+}

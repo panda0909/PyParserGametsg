@@ -1,0 +1,40 @@
+{
+  "item_id": "1304",
+  "item_name": "萬能補充寶石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1304",
+  "item_image": "https://www.gametsg.net/img/1/9/e50e71c1f343647c0c65455e1b360c73.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "地監補充石製作材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "萬能補充寶石(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦物質",
+    "說明": "地監補充石製作材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

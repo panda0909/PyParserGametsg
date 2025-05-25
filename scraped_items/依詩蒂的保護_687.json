@@ -1,0 +1,266 @@
+{
+  "item_id": "687",
+  "item_name": "依詩蒂的保護",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=687",
+  "item_image": "https://www.gametsg.net/img/1/5/9aafd356e6dbbab10beea43a08bdf58b.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "-10",
+  "item_stats": [
+    "傷害減免+5",
+    "魔法防禦 (MR)+30",
+    "MP恢復 (tic)+12",
+    "激活:神秘混沌 1%"
+  ],
+  "data_zhiye": "2|3|34",
+  "category_id": "19",
+  "category_name": "斗篷",
+  "basic_info": {
+    "title": "依詩蒂的保護",
+    "類型": "防具(斗篷)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "物理防禦 (AC)": "-10",
+    "屬性": [
+      "傷害減免+5",
+      "魔法防禦 (MR)+30",
+      "MP恢復 (tic)+12",
+      "激活:神秘混沌 1%"
+    ],
+    "祝福屬性": "物理防禦 (AC)-3",
+    "材質": "布",
+    "重量": "10",
+    "獨家的": [
+      "DEX +5 (妖精、槍手)",
+      "遠距離命中+3 (妖精、槍手)",
+      "遠距離暴擊+7% (妖精、槍手)",
+      "智力+5 (法師)",
+      "魔法命中+3 (法師)",
+      "魔法暴擊 +7% (法師)"
+    ],
+    "說明": "天鵝騎士“依詩蒂”"
+  },
+  "detail_info": {
+    "倉庫": "可儲存",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦 (AC)-5，傷害減免+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦 (AC)-6，傷害減免+2"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦 (AC)-7，傷害減免+3"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦 (AC)-8，傷害減免+4"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦 (AC)-9，傷害減免+5"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦 (AC)-10，傷害減免+6"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦 (AC)-11，傷害減免+7"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦 (AC)-12，傷害減免+8"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦 (AC)-13，傷害減免+9"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦 (AC)-14，傷害減免+10"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+      "material_id": "2749",
+      "material_name": "龍之鑽石",
+      "material_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+      "material_grade": "grade00",
+      "material_count": "2000",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+          "alt_id": "2500",
+          "alt_name": "金幣",
+          "alt_grade": "grade01",
+          "alt_count": "500000000"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "",
+      "material_grade": "grade01",
+      "material_count": "500000000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1470",
+      "material_id": "1470",
+      "material_name": "白金金屬板",
+      "material_image": "https://www.gametsg.net/img/1/10/1656bb84b0a408611dc6d14e85d99335.jpg",
+      "material_grade": "grade01",
+      "material_count": "200"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1327",
+      "material_id": "1327",
+      "material_name": "神話防具製作秘笈",
+      "material_image": "https://www.gametsg.net/img/1/9/fc0b5a1a8d522ec15d7c168bf05ab6c5.jpg",
+      "material_grade": "grade032",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1328",
+          "alt_id": "1328",
+          "alt_name": "神話防具製作秘笈(刻印)",
+          "alt_grade": "grade032",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1330",
+          "alt_id": "1330",
+          "alt_name": "神話製作秘笈",
+          "alt_grade": "grade032",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1331",
+          "alt_id": "1331",
+          "alt_name": "神話製作秘笈(刻印)",
+          "alt_grade": "grade032",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1328",
+      "material_id": "1328",
+      "material_name": "",
+      "material_grade": "grade032",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1330",
+      "material_id": "1330",
+      "material_name": "",
+      "material_grade": "grade032",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1331",
+      "material_id": "1331",
+      "material_name": "",
+      "material_grade": "grade032",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2757",
+      "material_id": "2757",
+      "material_name": "最高級的布",
+      "material_image": "https://www.gametsg.net/img/3/25/ae909309915392f57c616f2377927e32.jpg",
+      "material_grade": "grade00",
+      "material_count": "1000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "4000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "支配者吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1",
+      "monster_id": "1",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "150",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    }
+  ]
+}

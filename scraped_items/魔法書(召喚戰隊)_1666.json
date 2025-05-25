@@ -1,0 +1,55 @@
+{
+  "item_id": "1666",
+  "item_name": "魔法書(召喚戰隊)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1666",
+  "item_image": "https://www.gametsg.net/img/2/11/3296ea79564e04e5d72da86110b01d6c.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "王族",
+      "level": "level08"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "魔法書"
+  ],
+  "data_zhiye": "8",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "魔法書(召喚戰隊)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "魔法書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "長老:提亞麥斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=77",
+      "monster_id": "77",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "92",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-魔獸軍王室"
+      ]
+    }
+  ]
+}

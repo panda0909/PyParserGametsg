@@ -1,0 +1,41 @@
+{
+  "item_id": "1962",
+  "item_name": "秘傳(雷霆警衛)(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1962",
+  "item_image": "https://www.gametsg.net/uploads/20241231/052d6c9b421690126284de95182dbc64.png",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "秘傳"
+  ],
+  "data_zhiye": "13",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "秘傳(雷霆警衛)(刻印)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.01",
+    "說明": "秘傳"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

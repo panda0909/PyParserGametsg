@@ -1,0 +1,57 @@
+{
+  "item_id": "1326",
+  "item_name": "炎魔的心臟",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1326",
+  "item_image": "https://www.gametsg.net/img/1/9/6e69f2c356f3ba1bed294b23a1d48c4f.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "炎魔的心臟",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石",
+    "重量": "100"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=921",
+      "monster_id": "921",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    }
+  ]
+}

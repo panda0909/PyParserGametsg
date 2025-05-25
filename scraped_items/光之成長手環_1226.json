@@ -1,0 +1,80 @@
+{
+  "item_id": "1226",
+  "item_name": "光之成長手環",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1226",
+  "item_image": "https://www.gametsg.net/img/1/8/c37188a2fe7cef4755f61c0ab9e4f49f.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "傷害減少 +1%",
+    "負重獎勵+300"
+  ],
+  "data_zhiye": "",
+  "category_id": "32",
+  "category_name": "手環",
+  "basic_info": {
+    "title": "光之成長手環",
+    "類型": "飾品(手環)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "傷害減少 +1%",
+      "負重獎勵+300"
+    ],
+    "材質": "金屬",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1，PVE傷害減免+2"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2，傷害減免+1%，PVE傷害減免+2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3，傷害減免+1%，PVE傷害減免+3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4，傷害減免+2%，PVE傷害減免+3"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5，經驗獲得量增加+10%，傷害減免+2%，PVE傷害減免+4，PVE傷害減免+1%"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6，經驗獲得量增加+20%，傷害減免+3%，PVE傷害減免+4，PVE傷害減免+3%"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7，經驗獲得量增加+25%，傷害減免+3%，PVE傷害減免+5，PVE傷害減免+5%"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8，經驗獲得量增加+30%，傷害減免+4%，PVE傷害減免+6，PVE傷害減免+7%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

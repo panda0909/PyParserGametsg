@@ -1,0 +1,59 @@
+{
+  "item_id": "2700",
+  "item_name": "宙斯普尼爾的戰利品箱",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2700",
+  "item_image": "https://www.gametsg.net/img/2/14/31ff1f79839d25a6a4ea335b12f2ce45.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時有機率獲得艾歐丁的靈魂、約尼爾斗篷、亡者靈魂石."
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "宙斯普尼爾的戰利品箱",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": "使用時有機率獲得艾歐丁的靈魂、約尼爾斗篷、亡者靈魂石."
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "約尼爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=50",
+      "monster_id": "50",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    }
+  ]
+}

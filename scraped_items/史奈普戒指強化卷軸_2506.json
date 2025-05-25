@@ -1,0 +1,41 @@
+{
+  "item_id": "2506",
+  "item_name": "史奈普戒指強化卷軸",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2506",
+  "item_image": "https://www.gametsg.net/img/2/13/36d952ad4884b424920a7e932de3a76b.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "光之手環專用強化卷軸"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "43",
+  "category_name": "強化卷軸",
+  "basic_info": {
+    "title": "史奈普戒指強化卷軸",
+    "類型": "其他(強化卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.01",
+    "說明": "光之手環專用強化卷軸"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

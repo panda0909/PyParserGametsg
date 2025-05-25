@@ -1,0 +1,115 @@
+{
+  "item_id": "557",
+  "item_name": "巫妖斗篷(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=557",
+  "item_image": "https://www.gametsg.net/img/1/4/3b7e56c48473c073551bbb4459b46e5b.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-8",
+  "item_stats": [
+    "最大MP +50",
+    "MP回復(tic)+15",
+    "無視 MP 恢復懲罰 20%"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "巫妖斗篷(刻印)",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-8",
+    "屬性": [
+      "最大MP +50",
+      "MP回復(tic)+15",
+      "無視 MP 恢復懲罰 20%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "布",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3,魔攻 +1"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4,魔攻 +2"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,魔攻 +3"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,魔攻 +4"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,魔攻 +5"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,魔攻 +6"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,魔攻 +7"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,魔攻 +8"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,魔攻 +9"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,魔攻 +10"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,魔攻 +11"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,魔攻 +12"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

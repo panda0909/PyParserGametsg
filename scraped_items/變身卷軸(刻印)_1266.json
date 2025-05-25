@@ -1,0 +1,3116 @@
+{
+  "item_id": "1266",
+  "item_name": "變身卷軸(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1266",
+  "item_image": "https://www.gametsg.net/img/1/9/831779f6b29352e4e909dd92ef2cf294.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 30 分鐘"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "36",
+  "category_name": "卷軸",
+  "basic_info": {
+    "title": "變身卷軸(刻印)",
+    "類型": "其他(卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "持續時間 30 分鐘",
+    "材質": "紙",
+    "重量": "0.63",
+    "說明": "轉換順序"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "驕慢的屠殺者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=36",
+      "monster_id": "36",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "97",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的曼托迪亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=53",
+      "monster_id": "53",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的洛加利烏斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=54",
+      "monster_id": "54",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "驕慢的奈爾伽爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=55",
+      "monster_id": "55",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的觸手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=65",
+      "monster_id": "65",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的幼蟲",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=66",
+      "monster_id": "66",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的科亞庫克",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=67",
+      "monster_id": "67",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的殭屍騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=68",
+      "monster_id": "68",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的骷髏之翅",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=69",
+      "monster_id": "69",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的阿塔巴克",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=70",
+      "monster_id": "70",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "94",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的恩特奇亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=71",
+      "monster_id": "71",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "93",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "夏伊德",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=94",
+      "monster_id": "94",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "泰諾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=95",
+      "monster_id": "95",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "波普",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=96",
+      "monster_id": "96",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "索爾洛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=97",
+      "monster_id": "97",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "柯特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=98",
+      "monster_id": "98",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=99",
+      "monster_id": "99",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "魯默",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=100",
+      "monster_id": "100",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "巡邏者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=101",
+      "monster_id": "101",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "希科",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=102",
+      "monster_id": "102",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "格里米",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=103",
+      "monster_id": "103",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "舊衣",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=104",
+      "monster_id": "104",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "柯斯本",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=105",
+      "monster_id": "105",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "蜘蛛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=106",
+      "monster_id": "106",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "鋸齒",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=107",
+      "monster_id": "107",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯士兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=108",
+      "monster_id": "108",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=109",
+      "monster_id": "109",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯首席",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=110",
+      "monster_id": "110",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=111",
+      "monster_id": "111",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "艾斯卡洛斯刺客",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=112",
+      "monster_id": "112",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "阿魯巴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=136",
+      "monster_id": "136",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "食人妖精王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=137",
+      "monster_id": "137",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "史前巨鱷",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=138",
+      "monster_id": "138",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=139",
+      "monster_id": "139",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "驕慢的奈爾伽爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=150",
+      "monster_id": "150",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "傲慢的烈焰狼蛛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=151",
+      "monster_id": "151",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-10樓(傲慢)"
+      ]
+    },
+    {
+      "monster_name": "獨眼巨人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=163",
+      "monster_id": "163",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "高崙守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=164",
+      "monster_id": "164",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "高崙守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=165",
+      "monster_id": "165",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "歐吉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=166",
+      "monster_id": "166",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "高崙守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=167",
+      "monster_id": "167",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "安普長者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=168",
+      "monster_id": "168",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "驕慢的札拉奇爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=186",
+      "monster_id": "186",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "不滅的龍骨",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=188",
+      "monster_id": "188",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "卡司特王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=199",
+      "monster_id": "199",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "牛人高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=200",
+      "monster_id": "200",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "亞力安",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=201",
+      "monster_id": "201",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "鱷魚",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=202",
+      "monster_id": "202",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "食人妖精",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=203",
+      "monster_id": "203",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "變形怪",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=204",
+      "monster_id": "204",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "哈維",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=205",
+      "monster_id": "205",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "萊肯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=206",
+      "monster_id": "206",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "狼人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=207",
+      "monster_id": "207",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "牛人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=208",
+      "monster_id": "208",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "青蛙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=209",
+      "monster_id": "209",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "傲慢的亞斯摩德",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=210",
+      "monster_id": "210",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-10樓(傲慢)"
+      ]
+    },
+    {
+      "monster_name": "異界食腐獸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=212",
+      "monster_id": "212",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-異界裂縫"
+      ]
+    },
+    {
+      "monster_name": "深淵的克拉普",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=220",
+      "monster_id": "220",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "深淵的靈魂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=221",
+      "monster_id": "221",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "深淵殺翅魚",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=223",
+      "monster_id": "223",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "驕慢的亡魂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=224",
+      "monster_id": "224",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髏騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=236",
+      "monster_id": "236",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=237",
+      "monster_id": "237",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=238",
+      "monster_id": "238",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "艾多倫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=239",
+      "monster_id": "239",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "傲慢的思克巴女皇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=240",
+      "monster_id": "240",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-10樓(傲慢)"
+      ]
+    },
+    {
+      "monster_name": "傲慢的萊維坦",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=241",
+      "monster_id": "241",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-10樓(傲慢)"
+      ]
+    },
+    {
+      "monster_name": "異界骷髏弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=245",
+      "monster_id": "245",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-異界裂縫"
+      ]
+    },
+    {
+      "monster_name": "被詛咒的航海師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=252",
+      "monster_id": "252",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "殘殺獵犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=258",
+      "monster_id": "258",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髏戰士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=264",
+      "monster_id": "264",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "卡司特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=265",
+      "monster_id": "265",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "小鬼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=266",
+      "monster_id": "266",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "傲慢的阿西塔基奥",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=267",
+      "monster_id": "267",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-10樓(傲慢)"
+      ]
+    },
+    {
+      "monster_name": "被詛咒的航海師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=287",
+      "monster_id": "287",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "劇毒曼陀羅草",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=289",
+      "monster_id": "289",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髅弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=294",
+      "monster_id": "294",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髅近衛兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=295",
+      "monster_id": "295",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "海賊",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=313",
+      "monster_id": "313",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-前半部"
+      ]
+    },
+    {
+      "monster_name": "黑暗獵狼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=354",
+      "monster_id": "354",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-8樓(黑暗)"
+      ]
+    },
+    {
+      "monster_name": "海賊狙擊手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=368",
+      "monster_id": "368",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-前半部"
+      ]
+    },
+    {
+      "monster_name": "残酷的捕鳥蛛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=382",
+      "monster_id": "382",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-7樓(殘忍)"
+      ]
+    },
+    {
+      "monster_name": "黑暗火焰戰士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=391",
+      "monster_id": "391",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-8樓(黑暗)"
+      ]
+    },
+    {
+      "monster_name": "暗黑的思克巴女皇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=392",
+      "monster_id": "392",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_areas": [
+        "傲慢之塔-8樓(黑暗)"
+      ]
+    },
+    {
+      "monster_name": "粗暴的狂野之毒",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=400",
+      "monster_id": "400",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-前半部"
+      ]
+    },
+    {
+      "monster_name": "拉巴本士兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=403",
+      "monster_id": "403",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-前半部"
+      ]
+    },
+    {
+      "monster_name": "地獄的魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=422",
+      "monster_id": "422",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "殘酷的阿西塔基奧",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=425",
+      "monster_id": "425",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-7樓(殘忍)"
+      ]
+    },
+    {
+      "monster_name": "黑暗的黑騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=426",
+      "monster_id": "426",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "82",
+      "monster_areas": [
+        "傲慢之塔-8樓(黑暗)"
+      ]
+    },
+    {
+      "monster_name": "黑暗火焰弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=427",
+      "monster_id": "427",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-8樓(黑暗)"
+      ]
+    },
+    {
+      "monster_name": "粗暴的奇異鹦鵡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=434",
+      "monster_id": "434",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-前半部"
+      ]
+    },
+    {
+      "monster_name": "狂暴蜥蜴人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=435",
+      "monster_id": "435",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "82",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-前半部"
+      ]
+    },
+    {
+      "monster_name": "地獄的鋼鐵高嵛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=448",
+      "monster_id": "448",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "81",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "残酷的冰原老虎",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=449",
+      "monster_id": "449",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "81",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-7樓(殘忍)"
+      ]
+    },
+    {
+      "monster_name": "残酷的烈炎獸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=450",
+      "monster_id": "450",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "81",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-7樓(殘忍)"
+      ]
+    },
+    {
+      "monster_name": "恐怖的巨大蝙蝠",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=461",
+      "monster_id": "461",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "81",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-3樓(恐怖)"
+      ]
+    },
+    {
+      "monster_name": "不死的殭屍魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=462",
+      "monster_id": "462",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "81",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-6樓(不死)"
+      ]
+    },
+    {
+      "monster_name": "地龍的莫妮亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=469",
+      "monster_id": "469",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-龍之谷地監-5樓",
+        "亞丁大陸地監-龍之谷地監-6樓",
+        "亞丁大陸地監-龍之谷地監-7樓"
+      ]
+    },
+    {
+      "monster_name": "不死的殭屍將軍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=477",
+      "monster_id": "477",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-6樓(不死)"
+      ]
+    },
+    {
+      "monster_name": "殘忍的萊肯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=478",
+      "monster_id": "478",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-7樓(殘忍)"
+      ]
+    },
+    {
+      "monster_name": "恐怖的阿葛妮",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=504",
+      "monster_id": "504",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "79",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-3樓(恐怖)"
+      ]
+    },
+    {
+      "monster_name": "不死的殭屍士兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=505",
+      "monster_id": "505",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-6樓(不死)"
+      ]
+    },
+    {
+      "monster_name": "不死的殭屍法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=506",
+      "monster_id": "506",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-6樓(不死)"
+      ]
+    },
+    {
+      "monster_name": "死亡的殭屍龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=516",
+      "monster_id": "516",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "79",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-4樓(死亡)"
+      ]
+    },
+    {
+      "monster_name": "恐怖的伊弗利特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=520",
+      "monster_id": "520",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-3樓(恐怖)"
+      ]
+    },
+    {
+      "monster_name": "地獄的魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=522",
+      "monster_id": "522",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "地獄的下級龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=523",
+      "monster_id": "523",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "地獄的龍骨",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=524",
+      "monster_id": "524",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "不死的食屍鬼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=525",
+      "monster_id": "525",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-6樓(不死)"
+      ]
+    },
+    {
+      "monster_name": "烈焰的小惡魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=528",
+      "monster_id": "528",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-烈焰地監-2樓"
+      ]
+    },
+    {
+      "monster_name": "不幸的安普",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=533",
+      "monster_id": "533",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "死亡的骷髏鬥士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=540",
+      "monster_id": "540",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-4樓(死亡)"
+      ]
+    },
+    {
+      "monster_name": "死亡的骷髏狙擊手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=541",
+      "monster_id": "541",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-4樓(死亡)"
+      ]
+    },
+    {
+      "monster_name": "死亡的骷髏警衛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=542",
+      "monster_id": "542",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-4樓(死亡)"
+      ]
+    },
+    {
+      "monster_name": "歪曲楊果里恩",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=552",
+      "monster_id": "552",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "不幸的思克巴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=557",
+      "monster_id": "557",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "恐怖的夢魘",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=558",
+      "monster_id": "558",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-3樓(恐怖)"
+      ]
+    },
+    {
+      "monster_name": "恐怖的小惡魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=559",
+      "monster_id": "559",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-3樓(恐怖)"
+      ]
+    },
+    {
+      "monster_name": "死亡的人形殭屍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=560",
+      "monster_id": "560",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-4樓(死亡)"
+      ]
+    },
+    {
+      "monster_name": "死亡的史巴托",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=561",
+      "monster_id": "561",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-4樓(死亡)"
+      ]
+    },
+    {
+      "monster_name": "烈焰火蜥蜴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=562",
+      "monster_id": "562",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-烈焰地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "火炎蛋",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=563",
+      "monster_id": "563",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "歪曲的梅杜莎",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=571",
+      "monster_id": "571",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "歪曲的蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=572",
+      "monster_id": "572",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "不幸的死亡之劍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=573",
+      "monster_id": "573",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "不幸的多眼怪",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=574",
+      "monster_id": "574",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "恐怖的地獄犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=575",
+      "monster_id": "575",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-3樓(恐怖)"
+      ]
+    },
+    {
+      "monster_name": "歪曲奇美拉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=586",
+      "monster_id": "586",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "不幸的魔狼",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=587",
+      "monster_id": "587",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "不幸的密密",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=588",
+      "monster_id": "588",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "恐怖的火炎蛋",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=589",
+      "monster_id": "589",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-3樓(恐怖)"
+      ]
+    },
+    {
+      "monster_name": "地獄的鬼魂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=591",
+      "monster_id": "591",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "地獄的鬼魂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=592",
+      "monster_id": "592",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "歪曲的亞力安",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=605",
+      "monster_id": "605",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "73",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "歪曲蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=606",
+      "monster_id": "606",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "73",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "莫妮亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=611",
+      "monster_id": "611",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "72",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-龍之谷地監-2樓",
+        "亞丁大陸地監-龍之谷地監-3樓",
+        "亞丁大陸地監-龍之谷地監-4樓"
+      ]
+    },
+    {
+      "monster_name": "珊瑚殼蟹人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=692",
+      "monster_id": "692",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "66",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-3樓",
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=860",
+      "monster_id": "860",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "17",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-67.銀騎士村莊東邊森林"
+      ]
+    },
+    {
+      "monster_name": "墮落的修道士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=983",
+      "monster_id": "983",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "懺悔的修女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=984",
+      "monster_id": "984",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "犧牲的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=985",
+      "monster_id": "985",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "背叛的祭司",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=986",
+      "monster_id": "986",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=987",
+      "monster_id": "987",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=988",
+      "monster_id": "988",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黑白的城堡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=989",
+      "monster_id": "989",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黑白的主教",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=990",
+      "monster_id": "990",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黑白的城堡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=991",
+      "monster_id": "991",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黑白的主教",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=992",
+      "monster_id": "992",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的修道士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=993",
+      "monster_id": "993",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的修女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=994",
+      "monster_id": "994",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=995",
+      "monster_id": "995",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=996",
+      "monster_id": "996",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=997",
+      "monster_id": "997",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=998",
+      "monster_id": "998",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的城堡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=999",
+      "monster_id": "999",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的主教",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1000",
+      "monster_id": "1000",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的修道士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1001",
+      "monster_id": "1001",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的修女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1002",
+      "monster_id": "1002",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1003",
+      "monster_id": "1003",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1004",
+      "monster_id": "1004",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1005",
+      "monster_id": "1005",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1006",
+      "monster_id": "1006",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的城堡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1007",
+      "monster_id": "1007",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的主教",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1008",
+      "monster_id": "1008",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    }
+  ]
+}

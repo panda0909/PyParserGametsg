@@ -1,0 +1,41 @@
+{
+  "item_id": "2030",
+  "item_name": "暗黑技術書(黑暗守護)(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2030",
+  "item_image": "https://www.gametsg.net/img/2/12/36420b3983f3e8f33599a017ea6fb950.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "暗黑技術書"
+  ],
+  "data_zhiye": "52",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "暗黑技術書(黑暗守護)(刻印)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "0.01",
+    "說明": "暗黑技術書"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

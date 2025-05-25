@@ -1,0 +1,3030 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2598",
+    "item_name": "倫提斯的藍光耳環箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2598",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，獲得以下所有道具，倫提斯的藍光耳環1 個和倫提斯的強化卷軸 8 張。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2599",
+    "item_name": "史奈普的英雄戒指箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2599",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，獲得以下所有道具 史奈普英雄戒指1 個和史奈普戒指強化卷軸 8 張。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2606",
+    "item_name": "刻印裝備箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2606",
+    "item_image": "https://www.gametsg.net/img/2/13/cd9675c15562db6fe851d784472195dc.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用後，會獲得當前職業的刻印裝備箱。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2607",
+    "item_name": "裝備強化卷軸箱(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2607",
+    "item_image": "https://www.gametsg.net/img/2/13/63e27fb47b29320bf74c8c7f96ea1878.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "裝有武器或盔甲強化卷軸的盒子 (刻印)"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2608",
+    "item_name": "加速藥水箱(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2608",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用後,支援目前各個職業的消耗品."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2609",
+    "item_name": "附魔戰利品箱(普通)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2609",
+    "item_image": "https://www.gametsg.net/img/2/13/b186f0a0f68488e06dab928d7ad3f4e8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得各種強化卷軸"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2610",
+    "item_name": "附魔戰利品箱(罕見)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2610",
+    "item_image": "https://www.gametsg.net/img/2/13/b186f0a0f68488e06dab928d7ad3f4e8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得各種強化卷軸"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2611",
+    "item_name": "附魔戰利品箱(稀有)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2611",
+    "item_image": "https://www.gametsg.net/img/2/13/b186f0a0f68488e06dab928d7ad3f4e8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得各種強化卷軸"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2612",
+    "item_name": "附魔戰利品箱(英雄)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2612",
+    "item_image": "https://www.gametsg.net/img/2/13/b186f0a0f68488e06dab928d7ad3f4e8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得各種強化卷軸"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2613",
+    "item_name": "附魔戰利品箱(傳說)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2613",
+    "item_image": "https://www.gametsg.net/img/2/13/b186f0a0f68488e06dab928d7ad3f4e8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得各種強化卷軸"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2615",
+    "item_name": "傲慢與信念之塔時間補充寶石",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2615",
+    "item_image": "https://www.gametsg.net/img/2/13/f3802352d473141b0afcbae8217828e5.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "時間補充量1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2624",
+    "item_name": "屠龍者獎勵箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2624",
+    "item_image": "https://www.gametsg.net/img/2/14/75620d4811ca15ac89533ea0f3276e57.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "可依照指定機率獲得道具。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2626",
+    "item_name": "傲慢之塔1樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2626",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,傲慢之塔1樓寶箱獲得"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2627",
+    "item_name": "傲慢之塔2樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2627",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,傲慢之塔2樓寶箱獲得"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2628",
+    "item_name": "傲慢之塔3樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2628",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,傲慢之塔3樓寶箱獲得"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2629",
+    "item_name": "傲慢之塔4樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2629",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,傲慢之塔4樓寶箱獲得"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2630",
+    "item_name": "傲慢之塔5樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2630",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,傲慢之塔5樓寶箱獲得"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2631",
+    "item_name": "傲慢之塔6樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2631",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,傲慢之塔6樓寶箱獲得"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2632",
+    "item_name": "附魔戰利品箱(神話)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2632",
+    "item_image": "https://www.gametsg.net/img/2/13/b186f0a0f68488e06dab928d7ad3f4e8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得各種強化卷軸"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2633",
+    "item_name": "傲慢之塔7樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2633",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,可獲得傲慢之塔7樓寶物"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2635",
+    "item_name": "傲慢之塔8樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2635",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,可獲得傲慢之塔8樓寶物"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2636",
+    "item_name": "一般魔法娃娃卡箱(綁定)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2636",
+    "item_image": "https://www.gametsg.net/img/2/14/d8c54e710f4644cc4cf34dbdb0e3c133.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2638",
+    "item_name": "史書第1章寶袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2638",
+    "item_image": "https://www.gametsg.net/img/2/14/39af735025b1bc2372b37668f5858775.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，有機率獲得1本歷史書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2639",
+    "item_name": "史書第2章寶袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2639",
+    "item_image": "https://www.gametsg.net/img/2/14/412d9c3d2612c54e8e82bd0a807d0511.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，有機率獲得2本歷史書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2640",
+    "item_name": "史書第3章寶袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2640",
+    "item_image": "https://www.gametsg.net/img/2/14/8a17141af8ce384e0295c4c037a04fb1.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，有機率獲得3本歷史書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2641",
+    "item_name": "史書第4章寶袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2641",
+    "item_image": "https://www.gametsg.net/img/2/14/61ffcf1c029000872a9616c4ca9c387b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，有機率獲得4本歷史書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2642",
+    "item_name": "史書第5章寶袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2642",
+    "item_image": "https://www.gametsg.net/img/2/14/4e9056fbadc819f0f7cff963435fb5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，有機率獲得5本歷史書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2643",
+    "item_name": "史書第6章寶袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2643",
+    "item_image": "https://www.gametsg.net/img/2/14/67fa3650af2d8b6d992cfc7500a6cd02.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，有機率獲得6本歷史書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2644",
+    "item_name": "史書第7章寶袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2644",
+    "item_image": "https://www.gametsg.net/img/2/14/dde25486404bde4f9ef8f1d91a6d5947.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，有機率獲得7本歷史書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2645",
+    "item_name": "史書第8章寶袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2645",
+    "item_image": "https://www.gametsg.net/img/2/14/58ad32744be7060d841567955a6d79b0.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，有機率獲得8本歷史書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2646",
+    "item_name": "傳說技能箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2646",
+    "item_image": "https://www.gametsg.net/img/2/14/b6ae2b47eab31540be4fdadb5f5b0604.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，會轉化為各職業的傳說技能箱。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2647",
+    "item_name": "英雄技能箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2647",
+    "item_image": "https://www.gametsg.net/img/2/14/9cefe6853b4720a72b2ea1e86912b186.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，會轉化為各職業的英雄技能箱。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2648",
+    "item_name": "獄卒的袋子(名譽金幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2648",
+    "item_image": "https://www.gametsg.net/img/2/14/772484f1fd0e8ed0f68a6597687968da.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得1500名譽金幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2649",
+    "item_name": "獄警的口袋(魔法娃娃製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2649",
+    "item_image": "https://www.gametsg.net/img/2/14/5b0c03c131d4731d2925dfbcdc89321d.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得500個魔法娃娃製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2650",
+    "item_name": "獄警的口袋(變身製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2650",
+    "item_image": "https://www.gametsg.net/img/2/14/4e478a65f8e1fb3a0e3e8ba31e0c4095.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得500個變身製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2651",
+    "item_name": "蟻後蛋(名譽金幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2651",
+    "item_image": "https://www.gametsg.net/img/2/14/597175ddb4d465b25489b65ef33048c2.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得3000名譽金幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2652",
+    "item_name": "蟻後蛋(魔法娃娃製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2652",
+    "item_image": "https://www.gametsg.net/img/2/14/5a41ac88eae7ded5efb9f062bb610ef1.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得1000個魔法娃娃製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2653",
+    "item_name": "蟻後蛋(變身製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2653",
+    "item_image": "https://www.gametsg.net/img/2/14/51cdaa38a5314c4cb253da4ea883d4fe.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得1000個變身製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2654",
+    "item_name": "巴風特符石(名譽金幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2654",
+    "item_image": "https://www.gametsg.net/img/2/14/7ddb264e414f41c7a044987b0a7beff0.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得4500名譽金幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2655",
+    "item_name": "巴風特的符石(魔法娃娃製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2655",
+    "item_image": "https://www.gametsg.net/img/2/14/bd36d9efc19a3af3ec538ad88ba5285a.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得1500個魔法娃娃製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2656",
+    "item_name": "巴風特的符石(變身製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2656",
+    "item_image": "https://www.gametsg.net/img/2/14/9deb3c32cb456b73b60a94a35f1d2bae.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得1500個變身製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2657",
+    "item_name": "阿克莫的寶珠(名譽金幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2657",
+    "item_image": "https://www.gametsg.net/img/2/14/3b7f648de73133c05915214c9a49e5eb.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得6000名譽金幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2658",
+    "item_name": "阿克莫的珠子(魔法娃娃製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2658",
+    "item_image": "https://www.gametsg.net/img/2/14/c6a52c1a3b8762d8ceb47c1558f37e5e.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得2000個魔法娃娃製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2659",
+    "item_name": "阿克莫的珠子(變形製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2659",
+    "item_image": "https://www.gametsg.net/img/2/14/531af9cb81c9ebe7c103b680d147b488.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得2000變身製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2660",
+    "item_name": "炎魔吊墜(名譽金幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2660",
+    "item_image": "https://www.gametsg.net/img/2/14/46bb75396a13fe30a3f233d292506f0a.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得7500名譽金幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2661",
+    "item_name": "炎魔吊墜(魔法娃娃製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2661",
+    "item_image": "https://www.gametsg.net/img/2/14/c7ecfd1760e8ebc709270d8af773c4a3.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得2500個魔法娃娃製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2662",
+    "item_name": "炎魔吊墜(變身製作硬幣)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2662",
+    "item_image": "https://www.gametsg.net/img/2/14/5f8fb0d7c1143e5c76c47a23294bda48.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得2500個變身製作硬幣"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2664",
+    "item_name": "高級溶解劑",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2664",
+    "item_image": "https://www.gametsg.net/img/2/14/84ff1bb461b2a66e86d59b9412b57669.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "溶解道具時",
+      "可獲得高級祝福粉",
+      "作為副產物."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2665",
+    "item_name": "拉斯塔巴德裝備箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2665",
+    "item_image": "https://www.gametsg.net/img/2/14/130b1dd2ba656cc9cfb63a5e6f0d5f95.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用後，依照設定的機率獲得一種職業的裝備。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2666",
+    "item_name": "周末世界副本時間補充寶石",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2666",
+    "item_image": "https://www.gametsg.net/img/2/14/408f0f52a173abf4b8fa3d12351f6fda.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "時間補充量1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2667",
+    "item_name": "太陽神的王冠",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2667",
+    "item_image": "https://www.gametsg.net/img/2/14/6f4613ecf2e77ff41b35b39b800ad3db.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2668",
+    "item_name": "初級歐西里斯寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2668",
+    "item_image": "https://www.gametsg.net/img/2/14/2b8f6e548995918c5713b619355bfdb7.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2669",
+    "item_name": "高級歐西里斯寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2669",
+    "item_image": "https://www.gametsg.net/img/2/14/e56e50e13ef83b0afa642ceabe425d00.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2671",
+    "item_name": "傲慢之塔9樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2671",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時可獲得傲慢之塔第9樓寶物"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2672",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2672",
+    "item_image": "https://www.gametsg.net/img/2/14/72350bd8565b5a632084e41f7abf5816.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，可透過英雄合成挑戰獲得傳說變身卡。",
+      "失敗時獲得1種英雄變身卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2673",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2673",
+    "item_image": "https://www.gametsg.net/img/2/14/a886dbd0664eb788707c8be3af09f511.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，可透過英雄合成挑戰獲得神話變身卡。",
+      "失敗時獲得1種傳說變身卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2674",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2674",
+    "item_image": "https://www.gametsg.net/img/2/14/b29fb5969b2b8037cfa53d40d03d5839.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，可透過英雄合成挑戰獲得傳說魔法娃娃卡。",
+      "失敗時獲得1種英雄魔法娃娃卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2675",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2675",
+    "item_image": "https://www.gametsg.net/img/2/14/7f8869aff9ba41c0350b0c33ededcf83.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，可透過英雄合成挑戰獲得神話魔法娃娃卡。",
+      "失敗時獲得1種傳說魔法娃娃卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2676",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2676",
+    "item_image": "https://www.gametsg.net/img/2/14/4dd8a069d2d7ec61e014c89e8d7ade0a.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，可透過英雄合成挑戰獲得英雄變身卡。",
+      "失敗時獲得1種稀有變身卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2677",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2677",
+    "item_image": "https://www.gametsg.net/img/2/14/b85ca6c54f58dfe1465d97befe988635.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，可透過英雄合成挑戰獲得英雄魔法娃娃卡。",
+      "失敗時獲得1種稀有魔法娃娃卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2678",
+    "item_name": "稀有變身卡箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2678",
+    "item_image": "https://www.gametsg.net/img/2/14/ed9837da4fd2a9f500d4efe5d3f22efb.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時從 12 種稀有變身卡中依指定機率發送1 種"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2679",
+    "item_name": "稀有魔法娃娃卡箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2679",
+    "item_image": "https://www.gametsg.net/img/2/14/298b9c6e2923819e09bb076dff9f4573.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時從9種稀有魔法娃娃卡中依指定機率發送1種"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2681",
+    "item_name": "傲慢之塔10樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2681",
+    "item_image": "https://www.gametsg.net/img/2/14/c49df1f771e0648f032beb03cfd8b5a8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時可獲得傲慢之塔第10層寶物"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2682",
+    "item_name": "暗影神殿時間補充寶石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2682",
+    "item_image": "https://www.gametsg.net/img/2/14/037c54745a86b1dced90a4b125c6f099.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "時間補充量1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2683",
+    "item_name": "遺忘之島時間補充寶石（刻印）",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2683",
+    "item_image": "https://www.gametsg.net/img/2/14/0892a6a4238d1a37e942eaf2de2573f7.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "時間補充量1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2684",
+    "item_name": "神話技能箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2684",
+    "item_image": "https://www.gametsg.net/img/2/14/643971b30a6e2a6aa8606488a5adec2e.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，獲得隨機神話技能書。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2685",
+    "item_name": "死亡之箱(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2685",
+    "item_image": "https://www.gametsg.net/img/2/14/e6c5ec339525ffa61798d9b7512247e4.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，根據設定的機率獲得以下道具之一。",
+      "靈魂石碎片(刻印)",
+      "龍之珍珠",
+      "強化戰鬥卷軸 (刻印)",
+      "拋棄之地時間補充寶石 (刻印)",
+      "英雄製作秘笈"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2686",
+    "item_name": "支配之塔命令卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2686",
+    "item_image": "https://www.gametsg.net/img/2/14/0b944448fc76726bf8b33faa66e158c7.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時 (包括用戶)",
+      "角色進入支配之塔的頂部",
+      "一切都獻給死神的祭壇",
+      "強制傳喚"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2687",
+    "item_name": "初級庫庫爾坎的獎勵箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2687",
+    "item_image": "https://www.gametsg.net/img/2/14/552d75f80bc7681bf9421905496050e3.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "開啟後有機率獲得下列其一道具 提卡爾庫庫爾坎之矛/提卡爾庫庫爾坎之盾/提卡爾庫庫爾坎面具 提卡爾庫庫爾坎鐵手甲/杰弗雷庫的魔眼/杰弗雷庫的尖牙 純白的萬能藥/對盔甲施法的卷軸/對武器施法的卷軸 高級皮革/高級金屬板/高級布/高級原石/名譽金幣(數量不等) 變身製作硬幣(數量不等)/魔法娃娃製作硬幣(數量不等)/金幣(數量不等)"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2688",
+    "item_name": "高級庫庫爾坎的獎勵箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2688",
+    "item_image": "https://www.gametsg.net/img/2/14/0c403b049cbfed2d99e10362c50bf552.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "開啟後有率獲得下列其一道具 杰弗雷庫的力量項鍊/杰弗雷庫的敏捷項鍊/杰弗雷庫的智力項鍊 杰弗雷庫的皮革頭盔/杰弗雷庫的鱗頭盔 [孌身卡]潘朵拉/英雄製作秘笈 提卡爾庫庫爾坎之矛/提卡爾庫庫爾坎之盾/提卡爾庫庫爾坎面具 提卡爾庫庫爾坎鐵手甲/杰弗雷庫的魔眼/杰弗雷庫的尖牙 純白的萬能藥/對盔甲施法的卷軸/對武器施法的卷軸 受祝褔的 對盔甲施法的卷軸/受祝福的 對武器施法的卷軸 高級皮革/高級金屬板/高級布/高級原石/名譽金幣(數量不等) 最高級皮革/最高級金屬板/最高級布/最高級原石 變身製作硬幣(數量不等)/魔法娃娃製作硬幣(數量不等)/金幣(數量不等)"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2689",
+    "item_name": "掠奪的箱子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2689",
+    "item_image": "https://www.gametsg.net/img/2/14/62d3ac1a1e5658f4cb16dce3f5150ead.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用後，依照設定機率獲得一種裝備。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2690",
+    "item_name": "祝福聖水(小)(支配之塔)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2690",
+    "item_image": "https://www.gametsg.net/img/2/14/0cc9c3b420b3a887ea9e6544a74eac7f.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得10點祝福點"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2691",
+    "item_name": "支配之塔瞬間移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2691",
+    "item_image": "https://www.gametsg.net/img/2/14/61b20c784bb355338de157b19b76edff.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "前往支配之塔的頂部",
+      "85級以上可用",
+      "位於支配之塔入口處"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2692",
+    "item_name": "太陽神的王冠",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2692",
+    "item_image": "https://www.gametsg.net/img/2/14/6f4613ecf2e77ff41b35b39b800ad3db.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2693",
+    "item_name": "武器熟練選擇箱(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2693",
+    "item_image": "https://www.gametsg.net/img/2/14/337a25981006197a039ad82e8001297a.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時可選擇一種職業的培訓書 (刻印).",
+      "——這個盒子裡面有一條通往虛無的終極完美的捷徑——"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2694",
+    "item_name": "拉斯塔巴德變身卡箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2694",
+    "item_image": "https://www.gametsg.net/img/2/14/ed9837da4fd2a9f500d4efe5d3f22efb.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "改造卡盒",
+      "使用時,根據機率支付 14 張英雄卡或稀有變身卡中的 1 張."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2695",
+    "item_name": "信念之塔1層移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2695",
+    "item_image": "https://www.gametsg.net/img/2/14/41ef46cc32289d3b7a8de0bb7d703cc7.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "前往信念之塔一樓",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處以及塔內使用"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2696",
+    "item_name": "召喚信念之杖(1樓)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2696",
+    "item_image": "https://www.gametsg.net/img/2/14/d63aa7449978c44939d259e929de80b7.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "在信念之塔一層入口處使用,召喚信念之犬."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2697",
+    "item_name": "信念之塔1樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2697",
+    "item_image": "https://www.gametsg.net/img/2/14/ae622f2656df829e61227cfeca27c706.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,可獲得信念之塔一層寶物"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2698",
+    "item_name": "歐林的戰利品箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2698",
+    "item_image": "https://www.gametsg.net/img/2/14/eecd55f933022b158acdcf47df7758c4.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時有機率獲得艾歐丁的靈魂、月靈的皮靴、亡者靈魂石."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2699",
+    "item_name": "杜佩里恩的戰利品箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2699",
+    "item_image": "https://www.gametsg.net/img/2/14/ca767b124215269ee6f0814d505f8fdb.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時有機率獲得艾歐丁的靈魂、杜佩里昂的面甲、亡者靈魂石."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2700",
+    "item_name": "宙斯普尼爾的戰利品箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2700",
+    "item_image": "https://www.gametsg.net/img/2/14/31ff1f79839d25a6a4ea335b12f2ce45.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時有機率獲得艾歐丁的靈魂、約尼爾斗篷、亡者靈魂石."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2701",
+    "item_name": "薩拉赫的戰利品箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2701",
+    "item_image": "https://www.gametsg.net/img/2/14/77803b8dcdc965829d3a0b07cf81c1c7.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時有機率獲得艾歐丁的靈魂、薩拉赫的褲子、亡者靈魂石."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2702",
+    "item_name": "格拉蒂姆的戰利品箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2702",
+    "item_image": "https://www.gametsg.net/img/2/14/7bf6c3e1acab06c1973381cf8dd23277.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時依依照指定概率獲得艾歐丁的靈魂、格拉迪姆的褲子、亡者靈魂石."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2703",
+    "item_name": "埃斯卡洛斯靈魂石袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2703",
+    "item_image": "https://www.gametsg.net/img/2/14/77bfafd87ba8188ea3795c6799983c25.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時依依照指定概率獲得亡者靈魂石和艾歐丁的靈魂."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2704",
+    "item_name": "埃斯卡洛斯時間補充寶石",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2704",
+    "item_image": "https://www.gametsg.net/img/2/14/d82b11565b7c359b35e1e2154e6306ab.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "補充時間1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2705",
+    "item_name": "海神之冠",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2705",
+    "item_image": "https://www.gametsg.net/img/2/14/6f4613ecf2e77ff41b35b39b800ad3db.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2706",
+    "item_name": "小亞特蘭提斯寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2706",
+    "item_image": "https://www.gametsg.net/img/2/14/a76aa83db11c25aa420f805bb81952c4.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2707",
+    "item_name": "大亞特蘭提斯寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2707",
+    "item_image": "https://www.gametsg.net/img/2/14/65277eb5eacda25e80dac85494c36d7b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2708",
+    "item_name": "守護石箱(特殊地監)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2708",
+    "item_image": "https://www.gametsg.net/img/2/14/4713a5ebdf91b253569e0eaa6697e41f.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得1個守護石"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2709",
+    "item_name": "靈藥箱(綁定)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2709",
+    "item_image": "https://www.gametsg.net/img/2/14/205fa5fc21587baa42b4a2a1f0331781.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "一個盒子,你可以獲得 1 個聖水"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2710",
+    "item_name": "夢幻之島時間補充寶石(綁定)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2710",
+    "item_image": "https://www.gametsg.net/img/2/14/411ce30ac68f700febe052fa48995313.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "補充時間1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2711",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2711",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2712",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2712",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2713",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2713",
+    "item_image": "https://www.gametsg.net/img/2/14/7ebd0e89a073cd30bfb4db4dea401a7c.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的變身卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2714",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2714",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2715",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2715",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2716",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2716",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2717",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2717",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2718",
+    "item_name": "信念之塔2樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2718",
+    "item_image": "https://www.gametsg.net/img/2/14/ae622f2656df829e61227cfeca27c706.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,獲得信念之塔第二層寶物."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2720",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2720",
+    "item_image": "https://www.gametsg.net/img/2/14/1c8faebb17158490c8095f7dd0aca42f.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用盒子時,獲得以下物品",
+      "[收購清單]",
+      ":[神秘變身卡]稀有"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2721",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2721",
+    "item_image": "https://www.gametsg.net/img/2/14/ce547d5b15a9459f99183051c7d0b53b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用盒子時,獲得以下物品",
+      "[收購清單]",
+      ":[神秘魔法娃娃卡]稀有"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2722",
+    "item_name": "萬能藥(綁定)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2722",
+    "item_image": "https://www.gametsg.net/img/2/14/ad91e76f9b188e8ca52a6b062e5a44d8.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時增加 1 點能力點",
+      "50級以上可用"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2723",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2723",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2724",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2724",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2725",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2725",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2726",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2726",
+    "item_image": "https://www.gametsg.net/img/2/14/6a710c119e573de79192dfca8fc254ac.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的魔法娃娃卡."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2727",
+    "item_name": "冷凍袋",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2727",
+    "item_image": "https://www.gametsg.net/img/2/14/28c81f97813fc8eddde0383594ea7600.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,依照設定的機率取得物品"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2728",
+    "item_name": "古代巨人墓穴時間補充寶石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2728",
+    "item_image": "https://www.gametsg.net/img/2/14/c5563e6c0f1f02e7294d99a9778e5ab6.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "補充時間1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2729",
+    "item_name": "燒焦的箱子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2729",
+    "item_image": "https://www.gametsg.net/img/2/14/b784a1d28f9e1e4544688d2f4d0a88a5.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,依照設定的機率取得物品"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2730",
+    "item_name": "波諾斯戰利品箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2730",
+    "item_image": "https://www.gametsg.net/img/2/14/8cc81865b0dba161069797924ed0c5f2.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,依照設定的機率取得物品"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2731",
+    "item_name": "波諾斯妖魔變身卡箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2731",
+    "item_image": "https://www.gametsg.net/img/2/14/ed9837da4fd2a9f500d4efe5d3f22efb.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "獲得下列 8 張稀有變身卡中的一張.",
+      "[變身卡]獸人劍",
+      "[變身卡]獸人弓",
+      "[變身卡]獸人斧",
+      "[變身卡]獸人戰士",
+      "[變身卡]波諾斯獸人弓箭手",
+      "[變身卡]波諾斯獸人法師",
+      "[變身卡]波諾斯獸人戰士",
+      "[變身卡]紅獸人"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2732",
+    "item_name": "納格瓦斯的戰利品箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2732",
+    "item_image": "https://www.gametsg.net/img/2/14/2fbc27b56add222c512c31faf718857f.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,依照機率",
+      "艾歐丁的靈魂,",
+      "納格巴斯褲子,",
+      "納格巴斯頭盔,",
+      "納格巴斯斗篷,",
+      "納格巴斯長靴,",
+      "獲得一個死者的靈魂石"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2733",
+    "item_name": "奧里姆的配件魔法咒語盒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2733",
+    "item_image": "https://www.gametsg.net/img/2/14/5d50d869b9e09c40e9aa0d7790a7c665.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,按照依照指定概率獲得奧里姆的附屬魔法卷軸或祝福奧里姆的附屬魔法卷軸."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2734",
+    "item_name": "防禦強化卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2734",
+    "item_image": "https://www.gametsg.net/img/2/14/826156ffc70c7fd8a15c525ffeac2216.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2735",
+    "item_name": "信念之塔第3樓寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2735",
+    "item_image": "https://www.gametsg.net/img/2/14/ae622f2656df829e61227cfeca27c706.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得信念之塔第三層寶物"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2736",
+    "item_name": "信念之塔3樓移動卷粥",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2736",
+    "item_image": "https://www.gametsg.net/img/2/14/8ef368ed3bd5e26a187cc9cca75396b6.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "前往信念之塔三層",
+      "68級以上可用",
+      "只能在傲慢與信仰之塔入口處以及塔內使用"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2737",
+    "item_name": "艾比諾盆地時間補充寶石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2737",
+    "item_image": "https://www.gametsg.net/img/2/14/94ea6782b07f2d262381a9882fbc3c54.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "補充時間1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2738",
+    "item_name": "世界首領寶箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2738",
+    "item_image": "https://www.gametsg.net/img/2/14/e8d803830fd4ac5dc7ff573727e8eca9.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,請獲得以下物品",
+      "[確認收購]",
+      "- 200 個魔法娃娃製作幣",
+      "[依依照指定概率追加獲取]",
+      "- 300~1,000名譽金幣",
+      "- 1~3顆龍之鑽石",
+      "- 1~3 龍鑽",
+      "- 1~3 顆龍藍寶石",
+      "- 1~3 龍紅寶石"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2739",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2739",
+    "item_image": "https://www.gametsg.net/img/2/14/4899e1073a88b3164bc9c76f1aaec322.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時可以挑戰自己,透過英雄合成獲得一張傳說聖物卡.",
+      "失敗時獲得1種英雄聖物卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2740",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2740",
+    "item_image": "https://www.gametsg.net/img/2/14/328c5301af64ae909f218d6ef771132b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時可以挑戰自己,透過傳說合成獲得一張神話聖物卡.",
+      "失敗時獲得1張傳說聖物卡"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2741",
+    "item_name": "蘭姆酒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2741",
+    "item_image": "https://www.gametsg.net/img/2/14/1563a17e109d0f9b1eba20e0a6e04a60.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時,會消耗 1500 點殷海薩的祝福,並獲得 31,920,000 點經驗值.",
+      "從 80 級開始可用",
+      ":角色達到一定等級後會獲得額外費用."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2742",
+    "item_name": "海盜古墓移動卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2742",
+    "item_image": "https://www.gametsg.net/img/2/14/507eff7589c7629aa409590bbc37b30a.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "前往海賊島",
+      "88級以上可用",
+      "僅適用於海盜島"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2743",
+    "item_name": "海盜島寶箱(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2743",
+    "item_image": "https://www.gametsg.net/img/2/14/6131fdbb1e795aacda2c98b56da70a15.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "用品箱"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2744",
+    "item_name": "海盜島時間補充寶石",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2744",
+    "item_image": "https://www.gametsg.net/img/2/14/1c16b48240f89f62b0612d54833f9451.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "補充時間1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2745",
+    "item_name": "庫傑的裝備袋(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2745",
+    "item_image": "https://www.gametsg.net/img/2/14/07c9964cb22ce817322d082b47b60fb9.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時有幾率可獲得以下物品之一",
+      "- 庫傑的兜帽",
+      "- 庫傑的護肩",
+      "- 庫傑的護腕",
+      "- 庫傑的護踝",
+      "- 庫傑俱樂部"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2746",
+    "item_name": "庫傑的寶藏包(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2746",
+    "item_image": "https://www.gametsg.net/img/2/14/e8d5d7b9441ef38cb8cac51b0a7173f2.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得以下物品",
+      "[確認收購]",
+      "- 庫傑的食物 (刻印)",
+      "[依依照指定概率追加獲取]",
+      "- 庫傑的靈藥(刻印)",
+      "- 庫傑的傳說技能書選擇盒",
+      "- 庫傑的英雄技能書選擇盒",
+      "- 沙哈之弓",
+      "- 巨人的斧頭",
+      "- 吸血鐮刀",
+      "- 歐吉腰帶(刻印)",
+      "- 滅魔戒指(刻印)",
+      "- 君主的威嚴(刻印)",
+      "- 黑暗棲林者盔甲(刻印)"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2747",
+    "item_name": "虛空的寺院時間補充寶石(活動)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2747",
+    "item_image": "https://www.gametsg.net/img/2/14/c7ed079df6947463b586ced19a16bebd.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "補充時間1小時"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2748",
+    "item_name": "",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2748",
+    "item_image": "https://www.gametsg.net/img/2/14/00bdc27ccbd49a6d752be66261d643f3.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時選擇並獲得對應的變身卡",
+      "※ 可以個人交易"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2749",
+    "item_name": "龍之鑽石",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+    "item_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "殷海薩的祝福",
+      "（收費金額:100)",
+      ":角色達到一定等級後會獲得額外費用."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2750",
+    "item_name": "倫提斯的紅光耳環箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2750",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，獲得以下所有道具，倫提斯的紅光耳環1 個和倫提斯的強化卷軸 8 張。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2751",
+    "item_name": "倫提斯的紫光耳環箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2751",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，獲得以下所有道具，倫提斯的紫光耳環1 個和倫提斯的強化卷軸 8 張。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2752",
+    "item_name": "倫提斯的黑光耳環箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2752",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，獲得以下所有道具，倫提斯的黑光耳環1 個和倫提斯的強化卷軸 8 張。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2753",
+    "item_name": "史奈普的智慧戒指箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2753",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，獲得以下所有道具 史奈普智慧戒指1 個和史奈普戒指強化卷軸 8 張。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2754",
+    "item_name": "史奈普的防禦戒指箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2754",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時，獲得以下所有道具 史奈普防禦戒指1 個和史奈普戒指強化卷軸 8 張。"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2759",
+    "item_name": "守護印章箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2759",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "一個盒子,內含 1 個守護印章和 8 個印章/符石強化石."
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2760",
+    "item_name": "受祝福的強化卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2760",
+    "item_image": "https://www.gametsg.net/img/2/13/3de8449f825981123346aecf0547351f.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  },
+  {
+    "item_id": "2761",
+    "item_name": "回復印章箱",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2761",
+    "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "一個盒子,內含 1 個回復印章和 8 個印章/符石強化石"
+    ],
+    "data_zhiye": "",
+    "category_id": "46",
+    "category_name": "其他"
+  }
+]

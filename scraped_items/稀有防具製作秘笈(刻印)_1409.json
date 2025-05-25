@@ -1,0 +1,88 @@
+{
+  "item_id": "1409",
+  "item_name": "稀有防具製作秘笈(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1409",
+  "item_image": "https://www.gametsg.net/img/1/10/711c28e3361b636489ef12e1bc6531e6.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "稀有防具製作秘笈(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+      "material_id": "2749",
+      "material_name": "龍之鑽石",
+      "material_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+      "material_grade": "grade00",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1392",
+      "material_id": "1392",
+      "material_name": "封印的稀有防具製作秘笈",
+      "material_image": "https://www.gametsg.net/img/1/9/4e260c7ec84a63c208914d8c24c6c1b6.jpg",
+      "material_grade": "grade03",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1393",
+          "alt_id": "1393",
+          "alt_name": "封印的稀有防具製作秘笈(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1394",
+          "alt_id": "1394",
+          "alt_name": "封印的稀有防具製作秘笈(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1393",
+      "material_id": "1393",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1394",
+      "material_id": "1394",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    }
+  ],
+  "monster_drops": []
+}

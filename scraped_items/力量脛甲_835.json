@@ -1,0 +1,311 @@
+{
+  "item_id": "835",
+  "item_name": "力量脛甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=835",
+  "item_image": "https://www.gametsg.net/img/1/6/06ed7b8eac7f0b44227666cf473231a3.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-5",
+  "item_stats": [
+    "力量+1"
+  ],
+  "data_zhiye": "",
+  "category_id": "21",
+  "category_name": "褲子",
+  "basic_info": {
+    "title": "力量脛甲",
+    "類型": "防具(褲子)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-5",
+    "屬性": "力量+1",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "金屬塊",
+    "重量": "120"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5，物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10，物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15，物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20，物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25，物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30，物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35，物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40，物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "最大HP+45，物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "最大HP+50，物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "最大HP+55，物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "最大HP+60，物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "最大HP+65，物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "最大HP+70，物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "林德拜爾的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=21",
+      "monster_id": "21",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-18 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "巴拉卡斯的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=23",
+      "monster_id": "23",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-19 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "歐吉王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=39",
+      "monster_id": "39",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "96",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "巨大牛人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=40",
+      "monster_id": "40",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "96",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "亞力安王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=45",
+      "monster_id": "45",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-遗忘之島"
+      ]
+    },
+    {
+      "monster_name": "不滅的龍骨",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=188",
+      "monster_id": "188",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    },
+    {
+      "monster_name": "黑暗席琳",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=216",
+      "monster_id": "216",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_areas": [
+        "拉斯塔巴德-暗殺軍王的職務室",
+        "其他-暗殺軍王室"
+      ]
+    },
+    {
+      "monster_name": "幻影騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=248",
+      "monster_id": "248",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔獸軍王室"
+      ]
+    },
+    {
+      "monster_name": "不滅的骷髏戰士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=264",
+      "monster_id": "264",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-9樓(不滅)"
+      ]
+    }
+  ]
+}

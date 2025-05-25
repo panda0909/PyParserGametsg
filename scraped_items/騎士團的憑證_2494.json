@@ -1,0 +1,50 @@
+{
+  "item_id": "2494",
+  "item_name": "騎士團的憑證",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2494",
+  "item_image": "https://www.gametsg.net/img/2/12/9ff56056f14a1e4c6c362030884d9042.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "哪裡獲取:",
+    "[任務]",
+    "[血盟捐贈]",
+    "用途:",
+    "[血盟商店]"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "騎士團的憑證",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": [
+      "哪裡獲取:",
+      "[任務]",
+      "[血盟捐贈]",
+      "用途:",
+      "[血盟商店]"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,65 @@
+{
+  "item_id": "1697",
+  "item_name": "暗黑技術書(復仇屏障:復仇者)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1697",
+  "item_image": "https://www.gametsg.net/img/2/11/a590b5248cf80eee382cf91f8513eb46.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "暗黑技術書"
+  ],
+  "data_zhiye": "52",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "暗黑技術書(復仇屏障:復仇者)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "0.01",
+    "說明": "暗黑技術書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "長老:巴洛德",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=147",
+      "monster_id": "147",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-冥法軍王室"
+      ]
+    }
+  ]
+}

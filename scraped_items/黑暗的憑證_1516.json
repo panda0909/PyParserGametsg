@@ -1,0 +1,665 @@
+{
+  "item_id": "1516",
+  "item_name": "黑暗的憑證",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1516",
+  "item_image": "https://www.gametsg.net/img/2/11/816c5ec056d4a1639ce3ab50c5d2b531.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "收集材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "黑暗的憑證",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "銀",
+    "說明": "收集材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "黑暗的狼人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=945",
+      "monster_id": "945",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-1 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗怪物",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=946",
+      "monster_id": "946",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-1 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的鼠人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=947",
+      "monster_id": "947",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-1 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的石頭高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=948",
+      "monster_id": "948",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-1 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的地獄犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=949",
+      "monster_id": "949",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗安普長者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=950",
+      "monster_id": "950",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的萊肯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=951",
+      "monster_id": "951",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的食人妖精王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=952",
+      "monster_id": "952",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的化石龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=953",
+      "monster_id": "953",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的死骸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=954",
+      "monster_id": "954",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的實驗體",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=955",
+      "monster_id": "955",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的屍體",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=956",
+      "monster_id": "956",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=957",
+      "monster_id": "957",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的狂暴槍騎",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=958",
+      "monster_id": "958",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=959",
+      "monster_id": "959",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的獵犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=960",
+      "monster_id": "960",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的狼人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=961",
+      "monster_id": "961",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-1 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗怪物",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=962",
+      "monster_id": "962",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-1 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的鼠人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=963",
+      "monster_id": "963",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-1 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的石頭高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=964",
+      "monster_id": "964",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-1 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的地獄犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=965",
+      "monster_id": "965",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗安普長者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=966",
+      "monster_id": "966",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的萊肯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=967",
+      "monster_id": "967",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的食人妖精王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=968",
+      "monster_id": "968",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的化石龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=969",
+      "monster_id": "969",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的死骸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=970",
+      "monster_id": "970",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的實驗體",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=971",
+      "monster_id": "971",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的屍體",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=972",
+      "monster_id": "972",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=973",
+      "monster_id": "973",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的狂暴槍騎",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=974",
+      "monster_id": "974",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=975",
+      "monster_id": "975",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的獵犬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=976",
+      "monster_id": "976",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "逃走的黑暗妖精長者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=977",
+      "monster_id": "977",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2樓通道"
+      ]
+    },
+    {
+      "monster_name": "逃走的黑暗妖精王族",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=978",
+      "monster_id": "978",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4樓通道"
+      ]
+    },
+    {
+      "monster_name": "黑暗的弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=981",
+      "monster_id": "981",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-2 樓 - 夜晚"
+      ]
+    },
+    {
+      "monster_name": "黑暗的弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=982",
+      "monster_id": "982",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 夜晚"
+      ]
+    }
+  ]
+}

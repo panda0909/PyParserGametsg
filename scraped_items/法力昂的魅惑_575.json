@@ -1,0 +1,121 @@
+{
+  "item_id": "575",
+  "item_name": "法力昂的魅惑",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=575",
+  "item_image": "https://www.gametsg.net/img/1/4/87285edb42c8e28cbc112a05977c6094.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-8",
+  "item_stats": [
+    "最大HP+500",
+    "MP回復 (tic)+11",
+    "HP回復 (tic)+4",
+    "水屬性抗性+50%"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "法力昂的魅惑",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-8",
+    "屬性": [
+      "最大HP+500",
+      "MP回復 (tic)+11",
+      "HP回復 (tic)+4",
+      "水屬性抗性+50%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "龍鱗",
+    "重量": "50",
+    "說明": [
+      "受到攻擊時HP依依照指定概率恢復",
+      "每個附魔的 HP 恢復率從 +7 增加到 +9"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+200,物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+300,物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "最大HP+400,物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "最大HP+400,物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "最大HP+400,物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "最大HP+400,物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "最大HP+400,物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "最大HP+400,物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,205 @@
+{
+  "item_id": "616",
+  "item_name": "冰之女王魅力禮服",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=616",
+  "item_image": "https://www.gametsg.net/img/1/4/c46ee3a03b203242ee621c9894fd12a0.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "王族",
+      "level": "level08"
+    }
+  ],
+  "item_level": "-7",
+  "item_stats": [],
+  "data_zhiye": "8",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "冰之女王魅力禮服",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "物理防禦 (AC)": "-7",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "原石",
+    "重量": "30",
+    "套裝裝備": [
+      "冰之女王魅力涼鞋",
+      "冰之女王魅力禮服",
+      "冰之女王魅力頭飾",
+      "冰之女王魅力涼鞋(刻印)",
+      "冰之女王魅力禮服(刻印)",
+      "冰之女王魅力頭飾(刻印)"
+    ],
+    "套裝屬性": [
+      "3套裝效果",
+      "最大HP+100",
+      "物理防禦力 (AC)-5",
+      "MP回復(tic)+4",
+      "魅力+2",
+      "力量+2",
+      "水屬性抗性+20%"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1465",
+      "material_id": "1465",
+      "material_name": "水之氣息",
+      "material_image": "https://www.gametsg.net/img/1/10/b1100ecc754252fedbdadc8d22cb301b.jpg",
+      "material_grade": "grade01",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1371",
+      "material_id": "1371",
+      "material_name": "英雄防具製作秘傳(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/9/45d1eade9615cb0816a7949037fb1ff7.jpg",
+      "material_grade": "grade04",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+          "alt_id": "1373",
+          "alt_name": "英雄製作秘笈",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+          "alt_id": "1374",
+          "alt_name": "英雄製作秘笈(刻印)",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+      "material_id": "1373",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+      "material_id": "1374",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2758",
+      "material_id": "2758",
+      "material_name": "最高級的原石",
+      "material_image": "https://www.gametsg.net/img/3/25/0a50a4adceb8686cb9fca6d208a5bacb.jpg",
+      "material_grade": "grade00",
+      "material_count": "24"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "400"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "5000000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "被遺忘的冰雪女王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=691",
+      "monster_id": "691",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(12:00)"
+      ]
+    }
+  ]
+}

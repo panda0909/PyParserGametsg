@@ -1,0 +1,56 @@
+{
+  "item_id": "2768",
+  "item_name": "波爾卡的符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2768",
+  "item_image": "https://www.gametsg.net/uploads/20250114/f6833b00694739435e13e4e50c20a0b8.png",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "13/16",
+  "item_stats": [
+    "額外攻擊+7",
+    "武器命中+9",
+    "昏迷命中+5%",
+    "防止武器損壞",
+    "力量+3",
+    "生命+5",
+    "發動：緋紅漩渦 10%",
+    "發動：格蘭肯的憤怒 1%"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "波爾卡的符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "13/16",
+    "屬性": [
+      "額外攻擊+7",
+      "武器命中+9",
+      "昏迷命中+5%",
+      "防止武器損壞",
+      "力量+3",
+      "生命+5",
+      "發動：緋紅漩渦 10%",
+      "發動：格蘭肯的憤怒 1%"
+    ],
+    "階段": "-3",
+    "材質": "金屬",
+    "重量": "50"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

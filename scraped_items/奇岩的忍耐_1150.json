@@ -1,0 +1,85 @@
+{
+  "item_id": "1150",
+  "item_name": "奇岩的忍耐",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1150",
+  "item_image": "https://www.gametsg.net/img/1/8/da1135ea03a1950f1c4ba03fecc83844.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-5",
+  "item_stats": [
+    "負重獎勵+3000",
+    "傷害減免+5",
+    "無視傷害減免+5",
+    "昏迷抗性+3%"
+  ],
+  "data_zhiye": "",
+  "category_id": "29",
+  "category_name": "腰帶",
+  "basic_info": {
+    "title": "奇岩的忍耐",
+    "類型": "飾品(腰帶)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-5",
+    "屬性": [
+      "負重獎勵+3000",
+      "傷害減免+5",
+      "無視傷害減免+5",
+      "昏迷抗性+3%"
+    ],
+    "祝福屬性": "藥水恢復率+3%",
+    "材質": "原石",
+    "重量": "50"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+35，負重獎勵+35"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+70，負重獎勵+70"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+105，負重獎勵+105"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+140，負重獎勵+140"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+175，負重獎勵+175，近距離暴擊抗性+2%，遠距離暴擊抗性+2%，PVE傷害減免+1，傷害減免+1，PVP傷害減免+1"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+210，負重獎勵+210，近距離暴擊抗性+4%，遠距離暴擊抗性+4%，PVE傷害減免+2，傷害減免+2，PVP傷害減免+2"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+245，負重獎勵+245，近距離暴擊抗性+6%，遠距離暴擊抗性+6%，PVE傷害減免+3，傷害減免+3，PVP傷害減免+3"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+280，負重獎勵+280，近距離暴擊抗性+8%，遠距離暴擊抗性+8%，PVE傷害減免+4，傷害減免+4，PVP傷害減免+4"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,209 @@
+{
+  "item_id": "1349",
+  "item_name": "傳說製作秘笈(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+  "item_image": "https://www.gametsg.net/img/1/9/ccd5dfccdc3efedcfada5a9be74b4855.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "傳說製作秘笈(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1415",
+      "material_id": "1415",
+      "material_name": "金色勛章",
+      "material_image": "https://www.gametsg.net/img/1/10/e7f3ba22696aeafef222b2c019f5ea55.jpg",
+      "material_grade": "grade02",
+      "material_count": "300",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1423",
+          "alt_id": "1423",
+          "alt_name": "銀色勛章",
+          "alt_grade": "grade02",
+          "alt_count": "3000"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1423",
+      "material_id": "1423",
+      "material_name": "",
+      "material_grade": "grade02",
+      "material_count": "3000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "安塔瑞斯的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=15",
+      "monster_id": "15",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-15 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "法利昂的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=17",
+      "monster_id": "17",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-17 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "林德拜爾的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=21",
+      "monster_id": "21",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-18 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "巴拉卡斯的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=23",
+      "monster_id": "23",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-19 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "地獄炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=293",
+      "monster_id": "293",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_areas": [
+        "其他-血盟-14 級 突襲 (傳奇)"
+      ]
+    },
+    {
+      "monster_name": "沙蟲的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=941",
+      "monster_id": "941",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-20 級突襲副本 (神話)"
+      ]
+    }
+  ]
+}

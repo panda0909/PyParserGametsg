@@ -1,0 +1,111 @@
+{
+  "item_id": "2707",
+  "item_name": "大亞特蘭提斯寶箱",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2707",
+  "item_image": "https://www.gametsg.net/img/2/14/65277eb5eacda25e80dac85494c36d7b.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "大亞特蘭提斯寶箱",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬塊",
+    "重量": "0.04"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "克拉肯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=19",
+      "monster_id": "19",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-亞特蘭提斯"
+      ]
+    },
+    {
+      "monster_name": "海神波塞頓",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=20",
+      "monster_id": "20",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-亞特蘭提斯"
+      ]
+    },
+    {
+      "monster_name": "章魚",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=291",
+      "monster_id": "291",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-亞特蘭提斯"
+      ]
+    },
+    {
+      "monster_name": "鯊魚士兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=341",
+      "monster_id": "341",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-亞特蘭提斯"
+      ]
+    }
+  ]
+}

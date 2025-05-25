@@ -1,0 +1,357 @@
+{
+  "item_id": "1380",
+  "item_name": "符石變換石",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1380",
+  "item_image": "https://www.gametsg.net/img/1/9/2c33230d791bf5a928d402c9e34827e7.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "製作符石的材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "符石變換石",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "1",
+    "說明": "製作符石的材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1220",
+      "material_id": "1220",
+      "material_name": "智慧符石(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/8/ce1f44b7bdbc44905370c4f02dce9e7e.jpg",
+      "material_grade": "grade03",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1221",
+          "alt_id": "1221",
+          "alt_name": "體力符石(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1221",
+      "material_id": "1221",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "支配者吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1",
+      "monster_id": "1",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "150",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=3",
+      "monster_id": "3",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的暗殺軍王史雷佛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=4",
+      "monster_id": "4",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的法令軍王蕾雅",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=5",
+      "monster_id": "5",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "覺醒的冥法之王海露拜",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=6",
+      "monster_id": "6",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "祭司長納格巴斯 (分身)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=7",
+      "monster_id": "7",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "祭司長納格巴斯 (本體)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=8",
+      "monster_id": "8",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "月靈",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=48",
+      "monster_id": "48",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "杜佩里恩",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=49",
+      "monster_id": "49",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "約尼爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=50",
+      "monster_id": "50",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "薩拉赫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=51",
+      "monster_id": "51",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "月靈",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=52",
+      "monster_id": "52",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "95",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "沙蟲的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=941",
+      "monster_id": "941",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-20 級突襲副本 (神話)"
+      ]
+    }
+  ]
+}

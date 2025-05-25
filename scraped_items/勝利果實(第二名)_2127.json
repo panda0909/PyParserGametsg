@@ -1,0 +1,44 @@
+{
+  "item_id": "2127",
+  "item_name": "勝利果實(第二名)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2127",
+  "item_image": "https://www.gametsg.net/img/2/12/b5c88c3aea0b79110846ffcfbf46d872.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時獲得經驗值3,000,000",
+    "從 40 級開始可用"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "40",
+  "category_name": "藥水",
+  "basic_info": {
+    "title": "勝利果實(第二名)",
+    "類型": "其他(藥水)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "蔬菜",
+    "說明": [
+      "使用時獲得經驗值3,000,000",
+      "從 40 級開始可用"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

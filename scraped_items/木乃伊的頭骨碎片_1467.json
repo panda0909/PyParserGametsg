@@ -1,0 +1,115 @@
+{
+  "item_id": "1467",
+  "item_name": "木乃伊的頭骨碎片",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1467",
+  "item_image": "https://www.gametsg.net/img/1/10/9fff18bfccb41e40737537a8e2f988a3.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "木乃伊的頭骨碎片",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "骨頭",
+    "重量": "5",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "木乃伊王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=115",
+      "monster_id": "115",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "91",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    },
+    {
+      "monster_name": "不死的木乃伊王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=198",
+      "monster_id": "198",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-6樓(不死)"
+      ]
+    },
+    {
+      "monster_name": "鐮刀死神的監視者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=878",
+      "monster_id": "878",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-6樓(不死)",
+        "其他-外觀-不死的艾爾摩將軍"
+      ]
+    },
+    {
+      "monster_name": "支配的木乃伊王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=911",
+      "monster_id": "911",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "item_id": "284",
+  "item_name": "歐西里斯雙刀",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=284",
+  "item_image": "https://www.gametsg.net/img/1/2/593bd1bb08a82a8d4c320aa2e5aa758d.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    }
+  ],
+  "item_level": "25 / 20",
+  "item_stats": [
+    "額外攻擊+6",
+    "武器命中+9",
+    "力量+2",
+    "防止武器損壞",
+    "雙手武器",
+    "死亡+3",
+    "無視近距離迴避力+2",
+    "破甲命中 +7%",
+    "發動:混沌底比斯 10%",
+    "發動:格蘭肯的憤怒 1%"
+  ],
+  "data_zhiye": "4",
+  "category_id": "9",
+  "category_name": "雙刀",
+  "basic_info": {
+    "title": "歐西里斯雙刀",
+    "類型": "武器(雙刀)",
+    "職業": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "武器攻擊力": "25 / 20",
+    "屬性": [
+      "額外攻擊+6",
+      "武器命中+9",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "死亡+3",
+      "無視近距離迴避力+2",
+      "破甲命中 +7%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "祝福屬性": "額外攻擊+1",
+    "階段": "2 級",
+    "材質": "金",
+    "重量": "30"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器命中+2"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7,傷害增加+3%"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+10,武器命中+8,傷害增加+4%"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+13,武器命中+9,傷害增加+5%"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+16,武器命中+10,傷害增加+6%"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+19,武器命中+11,傷害增加+7%"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+22,武器命中+12,傷害增加+7%"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+25,武器命中+13,傷害增加+7%"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+28,武器命中+14,傷害增加+7%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "底比斯 歐西里斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=18",
+      "monster_id": "18",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    },
+    {
+      "monster_name": "底比斯阿努比斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=24",
+      "monster_id": "24",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "98",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    },
+    {
+      "monster_name": "底比斯賀洛斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=25",
+      "monster_id": "25",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "98",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    }
+  ]
+}

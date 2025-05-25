@@ -1,0 +1,44 @@
+{
+  "item_id": "2531",
+  "item_name": "國王的狩獵場門票(活動)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2531",
+  "item_image": "https://www.gametsg.net/img/2/13/eff818de8b9129ae92afa62789c6c4a0.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時,你將被帶到國王的魔法狩獵場.",
+    "這個地下城每天只能使用2分鐘,並且會掉落TJ幣."
+  ],
+  "data_zhiye": "1000",
+  "category_id": "44",
+  "category_name": "移動道具",
+  "basic_info": {
+    "title": "國王的狩獵場門票(活動)",
+    "類型": "其他(移動道具)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "說明": [
+      "使用時,你將被帶到國王的魔法狩獵場.",
+      "這個地下城每天只能使用2分鐘,並且會掉落TJ幣."
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

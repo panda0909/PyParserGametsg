@@ -1,0 +1,85 @@
+{
+  "item_id": "1112",
+  "item_name": "賀洛斯戒指(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1112",
+  "item_image": "https://www.gametsg.net/img/1/8/f728c1ba5caaa0b506569cd69779f50b.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "MP回復(tic)+1",
+    "智力+1",
+    "魔攻+2",
+    "昏迷抗性+3%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "28",
+  "category_name": "戒指",
+  "basic_info": {
+    "title": "賀洛斯戒指(刻印)",
+    "類型": "飾品(戒指)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "MP回復(tic)+1",
+      "智力+1",
+      "魔攻+2",
+      "昏迷抗性+3%"
+    ],
+    "祝福屬性": "藥水恢復率+1%",
+    "材質": "金",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+10,負重獎勵+10"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+30,負重獎勵+30"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+40,負重獎勵+40"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+50,負重獎勵+50,近距離攻擊+1,遠距離攻擊+1,魔法攻擊+1,近距離傷害+1,遠距離傷害+1,魔攻+1"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+60,負重獎勵+60,近距離攻擊+2,遠距離攻擊+2,魔法攻擊+2,近距離傷害+2,遠距離傷害+2,魔攻+2"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+70,負重獎勵+70,近距離攻擊+3,遠距離攻擊+3,魔法攻擊+3,近距離傷害+3,遠距離傷害+3,魔攻+3"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+80,負重獎勵+80,近距離攻擊+4,遠距離攻擊+4,魔法攻擊+4,近距離傷害+4,遠距離傷害+4,魔攻+4"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

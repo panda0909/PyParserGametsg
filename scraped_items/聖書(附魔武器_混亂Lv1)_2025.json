@@ -1,0 +1,41 @@
+{
+  "item_id": "2025",
+  "item_name": "聖書(附魔武器:混亂Lv1)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2025",
+  "item_image": "https://www.gametsg.net/img/2/12/228496c3438cc4833d2a8502025e6ea1.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "聖書"
+  ],
+  "data_zhiye": "81",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "聖書(附魔武器:混亂Lv1)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "0.01",
+    "說明": "聖書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

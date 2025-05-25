@@ -1,0 +1,309 @@
+{
+  "item_id": "746",
+  "item_name": "騎士范德的手套",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=746",
+  "item_image": "https://www.gametsg.net/img/1/5/eb7c52968c2639ef532f00df5bbbbda6.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    },
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-4",
+  "item_stats": [
+    "力量+3",
+    "昏迷命中 +8%",
+    "近距離傷害+2",
+    "近距離命中+4"
+  ],
+  "data_zhiye": "1|2|3|4|5|8|52|81|7|12|13",
+  "category_id": "20",
+  "category_name": "手套",
+  "basic_info": {
+    "title": "騎士范德的手套",
+    "類型": "防具(手套)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-4",
+    "屬性": [
+      "力量+3",
+      "昏迷命中 +8%",
+      "近距離傷害+2",
+      "近距離命中+4"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "皮革",
+    "重量": "20"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,近戰傷害+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,近距離傷害+2"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,近距離傷害+3"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,近距離傷害+4"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,近戰傷害+5"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,近距離傷害+6"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,近距離傷害+7"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1440",
+      "material_id": "1440",
+      "material_name": "騎士范德的右側心眼",
+      "material_image": "https://www.gametsg.net/img/1/10/116aa2c034ae64f2bc29857ab7a76e5b.jpg",
+      "material_grade": "grade01",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1441",
+      "material_id": "1441",
+      "material_name": "騎士范德的左側心眼",
+      "material_image": "https://www.gametsg.net/img/1/10/1c0886617cfbfd8dee681cc97c7a3193.jpg",
+      "material_grade": "grade01",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+      "material_id": "2749",
+      "material_name": "龍之鑽石",
+      "material_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+      "material_grade": "grade00",
+      "material_count": "500",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+          "alt_id": "2500",
+          "alt_name": "金幣",
+          "alt_grade": "grade01",
+          "alt_count": "100000000"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "",
+      "material_grade": "grade01",
+      "material_count": "100000000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1508",
+      "material_id": "1508",
+      "material_name": "艾莉絲的項錬",
+      "material_image": "https://www.gametsg.net/img/1/10/cc6a7af3a38f32f00febf2f9b15be8ea.jpg",
+      "material_grade": "grade01",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1522",
+      "material_id": "1522",
+      "material_name": "奥里哈鲁根金屬板",
+      "material_image": "https://www.gametsg.net/img/2/11/58704e10d7ad99eb2bc55175d9ba9461.jpg",
+      "material_grade": "grade01",
+      "material_count": "20"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1345",
+      "material_id": "1345",
+      "material_name": "傳說防具製作秘笈(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/9/ccd5dfccdc3efedcfada5a9be74b4855.jpg",
+      "material_grade": "grade05",
+      "material_count": "2",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+          "alt_id": "1348",
+          "alt_name": "傳說製作秘笈",
+          "alt_grade": "grade05",
+          "alt_count": "2"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+          "alt_id": "1349",
+          "alt_name": "傳說製作秘笈(刻印)",
+          "alt_grade": "grade05",
+          "alt_count": "2"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+      "material_id": "1348",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+      "material_id": "1349",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "2"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "黑暗騎士范德",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=131",
+      "monster_id": "131",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_areas": [
+        "傲慢之塔-8樓(黑暗)"
+      ]
+    },
+    {
+      "monster_name": "支配的騎士范德",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=913",
+      "monster_id": "913",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    }
+  ]
+}

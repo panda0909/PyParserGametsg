@@ -1,0 +1,41 @@
+{
+  "item_id": "1952",
+  "item_name": "秘傳(落雷)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1952",
+  "item_image": "https://www.gametsg.net/img/2/12/5961628a352df0a1a0c7bf6f551169b9.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "秘傳"
+  ],
+  "data_zhiye": "13",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "秘傳(落雷)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.01",
+    "說明": "秘傳"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

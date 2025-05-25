@@ -1,0 +1,482 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2573",
+    "item_name": "支配者的頭環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2573",
+    "item_image": "https://www.gametsg.net/img/2/13/e4acf9e59078d7027649bbe326879ca2.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+1000",
+      "持續時間 10 分鐘",
+      "昏迷抗性+5%",
+      "傷害減免+5",
+      "近距離傷害+5",
+      "遠距離傷害+5",
+      "魔攻+5",
+      "近距離命中+10",
+      "遠距離命中+10",
+      "魔法命中+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2574",
+    "item_name": "信念頭環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2574",
+    "item_image": "https://www.gametsg.net/img/2/13/f8aaabf0ccfc5723544bd0b8ad35c1b2.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "昏迷抗性+3%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2575",
+    "item_name": "不滅的庇護(1階)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2575",
+    "item_image": "https://www.gametsg.net/img/2/13/c50f6a91071be2e85a1e05c8e7747c5f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:15 分鐘",
+      "PVP傷害減免+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2576",
+    "item_name": "不滅的庇護(2階)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2576",
+    "item_image": "https://www.gametsg.net/img/2/13/84fd10f4926a7fe0e00821677c2323a8.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:15 分鐘",
+      "PVP傷害減免+6"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2577",
+    "item_name": "守護者頭環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2577",
+    "item_image": "https://www.gametsg.net/img/2/13/61f83398f548ad2a56fb2062548e9f27.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "傷害減免+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2578",
+    "item_name": "信仰頭環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2578",
+    "item_image": "https://www.gametsg.net/img/2/13/fc69d081623499da467e8946a66a427f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "近距離命中+5",
+      "遠距離命中+5",
+      "魔法命中+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2579",
+    "item_name": "勇氣頭環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2579",
+    "item_image": "https://www.gametsg.net/img/2/13/d8afb80bede44450c53a568ca6d23d63.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "近距離傷害+3",
+      "遠距離傷害+3",
+      "魔攻+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2580",
+    "item_name": "意志頭環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2580",
+    "item_image": "https://www.gametsg.net/img/2/13/3e44a166d0e9f088169d09fd5cd033a1.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "最大HP+500",
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2581",
+    "item_name": "覺醒:炎魔的庇護",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2581",
+    "item_image": "https://www.gametsg.net/img/2/13/6658df35e3f02b15cba5629a9db92d7b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "冷卻時間 (秒)1小時",
+      "PVE傷害減免+4"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2582",
+    "item_name": "頂級庇護(1階)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2582",
+    "item_image": "https://www.gametsg.net/img/2/13/09571c38a45b529205d7964c11faa7cd.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "PVP傷害減免+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2583",
+    "item_name": "頂級庇護(2階)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2583",
+    "item_image": "https://www.gametsg.net/img/2/13/60bd4d5507a8844bcb67637061e31686.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "PVP傷害減免+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2584",
+    "item_name": "頂級庇護(3階)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2584",
+    "item_image": "https://www.gametsg.net/img/2/13/2bb036ca1a0df86abc53640807654601.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "PVP傷害減免+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2585",
+    "item_name": "龍之淚(活動)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2585",
+    "item_image": "https://www.gametsg.net/img/2/13/73e2b4b9d2b1d14d2accddfed8520956.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 1 小時",
+      "冷卻時間 (秒)22小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2586",
+    "item_name": "炎魔的庇護",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2586",
+    "item_image": "https://www.gametsg.net/img/2/13/ef60537acec736e0fceb42658fb3bf82.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "冷卻時間 (秒)1小時",
+      "PVE傷害減免+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2587",
+    "item_name": "水龍的魔眼",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2587",
+    "item_image": "https://www.gametsg.net/img/2/13/c7eca5a993420497d6fe457e9103ef19.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "冷卻時間 (秒)1小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2588",
+    "item_name": "地龍的魔眼",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2588",
+    "item_image": "https://www.gametsg.net/img/2/13/f21bfc390568e1b85fec81cf6e149787.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "冷卻時間 (秒)1小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2589",
+    "item_name": "風龍的魔眼",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2589",
+    "item_image": "https://www.gametsg.net/img/2/13/78c904f39b3ee1b97060285d6fad8d40.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "冷卻時間 (秒)1小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  },
+  {
+    "item_id": "2590",
+    "item_name": "火龍的魔眼",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2590",
+    "item_image": "https://www.gametsg.net/img/2/13/3c4e7d8264af8649ff2debdbc1c32c31.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘",
+      "冷卻時間 (秒)1小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "45",
+    "category_name": "魔眼"
+  }
+]

@@ -1,0 +1,162 @@
+{
+  "item_id": "1442",
+  "item_name": "少了刀刃的武器(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1442",
+  "item_image": "https://www.gametsg.net/img/1/10/811ad382ef24a899c2e2de06a13f8e20.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "少了刀刃的武器(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=711",
+      "monster_id": "711",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "64",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=719",
+      "monster_id": "719",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "63",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=720",
+      "monster_id": "720",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "63",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=725",
+      "monster_id": "725",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "62",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=726",
+      "monster_id": "726",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "62",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=738",
+      "monster_id": "738",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "60",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=739",
+      "monster_id": "739",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "60",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=750",
+      "monster_id": "750",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "59",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=754",
+      "monster_id": "754",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "58",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=758",
+      "monster_id": "758",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "57",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    }
+  ]
+}

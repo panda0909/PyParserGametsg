@@ -1,0 +1,122 @@
+{
+  "item_id": "1023",
+  "item_name": "伊弗利特魔力項鍊",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1023",
+  "item_image": "https://www.gametsg.net/img/1/7/68fd3725d5a6e4bb17fad87ba4afbf81.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "魔攻+1",
+    "魔法命中+2",
+    "昏迷抗性+2%"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "26",
+  "category_name": "項鍊",
+  "basic_info": {
+    "title": "伊弗利特魔力項鍊",
+    "類型": "飾品(項鍊)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": [
+      "魔攻+1",
+      "魔法命中+2",
+      "昏迷抗性+2%"
+    ],
+    "祝福屬性": "藥水恢復率+1%",
+    "材質": "原石",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+10,負重獎勵+10"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+30,負重獎勵+30"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+40,負重獎勵+40"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+50,物理防禦力 (AC)-1,負重獎勵+50,魔法防禦 (MR)+2"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+60,物理防禦力 (AC)-2,負重獎勵+60,魔法防禦 (MR)+4"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+70,物理防禦力 (AC)-3,負重獎勵+70,魔法防禦 (MR)+6"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+80,物理防禦力 (AC)-4,負重獎勵+80,魔法防禦 (MR)+8"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "憤怒的真伊弗利特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=539",
+      "monster_id": "539",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "77",
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "黑暗的伊芙利",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=658",
+      "monster_id": "658",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "69",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(19:00)"
+      ]
+    }
+  ]
+}

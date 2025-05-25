@@ -1,0 +1,40 @@
+{
+  "item_id": "1519",
+  "item_name": "英雄的憑證",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1519",
+  "item_image": "https://www.gametsg.net/img/2/11/8f1b96d1527dac0ab58c9ac02d4137e4.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "代幣"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "英雄的憑證",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": "代幣"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

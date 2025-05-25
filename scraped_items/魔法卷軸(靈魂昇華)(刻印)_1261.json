@@ -1,0 +1,40 @@
+{
+  "item_id": "1261",
+  "item_name": "魔法卷軸(靈魂昇華)(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1261",
+  "item_image": "https://www.gametsg.net/img/1/9/f0994048322c684cc8b346f479facddd.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間:20 分鐘"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "36",
+  "category_name": "卷軸",
+  "basic_info": {
+    "title": "魔法卷軸(靈魂昇華)(刻印)",
+    "類型": "其他(卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "持續時間:20 分鐘",
+    "材質": "紙"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

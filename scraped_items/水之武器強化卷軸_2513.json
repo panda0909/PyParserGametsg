@@ -1,0 +1,65 @@
+{
+  "item_id": "2513",
+  "item_name": "水之武器強化卷軸",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2513",
+  "item_image": "https://www.gametsg.net/img/2/13/16f3494ad48289f5455cee367575de8a.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "43",
+  "category_name": "強化卷軸",
+  "basic_info": {
+    "title": "水之武器強化卷軸",
+    "類型": "其他(強化卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.04"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "法利昂的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=17",
+      "monster_id": "17",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-17 級 突襲 (神話)"
+      ]
+    }
+  ]
+}

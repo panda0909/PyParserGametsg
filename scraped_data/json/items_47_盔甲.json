@@ -1,0 +1,4545 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "551",
+    "item_name": "席琳的魅惑",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=551",
+    "item_image": "https://www.gametsg.net/img/1/4/acdeea86fb9c61eede2e45cf92e867b4.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-13",
+    "item_stats": [
+      "最大HP+1000",
+      "毒抗性+100%",
+      "全屬性抗性+50%",
+      "SP+5",
+      "魔法命中+3",
+      "無視魔法傷害減免+5%",
+      "傷害減免+8",
+      "免疫減速效果",
+      "強制轉化免疫",
+      "無視PVP傷害減免+5%",
+      "啟動:席琳的庇護 5%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "552",
+    "item_name": "席琳的霸氣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=552",
+    "item_image": "https://www.gametsg.net/img/1/4/99b1ff29e47e9b0dc2375bd1e608f57c.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-16",
+    "item_stats": [
+      "最大HP+1000",
+      "毒抗性+100%",
+      "全屬性抗性+50%",
+      "近距離傷害+5",
+      "近距離命中+3",
+      "無視近距離傷害​​減免+5%",
+      "傷害減免+8",
+      "免疫減速效果",
+      "強制轉化免疫",
+      "無視PVP傷害減免+5%",
+      "啟動:席琳的庇護 5%"
+    ],
+    "data_zhiye": "2|4|8|5|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "553",
+    "item_name": "席琳之力量",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=553",
+    "item_image": "https://www.gametsg.net/img/1/4/fb5175d646e14a090baea712eb97fee7.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-17",
+    "item_stats": [
+      "最大HP+1000",
+      "毒抗性+100%",
+      "全屬性抗性+50%",
+      "近距離傷害+5",
+      "近距離命中+3",
+      "無視近距離傷害​​減免+5%",
+      "傷害減免+8",
+      "免疫減速效果",
+      "強制轉化免疫",
+      "無視PVP傷害減免+5%",
+      "啟動:席琳的庇護 5%"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "554",
+    "item_name": "席琳的泉源",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=554",
+    "item_image": "https://www.gametsg.net/img/1/4/7705865f99a824ec6c5ee31628e5c791.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-15",
+    "item_stats": [
+      "最大HP+1000",
+      "毒抗性+100%",
+      "全屬性抗性+50%",
+      "遠距離傷害+5",
+      "遠距離命中+3",
+      "無視遠距離傷害減免+5%",
+      "傷害減免+8",
+      "免疫減速效果",
+      "強制轉化免疫",
+      "無視PVP傷害減免+5%",
+      "啟動:席琳的庇護 5%"
+    ],
+    "data_zhiye": "2|4|34|5|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "555",
+    "item_name": "火焰之影盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=555",
+    "item_image": "https://www.gametsg.net/img/1/4/1d327254ddd89ad6d691a4206533d9d8.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-24",
+    "item_stats": [
+      "無視傷害減免4%",
+      "傷害減免+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "556",
+    "item_name": "巫妖斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=556",
+    "item_image": "https://www.gametsg.net/img/1/4/3b7e56c48473c073551bbb4459b46e5b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大MP +50",
+      "MP回復(tic)+15",
+      "無視 MP 恢復懲罰 20%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "557",
+    "item_name": "巫妖斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=557",
+    "item_image": "https://www.gametsg.net/img/1/4/3b7e56c48473c073551bbb4459b46e5b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大MP +50",
+      "MP回復(tic)+15",
+      "無視 MP 恢復懲罰 20%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "558",
+    "item_name": "巫妖覺醒斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=558",
+    "item_image": "https://www.gametsg.net/img/1/4/848ffbe1fd8aa542bc7f1e12c1a38956.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [
+      "MP回復(tic)+15",
+      "無視 MP 恢復懲罰 20%",
+      "魔攻+5"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "559",
+    "item_name": "林德拜爾的魅惑",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=559",
+    "item_image": "https://www.gametsg.net/img/1/4/4c2a4f7d56964e7405d0ce0c850f881c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "MP恢復(tic)+10",
+      "HP恢復 (tic)+2",
+      "風屬性抗性+50%",
+      "魔法防禦 (MR)+30",
+      "遠距離迴避力 (ER) +15",
+      "免疫減速效果"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "560",
+    "item_name": "林德拜爾的霸氣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=560",
+    "item_image": "https://www.gametsg.net/img/1/4/d65c9f35707b18667bb0625f8fbcc6e3.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "MP恢復(tic)+3",
+      "HP恢復 (tic)+9",
+      "風屬性抗性+50%",
+      "魔法防禦 (MR)+30",
+      "遠距離迴避力 (ER) +15",
+      "免疫減速效果"
+    ],
+    "data_zhiye": "2|4|8|5|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "561",
+    "item_name": "林德拜爾的力量",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=561",
+    "item_image": "https://www.gametsg.net/img/1/4/f0c97e935eba76cde2fe141a267704c0.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "HP恢復 (tic)+4",
+      "風屬性抗性+50%",
+      "魔法防禦 (MR)+30",
+      "遠距離迴避力 (ER) +15",
+      "免疫減速效果"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "562",
+    "item_name": "林德拜爾的泉源",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=562",
+    "item_image": "https://www.gametsg.net/img/1/4/368f27f0fe5cbc0263fc583a1445bb8e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "MP恢復(tic)+8",
+      "HP恢復 (tic)+7",
+      "風屬性抗性+50%",
+      "魔法防禦 (MR)+30",
+      "遠距離迴避力 (ER) +15",
+      "免疫減速效果"
+    ],
+    "data_zhiye": "2|4|34|5|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "563",
+    "item_name": "巴拉卡斯的魅惑",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=563",
+    "item_image": "https://www.gametsg.net/img/1/4/7471c23037a8eead434e27ef55cafbf6.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "火屬性抗性+50%",
+      "SP+5",
+      "魔法命中+3",
+      "無視魔法傷害減免+2%",
+      "激活:巴拉卡斯之怒 3%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "564",
+    "item_name": "巴拉卡斯的霸氣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=564",
+    "item_image": "https://www.gametsg.net/img/1/4/c9cba013e8df6fcf33e76782ebfd94ee.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "火屬性抗性+50%",
+      "近距離命中+3",
+      "近距離傷害+5",
+      "無視近距離傷害​​減免+2%",
+      "激活:巴拉卡斯之怒 3%"
+    ],
+    "data_zhiye": "2|4|8|5|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "565",
+    "item_name": "巴拉卡斯的力量",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=565",
+    "item_image": "https://www.gametsg.net/img/1/4/1d5d7788ce17e4cb919a9f5aff041ed1.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "火屬性抗性+50%",
+      "近距離命中+3",
+      "近距離傷害+5",
+      "無視近距離傷害​​減免+2%",
+      "激活:巴拉卡斯之怒 3%"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "566",
+    "item_name": "巴拉卡斯的泉源",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=566",
+    "item_image": "https://www.gametsg.net/img/1/4/5d291571a32922e2132f8039d780f9fc.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "火屬性抗性+50%",
+      "遠距離命中+3",
+      "遠距離傷害+5",
+      "無視遠距離傷害減免+2%",
+      "激活:巴拉卡斯之怒 3%"
+    ],
+    "data_zhiye": "2|4|34|5|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "567",
+    "item_name": "安塔瑞斯的魅惑",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=567",
+    "item_image": "https://www.gametsg.net/img/1/4/e879f188c0c4531f35c3e204da807094.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "MP恢復(tic)+10",
+      "HP恢復 (tic)+2",
+      "傷害減免+5",
+      "毒抗性+100%",
+      "土屬性抗性+50%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "568",
+    "item_name": "安塔瑞斯的霸氣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=568",
+    "item_image": "https://www.gametsg.net/img/1/4/f1198ce260d22e9ac57865a0b519b831.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "MP恢復(tic)+3",
+      "HP恢復 (tic)+9",
+      "傷害減免+5",
+      "毒抗性+100%",
+      "土屬性抗性+50%"
+    ],
+    "data_zhiye": "2|4|8|5|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "569",
+    "item_name": "安塔瑞斯的力量",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=569",
+    "item_image": "https://www.gametsg.net/img/1/4/e664fbeb554a385209ae8be51c04b6d3.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "HP恢復 (tic)+4",
+      "傷害減免+5",
+      "毒抗性+100%",
+      "土屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "570",
+    "item_name": "安塔瑞斯的泉源",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=570",
+    "item_image": "https://www.gametsg.net/img/1/4/11dd35c5e19f9ab22f0795571b421ab9.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "MP恢復(tic)+8",
+      "HP恢復 (tic)+7",
+      "傷害減免+5",
+      "毒抗性+100%",
+      "土屬性抗性+50%"
+    ],
+    "data_zhiye": "2|4|34|5|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "571",
+    "item_name": "烏格奴斯的胸甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=571",
+    "item_image": "https://www.gametsg.net/img/1/4/a537fb1a9df3af6bc92913aa983a416e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "傷害減免+2",
+      "MP回復 (tic)+6"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "572",
+    "item_name": "真埃斯卡洛斯盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=572",
+    "item_image": "https://www.gametsg.net/img/1/4/f6c915f4dd0742f00e0deeaaa865def3.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "573",
+    "item_name": "真埃斯卡洛斯盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=573",
+    "item_image": "https://www.gametsg.net/img/1/4/f6c915f4dd0742f00e0deeaaa865def3.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "574",
+    "item_name": "真·冥皇盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=574",
+    "item_image": "https://www.gametsg.net/img/1/4/45a9ad41d7f5bccdea7e9139967ca987.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "575",
+    "item_name": "法力昂的魅惑",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=575",
+    "item_image": "https://www.gametsg.net/img/1/4/87285edb42c8e28cbc112a05977c6094.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大HP+500",
+      "MP回復 (tic)+11",
+      "HP回復 (tic)+4",
+      "水屬性抗性+50%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "576",
+    "item_name": "法力昂的霸氣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=576",
+    "item_image": "https://www.gametsg.net/img/1/4/ead97ef4031b3e05f808c2069970ce7e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "最大HP+500",
+      "MP回復(tic)+4",
+      "HP回復 (tic)+11",
+      "水屬性抗性+50%"
+    ],
+    "data_zhiye": "2|4|5|8|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "577",
+    "item_name": "法力昂的力量",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=577",
+    "item_image": "https://www.gametsg.net/img/1/4/aedd36c5bf8b227a63e6d787f3680103.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "最大HP+500",
+      "HP回復 (tic)+6",
+      "水屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "578",
+    "item_name": "法力昂的泉源",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=578",
+    "item_image": "https://www.gametsg.net/img/1/4/0eaa58198d8462cce604208a6138c608.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "最大HP+500",
+      "MP回復 (tic)+9",
+      "HP回復 (tic)+9",
+      "水屬性抗性+50%"
+    ],
+    "data_zhiye": "2|4|5|34|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "579",
+    "item_name": "古老的皮盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=579",
+    "item_image": "https://www.gametsg.net/img/1/4/b84afca00560c9aaacfe47e0b66afd30.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "MP回復(tic)+8",
+      "HP回復 (tic)+4"
+    ],
+    "data_zhiye": "2|4|5|34|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "580",
+    "item_name": "古老的皮盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=580",
+    "item_image": "https://www.gametsg.net/img/1/4/b84afca00560c9aaacfe47e0b66afd30.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "MP回復(tic)+8",
+      "HP回復 (tic)+4"
+    ],
+    "data_zhiye": "2|4|5|34|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "581",
+    "item_name": "古老的長袍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=581",
+    "item_image": "https://www.gametsg.net/img/1/4/bd2d7801ed63960d4880051dcd4732df.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "MP回復 (tic)+12"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "582",
+    "item_name": "古老的長袍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=582",
+    "item_image": "https://www.gametsg.net/img/1/4/bd2d7801ed63960d4880051dcd4732df.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "MP回復 (tic)+12"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "583",
+    "item_name": "古老的鱗甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=583",
+    "item_image": "https://www.gametsg.net/img/1/4/380d2f3c186ae3b736911d340ededf97.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "MP回復(tic)+4",
+      "HP回復 (tic)+8"
+    ],
+    "data_zhiye": "5|8|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "584",
+    "item_name": "古老的鱗甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=584",
+    "item_image": "https://www.gametsg.net/img/1/4/380d2f3c186ae3b736911d340ededf97.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "MP回復(tic)+4",
+      "HP回復 (tic)+8"
+    ],
+    "data_zhiye": "5|8|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "585",
+    "item_name": "古老的金屬盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=585",
+    "item_image": "https://www.gametsg.net/img/1/4/b9a504d129f663d37fb56645086d62f4.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "HP回復(tic)+1"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "586",
+    "item_name": "古老的金屬盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=586",
+    "item_image": "https://www.gametsg.net/img/1/4/b9a504d129f663d37fb56645086d62f4.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "HP回復(tic)+1"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "587",
+    "item_name": "格勒西亞軍服",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=587",
+    "item_image": "https://www.gametsg.net/img/1/4/818dbbc31eb6c3a89ed2dcc35231df9a.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "34|2",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "588",
+    "item_name": "格勒西亞軍服(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=588",
+    "item_image": "https://www.gametsg.net/img/1/4/818dbbc31eb6c3a89ed2dcc35231df9a.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "34|2",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "589",
+    "item_name": "寒冰盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=589",
+    "item_image": "https://www.gametsg.net/img/1/4/5006c3aa3b4f1335b31c403afd1a2ac1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [],
+    "data_zhiye": "5|8",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "590",
+    "item_name": "寒冰盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=590",
+    "item_image": "https://www.gametsg.net/img/1/4/5006c3aa3b4f1335b31c403afd1a2ac1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [],
+    "data_zhiye": "5|8",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "591",
+    "item_name": "騎士盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=591",
+    "item_image": "https://www.gametsg.net/img/1/4/73e15797f48d4cb021e5b9f0c44d4f40.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "592",
+    "item_name": "惡魔盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=592",
+    "item_image": "https://www.gametsg.net/img/1/4/16fdc26fc2de347516e5a7227cc29bb6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "593",
+    "item_name": "惡魔盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=593",
+    "item_image": "https://www.gametsg.net/img/1/4/16fdc26fc2de347516e5a7227cc29bb6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "594",
+    "item_name": "死亡騎士盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=594",
+    "item_image": "https://www.gametsg.net/img/1/4/abd1478cef363b289b1166823d8e279b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "595",
+    "item_name": "死亡騎士盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=595",
+    "item_image": "https://www.gametsg.net/img/1/4/abd1478cef363b289b1166823d8e279b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "596",
+    "item_name": "林德拜爾魔盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=596",
+    "item_image": "https://www.gametsg.net/img/1/4/86a2f8f558b420c298474d50d9e4de5e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "HP回復 (tic)+2",
+      "風屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "597",
+    "item_name": "法令軍王法袍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=597",
+    "item_image": "https://www.gametsg.net/img/1/4/bb89f3f3167e3337e154cd63b0e2da30.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "598",
+    "item_name": "法令軍王法袍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=598",
+    "item_image": "https://www.gametsg.net/img/1/4/bb89f3f3167e3337e154cd63b0e2da30.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "599",
+    "item_name": "滅魔小藤甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=599",
+    "item_image": "https://www.gametsg.net/img/1/4/6fb748e4c93977af22b57d50de6a7cbf.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "最大HP+20",
+      "MP回復(tic)+8",
+      "HP回復 (tic)+4"
+    ],
+    "data_zhiye": "2|4|5|34|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "600",
+    "item_name": "滅魔的披肩",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=600",
+    "item_image": "https://www.gametsg.net/img/1/4/4df76b123689b847b041a45a16896a6e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大HP+20",
+      "MP回復 (tic)+12"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "601",
+    "item_name": "滅魔鱗甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=601",
+    "item_image": "https://www.gametsg.net/img/1/4/6cc9e81b22a98d99a18bdaf80d18612b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "最大HP+20",
+      "MP回復(tic)+4",
+      "HP回復 (tic)+8"
+    ],
+    "data_zhiye": "5|8|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "602",
+    "item_name": "滅魔金屬盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=602",
+    "item_image": "https://www.gametsg.net/img/1/4/c7e494af96779f4ee62614e2fd8cb954.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-12",
+    "item_stats": [
+      "最大HP+20",
+      "HP回復(tic)+1"
+    ],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "603",
+    "item_name": "巴風特盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=603",
+    "item_image": "https://www.gametsg.net/img/1/4/2a2b9dc9835e64db4092d56df78d71b7.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "傷害減免+2",
+      "毒抗性+100%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "604",
+    "item_name": "巴拉卡斯的魔盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=604",
+    "item_image": "https://www.gametsg.net/img/1/4/22e0e5050c1ec8d508804017a69b5448.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "HP回復 (tic)+2",
+      "火屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "605",
+    "item_name": "巴拉卡斯的魔盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=605",
+    "item_image": "https://www.gametsg.net/img/1/4/22e0e5050c1ec8d508804017a69b5448.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "HP回復 (tic)+2",
+      "火屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "606",
+    "item_name": "封印的古老的皮盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=606",
+    "item_image": "https://www.gametsg.net/img/1/4/800a60843a03f7fe88e4ab1b313f9aff.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "2|4|5|34|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "607",
+    "item_name": "封印的古老的皮盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=607",
+    "item_image": "https://www.gametsg.net/img/1/4/800a60843a03f7fe88e4ab1b313f9aff.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "2|4|5|34|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "608",
+    "item_name": "封印的古老的長袍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=608",
+    "item_image": "https://www.gametsg.net/img/1/4/6ef379b16281a5043a71a70e0177589b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "609",
+    "item_name": "封印的古老的長袍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=609",
+    "item_image": "https://www.gametsg.net/img/1/4/6ef379b16281a5043a71a70e0177589b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "610",
+    "item_name": "封印的古老的鱗甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=610",
+    "item_image": "https://www.gametsg.net/img/1/4/af7844ad3cc2b08d8cb9e4a7ce4bdc1d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "5|8|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "611",
+    "item_name": "封印的古老的鱗甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=611",
+    "item_image": "https://www.gametsg.net/img/1/4/af7844ad3cc2b08d8cb9e4a7ce4bdc1d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "5|8|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "612",
+    "item_name": "封印的古老的金屬盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=612",
+    "item_image": "https://www.gametsg.net/img/1/4/2868e938971591dc8aa482a33ea4c5c8.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "613",
+    "item_name": "封印的古老的金屬盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=613",
+    "item_image": "https://www.gametsg.net/img/1/4/2868e938971591dc8aa482a33ea4c5c8.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "614",
+    "item_name": "安塔瑞斯的魔盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=614",
+    "item_image": "https://www.gametsg.net/img/1/4/0e11cbda3fd55b21aeb00ac31824cab0.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "HP回復 (tic)+2",
+      "土屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "615",
+    "item_name": "安塔瑞斯的魔盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=615",
+    "item_image": "https://www.gametsg.net/img/1/4/0e11cbda3fd55b21aeb00ac31824cab0.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "HP回復 (tic)+2",
+      "土屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "616",
+    "item_name": "冰之女王魅力禮服",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=616",
+    "item_image": "https://www.gametsg.net/img/1/4/c46ee3a03b203242ee621c9894fd12a0.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "8",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "617",
+    "item_name": "冰之女王魅力禮服(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=617",
+    "item_image": "https://www.gametsg.net/img/1/4/c46ee3a03b203242ee621c9894fd12a0.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "8",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "618",
+    "item_name": "埃斯卡洛斯盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=618",
+    "item_image": "https://www.gametsg.net/img/1/4/b154f7e0c20a211091053e935d850980.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "619",
+    "item_name": "埃斯卡洛斯盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=619",
+    "item_image": "https://www.gametsg.net/img/1/4/b154f7e0c20a211091053e935d850980.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "620",
+    "item_name": "克特盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=620",
+    "item_image": "https://www.gametsg.net/img/1/4/452c0ee49fdf6d84fd94030c1e4a4c46.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "621",
+    "item_name": "克特盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=621",
+    "item_image": "https://www.gametsg.net/img/1/4/452c0ee49fdf6d84fd94030c1e4a4c46.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "622",
+    "item_name": "法利昂魔盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=622",
+    "item_image": "https://www.gametsg.net/img/1/4/eecc2446ba62870494af00cf15bf2839.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "HP回復 (tic)+2",
+      "水屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "623",
+    "item_name": "法利昂魔盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=623",
+    "item_image": "https://www.gametsg.net/img/1/4/eecc2446ba62870494af00cf15bf2839.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-11",
+    "item_stats": [
+      "HP回復 (tic)+2",
+      "水屬性抗性+50%"
+    ],
+    "data_zhiye": "1|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "624",
+    "item_name": "海賊的盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=624",
+    "item_image": "https://www.gametsg.net/img/1/4/24cffe8c63b7d6244a31c3454519a663.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "625",
+    "item_name": "黑長者長袍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=625",
+    "item_image": "https://www.gametsg.net/img/1/4/3fa6e809676148abc4b518ef61c79bb1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大MP +50",
+      "MP回復 (tic)+12",
+      "魔攻+1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "626",
+    "item_name": "武官護鎧",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=626",
+    "item_image": "https://www.gametsg.net/img/1/4/a96b043306ed3e44682d358ca2c0f566.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大HP+20",
+      "HP回復 (tic)+5",
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "627",
+    "item_name": "武官護鎧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=627",
+    "item_image": "https://www.gametsg.net/img/1/4/a96b043306ed3e44682d358ca2c0f566.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大HP+20",
+      "HP回復 (tic)+5",
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "628",
+    "item_name": "水龍的鱗甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=628",
+    "item_image": "https://www.gametsg.net/img/1/4/31617bbe1301dfce16a693a3442a4b7c.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [
+      "水屬性抗性+20%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "629",
+    "item_name": "神官法袍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=629",
+    "item_image": "https://www.gametsg.net/img/1/4/b786e4bcee00a2c0ac42a19e9cbb66eb.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "最大MP +20",
+      "MP回復 (tic)+6",
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "630",
+    "item_name": "神官法袍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=630",
+    "item_image": "https://www.gametsg.net/img/1/4/b786e4bcee00a2c0ac42a19e9cbb66eb.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "最大MP +20",
+      "MP回復 (tic)+6",
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "631",
+    "item_name": "異界戰鬥盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=631",
+    "item_image": "https://www.gametsg.net/img/1/4/a34fba8ea3783c05d4728a3933a96208.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大HP+40",
+      "HP回復 (tic)+4"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "632",
+    "item_name": "異界戰鬥盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=632",
+    "item_image": "https://www.gametsg.net/img/1/4/a34fba8ea3783c05d4728a3933a96208.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大HP+40",
+      "HP回復 (tic)+4"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "633",
+    "item_name": "被遺忘的旅人盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=633",
+    "item_image": "https://www.gametsg.net/img/1/4/a8b2ec056aa00c5625ea14bc3f68b3ab.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遺忘之島中發現的古代物品"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "634",
+    "item_name": "南瓜傑克之盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=634",
+    "item_image": "https://www.gametsg.net/img/1/4/e4b043534b5bad8d24ec080ab3c23a89.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "MP絕對恢復+2"
+    ],
+    "data_zhiye": "1|2|3|5|8|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "635",
+    "item_name": "地龍的鱗甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=635",
+    "item_image": "https://www.gametsg.net/img/1/4/ceb5497761b83928792b0375e039355d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [
+      "土屬性抗性+20%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "636",
+    "item_name": "地龍的鱗甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=636",
+    "item_image": "https://www.gametsg.net/img/1/4/ceb5497761b83928792b0375e039355d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [
+      "土屬性抗性+20%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "637",
+    "item_name": "風龍的鱗甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=637",
+    "item_image": "https://www.gametsg.net/img/1/4/3f00dc89b14f5cb022a09e6c00c0f990.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [
+      "風屬性抗性+20%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "638",
+    "item_name": "火龍的鱗甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=638",
+    "item_image": "https://www.gametsg.net/img/1/4/3ec49b1b06a3fe7fe742785a56f8b126.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [
+      "火屬性抗性+20%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "639",
+    "item_name": "鋼鐵金屬盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=639",
+    "item_image": "https://www.gametsg.net/img/1/4/a4d5f7849fb940d2f8fb9dcaea2f5a8d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "640",
+    "item_name": "鋼鐵金屬盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=640",
+    "item_image": "https://www.gametsg.net/img/1/4/a4d5f7849fb940d2f8fb9dcaea2f5a8d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "641",
+    "item_name": "破布長袍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=641",
+    "item_image": "https://www.gametsg.net/img/1/4/ed0c4e24a01a8cea6da2bdeaace1fbeb.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "最大MP +5",
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "642",
+    "item_name": "黑暗棲林者盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=642",
+    "item_image": "https://www.gametsg.net/img/1/5/a430ed40c123f3bc73bb25387b077cb3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "643",
+    "item_name": "黑暗棲林者盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=643",
+    "item_image": "https://www.gametsg.net/img/1/5/a430ed40c123f3bc73bb25387b077cb3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "644",
+    "item_name": "拉斯塔巴德長袍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=644",
+    "item_image": "https://www.gametsg.net/img/1/5/1bf136563bec557a45c7465475b890a1.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "645",
+    "item_name": "遠征者外套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=645",
+    "item_image": "https://www.gametsg.net/img/1/5/36051fc151891bcb6de8aa61a68a7544.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "34",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "646",
+    "item_name": "遠征者外套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=646",
+    "item_image": "https://www.gametsg.net/img/1/5/36051fc151891bcb6de8aa61a68a7544.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "34",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "647",
+    "item_name": "水晶盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=647",
+    "item_image": "https://www.gametsg.net/img/1/5/fd4aa07d7d6877d4f254a36637af73ed.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|8|34|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "648",
+    "item_name": "水晶盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=648",
+    "item_image": "https://www.gametsg.net/img/1/5/fd4aa07d7d6877d4f254a36637af73ed.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|8|34|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "649",
+    "item_name": "黑暗披肩",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=649",
+    "item_image": "https://www.gametsg.net/img/1/5/4876ae32a2ddeca0226d34e627e8b290.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "HP回復 (tic)+5"
+    ],
+    "data_zhiye": "4",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "650",
+    "item_name": "黑暗披肩(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=650",
+    "item_image": "https://www.gametsg.net/img/1/5/4876ae32a2ddeca0226d34e627e8b290.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "HP回復 (tic)+5"
+    ],
+    "data_zhiye": "4",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "651",
+    "item_name": "精靈金屬盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=651",
+    "item_image": "https://www.gametsg.net/img/1/5/0fcf8d3d88831cd2b7071c6bab54eb6a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "652",
+    "item_name": "精靈金屬盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=652",
+    "item_image": "https://www.gametsg.net/img/1/5/0fcf8d3d88831cd2b7071c6bab54eb6a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "653",
+    "item_name": "異界盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=653",
+    "item_image": "https://www.gametsg.net/img/1/5/ace995be2259af3217b01c109c241cfd.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "654",
+    "item_name": "異界盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=654",
+    "item_image": "https://www.gametsg.net/img/1/5/ace995be2259af3217b01c109c241cfd.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "655",
+    "item_name": "金屬蜈蚣的硬殼盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=655",
+    "item_image": "https://www.gametsg.net/img/1/5/3e2652782765e4cd04196c18ace797f3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [],
+    "data_zhiye": "1|4|5|52|81|7|12",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "656",
+    "item_name": "金屬蜈蚣的硬殼盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=656",
+    "item_image": "https://www.gametsg.net/img/1/5/3e2652782765e4cd04196c18ace797f3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "-9",
+    "item_stats": [],
+    "data_zhiye": "1|4|5|52|81|7|12",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "657",
+    "item_name": "警戒兵胸甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=657",
+    "item_image": "https://www.gametsg.net/img/1/5/6da41adca699ed89c94422cd77ea1fd9.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "658",
+    "item_name": "皮甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=658",
+    "item_image": "https://www.gametsg.net/img/1/5/bdf6060dc25ffb708cf2d43f3e3af270.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "659",
+    "item_name": "拉斯塔巴德皮甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=659",
+    "item_image": "https://www.gametsg.net/img/1/5/6a5b752c020fe4ce6d0ee545b31eb26a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "660",
+    "item_name": "拉斯塔巴德銀釘皮甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=660",
+    "item_image": "https://www.gametsg.net/img/1/5/b136f5e501db9f8e6d7a939636dc7cb6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "661",
+    "item_name": "拉斯塔巴德銀釘皮甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=661",
+    "item_image": "https://www.gametsg.net/img/1/5/b136f5e501db9f8e6d7a939636dc7cb6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "662",
+    "item_name": "拉斯塔巴德鎖甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=662",
+    "item_image": "https://www.gametsg.net/img/1/5/4ea44a120d4fa619ba6cbf55bf9b780f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|4|5|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "663",
+    "item_name": "抗魔法鏈甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=663",
+    "item_image": "https://www.gametsg.net/img/1/5/89aa37c572d71b96c1bb3afc5e0a7a79.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1|2|4|5|8|34|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "664",
+    "item_name": "抗魔法鏈甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=664",
+    "item_image": "https://www.gametsg.net/img/1/5/89aa37c572d71b96c1bb3afc5e0a7a79.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1|2|4|5|8|34|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "665",
+    "item_name": "法師長袍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=665",
+    "item_image": "https://www.gametsg.net/img/1/5/24224c5ec9ccb0ce56a00baa009d8763.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "666",
+    "item_name": "法師長袍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=666",
+    "item_image": "https://www.gametsg.net/img/1/5/24224c5ec9ccb0ce56a00baa009d8763.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "3|81",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "667",
+    "item_name": "棉質長袍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=667",
+    "item_image": "https://www.gametsg.net/img/1/5/8e70bf730e55a0de5bae28b57b434afd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "668",
+    "item_name": "棉質長袍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=668",
+    "item_image": "https://www.gametsg.net/img/1/5/8e70bf730e55a0de5bae28b57b434afd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "669",
+    "item_name": "藤甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=669",
+    "item_image": "https://www.gametsg.net/img/1/5/2405da00ed01eb89923d655ae68e287b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "670",
+    "item_name": "藤甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=670",
+    "item_image": "https://www.gametsg.net/img/1/5/2405da00ed01eb89923d655ae68e287b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "671",
+    "item_name": "鱗甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=671",
+    "item_image": "https://www.gametsg.net/img/1/5/238edb9bbe854c12144e2ff88e2049d7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "672",
+    "item_name": "鱗甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=672",
+    "item_image": "https://www.gametsg.net/img/1/5/238edb9bbe854c12144e2ff88e2049d7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "673",
+    "item_name": "骷髏盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=673",
+    "item_image": "https://www.gametsg.net/img/1/5/a783f290c808dfa1ea9e99ea59d855cd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "674",
+    "item_name": "骷髏盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=674",
+    "item_image": "https://www.gametsg.net/img/1/5/a783f290c808dfa1ea9e99ea59d855cd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "675",
+    "item_name": "鏈甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=675",
+    "item_image": "https://www.gametsg.net/img/1/5/375de6880f4d300441fe1b3dfecb9c5d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "676",
+    "item_name": "鏈甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=676",
+    "item_image": "https://www.gametsg.net/img/1/5/375de6880f4d300441fe1b3dfecb9c5d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|5|8|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "677",
+    "item_name": "歐西斯環甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=677",
+    "item_image": "https://www.gametsg.net/img/1/5/96753116c6d270eab0d5d39f07f94177.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "678",
+    "item_name": "歐西斯鏈甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=678",
+    "item_image": "https://www.gametsg.net/img/1/5/ab44d87d5868ea9f9f5bcd48f8ef3d3b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "679",
+    "item_name": "精靈鏈甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=679",
+    "item_image": "https://www.gametsg.net/img/1/5/bde662318109f08c36a5fc13f6a0c00f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|5|8|34|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "680",
+    "item_name": "精靈鏈甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=680",
+    "item_image": "https://www.gametsg.net/img/1/5/bde662318109f08c36a5fc13f6a0c00f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [],
+    "data_zhiye": "1|2|4|5|8|34|52|81|7|12|13",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "681",
+    "item_name": "銀釘皮甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=681",
+    "item_image": "https://www.gametsg.net/img/1/5/024be3ab773bc101c8d42e9c50db5a11.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "682",
+    "item_name": "青銅盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=682",
+    "item_image": "https://www.gametsg.net/img/1/5/ca2e70e3bbe82d723217a6fa0b61035e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "683",
+    "item_name": "青銅盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=683",
+    "item_image": "https://www.gametsg.net/img/1/5/ca2e70e3bbe82d723217a6fa0b61035e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "684",
+    "item_name": "金屬盔甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=684",
+    "item_image": "https://www.gametsg.net/img/1/5/1809b785c9472670ca56973659d15d01.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  },
+  {
+    "item_id": "685",
+    "item_name": "金屬盔甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=685",
+    "item_image": "https://www.gametsg.net/img/1/5/1809b785c9472670ca56973659d15d01.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "47",
+    "category_name": "盔甲"
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "item_id": "1539",
+  "item_name": "地龍鱗",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1539",
+  "item_image": "https://www.gametsg.net/img/2/11/3dfb35b8e9784d1e64e6fa367abf5391.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "地龍鱗",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "龍鱗",
+    "重量": "7.81",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "安塔瑞斯的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=15",
+      "monster_id": "15",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-15 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "疾風的巨大飛龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=538",
+      "monster_id": "538",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-82.龍之谷三岔路",
+        "亞丁大陸-86.龍之谷地監西邊入口"
+      ]
+    },
+    {
+      "monster_name": "德雷克",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=581",
+      "monster_id": "581",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": []
+    }
+  ]
+}

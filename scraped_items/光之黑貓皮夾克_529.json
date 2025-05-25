@@ -1,0 +1,88 @@
+{
+  "item_id": "529",
+  "item_name": "光之黑貓皮夾克",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=529",
+  "item_image": "https://www.gametsg.net/img/1/4/4335b958d88494d1a3c4f2d7225c4f78.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-2",
+  "item_stats": [
+    "魔法防禦 (MR)+2",
+    "PVE傷害減免+1"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "18",
+  "category_name": "T恤",
+  "basic_info": {
+    "title": "光之黑貓皮夾克",
+    "類型": "防具(T恤)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-2",
+    "屬性": [
+      "魔法防禦 (MR)+2",
+      "PVE傷害減免+1"
+    ],
+    "材質": "布",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "-",
+      "attributes": ""
+    },
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1,魔法防禦 (MR)+1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2,魔法防禦 (MR)+2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3,魔法防禦 (MR)+3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4,經驗值獲得量增加+5%,魔法防禦 (MR)+4,阿德納掉落量+5%"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,經驗值獲得量增加+10%,魔法防禦 (MR)+5,阿德納掉落量+5%,PVE傷害減免+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,經驗值獲得量增加+20%,魔法防禦 (MR)+6,PVE傷害減免+1,阿德納掉落量+10%"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,經驗值獲得量增加+25%,魔法防禦 (MR)+7,PVE傷害減免+1,阿德納掉落量+10%,PVE傷害減免+5%"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,經驗值獲得量增加+30%,魔法防禦 (MR)+8,PVE傷害減免+1,阿德納掉落量+15%,PVE傷害減免+5%,啟動:惡魔之觸2%"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,經驗值獲得量增加+35%,魔法防禦 (MR)+9,PVE傷害減免+2,阿德娜掉落量+20%,PVE傷害減免+5%,不死族額外攻擊+15,啟動:惡魔之觸2%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

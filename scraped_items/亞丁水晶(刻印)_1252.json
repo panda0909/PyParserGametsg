@@ -1,0 +1,77 @@
+{
+  "item_id": "1252",
+  "item_name": "亞丁水晶(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1252",
+  "item_image": "https://www.gametsg.net/img/1/9/f361d57abed8648d21abec690214389b.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "負重獎勵+100"
+  ],
+  "data_zhiye": "",
+  "category_id": "34",
+  "category_name": "水晶",
+  "basic_info": {
+    "title": "亞丁水晶(刻印)",
+    "類型": "飾品(水晶)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "負重獎勵+100",
+    "祝福屬性": "最大HP+20",
+    "材質": "原石",
+    "重量": "5",
+    "說明": "使用水晶強化卷軸可強化"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "+50 負重獎勵"
+    },
+    {
+      "level": "2",
+      "attributes": "+100 負重獎勵"
+    },
+    {
+      "level": "3",
+      "attributes": "負重獎勵+150，近距離傷害+1，遠距離傷害+1，魔法傷害+1"
+    },
+    {
+      "level": "4",
+      "attributes": "負重獎勵+200，近距離傷害+2，遠距離傷害+2，魔法傷害+2"
+    },
+    {
+      "level": "5",
+      "attributes": "負重獎勵+250，近距離傷害+3，遠距離傷害+3，魔法傷害+3，傷害減免無視+1"
+    },
+    {
+      "level": "6",
+      "attributes": "負重獎勵+300，近距離傷害+4，遠距離傷害+4，魔法傷害+4，傷害減免無視+2"
+    },
+    {
+      "level": "7",
+      "attributes": "負重獎勵+350，近距離傷害+5，遠距離傷害+5，魔法傷害+5，傷害減免無視+3，暈眩抗性+3%"
+    },
+    {
+      "level": "8",
+      "attributes": "負重獎勵+400，近距離傷害+6，遠距離傷害+6，魔法傷害+6，傷害減免無視+4，暈眩抗性+5%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,337 @@
+{
+  "item_id": "897",
+  "item_name": "鋼鐵長靴",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=897",
+  "item_image": "https://www.gametsg.net/img/1/6/9172ace0d3e94d05bd3daa4426cb4bda.jpg",
+  "item_grade": "grade02",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "22",
+  "category_name": "鞋子",
+  "basic_info": {
+    "title": "鋼鐵長靴",
+    "類型": "防具(鞋子)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "祝福屬性": "最大HP+30",
+    "材質": "金屬塊",
+    "重量": "50",
+    "套裝裝備": [
+      "鋼鐵長靴",
+      "鋼鐵手套",
+      "鋼鐵盾牌",
+      "鋼鐵金屬盔甲",
+      "鋼鐵頭盔"
+    ],
+    "套裝屬性": [
+      "5套裝效果",
+      "物理防禦力 (AC)-3"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "死亡的骷髏鬥士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=540",
+      "monster_id": "540",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-4樓(死亡)"
+      ]
+    },
+    {
+      "monster_name": "恐怖的夢魘",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=558",
+      "monster_id": "558",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-3樓(恐怖)"
+      ]
+    },
+    {
+      "monster_name": "歪曲的亞力安",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=605",
+      "monster_id": "605",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "73",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-1樓(歪曲)"
+      ]
+    },
+    {
+      "monster_name": "骷髏鬥士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=616",
+      "monster_id": "616",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "71",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-82.龍之谷三岔路",
+        "亞丁大陸-85.龍之谷地監東邊入口",
+        "亞丁大陸-84.龍之谷地監北邊入口",
+        "亞丁大陸-86.龍之谷地監西邊入口",
+        "亞丁大陸-83.龍之谷地監中央入口",
+        "亞丁大陸地監-龍之谷地監"
+      ]
+    },
+    {
+      "monster_name": "精銳侏儒將軍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=637",
+      "monster_id": "637",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-11.侏儒部落"
+      ]
+    },
+    {
+      "monster_name": "伊萊克頓",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=654",
+      "monster_id": "654",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "69",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "精銳侏儒斧兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=661",
+      "monster_id": "661",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-11.侏儒部落"
+      ]
+    },
+    {
+      "monster_name": "精銳侏儒劍士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=682",
+      "monster_id": "682",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-11.侏儒部落"
+      ]
+    },
+    {
+      "monster_name": "精銳侏儒槍兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=683",
+      "monster_id": "683",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-11.侏儒部落"
+      ]
+    },
+    {
+      "monster_name": "精銳侏儒弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=699",
+      "monster_id": "699",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "65",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-11.侏儒部落"
+      ]
+    },
+    {
+      "monster_name": "邪惡的夏洛伯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=757",
+      "monster_id": "757",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "57",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-12.南部地區",
+        "亞丁大陸-70.海音沼澤",
+        "亞丁大陸-68.鏡子森林",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-63.野蠻森林地帶"
+      ]
+    },
+    {
+      "monster_name": "歐熊",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=773",
+      "monster_id": "773",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "44",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-68.鏡子森林",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-63.野蠻森林地帶"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "item_id": "43",
+  "item_name": "南瓜傑克的劍(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=43",
+  "item_image": "https://www.gametsg.net/img/1/1/e4ed441f20b112e2c8831c8270967b42.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "10/10",
+  "item_stats": [
+    "額外攻擊+3",
+    "武器命中+1",
+    "防止武器損壞",
+    "發動:南瓜的玩笑 1%"
+  ],
+  "data_zhiye": "1|2|3|8|52|81",
+  "category_id": "3",
+  "category_name": "單手劍",
+  "basic_info": {
+    "title": "南瓜傑克的劍(刻印)",
+    "類型": "武器(單手劍)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "武器攻擊力": "10/10",
+    "屬性": [
+      "額外攻擊+3",
+      "武器命中+1",
+      "防止武器損壞",
+      "發動:南瓜的玩笑 1%"
+    ],
+    "祝福屬性": "武器命中+1",
+    "材質": "原木",
+    "重量": "35"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1,發動:南瓜的玩笑1%"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器命中+2,發動:南瓜的玩笑2%"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3,發動:南瓜的玩笑3%"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4,發動:南瓜的玩笑4%"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5,發動:南瓜的玩笑5%"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6,發動:南瓜的玩笑6%"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7,發動:南瓜的玩笑7%"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+8,武器命中+8,發動:南瓜的玩笑8%"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+9,武器命中+9,發動:南瓜的玩笑9%"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+10,武器命中+10,發動:南瓜的玩笑10%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

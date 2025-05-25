@@ -1,0 +1,41 @@
+{
+  "item_id": "1579",
+  "item_name": "技術教本(和平使者)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1579",
+  "item_image": "https://www.gametsg.net/img/2/11/c0b05f96e3720d0c2d79e7446a7fa5bf.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "技術教本"
+  ],
+  "data_zhiye": "34",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "技術教本(和平使者)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.04",
+    "說明": "技術教本"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

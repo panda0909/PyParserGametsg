@@ -1,0 +1,55 @@
+{
+  "item_id": "1864",
+  "item_name": "龍斗士書板(鎖鍊劍精通)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1864",
+  "item_image": "https://www.gametsg.net/img/2/12/7cd132bfc32365c70e6cb5423c056e61.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "龍鬥士書板"
+  ],
+  "data_zhiye": "5",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "龍斗士書板(鎖鍊劍精通)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "龍鬥士書板"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "長老:拉米阿斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=172",
+      "monster_id": "172",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-冥法軍王室"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "item_id": "116",
+  "item_name": "烏格奴斯的長弓",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=116",
+  "item_image": "https://www.gametsg.net/img/1/1/02a1de611c5d22115d7a367d566e4c11.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    }
+  ],
+  "item_level": "7 / 6",
+  "item_stats": [
+    "額外攻擊+14",
+    "武器命中+9",
+    "敏捷+2",
+    "防止武器損壞",
+    "雙手武器",
+    "貫通效果",
+    "昏迷命中 +5%",
+    "無視遠距離傷害減免+2",
+    "無視遠距離迴避力+2",
+    "發動:烏格努斯的烙印 10%",
+    "發動:格蘭肯的憤怒 1%"
+  ],
+  "data_zhiye": "2",
+  "category_id": "5",
+  "category_name": "弓",
+  "basic_info": {
+    "title": "烏格奴斯的長弓",
+    "類型": "武器(弓)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "武器攻擊力": "7 / 6",
+    "屬性": [
+      "額外攻擊+14",
+      "武器命中+9",
+      "敏捷+2",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "昏迷命中 +5%",
+      "無視遠距離傷害減免+2",
+      "無視遠距離迴避力+2",
+      "發動:烏格努斯的烙印 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "祝福屬性": "額外攻擊+1",
+    "階段": "1 級",
+    "材質": "奧里哈魯根",
+    "重量": "30"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器命中+2"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7,傷害增加+3%"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+10,武器命中+8,傷害增加+4%"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+13,武器命中+9,傷害增加+5%"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+16,武器命中+10,傷害增加+6%"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+19,武器命中+11,傷害增加+7%"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+22,武器命中+12,傷害增加+7%"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+25,武器命中+13,傷害增加+7%"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+28,武器命中+14,傷害增加+7%"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1446",
+      "material_id": "1446",
+      "material_name": "挑戰的骨頭碎片",
+      "material_image": "https://www.gametsg.net/img/1/10/877216f7510fb6be0400ed3b80335d5f.jpg",
+      "material_grade": "grade01",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+      "material_id": "2749",
+      "material_name": "龍之鑽石",
+      "material_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+      "material_grade": "grade00",
+      "material_count": "500",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+          "alt_id": "2500",
+          "alt_name": "金幣",
+          "alt_grade": "grade01",
+          "alt_count": "100000000"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "",
+      "material_grade": "grade01",
+      "material_count": "100000000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1470",
+      "material_id": "1470",
+      "material_name": "白金金屬板",
+      "material_image": "https://www.gametsg.net/img/1/10/1656bb84b0a408611dc6d14e85d99335.jpg",
+      "material_grade": "grade01",
+      "material_count": "20"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1526",
+      "material_id": "1526",
+      "material_name": "烏格努斯的羽毛",
+      "material_image": "https://www.gametsg.net/img/2/11/0c2cde1876ad4202e6f57b7f71810ebb.jpg",
+      "material_grade": "grade01",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1344",
+      "material_id": "1344",
+      "material_name": "傳說武器製作秘笈(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/9/ae7a6b175ca7098a719f1f80380d32c0.jpg",
+      "material_grade": "grade05",
+      "material_count": "2",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+          "alt_id": "1348",
+          "alt_name": "傳說製作秘笈",
+          "alt_grade": "grade05",
+          "alt_count": "2"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+          "alt_id": "1349",
+          "alt_name": "傳說製作秘笈(刻印)",
+          "alt_grade": "grade05",
+          "alt_count": "2"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+      "material_id": "1348",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+      "material_id": "1349",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1572",
+      "material_id": "1572",
+      "material_name": "吸血鬼之牙",
+      "material_image": "https://www.gametsg.net/img/2/11/6a724ac0999a0849a28aa95b89be47df.jpg",
+      "material_grade": "grade01",
+      "material_count": "1"
+    }
+  ],
+  "monster_drops": []
+}

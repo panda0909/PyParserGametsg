@@ -1,0 +1,41 @@
+{
+  "item_id": "1602",
+  "item_name": "暗黑技術書(特殊攻擊)(血盟商店)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1602",
+  "item_image": "https://www.gametsg.net/img/2/11/bafb9738fb0560b192b60c22abca4d99.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "暗黑技術書"
+  ],
+  "data_zhiye": "52",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "暗黑技術書(特殊攻擊)(血盟商店)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "0.05",
+    "說明": "暗黑技術書"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

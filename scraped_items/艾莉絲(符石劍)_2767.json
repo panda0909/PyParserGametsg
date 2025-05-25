@@ -1,0 +1,62 @@
+{
+  "item_id": "2767",
+  "item_name": "艾莉絲(符石劍)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2767",
+  "item_image": "https://www.gametsg.net/uploads/20250114/4237dd6b9ab046e8d824dfde93a9fe49.png",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "22/19",
+  "item_stats": [
+    "額外攻擊+20",
+    "武器命中+21",
+    "經驗值獲得量增加 +30%",
+    "防止武器損壞",
+    "昏迷 命中 +8%",
+    "力量+6",
+    "火屬性追加傷害+10",
+    "生命+7",
+    "發動：流星雨(古代)5%",
+    "發動：艾莉絲的憎恨 10%",
+    "傷害增加 +8%"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "艾莉絲(符石劍)",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "22/19",
+    "屬性": [
+      "額外攻擊+20",
+      "武器命中+21",
+      "經驗值獲得量增加 +30%",
+      "防止武器損壞",
+      "昏迷 命中 +8%",
+      "力量+6",
+      "火屬性追加傷害+10",
+      "生命+7",
+      "發動：流星雨(古代)5%",
+      "發動：艾莉絲的憎恨 10%",
+      "傷害增加 +8%"
+    ],
+    "階段": "-2",
+    "材質": "黑色米索莉",
+    "重量": "60"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

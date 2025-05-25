@@ -1,0 +1,46 @@
+{
+  "item_id": "1079",
+  "item_name": "1週年紀念戒指",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1079",
+  "item_image": "https://www.gametsg.net/img/1/7/67d7d52c506fa20e6ca49e5a6b8db152.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "作為道具收藏品，材料使用（不可收藏品重複登錄）",
+    "獲得來源:商店 (紅利)"
+  ],
+  "data_zhiye": "",
+  "category_id": "28",
+  "category_name": "戒指",
+  "basic_info": {
+    "title": "1週年紀念戒指",
+    "類型": "飾品(戒指)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石",
+    "重量": "3",
+    "說明": [
+      "作為道具收藏品，材料使用（不可收藏品重複登錄）",
+      "獲得來源:商店 (紅利)"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

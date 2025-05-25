@@ -1,0 +1,843 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "280",
+    "item_name": "紅影雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=280",
+    "item_image": "https://www.gametsg.net/img/1/2/ec36ebf947fa88e417f0c09a26de3870.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "34 / 25",
+    "item_stats": [
+      "額外攻擊+30",
+      "武器命中+23",
+      "防止武器損壞",
+      "雙手武器",
+      "破壞盔甲 命中 +15%",
+      "力量+3",
+      "無視近距離迴避力+3",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%",
+      "發動:混沌狂襲 3%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "281",
+    "item_name": "倫得雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=281",
+    "item_image": "https://www.gametsg.net/img/1/2/b2dbbe1d03eeed78ab851bcdcd8bf1de.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "18/8",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+7",
+      "防止武器損壞",
+      "雙手武器",
+      "無視近距離迴避力+2",
+      "力量+2",
+      "發動:地裂術12%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "282",
+    "item_name": "倫得雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=282",
+    "item_image": "https://www.gametsg.net/img/1/2/b2dbbe1d03eeed78ab851bcdcd8bf1de.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "18/8",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+7",
+      "防止武器損壞",
+      "雙手武器",
+      "無視近距離迴避力+2",
+      "力量+2",
+      "發動:地裂術12%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "283",
+    "item_name": "史雷佛的雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=283",
+    "item_image": "https://www.gametsg.net/img/1/2/313a4197b29226b4e1ba82377cfd8e92.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "27 / 20",
+    "item_stats": [
+      "額外攻擊+7",
+      "+10 武器命中",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "無視近距離迴避力+2",
+      "無視近距離傷害減免+2",
+      "破壞盔甲 +10%",
+      "發動:影之詛咒 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "284",
+    "item_name": "歐西里斯雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=284",
+    "item_image": "https://www.gametsg.net/img/1/2/593bd1bb08a82a8d4c320aa2e5aa758d.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "25 / 20",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+9",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "死亡+3",
+      "無視近距離迴避力+2",
+      "破甲命中 +7%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "285",
+    "item_name": "咆哮雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=285",
+    "item_image": "https://www.gametsg.net/img/1/2/1c547e4e474809d40c322539fab2234e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "20/16",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+6",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "破壞盔甲命中 +5%",
+      "無視近距離迴避力+2"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "286",
+    "item_name": "咆哮雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=286",
+    "item_image": "https://www.gametsg.net/img/1/2/1c547e4e474809d40c322539fab2234e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "20/16",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+6",
+      "力量+2",
+      "防止武器損壞",
+      "雙手武器",
+      "破壞盔甲命中 +5%",
+      "無視近距離迴避力+2"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "287",
+    "item_name": "惡魔王雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=287",
+    "item_image": "https://www.gametsg.net/img/1/2/f1289700baa6e0de6c088d6812cb6f46.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "18 / 16",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+5",
+      "雙手武器",
+      "防止武器損壞",
+      "無視近距離迴避力+1",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "288",
+    "item_name": "惡魔王雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=288",
+    "item_image": "https://www.gametsg.net/img/1/2/f1289700baa6e0de6c088d6812cb6f46.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "18 / 16",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+5",
+      "雙手武器",
+      "防止武器損壞",
+      "無視近距離迴避力+1",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "289",
+    "item_name": "暗黑雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=289",
+    "item_image": "https://www.gametsg.net/img/1/2/8b47ff443dd9961aaed2b029000bd408.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "18 / 14",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+4",
+      "力量+1",
+      "防止武器損壞",
+      "雙手武器",
+      "無視近距離迴避力+1",
+      "依照指定概率的附加傷害1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "290",
+    "item_name": "暗黑雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=290",
+    "item_image": "https://www.gametsg.net/img/1/2/8b47ff443dd9961aaed2b029000bd408.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "18 / 14",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+4",
+      "力量+1",
+      "防止武器損壞",
+      "雙手武器",
+      "無視近距離迴避力+1",
+      "依照指定概率的附加傷害1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "291",
+    "item_name": "銀光雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=291",
+    "item_image": "https://www.gametsg.net/img/1/2/363445909250c997a62fef4b3a761b55.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "11/8",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "292",
+    "item_name": "銀光雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=292",
+    "item_image": "https://www.gametsg.net/img/1/2/363445909250c997a62fef4b3a761b55.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "11/8",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "293",
+    "item_name": "底比斯歐西里斯雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=293",
+    "item_image": "https://www.gametsg.net/img/1/2/7e17dd9366813115b1116dad3a0794f0.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "16 / 11",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+2",
+      "雙手武器",
+      "精神+1",
+      "敏捷+2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "294",
+    "item_name": "底比斯歐西里斯雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=294",
+    "item_image": "https://www.gametsg.net/img/1/2/7e17dd9366813115b1116dad3a0794f0.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "16 / 11",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+2",
+      "雙手武器",
+      "精神+1",
+      "敏捷+2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "295",
+    "item_name": "破壞雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=295",
+    "item_image": "https://www.gametsg.net/img/1/2/bcdc0c7fef1352ae3a8869932ee5aa14.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "16 / 10",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+6",
+      "力量+1",
+      "精神+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:猛爆劇毒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "296",
+    "item_name": "破壞雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=296",
+    "item_image": "https://www.gametsg.net/img/1/2/bcdc0c7fef1352ae3a8869932ee5aa14.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "16 / 10",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+6",
+      "力量+1",
+      "精神+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:猛爆劇毒 1%"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "297",
+    "item_name": "大馬士革雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=297",
+    "item_image": "https://www.gametsg.net/img/1/2/17ec01bf6a4482518f3fbfa6a61cbd6f.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "15 / 9",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "298",
+    "item_name": "大馬士革雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=298",
+    "item_image": "https://www.gametsg.net/img/1/2/17ec01bf6a4482518f3fbfa6a61cbd6f.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "15 / 9",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "299",
+    "item_name": "幽暗雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=299",
+    "item_image": "https://www.gametsg.net/img/1/2/dacaa1b2525e70a47ee8b0271314bafa.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "12/8",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "300",
+    "item_name": "幽暗雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=300",
+    "item_image": "https://www.gametsg.net/img/1/2/dacaa1b2525e70a47ee8b0271314bafa.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "12/8",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "301",
+    "item_name": "決斷者雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=301",
+    "item_image": "https://www.gametsg.net/img/1/2/01dfe8193f55cafd143c8c8c2ec92774.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "16 / 5",
+    "item_stats": [
+      "武器命中+4",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "302",
+    "item_name": "黑暗雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=302",
+    "item_image": "https://www.gametsg.net/img/1/2/0787bacdb5eb172093b8b01d2128b828.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "15 / 10",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "303",
+    "item_name": "黑暗雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=303",
+    "item_image": "https://www.gametsg.net/img/1/2/0787bacdb5eb172093b8b01d2128b828.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "15 / 10",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "304",
+    "item_name": "鋼鐵雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=304",
+    "item_image": "https://www.gametsg.net/img/1/2/946b22275023d8a9053f1819024f7598.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "10/7",
+    "item_stats": [
+      "武器命中+1",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "305",
+    "item_name": "鋼鐵雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=305",
+    "item_image": "https://www.gametsg.net/img/1/2/946b22275023d8a9053f1819024f7598.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "10/7",
+    "item_stats": [
+      "武器命中+1",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "306",
+    "item_name": "青銅雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=306",
+    "item_image": "https://www.gametsg.net/img/1/2/a22371cd5f7e54d279623f1ee6ca4223.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "8 / 6",
+    "item_stats": [
+      "武器命中+2",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "307",
+    "item_name": "青銅雙刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=307",
+    "item_image": "https://www.gametsg.net/img/1/2/a22371cd5f7e54d279623f1ee6ca4223.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "8 / 6",
+    "item_stats": [
+      "武器命中+2",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "308",
+    "item_name": "暗影雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=308",
+    "item_image": "https://www.gametsg.net/img/1/2/22de4a7033dba5101e6d8a8f86298fb4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "11/7",
+    "item_stats": [
+      "武器命中+1",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "309",
+    "item_name": "暗影雙刀(復刻)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=309",
+    "item_image": "https://www.gametsg.net/img/1/2/22de4a7033dba5101e6d8a8f86298fb4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "11/7",
+    "item_stats": [
+      "武器命中+1",
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  },
+  {
+    "item_id": "310",
+    "item_name": "拉斯塔巴德雙刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=310",
+    "item_image": "https://www.gametsg.net/img/1/2/c55df665750deb01d83358c68e7edf3b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "15 / 10",
+    "item_stats": [
+      "雙手武器"
+    ],
+    "data_zhiye": "4",
+    "category_id": "9",
+    "category_name": "雙刀"
+  }
+]

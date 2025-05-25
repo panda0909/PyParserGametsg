@@ -1,0 +1,37 @@
+{
+  "item_id": "2760",
+  "item_name": "受祝福的強化卷軸(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2760",
+  "item_image": "https://www.gametsg.net/img/2/13/3de8449f825981123346aecf0547351f.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "受祝福的強化卷軸(刻印)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

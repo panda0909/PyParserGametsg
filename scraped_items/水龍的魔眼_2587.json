@@ -1,0 +1,52 @@
+{
+  "item_id": "2587",
+  "item_name": "水龍的魔眼",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2587",
+  "item_image": "https://www.gametsg.net/img/2/13/c7eca5a993420497d6fe457e9103ef19.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 10 分鐘",
+    "冷卻時間 (秒)1小時"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "45",
+  "category_name": "魔眼",
+  "basic_info": {
+    "title": "水龍的魔眼",
+    "類型": "其他(魔眼)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "持續時間 10 分鐘",
+      "冷卻時間 (秒)1小時"
+    ],
+    "材質": "龍鱗",
+    "重量": "1",
+    "說明": [
+      "使用物品時:",
+      "[魔法防禦增加+15]",
+      "[魔法傷害減免+5%]",
+      "消耗品:",
+      "[15名譽金幣]"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,164 @@
+{
+  "item_id": "808",
+  "item_name": "暗靈手套",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=808",
+  "item_image": "https://www.gametsg.net/img/1/6/a2e8279208f77bf5973dc1f712b29b2b.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "MP回復(tic)+1",
+    "力量+1",
+    "地屬性抗性+4%"
+  ],
+  "data_zhiye": "",
+  "category_id": "20",
+  "category_name": "手套",
+  "basic_info": {
+    "title": "暗靈手套",
+    "類型": "防具(手套)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "地屬性抗性+4%"
+    ],
+    "祝福屬性": "魔法防禦 (MR)+1",
+    "材質": "皮革",
+    "重量": "18"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "地龍的精銳兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=447",
+      "monster_id": "447",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "81",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-龍之谷地監-6樓",
+        "亞丁大陸地監-龍之谷地監-7樓"
+      ]
+    },
+    {
+      "monster_name": "地龍的骷髏鬥士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=567",
+      "monster_id": "567",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-龍之谷地監-5樓",
+        "亞丁大陸地監-龍之谷地監-4樓"
+      ]
+    },
+    {
+      "monster_name": "地龍的骷髏警衛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=568",
+      "monster_id": "568",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-龍之谷地監-5樓",
+        "亞丁大陸地監-龍之谷地監-4樓"
+      ]
+    }
+  ]
+}

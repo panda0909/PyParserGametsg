@@ -1,0 +1,205 @@
+{
+  "item_id": "13",
+  "item_name": "水晶短劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=13",
+  "item_image": "https://www.gametsg.net/img/1/1/7b151a544fc392e7f129bb36a27f9f36.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    }
+  ],
+  "item_level": "10 / 4",
+  "item_stats": [
+    "額外攻擊+1"
+  ],
+  "data_zhiye": "1|2|3|4|8|52|12",
+  "category_id": "2",
+  "category_name": "匕首",
+  "basic_info": {
+    "title": "水晶短劍",
+    "類型": "武器(匕首)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "武器攻擊力": "10 / 4",
+    "屬性": "額外攻擊+1",
+    "祝福屬性": "武器命中+1",
+    "材質": "銀",
+    "重量": "45"
+  },
+  "detail_info": {
+    "損傷": "可以被損壞",
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器命中+2"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+8,武器命中+8"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+9,武器命中+9"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+11,武器命中+10"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+13,武器命中+11"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+15,武器命中+12"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+17,武器命中+13"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+19,武器命中+14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "奎斯坦修",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=641",
+      "monster_id": "641",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "骨鰻魚",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=642",
+      "monster_id": "642",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "深海魚",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=643",
+      "monster_id": "643",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    }
+  ]
+}

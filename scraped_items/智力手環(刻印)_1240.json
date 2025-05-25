@@ -1,0 +1,83 @@
+{
+  "item_id": "1240",
+  "item_name": "智力手環(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1240",
+  "item_image": "https://www.gametsg.net/img/1/9/550b8598e8f8e1ddafa26336861ccbfd.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-2",
+  "item_stats": [
+    "智力+1",
+    "施法速度+2%",
+    "移動速度+2%"
+  ],
+  "data_zhiye": "",
+  "category_id": "32",
+  "category_name": "手環",
+  "basic_info": {
+    "title": "智力手環(刻印)",
+    "類型": "飾品(手環)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-2",
+    "屬性": [
+      "智力+1",
+      "施法速度+2%",
+      "移動速度+2%"
+    ],
+    "祝福屬性": "藥水恢復率+1%",
+    "材質": "金屬",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+10，負重獎勵+10"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+20，負重獎勵+20"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+30，負重獎勵+30"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+40，負重獎勵+40"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+50，負重獎勵+50，近距離爆擊+2%，遠距離爆擊+2%，魔法爆擊+2%，攻擊速度+2%"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+60，負重獎勵+60，近距離爆擊+4%，遠距離爆擊+4%，魔法爆擊+4%，攻擊速度+4%"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+70，負重獎勵+70，近距離爆擊+6%，遠距離爆擊+6%，魔法爆擊+6%，攻擊速度+6%"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+80，負重獎勵+80，近距離爆擊+8%，遠距離爆擊+8%，魔法爆擊+8%，攻擊速度+8%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

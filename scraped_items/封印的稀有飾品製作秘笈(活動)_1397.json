@@ -1,0 +1,41 @@
+{
+  "item_id": "1397",
+  "item_name": "封印的稀有飾品製作秘笈(活動)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1397",
+  "item_image": "https://www.gametsg.net/img/1/9/4e260c7ec84a63c208914d8c24c6c1b6.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "封印的稀有飾品製作秘笈(活動)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

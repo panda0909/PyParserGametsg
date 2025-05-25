@@ -1,0 +1,155 @@
+{
+  "item_id": "564",
+  "item_name": "巴拉卡斯的霸氣",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=564",
+  "item_image": "https://www.gametsg.net/img/1/4/c9cba013e8df6fcf33e76782ebfd94ee.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-11",
+  "item_stats": [
+    "火屬性抗性+50%",
+    "近距離命中+3",
+    "近距離傷害+5",
+    "無視近距離傷害​​減免+2%",
+    "激活:巴拉卡斯之怒 3%"
+  ],
+  "data_zhiye": "2|4|8|5|12|13",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "巴拉卡斯的霸氣",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-11",
+    "屬性": [
+      "火屬性抗性+50%",
+      "近距離命中+3",
+      "近距離傷害+5",
+      "無視近距離傷害​​減免+2%",
+      "激活:巴拉卡斯之怒 3%"
+    ],
+    "祝福屬性": "物理防禦 (AC)-1",
+    "材質": "龍鱗",
+    "重量": "100",
+    "說明": [
+      "攻擊時依照指定的概率發動巴拉卡斯的震怒",
+      "強化到+7~+9的每次附魔可提升傷害減少無視率"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可儲存",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦 (AC)-7，無視近距離傷害減免+1%"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦 (AC)-8，無視近距離傷害​​減免+2%"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦 (AC)-9，無視近距離傷害減免+3%"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦 (AC)-10，無視近距離傷害​​減免+4%"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦 (AC)-11，無視近距離傷害​​減免+4%"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦 (AC)-12，無視近距離傷害​​減免+4%"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦 (AC)-13，無視近距離傷害​​減免+4%"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦 (AC)-14，無視近距離傷害​​減免+4%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

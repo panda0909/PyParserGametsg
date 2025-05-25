@@ -1,0 +1,78 @@
+{
+  "item_id": "1353",
+  "item_name": "惡魔的氣息",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1353",
+  "item_image": "https://www.gametsg.net/img/1/9/1047c539a6db205cf7f89dff277fcd9e.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "惡魔的氣息",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "動物性",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "惡魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=362",
+      "monster_id": "362",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-象牙塔-8 樓-出場時間:22:00"
+      ]
+    },
+    {
+      "monster_name": "惡魔監視者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=576",
+      "monster_id": "576",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-象牙塔-7 樓"
+      ]
+    }
+  ]
+}

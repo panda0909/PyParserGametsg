@@ -1,0 +1,206 @@
+{
+  "item_id": "70",
+  "item_name": "歐西斯短劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=70",
+  "item_image": "https://www.gametsg.net/img/1/1/c31d73d4e246a03410cb37e9f84acf2b.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "4 / 4",
+  "item_stats": [],
+  "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+  "category_id": "3",
+  "category_name": "單手劍",
+  "basic_info": {
+    "title": "歐西斯短劍",
+    "類型": "武器(單手劍)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "武器攻擊力": "4 / 4",
+    "祝福屬性": "最大HP+50",
+    "材質": "金屬塊",
+    "重量": "30"
+  },
+  "detail_info": {
+    "損傷": "可以被損壞",
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器命中+2"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+8,武器命中+8"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+9,武器命中+9"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+11,武器命中+10"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+13,武器命中+11"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+15,武器命中+12"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+17,武器命中+13"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+19,武器命中+14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "妖魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=856",
+      "monster_id": "856",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "17",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "說話之島-08.蜘蛛森林",
+        "說話之島-12.黑騎士團港口",
+        "說話之島-09.說話之島地監入口",
+        "說話之島-05.妖魔瞭望塔",
+        "說話之島-06.妖魔部落",
+        "亞丁大陸-05.沉靜的森林",
+        "亞丁大陸-35.枯燥的荒野",
+        "亞丁大陸-67.銀騎士村莊東邊森林",
+        "亞丁大陸地監-古魯丁地監-1 樓"
+      ]
+    }
+  ]
+}

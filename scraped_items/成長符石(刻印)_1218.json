@@ -1,0 +1,82 @@
+{
+  "item_id": "1218",
+  "item_name": "成長符石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1218",
+  "item_image": "https://www.gametsg.net/img/1/8/c085d1b74bd1f25c16e9ffc3430aa373.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "魔法防禦(MR)+5",
+    "經驗值獲得量增加+3%"
+  ],
+  "data_zhiye": "",
+  "category_id": "30",
+  "category_name": "符石",
+  "basic_info": {
+    "title": "成長符石(刻印)",
+    "類型": "飾品(符石)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "魔法防禦(MR)+5",
+      "經驗值獲得量增加+3%"
+    ],
+    "祝福屬性": "最大HP+20",
+    "材質": "礦石",
+    "重量": "1",
+    "說明": "可以用封印/符石強化石強化"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "負重獎勵+100，金幣掉落量+2%"
+    },
+    {
+      "level": "2",
+      "attributes": "負重獎勵+200，阿德娜掉落量+4%，PVE傷害減免+1"
+    },
+    {
+      "level": "3",
+      "attributes": "負重獎勵+300，阿德娜掉落量+6%，PVE傷害減免+2"
+    },
+    {
+      "level": "4",
+      "attributes": "經驗獲得量增加+3%，負重獎勵+400，阿德納掉落量+8%，PVE傷害減免+3"
+    },
+    {
+      "level": "5",
+      "attributes": "經驗獲得量增加+6%，負重獎勵+500，阿德納掉落量+10%，PVE傷害減免+4"
+    },
+    {
+      "level": "6",
+      "attributes": "經驗獲得量增加+9%，負重獎勵+600，阿德納掉落量+12%，PVE傷害減免+5"
+    },
+    {
+      "level": "7",
+      "attributes": "經驗獲得量增加+12%，負重獎勵+700，阿德納掉落量+14%，PVE傷害減免+6"
+    },
+    {
+      "level": "8",
+      "attributes": "經驗獲得量增加+15%，負重獎勵+800，阿德納掉落量+16%，PVE傷害減免+7"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,46 @@
+{
+  "item_id": "1004",
+  "item_name": "2週年紀念項鍊",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1004",
+  "item_image": "https://www.gametsg.net/img/1/7/be8ea6c28dbeae97838af58d185bf229.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "作為道具收藏品，材料使用（不可收藏品重複登錄）",
+    "獲得來源:商店 (紅利)"
+  ],
+  "data_zhiye": "",
+  "category_id": "26",
+  "category_name": "項鍊",
+  "basic_info": {
+    "title": "2週年紀念項鍊",
+    "類型": "飾品(項鍊)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "重量": "5",
+    "說明": [
+      "作為道具收藏品，材料使用（不可收藏品重複登錄）",
+      "獲得來源:商店 (紅利)"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

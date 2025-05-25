@@ -1,0 +1,41 @@
+{
+  "item_id": "2089",
+  "item_name": "黑暗精靈水晶(會心一擊)(血盟商店)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2089",
+  "item_image": "https://www.gametsg.net/img/2/12/89d9b40ea1d0b19126e72aca554f32ff.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "黑暗精靈水晶"
+  ],
+  "data_zhiye": "4",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "黑暗精靈水晶(會心一擊)(血盟商店)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "黑暗精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

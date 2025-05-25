@@ -1,0 +1,53 @@
+{
+  "item_id": "2662",
+  "item_name": "炎魔吊墜(變身製作硬幣)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2662",
+  "item_image": "https://www.gametsg.net/img/2/14/5f8fb0d7c1143e5c76c47a23294bda48.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "獲得2500個變身製作硬幣"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "炎魔吊墜(變身製作硬幣)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": "獲得2500個變身製作硬幣"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "地獄炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=293",
+      "monster_id": "293",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_areas": [
+        "其他-血盟-14 級 突襲 (傳奇)"
+      ]
+    }
+  ]
+}

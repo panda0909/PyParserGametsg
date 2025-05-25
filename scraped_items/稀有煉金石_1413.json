@@ -1,0 +1,41 @@
+{
+  "item_id": "1413",
+  "item_name": "稀有煉金石",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1413",
+  "item_image": "https://www.gametsg.net/img/1/10/4f4fad78c18949c21e88ae32a92e3fbc.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "可透過秩序煉金術獲得的製作材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "稀有煉金石",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "1",
+    "說明": "可透過秩序煉金術獲得的製作材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

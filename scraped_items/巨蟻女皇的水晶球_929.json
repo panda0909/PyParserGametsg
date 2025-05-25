@@ -1,0 +1,117 @@
+{
+  "item_id": "929",
+  "item_name": "巨蟻女皇的水晶球",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=929",
+  "item_image": "https://www.gametsg.net/img/1/6/c6e004ff848f42b58eb24909fe776d47.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-4",
+  "item_stats": [
+    "MP回復(tic)+5",
+    "智力+2",
+    "魔攻+1",
+    "昏迷抗性+5%"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "巨蟻女皇的水晶球",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-4",
+    "屬性": [
+      "MP回復(tic)+5",
+      "智力+2",
+      "魔攻+1",
+      "昏迷抗性+5%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "玻璃",
+    "重量": "50"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,魔攻 +1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,魔攻 +1"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,魔攻 +2"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,魔攻 +2"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,魔攻 +3"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,魔攻 +3"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,魔攻 +4"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,魔攻 +4"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,魔攻 +5"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,魔攻 +5"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

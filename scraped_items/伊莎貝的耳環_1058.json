@@ -1,0 +1,106 @@
+{
+  "item_id": "1058",
+  "item_name": "伊莎貝的耳環",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1058",
+  "item_image": "https://www.gametsg.net/img/1/7/b588b46fefa434769684da385bfa5b5a.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-5",
+  "item_stats": [
+    "無視傷害減免+3",
+    "發動:伊莎貝的嫉妒 1%"
+  ],
+  "data_zhiye": "",
+  "category_id": "27",
+  "category_name": "耳環",
+  "basic_info": {
+    "title": "伊莎貝的耳環",
+    "類型": "飾品(耳環)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-5",
+    "屬性": [
+      "無視傷害減免+3",
+      "發動:伊莎貝的嫉妒 1%"
+    ],
+    "祝福屬性": "藥水恢復率+2%",
+    "材質": "原石",
+    "重量": "1"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+20，負重獎勵+20，傷害減免無視+1"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+40，負重獎勵+40，傷害減免無視+2"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+60，負重獎勵+60，無視傷害減少+3"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+80，負重獎勵+80，傷害減免無視+4"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+100，藥水恢復率+2%，恢復魔法量+2%，負重獎勵+100，藥水恢復量+2，傷害減免無視+5"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+120，藥水恢復率+4%，恢復魔法量+4%，負重獎勵+120，藥水恢復量+4，傷害減免無視+6"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+140，藥水恢復率+6%，恢復魔法量+6%，負重獎勵+140，藥水恢復量+6，傷害減免無視+7"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+160，藥水恢復率+8%，恢復魔法量+8%，負重獎勵+160，藥水恢復量+8，傷害減免無視+8"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "嫉妒的公主伊莎貝",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=22",
+      "monster_id": "22",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "嫉妒的公主伊莎貝",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1026",
+      "monster_id": "1026",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    }
+  ]
+}

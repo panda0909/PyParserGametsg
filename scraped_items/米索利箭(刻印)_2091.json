@@ -1,0 +1,78 @@
+{
+  "item_id": "2091",
+  "item_name": "米索利箭(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2091",
+  "item_image": "https://www.gametsg.net/img/2/12/d23a6071d9d63a1622a1f0e5282f9014.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1|2|3|4|8|7",
+  "category_id": "39",
+  "category_name": "箭/刺/子彈",
+  "basic_info": {
+    "title": "米索利箭(刻印)",
+    "類型": "其他(箭/刺/子彈)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "材質": "米索利",
+    "重量": "0.01"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

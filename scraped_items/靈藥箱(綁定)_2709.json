@@ -1,0 +1,53 @@
+{
+  "item_id": "2709",
+  "item_name": "靈藥箱(綁定)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2709",
+  "item_image": "https://www.gametsg.net/img/2/14/205fa5fc21587baa42b4a2a1f0331781.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "一個盒子,你可以獲得 1 個聖水"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "靈藥箱(綁定)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬塊",
+    "說明": "一個盒子,你可以獲得 1 個聖水"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "獨角獸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=940",
+      "monster_id": "940",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "特殊副本-夢幻之島"
+      ]
+    }
+  ]
+}

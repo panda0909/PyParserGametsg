@@ -1,0 +1,152 @@
+{
+  "item_id": "1065",
+  "item_name": "精靈使耳環(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1065",
+  "item_image": "https://www.gametsg.net/img/1/7/3d4a5acf2b6c40483cbdd19f60f72bbb.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "0",
+  "item_stats": [
+    "最大MP +20",
+    "MP回復(tic)+4"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "27",
+  "category_name": "耳環",
+  "basic_info": {
+    "title": "精靈使耳環(刻印)",
+    "類型": "飾品(耳環)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "0",
+    "屬性": [
+      "最大MP +20",
+      "MP回復(tic)+4"
+    ],
+    "祝福屬性": "最大HP+20",
+    "材質": "原石",
+    "重量": "1"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5,負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10,負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15,負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25,負重獎勵+25,藥水恢復+2"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30,負重獎勵+30,藥水恢復+4"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35,負重獎勵+35,藥水恢復+6"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40,負重獎勵+40,藥水恢復+8"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1444",
+      "material_id": "1444",
+      "material_name": "黑暗妖精靈魂結晶體",
+      "material_image": "https://www.gametsg.net/img/1/10/8d01351327c0e0d7434b6da7e913a1dc.jpg",
+      "material_grade": "grade01",
+      "material_count": "250"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1515",
+      "material_id": "1515",
+      "material_name": "黑暗鑄塊",
+      "material_image": "https://www.gametsg.net/img/2/11/675a977d5f8aad30244479a8834fa9b4.jpg",
+      "material_grade": "grade01",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2758",
+      "material_id": "2758",
+      "material_name": "最高級的原石",
+      "material_image": "https://www.gametsg.net/img/3/25/0a50a4adceb8686cb9fca6d208a5bacb.jpg",
+      "material_grade": "grade00",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1412",
+      "material_id": "1412",
+      "material_name": "稀有飾品製作秘笈(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/10/07390bebbee2897f9384f0687d33021a.jpg",
+      "material_grade": "grade03",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2595",
+          "alt_id": "2595",
+          "alt_name": "稀有製作卷軸",
+          "alt_grade": "grade00",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1414",
+          "alt_id": "1414",
+          "alt_name": "稀有工藝食譜書(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2595",
+      "material_id": "2595",
+      "material_name": "",
+      "material_grade": "grade00",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1414",
+      "material_id": "1414",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "500000"
+    }
+  ],
+  "monster_drops": []
+}

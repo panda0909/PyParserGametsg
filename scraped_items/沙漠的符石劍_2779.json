@@ -1,0 +1,39 @@
+{
+  "item_id": "2779",
+  "item_name": "沙漠的符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2779",
+  "item_image": "https://www.gametsg.net/uploads/20250114/a6e45490c264b6de0be1f86a47b15267.png",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "8/9",
+  "item_stats": [
+    "生命+1"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "沙漠的符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "8/9",
+    "屬性": "生命+1",
+    "材質": "金屬塊",
+    "重量": "40"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

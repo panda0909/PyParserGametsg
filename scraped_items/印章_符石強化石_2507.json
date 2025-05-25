@@ -1,0 +1,40 @@
+{
+  "item_id": "2507",
+  "item_name": "印章/符石強化石",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2507",
+  "item_image": "https://www.gametsg.net/img/2/13/b254d225a539d4cb10b30ac1ee6c566b.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "印章,符石強化材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "43",
+  "category_name": "強化卷軸",
+  "basic_info": {
+    "title": "印章/符石強化石",
+    "類型": "其他(強化卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "說明": "印章,符石強化材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

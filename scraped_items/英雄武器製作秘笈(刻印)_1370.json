@@ -1,0 +1,3222 @@
+{
+  "item_id": "1370",
+  "item_name": "英雄武器製作秘笈(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1370",
+  "item_image": "https://www.gametsg.net/img/1/9/50f502ccd499005a7d274f7574be5cdd.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "英雄武器製作秘笈(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=215",
+      "material_id": "215",
+      "material_name": "+10 祝福狂風之斧",
+      "material_image": "https://www.gametsg.net/img/1/2/7782d23347b238a40f507355a8cb35a4.jpg",
+      "material_grade": "grade03",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=216",
+          "alt_id": "216",
+          "alt_name": "+10 祝福狂風之斧(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=422",
+          "alt_id": "422",
+          "alt_name": "+10 夜禍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=423",
+          "alt_id": "423",
+          "alt_name": "+10 夜禍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=37",
+          "alt_id": "37",
+          "alt_name": "+10 祝福雷雨之劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=38",
+          "alt_id": "38",
+          "alt_name": "+10 祝福雷雨之劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=125",
+          "alt_id": "125",
+          "alt_name": "+10 祝福之熾炎天使弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=126",
+          "alt_id": "126",
+          "alt_name": "+10 祝福之熾炎天使弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=374",
+          "alt_id": "374",
+          "alt_name": "+10 祝福末日衝擊炮",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=375",
+          "alt_id": "375",
+          "alt_name": "+10 祝福末日衝擊炮(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=11",
+          "alt_id": "11",
+          "alt_name": "+10 祝福魔力短劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=12",
+          "alt_id": "12",
+          "alt_name": "+10 祝福魔力短劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=39",
+          "alt_id": "39",
+          "alt_name": "+10 祝福魔族之劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=40",
+          "alt_id": "40",
+          "alt_name": "+10 祝福魔族之劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=217",
+          "alt_id": "217",
+          "alt_name": "+10 祝福魔族斧頭",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=218",
+          "alt_id": "218",
+          "alt_name": "+10 祝福魔族斧頭(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=355",
+          "alt_id": "355",
+          "alt_name": "+10 祝福魔族的步槍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=356",
+          "alt_id": "356",
+          "alt_name": "+10 祝福魔族的步槍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=424",
+          "alt_id": "424",
+          "alt_name": "+10 魔族鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=425",
+          "alt_id": "425",
+          "alt_name": "+10 魔族鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=254",
+          "alt_id": "254",
+          "alt_name": "+10 祝福魔族魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=255",
+          "alt_id": "255",
+          "alt_name": "+10 祝福魔族魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=394",
+          "alt_id": "394",
+          "alt_name": "+10 祝福魔族鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=395",
+          "alt_id": "395",
+          "alt_name": "+10 祝福魔族鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=321",
+          "alt_id": "321",
+          "alt_name": "+10 祝福魔族的鋼爪",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=322",
+          "alt_id": "322",
+          "alt_name": "+10 祝福魔族的鋼爪(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=127",
+          "alt_id": "127",
+          "alt_name": "+10 祝福魔族之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=128",
+          "alt_id": "128",
+          "alt_name": "+10 祝福魔族之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=92",
+          "alt_id": "92",
+          "alt_name": "+10 祝福的武官雙手劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=93",
+          "alt_id": "93",
+          "alt_name": "+10 祝福武官雙手劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=41",
+          "alt_id": "41",
+          "alt_name": "+10 祝福武官之刃",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=42",
+          "alt_id": "42",
+          "alt_name": "+10 祝福武官之刃(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=94",
+          "alt_id": "94",
+          "alt_name": "+10 祝福紅騎士巨劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=95",
+          "alt_id": "95",
+          "alt_name": "+10 祝福紅騎士巨劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=426",
+          "alt_id": "426",
+          "alt_name": "+10 吸血鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=427",
+          "alt_id": "427",
+          "alt_name": "+10 吸血鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=129",
+          "alt_id": "129",
+          "alt_name": "+10 祝福沙哈之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=130",
+          "alt_id": "130",
+          "alt_name": "+10 祝福沙哈之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=131",
+          "alt_id": "131",
+          "alt_name": "+10 祝福弒神者之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=132",
+          "alt_id": "132",
+          "alt_name": "+10 祝福弒神者之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=396",
+          "alt_id": "396",
+          "alt_name": "+10 祝福消滅者鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=397",
+          "alt_id": "397",
+          "alt_name": "+10 祝福消滅者鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=13",
+          "alt_id": "13",
+          "alt_name": "+10 祝福水晶短劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=14",
+          "alt_id": "14",
+          "alt_name": "+10 祝福水晶短劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=256",
+          "alt_id": "256",
+          "alt_name": "+10 祝福神官魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=257",
+          "alt_id": "257",
+          "alt_name": "+10 祝福神官魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=260",
+          "alt_id": "260",
+          "alt_name": "+10 祝福天使魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=261",
+          "alt_id": "261",
+          "alt_name": "+10 祝福天使魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=339",
+          "alt_id": "339",
+          "alt_name": "+10 祝福提卡爾庫庫爾坎鐵手甲",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=340",
+          "alt_id": "340",
+          "alt_name": "+10 祝福提卡爾庫庫爾坎鐵手甲(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=428",
+          "alt_id": "428",
+          "alt_name": "+10 底比斯歐西里斯鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=429",
+          "alt_id": "429",
+          "alt_name": "+10 底比斯歐西里斯鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=97",
+          "alt_id": "97",
+          "alt_name": "+10 祝福底比斯歐西里斯雙手劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=98",
+          "alt_id": "98",
+          "alt_name": "+10 祝福底比斯歐西里斯雙手劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=293",
+          "alt_id": "293",
+          "alt_name": "+10 祝福底比斯歐西里斯雙刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=294",
+          "alt_id": "294",
+          "alt_name": "+10 祝福底比斯歐西里斯雙刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=262",
+          "alt_id": "262",
+          "alt_name": "+10 祝福底比斯歐西里斯魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=263",
+          "alt_id": "263",
+          "alt_name": "+10 祝福底比斯歐西里斯魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=135",
+          "alt_id": "135",
+          "alt_name": "+10 祝福底比斯歐西里斯弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=136",
+          "alt_id": "136",
+          "alt_name": "+10 祝福底比斯歐西里斯弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=357",
+          "alt_id": "357",
+          "alt_name": "+10 祝福特里斯坦的步槍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=358",
+          "alt_id": "358",
+          "alt_name": "+10 祝福特里斯坦的步槍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=295",
+          "alt_id": "295",
+          "alt_name": "+10 祝福破壞雙刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=296",
+          "alt_id": "296",
+          "alt_name": "+10 祝福破壞雙刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=325",
+          "alt_id": "325",
+          "alt_name": "+10 祝福破壞鋼爪",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=326",
+          "alt_id": "326",
+          "alt_name": "+10 祝福破壞鋼爪(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=99",
+          "alt_id": "99",
+          "alt_name": "+10 祝福的毀滅巨劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=100",
+          "alt_id": "100",
+          "alt_name": "+10 祝福的毀滅巨劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=400",
+          "alt_id": "400",
+          "alt_name": "+10 祝福破滅者鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=401",
+          "alt_id": "401",
+          "alt_name": "+10 祝福破滅者鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=177",
+          "alt_id": "177",
+          "alt_name": "+10 祝福海神三叉戟",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=178",
+          "alt_id": "178",
+          "alt_name": "+10 祝福海神三叉戟(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=179",
+          "alt_id": "179",
+          "alt_name": "+10 祝福酷寒之矛",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=180",
+          "alt_id": "180",
+          "alt_name": "+10 祝福酷寒之矛(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=402",
+          "alt_id": "402",
+          "alt_name": "+10 祝福共鳴鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=403",
+          "alt_id": "403",
+          "alt_name": "+10 祝福共鳴鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=216",
+      "material_id": "216",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=422",
+      "material_id": "422",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=423",
+      "material_id": "423",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=37",
+      "material_id": "37",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=38",
+      "material_id": "38",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=125",
+      "material_id": "125",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=126",
+      "material_id": "126",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=374",
+      "material_id": "374",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=375",
+      "material_id": "375",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=11",
+      "material_id": "11",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=12",
+      "material_id": "12",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=39",
+      "material_id": "39",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=40",
+      "material_id": "40",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=217",
+      "material_id": "217",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=218",
+      "material_id": "218",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=355",
+      "material_id": "355",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=356",
+      "material_id": "356",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=424",
+      "material_id": "424",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=425",
+      "material_id": "425",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=254",
+      "material_id": "254",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=255",
+      "material_id": "255",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=394",
+      "material_id": "394",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=395",
+      "material_id": "395",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=321",
+      "material_id": "321",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=322",
+      "material_id": "322",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=127",
+      "material_id": "127",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=128",
+      "material_id": "128",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=92",
+      "material_id": "92",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=93",
+      "material_id": "93",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=41",
+      "material_id": "41",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=42",
+      "material_id": "42",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=94",
+      "material_id": "94",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=95",
+      "material_id": "95",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=426",
+      "material_id": "426",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=427",
+      "material_id": "427",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=129",
+      "material_id": "129",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=130",
+      "material_id": "130",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=131",
+      "material_id": "131",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=132",
+      "material_id": "132",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=396",
+      "material_id": "396",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=397",
+      "material_id": "397",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=13",
+      "material_id": "13",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=14",
+      "material_id": "14",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=256",
+      "material_id": "256",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=257",
+      "material_id": "257",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=260",
+      "material_id": "260",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=261",
+      "material_id": "261",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=339",
+      "material_id": "339",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=340",
+      "material_id": "340",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=428",
+      "material_id": "428",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=429",
+      "material_id": "429",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=97",
+      "material_id": "97",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=98",
+      "material_id": "98",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=293",
+      "material_id": "293",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=294",
+      "material_id": "294",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=262",
+      "material_id": "262",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=263",
+      "material_id": "263",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=135",
+      "material_id": "135",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=136",
+      "material_id": "136",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=357",
+      "material_id": "357",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=358",
+      "material_id": "358",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=295",
+      "material_id": "295",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=296",
+      "material_id": "296",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=325",
+      "material_id": "325",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=326",
+      "material_id": "326",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=99",
+      "material_id": "99",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=100",
+      "material_id": "100",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=400",
+      "material_id": "400",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=401",
+      "material_id": "401",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=177",
+      "material_id": "177",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=178",
+      "material_id": "178",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=179",
+      "material_id": "179",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=180",
+      "material_id": "180",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=402",
+      "material_id": "402",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=403",
+      "material_id": "403",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=215",
+      "material_id": "215",
+      "material_name": "+11 祝福狂風之斧",
+      "material_image": "https://www.gametsg.net/img/1/2/7782d23347b238a40f507355a8cb35a4.jpg",
+      "material_grade": "grade03",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=216",
+          "alt_id": "216",
+          "alt_name": "+11 祝福狂風之斧(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=422",
+          "alt_id": "422",
+          "alt_name": "+11 祝福夜禍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=423",
+          "alt_id": "423",
+          "alt_name": "+11 祝福夜禍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=37",
+          "alt_id": "37",
+          "alt_name": "+11 祝福雷雨之劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=38",
+          "alt_id": "38",
+          "alt_name": "+11 祝福雷雨之劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=125",
+          "alt_id": "125",
+          "alt_name": "+11 祝福之熾炎天使弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=126",
+          "alt_id": "126",
+          "alt_name": "+11 祝福之熾炎天使弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=374",
+          "alt_id": "374",
+          "alt_name": "+11 祝福末日衝擊炮",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=375",
+          "alt_id": "375",
+          "alt_name": "+11 祝福末日衝擊炮(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=11",
+          "alt_id": "11",
+          "alt_name": "+11 祝福魔力短劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=12",
+          "alt_id": "12",
+          "alt_name": "+11 祝福魔力短劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=39",
+          "alt_id": "39",
+          "alt_name": "+11 祝福魔族之劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=40",
+          "alt_id": "40",
+          "alt_name": "+11 祝福魔族之劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=217",
+          "alt_id": "217",
+          "alt_name": "+11 祝福魔族斧頭",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=218",
+          "alt_id": "218",
+          "alt_name": "+11 祝福魔族斧頭(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=355",
+          "alt_id": "355",
+          "alt_name": "+11 祝福魔族的步槍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=356",
+          "alt_id": "356",
+          "alt_name": "+11 祝福魔族的步槍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=424",
+          "alt_id": "424",
+          "alt_name": "+11 祝福魔族鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=425",
+          "alt_id": "425",
+          "alt_name": "+11 祝福魔族鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=254",
+          "alt_id": "254",
+          "alt_name": "+11 祝福魔族魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=255",
+          "alt_id": "255",
+          "alt_name": "+11 祝福魔族魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=394",
+          "alt_id": "394",
+          "alt_name": "+11 祝福魔族鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=395",
+          "alt_id": "395",
+          "alt_name": "+11 祝福魔族鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=321",
+          "alt_id": "321",
+          "alt_name": "+11 祝福魔族的鋼爪",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=322",
+          "alt_id": "322",
+          "alt_name": "+11 祝福魔族的鋼爪(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=127",
+          "alt_id": "127",
+          "alt_name": "+11 祝福魔族之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=128",
+          "alt_id": "128",
+          "alt_name": "+11 祝福魔族之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=92",
+          "alt_id": "92",
+          "alt_name": "+11 祝福的武官雙手劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=93",
+          "alt_id": "93",
+          "alt_name": "+11 祝福的武官雙手劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=41",
+          "alt_id": "41",
+          "alt_name": "+11 祝福武官之刃",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=42",
+          "alt_id": "42",
+          "alt_name": "+11 祝福武官之刃(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=94",
+          "alt_id": "94",
+          "alt_name": "+11 祝福紅騎士巨劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=95",
+          "alt_id": "95",
+          "alt_name": "+11 祝福紅騎士巨劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=426",
+          "alt_id": "426",
+          "alt_name": "+11 祝福吸血鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=427",
+          "alt_id": "427",
+          "alt_name": "+11 祝福吸血鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=129",
+          "alt_id": "129",
+          "alt_name": "+11 祝福沙哈之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=130",
+          "alt_id": "130",
+          "alt_name": "+11 祝福沙哈之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=131",
+          "alt_id": "131",
+          "alt_name": "+11 祝福弒神者之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=132",
+          "alt_id": "132",
+          "alt_name": "+11 祝福弒神者之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=396",
+          "alt_id": "396",
+          "alt_name": "+11 祝福消滅者鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=397",
+          "alt_id": "397",
+          "alt_name": "+11 祝福消滅者鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=13",
+          "alt_id": "13",
+          "alt_name": "+11 祝福水晶短劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=14",
+          "alt_id": "14",
+          "alt_name": "+11 祝福水晶短劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=256",
+          "alt_id": "256",
+          "alt_name": "+11 祝福神官魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=257",
+          "alt_id": "257",
+          "alt_name": "+11 祝福神官魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=260",
+          "alt_id": "260",
+          "alt_name": "+11 祝福天使魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=261",
+          "alt_id": "261",
+          "alt_name": "+11 祝福天使魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=339",
+          "alt_id": "339",
+          "alt_name": "+11 祝福提卡爾庫庫爾坎鐵手甲",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=340",
+          "alt_id": "340",
+          "alt_name": "+11 祝福提卡爾庫庫爾坎鐵手甲(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=428",
+          "alt_id": "428",
+          "alt_name": "+11 祝福底比斯歐西里斯鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=429",
+          "alt_id": "429",
+          "alt_name": "+11 祝福底比斯歐西里斯鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=97",
+          "alt_id": "97",
+          "alt_name": "+11 祝福底比斯歐西里斯雙手劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=98",
+          "alt_id": "98",
+          "alt_name": "+11 祝福底比斯歐西里斯雙手劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=293",
+          "alt_id": "293",
+          "alt_name": "+11 祝福底比斯歐西里斯的雙刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=294",
+          "alt_id": "294",
+          "alt_name": "+11 祝福底比斯歐西里斯的雙刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=262",
+          "alt_id": "262",
+          "alt_name": "+11 祝福底比斯歐西里斯魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=263",
+          "alt_id": "263",
+          "alt_name": "+11 祝福底比斯歐西里斯魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=135",
+          "alt_id": "135",
+          "alt_name": "+11 祝福底比斯歐西里斯弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=136",
+          "alt_id": "136",
+          "alt_name": "+11 祝福底比斯歐西里斯弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=357",
+          "alt_id": "357",
+          "alt_name": "+11 祝福特里斯坦的步槍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=358",
+          "alt_id": "358",
+          "alt_name": "+11 祝福特里斯坦的步槍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=295",
+          "alt_id": "295",
+          "alt_name": "+11 祝福破壞雙刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=296",
+          "alt_id": "296",
+          "alt_name": "+11 祝福破壞雙刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=325",
+          "alt_id": "325",
+          "alt_name": "+11 祝福破壞鋼爪",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=326",
+          "alt_id": "326",
+          "alt_name": "+11 祝福破壞鋼爪(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=99",
+          "alt_id": "99",
+          "alt_name": "+11 祝福的毀滅巨劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=100",
+          "alt_id": "100",
+          "alt_name": "+11 祝福的毀滅巨劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=400",
+          "alt_id": "400",
+          "alt_name": "+11 祝福破滅者鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=401",
+          "alt_id": "401",
+          "alt_name": "+11 祝福破滅者鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=177",
+          "alt_id": "177",
+          "alt_name": "+11 祝福海神三叉戟",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=178",
+          "alt_id": "178",
+          "alt_name": "+11 祝福海神三叉戟(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=179",
+          "alt_id": "179",
+          "alt_name": "+11 祝福酷寒之矛",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=180",
+          "alt_id": "180",
+          "alt_name": "+11 祝福酷寒之矛(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=402",
+          "alt_id": "402",
+          "alt_name": "+11 祝福共鳴鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=403",
+          "alt_id": "403",
+          "alt_name": "+11 祝福共鳴鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=216",
+      "material_id": "216",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=422",
+      "material_id": "422",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=423",
+      "material_id": "423",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=37",
+      "material_id": "37",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=38",
+      "material_id": "38",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=125",
+      "material_id": "125",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=126",
+      "material_id": "126",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=374",
+      "material_id": "374",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=375",
+      "material_id": "375",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=11",
+      "material_id": "11",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=12",
+      "material_id": "12",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=39",
+      "material_id": "39",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=40",
+      "material_id": "40",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=217",
+      "material_id": "217",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=218",
+      "material_id": "218",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=355",
+      "material_id": "355",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=356",
+      "material_id": "356",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=424",
+      "material_id": "424",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=425",
+      "material_id": "425",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=254",
+      "material_id": "254",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=255",
+      "material_id": "255",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=394",
+      "material_id": "394",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=395",
+      "material_id": "395",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=321",
+      "material_id": "321",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=322",
+      "material_id": "322",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=127",
+      "material_id": "127",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=128",
+      "material_id": "128",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=92",
+      "material_id": "92",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=93",
+      "material_id": "93",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=41",
+      "material_id": "41",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=42",
+      "material_id": "42",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=94",
+      "material_id": "94",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=95",
+      "material_id": "95",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=426",
+      "material_id": "426",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=427",
+      "material_id": "427",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=129",
+      "material_id": "129",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=130",
+      "material_id": "130",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=131",
+      "material_id": "131",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=132",
+      "material_id": "132",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=396",
+      "material_id": "396",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=397",
+      "material_id": "397",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=13",
+      "material_id": "13",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=14",
+      "material_id": "14",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=256",
+      "material_id": "256",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=257",
+      "material_id": "257",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=260",
+      "material_id": "260",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=261",
+      "material_id": "261",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=339",
+      "material_id": "339",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=340",
+      "material_id": "340",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=428",
+      "material_id": "428",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=429",
+      "material_id": "429",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=97",
+      "material_id": "97",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=98",
+      "material_id": "98",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=293",
+      "material_id": "293",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=294",
+      "material_id": "294",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=262",
+      "material_id": "262",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=263",
+      "material_id": "263",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=135",
+      "material_id": "135",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=136",
+      "material_id": "136",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=357",
+      "material_id": "357",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=358",
+      "material_id": "358",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=295",
+      "material_id": "295",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=296",
+      "material_id": "296",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=325",
+      "material_id": "325",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=326",
+      "material_id": "326",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=99",
+      "material_id": "99",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=100",
+      "material_id": "100",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=400",
+      "material_id": "400",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=401",
+      "material_id": "401",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=177",
+      "material_id": "177",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=178",
+      "material_id": "178",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=179",
+      "material_id": "179",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=180",
+      "material_id": "180",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=402",
+      "material_id": "402",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=403",
+      "material_id": "403",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=215",
+      "material_id": "215",
+      "material_name": "+12 祝福狂風之斧",
+      "material_image": "https://www.gametsg.net/img/1/2/7782d23347b238a40f507355a8cb35a4.jpg",
+      "material_grade": "grade03",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=216",
+          "alt_id": "216",
+          "alt_name": "+12 祝福狂風之斧(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=422",
+          "alt_id": "422",
+          "alt_name": "+12 祝福夜禍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=423",
+          "alt_id": "423",
+          "alt_name": "+12 祝福夜禍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=37",
+          "alt_id": "37",
+          "alt_name": "+12 祝福雷雨之劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=38",
+          "alt_id": "38",
+          "alt_name": "+12 祝福雷雨之劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=125",
+          "alt_id": "125",
+          "alt_name": "+12 祝福之熾炎天使弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=126",
+          "alt_id": "126",
+          "alt_name": "+12 祝福之熾炎天使弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=374",
+          "alt_id": "374",
+          "alt_name": "+12 祝福末日衝擊炮",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=375",
+          "alt_id": "375",
+          "alt_name": "+12 祝福末日衝擊炮(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=11",
+          "alt_id": "11",
+          "alt_name": "+12 祝福魔力短劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=12",
+          "alt_id": "12",
+          "alt_name": "+12 祝福魔力短劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=39",
+          "alt_id": "39",
+          "alt_name": "+12 祝福魔族之劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=40",
+          "alt_id": "40",
+          "alt_name": "+12 祝福魔族之劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=217",
+          "alt_id": "217",
+          "alt_name": "+12 祝福魔族斧頭",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=218",
+          "alt_id": "218",
+          "alt_name": "+12 祝福魔族斧頭(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=355",
+          "alt_id": "355",
+          "alt_name": "+12 祝福魔族的步槍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=356",
+          "alt_id": "356",
+          "alt_name": "+12 祝福魔族的步槍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=424",
+          "alt_id": "424",
+          "alt_name": "+12 祝福魔族鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=425",
+          "alt_id": "425",
+          "alt_name": "+12 祝福魔族鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=254",
+          "alt_id": "254",
+          "alt_name": "+12 祝福魔族魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=255",
+          "alt_id": "255",
+          "alt_name": "+12 祝福魔族魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=394",
+          "alt_id": "394",
+          "alt_name": "+12 祝福魔族鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=395",
+          "alt_id": "395",
+          "alt_name": "+12 祝福魔族鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=321",
+          "alt_id": "321",
+          "alt_name": "+12 祝福魔族的鋼爪",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=322",
+          "alt_id": "322",
+          "alt_name": "+12 祝福魔族的鋼爪(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=127",
+          "alt_id": "127",
+          "alt_name": "+12 祝福魔族之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=128",
+          "alt_id": "128",
+          "alt_name": "+12 祝福魔族之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=92",
+          "alt_id": "92",
+          "alt_name": "+12 祝福的武官雙手劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=93",
+          "alt_id": "93",
+          "alt_name": "+12 祝福的武官雙手劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=41",
+          "alt_id": "41",
+          "alt_name": "+12 祝福武官之刃",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=42",
+          "alt_id": "42",
+          "alt_name": "+12 祝福武官之刃(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=94",
+          "alt_id": "94",
+          "alt_name": "+12 祝福紅騎士巨劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=95",
+          "alt_id": "95",
+          "alt_name": "+12 祝福紅騎士巨劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=426",
+          "alt_id": "426",
+          "alt_name": "+12 祝福吸血鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=427",
+          "alt_id": "427",
+          "alt_name": "+12 祝福吸血鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=129",
+          "alt_id": "129",
+          "alt_name": "+12 祝福沙哈之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=130",
+          "alt_id": "130",
+          "alt_name": "+12 祝福沙哈之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=131",
+          "alt_id": "131",
+          "alt_name": "+12 祝福弒神者之弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=132",
+          "alt_id": "132",
+          "alt_name": "+12 祝福弒神者之弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=396",
+          "alt_id": "396",
+          "alt_name": "+12 祝福消滅者鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=397",
+          "alt_id": "397",
+          "alt_name": "+12 祝福消滅者鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=13",
+          "alt_id": "13",
+          "alt_name": "+12 祝福水晶短劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=14",
+          "alt_id": "14",
+          "alt_name": "+12 祝福水晶短劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=256",
+          "alt_id": "256",
+          "alt_name": "+12 祝福神官魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=257",
+          "alt_id": "257",
+          "alt_name": "+12 祝福神官魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=260",
+          "alt_id": "260",
+          "alt_name": "+12 祝福天使魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=261",
+          "alt_id": "261",
+          "alt_name": "+12 祝福天使魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=339",
+          "alt_id": "339",
+          "alt_name": "+12 祝福提卡爾庫庫爾坎鐵手甲",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=340",
+          "alt_id": "340",
+          "alt_name": "+12 祝福提卡爾庫庫爾坎鐵手甲(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=428",
+          "alt_id": "428",
+          "alt_name": "+12 祝福的底比斯歐西里斯鐮刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=429",
+          "alt_id": "429",
+          "alt_name": "+12 祝福的底比斯歐西里斯鐮刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=97",
+          "alt_id": "97",
+          "alt_name": "+12 祝福底比斯歐西里斯雙手劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=98",
+          "alt_id": "98",
+          "alt_name": "+12 祝福底比斯歐西里斯雙手劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=293",
+          "alt_id": "293",
+          "alt_name": "+12 祝福底比斯歐西里斯的雙刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=294",
+          "alt_id": "294",
+          "alt_name": "+12 祝福底比斯歐西里斯的雙刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=262",
+          "alt_id": "262",
+          "alt_name": "+12 祝福底比斯歐西里斯魔杖",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=263",
+          "alt_id": "263",
+          "alt_name": "+12 祝福底比斯歐西里斯魔杖(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=135",
+          "alt_id": "135",
+          "alt_name": "+12 祝福底比斯歐西里斯弓",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=136",
+          "alt_id": "136",
+          "alt_name": "+12 祝福底比斯歐西里斯弓(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=357",
+          "alt_id": "357",
+          "alt_name": "+12 祝福特里斯坦的步槍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=358",
+          "alt_id": "358",
+          "alt_name": "+12 祝福特里斯坦的步槍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=295",
+          "alt_id": "295",
+          "alt_name": "+12 祝福破壞雙刀",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=296",
+          "alt_id": "296",
+          "alt_name": "+12 祝福破壞雙刀(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=325",
+          "alt_id": "325",
+          "alt_name": "+12 祝福破壞鋼爪",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=326",
+          "alt_id": "326",
+          "alt_name": "+12 祝福破壞鋼爪(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=99",
+          "alt_id": "99",
+          "alt_name": "+12 祝福的毀滅巨劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=100",
+          "alt_id": "100",
+          "alt_name": "+12 祝福的毀滅巨劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=400",
+          "alt_id": "400",
+          "alt_name": "+12 祝福破滅者鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=401",
+          "alt_id": "401",
+          "alt_name": "+12 祝福破滅者鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=177",
+          "alt_id": "177",
+          "alt_name": "+12 祝福海神三叉戟",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=178",
+          "alt_id": "178",
+          "alt_name": "+12 祝福海神三叉戟(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=179",
+          "alt_id": "179",
+          "alt_name": "+12 祝福酷寒之矛",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=180",
+          "alt_id": "180",
+          "alt_name": "+12 祝福酷寒之矛(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=402",
+          "alt_id": "402",
+          "alt_name": "+12 祝福共鳴鎖鏈劍",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=403",
+          "alt_id": "403",
+          "alt_name": "+12 祝福共鳴鎖鏈劍(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=216",
+      "material_id": "216",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=422",
+      "material_id": "422",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=423",
+      "material_id": "423",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=37",
+      "material_id": "37",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=38",
+      "material_id": "38",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=125",
+      "material_id": "125",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=126",
+      "material_id": "126",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=374",
+      "material_id": "374",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=375",
+      "material_id": "375",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=11",
+      "material_id": "11",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=12",
+      "material_id": "12",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=39",
+      "material_id": "39",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=40",
+      "material_id": "40",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=217",
+      "material_id": "217",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=218",
+      "material_id": "218",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=355",
+      "material_id": "355",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=356",
+      "material_id": "356",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=424",
+      "material_id": "424",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=425",
+      "material_id": "425",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=254",
+      "material_id": "254",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=255",
+      "material_id": "255",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=394",
+      "material_id": "394",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=395",
+      "material_id": "395",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=321",
+      "material_id": "321",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=322",
+      "material_id": "322",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=127",
+      "material_id": "127",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=128",
+      "material_id": "128",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=92",
+      "material_id": "92",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=93",
+      "material_id": "93",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=41",
+      "material_id": "41",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=42",
+      "material_id": "42",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=94",
+      "material_id": "94",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=95",
+      "material_id": "95",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=426",
+      "material_id": "426",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=427",
+      "material_id": "427",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=129",
+      "material_id": "129",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=130",
+      "material_id": "130",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=131",
+      "material_id": "131",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=132",
+      "material_id": "132",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=396",
+      "material_id": "396",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=397",
+      "material_id": "397",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=13",
+      "material_id": "13",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=14",
+      "material_id": "14",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=256",
+      "material_id": "256",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=257",
+      "material_id": "257",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=260",
+      "material_id": "260",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=261",
+      "material_id": "261",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=339",
+      "material_id": "339",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=340",
+      "material_id": "340",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=428",
+      "material_id": "428",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=429",
+      "material_id": "429",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=97",
+      "material_id": "97",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=98",
+      "material_id": "98",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=293",
+      "material_id": "293",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=294",
+      "material_id": "294",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=262",
+      "material_id": "262",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=263",
+      "material_id": "263",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=135",
+      "material_id": "135",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=136",
+      "material_id": "136",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=357",
+      "material_id": "357",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=358",
+      "material_id": "358",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=295",
+      "material_id": "295",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=296",
+      "material_id": "296",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=325",
+      "material_id": "325",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=326",
+      "material_id": "326",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=99",
+      "material_id": "99",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=100",
+      "material_id": "100",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=400",
+      "material_id": "400",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=401",
+      "material_id": "401",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=177",
+      "material_id": "177",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=178",
+      "material_id": "178",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=179",
+      "material_id": "179",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=180",
+      "material_id": "180",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=402",
+      "material_id": "402",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=403",
+      "material_id": "403",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    }
+  ],
+  "monster_drops": []
+}

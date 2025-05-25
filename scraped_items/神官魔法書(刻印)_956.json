@@ -1,0 +1,176 @@
+{
+  "item_id": "956",
+  "item_name": "神官魔法書(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=956",
+  "item_image": "https://www.gametsg.net/img/1/7/ebaf59cd17a57285c2f7a5d98529da2c.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "最大MP +50",
+    "MP回復(tic)+3"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "神官魔法書(刻印)",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": [
+      "最大MP +50",
+      "MP回復(tic)+3"
+    ],
+    "祝福屬性": "+100 負重獎勵",
+    "材質": "紙",
+    "重量": "27"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2757",
+      "material_id": "2757",
+      "material_name": "最高級的布",
+      "material_image": "https://www.gametsg.net/img/3/25/ae909309915392f57c616f2377927e32.jpg",
+      "material_grade": "grade00",
+      "material_count": "3"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "200"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1409",
+      "material_id": "1409",
+      "material_name": "稀有防具製作秘笈(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/10/711c28e3361b636489ef12e1bc6531e6.jpg",
+      "material_grade": "grade03",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2595",
+          "alt_id": "2595",
+          "alt_name": "稀有製作卷軸",
+          "alt_grade": "grade00",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1414",
+          "alt_id": "1414",
+          "alt_name": "稀有工藝食譜書(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2595",
+      "material_id": "2595",
+      "material_name": "",
+      "material_grade": "grade00",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1414",
+      "material_id": "1414",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "500000"
+    }
+  ],
+  "monster_drops": []
+}

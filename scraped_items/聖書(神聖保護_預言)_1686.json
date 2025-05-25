@@ -1,0 +1,78 @@
+{
+  "item_id": "1686",
+  "item_name": "聖書(神聖保護:預言)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1686",
+  "item_image": "https://www.gametsg.net/img/2/11/918707df959fe0d20d37d83dfc310c0b.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "聖書"
+  ],
+  "data_zhiye": "81",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "聖書(神聖保護:預言)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "0.01",
+    "說明": "聖書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "傲慢的王子戴歐斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=37",
+      "monster_id": "37",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "97",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    },
+    {
+      "monster_name": "驕傲監視者騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=923",
+      "monster_id": "923",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    }
+  ]
+}

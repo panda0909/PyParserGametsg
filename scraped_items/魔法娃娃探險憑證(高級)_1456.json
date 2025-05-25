@@ -1,0 +1,40 @@
+{
+  "item_id": "1456",
+  "item_name": "魔法娃娃探險憑證(高級)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1456",
+  "item_image": "https://www.gametsg.net/img/1/10/8fd5f3f0e2cf6f48b0761436ca2ee8e6.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "註冊一個物品收藏或創建一個魔法娃娃並賺取 200 個金幣."
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "魔法娃娃探險憑證(高級)",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": "註冊一個物品收藏或創建一個魔法娃娃並賺取 200 個金幣."
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

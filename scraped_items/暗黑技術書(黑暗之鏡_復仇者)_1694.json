@@ -1,0 +1,60 @@
+{
+  "item_id": "1694",
+  "item_name": "暗黑技術書(黑暗之鏡:復仇者)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1694",
+  "item_image": "https://www.gametsg.net/img/2/11/a590b5248cf80eee382cf91f8513eb46.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "暗黑技術書"
+  ],
+  "data_zhiye": "52",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "暗黑技術書(黑暗之鏡:復仇者)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "0.01",
+    "說明": "暗黑技術書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "貪婪的貝利亞爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=28",
+      "monster_id": "28",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "98",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    }
+  ]
+}

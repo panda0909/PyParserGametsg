@@ -1,0 +1,49 @@
+{
+  "item_id": "2500",
+  "item_name": "金幣",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+  "item_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "血統貨幣"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "金幣",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金",
+    "說明": "血統貨幣"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1525",
+      "material_id": "1525",
+      "material_name": "妖魔圖騰(刻印)",
+      "material_image": "https://www.gametsg.net/img/2/11/103e011ecaf3f6e5c39d72e3a9256ad9.jpg",
+      "material_grade": "grade01",
+      "material_count": "100"
+    }
+  ],
+  "monster_drops": []
+}

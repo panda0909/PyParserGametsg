@@ -1,0 +1,41 @@
+{
+  "item_id": "2067",
+  "item_name": "龍斗士書板(覺醒:安塔瑞斯)(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2067",
+  "item_image": "https://www.gametsg.net/img/2/12/a03864b2b77d20299c76f52a966ca78c.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "龍鬥士書板"
+  ],
+  "data_zhiye": "5",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "龍斗士書板(覺醒:安塔瑞斯)(刻印)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "龍鬥士書板"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

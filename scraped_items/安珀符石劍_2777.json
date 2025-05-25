@@ -1,0 +1,43 @@
+{
+  "item_id": "2777",
+  "item_name": "安珀符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2777",
+  "item_image": "https://www.gametsg.net/uploads/20250114/c00a50ebda8464acb22474c010d3e3dc.png",
+  "item_grade": "grade02",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "13/8",
+  "item_stats": [
+    "武器命中+1",
+    "生命+2"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "安珀符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "13/8",
+    "屬性": [
+      "武器命中+1",
+      "生命+2"
+    ],
+    "材質": "金屬塊",
+    "重量": "50"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

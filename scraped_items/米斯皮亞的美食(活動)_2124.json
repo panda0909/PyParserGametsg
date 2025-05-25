@@ -1,0 +1,42 @@
+{
+  "item_id": "2124",
+  "item_name": "米斯皮亞的美食(活動)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2124",
+  "item_image": "https://www.gametsg.net/img/2/12/9946a481a22e735b9703203b14736e26.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 30 分鐘"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "40",
+  "category_name": "藥水",
+  "basic_info": {
+    "title": "米斯皮亞的美食(活動)",
+    "類型": "其他(藥水)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "持續時間 30 分鐘",
+    "材質": "動物性",
+    "重量": "0.01",
+    "說明": "米斯皮亞的美食(活動)"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

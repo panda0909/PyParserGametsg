@@ -1,0 +1,176 @@
+{
+  "item_id": "2636",
+  "item_name": "一般魔法娃娃卡箱(綁定)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2636",
+  "item_image": "https://www.gametsg.net/img/2/14/d8c54e710f4644cc4cf34dbdb0e3c133.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "一般魔法娃娃卡箱(綁定)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原木"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "黃金騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=615",
+      "monster_id": "615",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "72",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(22:00)"
+      ]
+    },
+    {
+      "monster_name": "真冰魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=635",
+      "monster_id": "635",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "71",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(21:00)"
+      ]
+    },
+    {
+      "monster_name": "高崙守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=648",
+      "monster_id": "648",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(20:00)"
+      ]
+    },
+    {
+      "monster_name": "被遺忘的巴拉卡斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=650",
+      "monster_id": "650",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(12:00)"
+      ]
+    },
+    {
+      "monster_name": "黑暗的伊芙利",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=658",
+      "monster_id": "658",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "69",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(19:00)"
+      ]
+    },
+    {
+      "monster_name": "遺忘的不死鳥",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=659",
+      "monster_id": "659",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "69",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(12:00)"
+      ]
+    },
+    {
+      "monster_name": "咒術師努宙斯爾斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=681",
+      "monster_id": "681",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_areas": [
+        "其他-世界首領突襲-(13:00)"
+      ]
+    },
+    {
+      "monster_name": "被遺忘的冰雪女王",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=691",
+      "monster_id": "691",
+      "monster_type": "monType03",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-世界首領突襲-(12:00)"
+      ]
+    }
+  ]
+}

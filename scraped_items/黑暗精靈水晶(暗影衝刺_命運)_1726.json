@@ -1,0 +1,66 @@
+{
+  "item_id": "1726",
+  "item_name": "黑暗精靈水晶(暗影衝刺:命運)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1726",
+  "item_image": "https://www.gametsg.net/img/2/11/b5f6340f6a8292bef6e9632d4becd76f.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "黑暗精靈水晶"
+  ],
+  "data_zhiye": "4",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "黑暗精靈水晶(暗影衝刺:命運)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "黑暗精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "祭司長納格巴斯 (本體)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=8",
+      "monster_id": "8",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "德拉卡利斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=979",
+      "monster_id": "979",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 夜晚"
+      ]
+    }
+  ]
+}

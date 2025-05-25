@@ -1,0 +1,120 @@
+{
+  "item_id": "1360",
+  "item_name": "高級符石變換石",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1360",
+  "item_image": "https://www.gametsg.net/img/1/9/da012dfe893ec7d6ff504eb9e269eea2.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "製作符石的材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "高級符石變換石",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "1",
+    "說明": "製作符石的材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "邪惡的鐮刀死神",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=2",
+      "monster_id": "2",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    },
+    {
+      "monster_name": "祭司長納格巴斯 (本體)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=8",
+      "monster_id": "8",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "火焰之影",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=920",
+      "monster_id": "920",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    },
+    {
+      "monster_name": "炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=921",
+      "monster_id": "921",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    }
+  ]
+}

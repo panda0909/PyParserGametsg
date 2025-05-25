@@ -1,0 +1,41 @@
+{
+  "item_id": "1507",
+  "item_name": "神聖石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1507",
+  "item_image": "https://www.gametsg.net/img/1/10/1e32621f50dfe4c53a6f7d0e826e1525.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "81",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "神聖石(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.01",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

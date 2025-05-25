@@ -1,0 +1,203 @@
+{
+  "item_id": "247",
+  "item_name": "巴風特魔杖",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=247",
+  "item_image": "https://www.gametsg.net/img/1/2/e812dabd508b8bd02a9d4af59a7ad42f.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    }
+  ],
+  "item_level": "7 / 6",
+  "item_stats": [
+    "額外攻擊+5",
+    "+10 武器命中",
+    "防止武器損壞",
+    "魔法穿透1%",
+    "發動:狂暴爆發8%"
+  ],
+  "data_zhiye": "3",
+  "category_id": "8",
+  "category_name": "魔杖",
+  "basic_info": {
+    "title": "巴風特魔杖",
+    "類型": "武器(魔杖)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "武器攻擊力": "7 / 6",
+    "屬性": [
+      "額外攻擊+5",
+      "+10 武器命中",
+      "防止武器損壞",
+      "魔法穿透1%",
+      "發動:狂暴爆發8%"
+    ],
+    "祝福屬性": "額外攻擊+1",
+    "材質": "骨頭",
+    "重量": "15"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1,發動:狂暴爆發2%"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器精確度+2,發動:狂暴爆發4%"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3,發動:狂暴爆發6%"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4,發動:狂暴爆發8%"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5,發動:狂暴爆發10%"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6,發動:狂暴爆發12%"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7,魔攻+1,發動:狂暴爆發14%,傷害增加+1%"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+9,武器命中+8,魔攻+2,發動:狂暴爆發16%,傷害增加+1.5%"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+11,武器命中+9,魔攻+3,發動:狂暴噴發18%,傷害增加+2%"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+13,武器命中+10,發動:狂暴爆發20%,魔攻+4,傷害增加+2.5%"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+15,武器命中+11,魔攻P+5,發動:狂暴爆發22%,傷害增加+3%"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+17,武器命中+12,魔攻+6,發動:狂暴爆發24%,傷害增加+3%"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+19,武器命中+13,魔攻+7,發動:狂暴爆發26%,傷害增加+3%"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+21,武器命中+14,魔攻+8,發動:狂暴爆發28%,傷害增加+3%"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1448",
+      "material_id": "1448",
+      "material_name": "地之氣息",
+      "material_image": "https://www.gametsg.net/img/1/10/fa55deab318041241d481adf42c4fd26.jpg",
+      "material_grade": "grade01",
+      "material_count": "5"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1370",
+      "material_id": "1370",
+      "material_name": "英雄武器製作秘笈(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/9/50f502ccd499005a7d274f7574be5cdd.jpg",
+      "material_grade": "grade04",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+          "alt_id": "1373",
+          "alt_name": "英雄製作秘笈",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+          "alt_id": "1374",
+          "alt_name": "英雄製作秘笈(刻印)",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+      "material_id": "1373",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1374",
+      "material_id": "1374",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2756",
+      "material_id": "2756",
+      "material_name": "最高級的金屬板",
+      "material_image": "https://www.gametsg.net/img/3/25/d7fc5be606f350295cefbfb203708905.jpg",
+      "material_grade": "grade00",
+      "material_count": "20"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "400"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "5000000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "巴風特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=798",
+      "monster_id": "798",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "35",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-38.死亡廢墟",
+        "亞丁大陸-62.邪惡神殿"
+      ]
+    }
+  ]
+}

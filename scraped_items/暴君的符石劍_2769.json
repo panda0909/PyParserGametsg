@@ -1,0 +1,60 @@
+{
+  "item_id": "2769",
+  "item_name": "暴君的符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2769",
+  "item_image": "https://www.gametsg.net/uploads/20250114/8aef81b6fab9e01cdff159809c4fe2d3.png",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "17/18",
+  "item_stats": [
+    "額外攻擊+9",
+    "武器命中+13",
+    "防止武器損壞",
+    "無視近距離傷害減免+2",
+    "昏迷 命中 +7%",
+    "力量+3",
+    "生命+5",
+    "無視近距離迴避力+2",
+    "發動：暴君的憤怒10%",
+    "發動：格蘭肯的憤怒1%"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "暴君的符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "17/18",
+    "屬性": [
+      "額外攻擊+9",
+      "武器命中+13",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "昏迷 命中 +7%",
+      "力量+3",
+      "生命+5",
+      "無視近距離迴避力+2",
+      "發動：暴君的憤怒10%",
+      "發動：格蘭肯的憤怒1%"
+    ],
+    "階段": "-1",
+    "材質": "奧里哈魯根",
+    "重量": "45"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

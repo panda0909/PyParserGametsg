@@ -1,0 +1,41 @@
+{
+  "item_id": "2421",
+  "item_name": "狂戰士印章(粉碎)(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2421",
+  "item_image": "https://www.gametsg.net/img/2/12/3452d3150f56fb7d55b1ede10b11df95.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "可以找魔法商人購買"
+  ],
+  "data_zhiye": "7",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "狂戰士印章(粉碎)(刻印)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "可以找魔法商人購買"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

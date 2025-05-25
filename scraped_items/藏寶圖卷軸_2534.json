@@ -1,0 +1,57 @@
+{
+  "item_id": "2534",
+  "item_name": "藏寶圖卷軸",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2534",
+  "item_image": "https://www.gametsg.net/img/2/13/15208a558a6d08d6f25e4e65ec094711.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時,移動到隱藏位置."
+  ],
+  "data_zhiye": "1000",
+  "category_id": "44",
+  "category_name": "移動道具",
+  "basic_info": {
+    "title": "藏寶圖卷軸",
+    "類型": "其他(移動道具)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "說明": "使用時,移動到隱藏位置."
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1534",
+      "material_id": "1534",
+      "material_name": "破碎的藏寶圖",
+      "material_image": "https://www.gametsg.net/img/2/11/f8bd9293fe468e78e0da51cd7b4a44ba.jpg",
+      "material_grade": "grade01",
+      "material_count": "4"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "10000"
+    }
+  ],
+  "monster_drops": []
+}

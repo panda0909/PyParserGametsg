@@ -1,0 +1,448 @@
+{
+  "item_id": "2592",
+  "item_name": "皮革",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2592",
+  "item_image": "https://www.gametsg.net/img/2/13/5151a5527475ac59523112b8ff4dbf94.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "皮革",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "皮革",
+    "重量": "0.3"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "冰原狼人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=565",
+      "monster_id": "565",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-74.風龍窟"
+      ]
+    },
+    {
+      "monster_name": "邪惡的蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=684",
+      "monster_id": "684",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-2樓",
+        "亞丁大陸地監-伊娃王國地監-3樓"
+      ]
+    },
+    {
+      "monster_name": "森林老虎",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=721",
+      "monster_id": "721",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "62",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-03.亞丁吉普賽村"
+      ]
+    },
+    {
+      "monster_name": "奇異鸚鵡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=728",
+      "monster_id": "728",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "60",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-68.鏡子森林",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-63.野蠻森林地帶"
+      ]
+    },
+    {
+      "monster_name": "",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=",
+      "monster_id": "",
+      "monster_type": "monType0",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "",
+      "monster_areas": []
+    },
+    {
+      "monster_name": "蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=733",
+      "monster_id": "733",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "60",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-12.南部地區",
+        "亞丁大陸-70.海音沼澤",
+        "亞丁大陸-05.沉靜的森林",
+        "亞丁大陸-27.密林地帶"
+      ]
+    },
+    {
+      "monster_name": "蜥蜴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=747",
+      "monster_id": "747",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "59",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-68.鏡子森林",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-03.亞丁吉普賽村",
+        "亞丁大陸-63.野蠻森林地帶"
+      ]
+    },
+    {
+      "monster_name": "鱷魚",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=762",
+      "monster_id": "762",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "50",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-68.鏡子森林",
+        "亞丁大陸-51.羅瑟斯島",
+        "亞丁大陸-27.密林地帶"
+      ]
+    },
+    {
+      "monster_name": "鼠人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=770",
+      "monster_id": "770",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "45",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "歐熊",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=773",
+      "monster_id": "773",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "44",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-68.鏡子森林",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-63.野蠻森林地帶"
+      ]
+    },
+    {
+      "monster_name": "艾多倫",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=776",
+      "monster_id": "776",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "43",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": []
+    },
+    {
+      "monster_name": "污濁蘑菇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=844",
+      "monster_id": "844",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "23",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-妖精森林地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "妖魔戰士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=848",
+      "monster_id": "848",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "20",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "說話之島-08.蜘蛛森林",
+        "說話之島-12.黑騎士團港口",
+        "說話之島-09.說話之島地監入口",
+        "說話之島-05.妖魔瞭望塔",
+        "說話之島-06.妖魔部落",
+        "亞丁大陸-05.沉靜的森林",
+        "亞丁大陸-33.慰靈所",
+        "亞丁大陸-35.枯燥的荒野",
+        "亞丁大陸-67.銀騎士村莊東邊森林"
+      ]
+    },
+    {
+      "monster_name": "萊肯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=852",
+      "monster_id": "852",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "18",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "說話之島-03.北島",
+        "亞丁大陸-67.銀騎士村莊東邊森林",
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "狼人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=855",
+      "monster_id": "855",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "17",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "說話之島-03.北島",
+        "亞丁大陸-33.慰靈所",
+        "亞丁大陸-35.枯燥的荒野",
+        "亞丁大陸-67.銀騎士村莊東邊森林",
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "妖魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=856",
+      "monster_id": "856",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "17",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "說話之島-08.蜘蛛森林",
+        "說話之島-12.黑騎士團港口",
+        "說話之島-09.說話之島地監入口",
+        "說話之島-05.妖魔瞭望塔",
+        "說話之島-06.妖魔部落",
+        "亞丁大陸-05.沉靜的森林",
+        "亞丁大陸-35.枯燥的荒野",
+        "亞丁大陸-67.銀騎士村莊東邊森林",
+        "亞丁大陸地監-古魯丁地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "妖魔弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=857",
+      "monster_id": "857",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "17",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "說話之島-08.蜘蛛森林",
+        "說話之島-12.黑騎士團港口",
+        "說話之島-09.說話之島地監入口",
+        "說話之島-05.妖魔瞭望塔",
+        "說話之島-06.妖魔部落",
+        "亞丁大陸-05.沉靜的森林",
+        "亞丁大陸-33.慰靈所",
+        "亞丁大陸-35.枯燥的荒野",
+        "亞丁大陸-67.銀騎士村莊東邊森林",
+        "亞丁大陸地監-古魯丁地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "變異蘑菇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=859",
+      "monster_id": "859",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "17",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": []
+    },
+    {
+      "monster_name": "蛇女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=860",
+      "monster_id": "860",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "17",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-67.銀騎士村莊東邊森林"
+      ]
+    },
+    {
+      "monster_name": "蘑菇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=862",
+      "monster_id": "862",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "15",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": []
+    },
+    {
+      "monster_name": "地靈",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=863",
+      "monster_id": "863",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "15",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-05.沉靜的森林"
+      ]
+    }
+  ]
+}

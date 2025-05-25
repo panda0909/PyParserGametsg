@@ -1,0 +1,162 @@
+{
+  "item_id": "916",
+  "item_name": "艾依爾的結義",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=916",
+  "item_image": "https://www.gametsg.net/img/1/6/d7342e5b6439c580cd07aa0c39349b52.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-9",
+  "item_stats": [
+    "無視PVP傷害減免+5%",
+    "無視傷害減少+5"
+  ],
+  "data_zhiye": "1|2|4|5|34|12|13",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "艾依爾的結義",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-9",
+    "屬性": [
+      "無視PVP傷害減免+5%",
+      "無視傷害減少+5"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-3",
+    "材質": "黑色米索莉",
+    "重量": "30",
+    "獨家的": [
+      "力量 +5 (騎士、黑暗妖精、戰士、死神、雷神)",
+      "近距離傷害+5 (騎士、黑暗妖精、戰士、死神、雷神)",
+      "昏迷命中+10% (騎士、黑暗妖精、戰士、死神、雷神)",
+      "敏捷 +5 (妖精、槍手)",
+      "遠距離傷害+5 (妖精、槍手)",
+      "昏迷抗性+10% (妖精、槍手)"
+    ],
+    "說明": "聖騎士長「艾爾」"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3,無視傷害減少+1"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4,無視傷害減少+2"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,無視傷害減少+3"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,無視傷害減少+4"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,無視傷害減少+5"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,無視傷害減少+6"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,無視傷害減少+7"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,無視傷害減少+8"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,無視傷害減少+9"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,無視傷害減少+10"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,無視傷害減少+11"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,無視傷害減少+12"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

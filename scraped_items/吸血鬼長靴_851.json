@@ -1,0 +1,109 @@
+{
+  "item_id": "851",
+  "item_name": "吸血鬼長靴",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=851",
+  "item_image": "https://www.gametsg.net/img/1/6/5f6f725c160d1330f23073685dee93f4.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-6",
+  "item_stats": [
+    "智力+2"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "22",
+  "category_name": "鞋子",
+  "basic_info": {
+    "title": "吸血鬼長靴",
+    "類型": "防具(鞋子)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-6",
+    "屬性": "智力+2",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "皮革",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,傷害減免+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,傷害減免+2"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,傷害減免+3"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,傷害減免+4"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,傷害減免+5"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,傷害減免+6"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,傷害減免+7"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,傷害減免+8"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,傷害減免+9"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,傷害減免+10"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,430 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2766",
+    "item_name": "佩特拉的榮耀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2766",
+    "item_image": "https://www.gametsg.net/uploads/20250114/a491cbb5b585c215c582e97be3da0e10.png",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "26/23",
+    "item_stats": [
+      "額外攻擊+25",
+      "武器命中+26",
+      "防止武器損壞",
+      "昏迷 命中+10%",
+      "力量+6",
+      "生命+7",
+      "發動：消除聖結界 2%",
+      "發動：混沌狂襲 3%",
+      "傷害增加 +10%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2767",
+    "item_name": "艾莉絲(符石劍)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2767",
+    "item_image": "https://www.gametsg.net/uploads/20250114/4237dd6b9ab046e8d824dfde93a9fe49.png",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "22/19",
+    "item_stats": [
+      "額外攻擊+20",
+      "武器命中+21",
+      "經驗值獲得量增加 +30%",
+      "防止武器損壞",
+      "昏迷 命中 +8%",
+      "力量+6",
+      "火屬性追加傷害+10",
+      "生命+7",
+      "發動：流星雨(古代)5%",
+      "發動：艾莉絲的憎恨 10%",
+      "傷害增加 +8%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2768",
+    "item_name": "波爾卡的符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2768",
+    "item_image": "https://www.gametsg.net/uploads/20250114/f6833b00694739435e13e4e50c20a0b8.png",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "13/16",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+9",
+      "昏迷命中+5%",
+      "防止武器損壞",
+      "力量+3",
+      "生命+5",
+      "發動：緋紅漩渦 10%",
+      "發動：格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2769",
+    "item_name": "暴君的符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2769",
+    "item_image": "https://www.gametsg.net/uploads/20250114/8aef81b6fab9e01cdff159809c4fe2d3.png",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "17/18",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+13",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "昏迷 命中 +7%",
+      "力量+3",
+      "生命+5",
+      "無視近距離迴避力+2",
+      "發動：暴君的憤怒10%",
+      "發動：格蘭肯的憤怒1%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2770",
+    "item_name": "歐西里斯符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2770",
+    "item_image": "https://www.gametsg.net/uploads/20250114/adc30bbd139a10c2db01cc4f4f6c7f47.png",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "14/17",
+    "item_stats": [
+      "額外攻擊+8",
+      "武器命中+11",
+      "防止武器損壞",
+      "死亡+3",
+      "力量+3",
+      "昏迷命中+6%",
+      "生命+5",
+      "發動：混沌底比斯10%",
+      "發動：格蘭肯的憤怒1%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2771",
+    "item_name": "涅默西斯的符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2771",
+    "item_image": "https://www.gametsg.net/uploads/20250114/a6e692291d600a4907394fe933d7be7a.png",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "13/11",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+3",
+      "防止武器損壞",
+      "生命+4"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2772",
+    "item_name": "惡魔王的符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2772",
+    "item_image": "https://www.gametsg.net/uploads/20250114/60e33ffe5e251671518857a27e79ff90.png",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "11/10",
+    "item_stats": [
+      "額外攻擊+3",
+      "防止武器損壞",
+      "生命+4",
+      "發動：疾病術10%",
+      "發動：格蘭肯的憤怒1%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2773",
+    "item_name": "共鳴符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2773",
+    "item_image": "https://www.gametsg.net/uploads/20250114/36b17c36773a89fbfe29fb4793e0add7.png",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "10/10",
+    "item_stats": [
+      "額外攻擊+1",
+      "力量+1",
+      "生命+3",
+      "精神+2",
+      "發動：共鳴衝擊1%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2774",
+    "item_name": "朱紅",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2774",
+    "item_image": "https://www.gametsg.net/uploads/20250114/8c3adcc33895382ea9392a114478a664.png",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "10/8",
+    "item_stats": [
+      "HP吸收",
+      "生命+3"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2775",
+    "item_name": "底比斯歐西里斯符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2775",
+    "item_image": "https://www.gametsg.net/uploads/20250114/133ee552aa9611c9d2d8693f7504ca5d.png",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "10/10",
+    "item_stats": [
+      "武器命中+3",
+      "力量+1",
+      "體質+2",
+      "防止武器損壞",
+      "生命+3",
+      "發動：惡魔之吻1%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2776",
+    "item_name": "魔族符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2776",
+    "item_image": "https://www.gametsg.net/uploads/20250114/6e4d6b2f049682a1fc00a258fd1612a2.png",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "18/20",
+    "item_stats": [
+      "武器命中+2",
+      "最大HP+30",
+      "防止武器損壞",
+      "生命+3",
+      "發動：白惡魔逆襲 4%"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2777",
+    "item_name": "安珀符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2777",
+    "item_image": "https://www.gametsg.net/uploads/20250114/c00a50ebda8464acb22474c010d3e3dc.png",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "13/8",
+    "item_stats": [
+      "武器命中+1",
+      "生命+2"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2778",
+    "item_name": "米索莉符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2778",
+    "item_image": "https://www.gametsg.net/uploads/20250114/37cfad580d6f5d066a72dcb87e317325.png",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "9/5",
+    "item_stats": [
+      "生命+2"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  },
+  {
+    "item_id": "2779",
+    "item_name": "沙漠的符石劍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2779",
+    "item_image": "https://www.gametsg.net/uploads/20250114/a6e45490c264b6de0be1f86a47b15267.png",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "item_level": "8/9",
+    "item_stats": [
+      "生命+1"
+    ],
+    "data_zhiye": "14",
+    "category_id": "48",
+    "category_name": "符石劍"
+  }
+]

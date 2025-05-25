@@ -1,0 +1,74 @@
+{
+  "item_id": "2751",
+  "item_name": "倫提斯的紫光耳環箱",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2751",
+  "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時，獲得以下所有道具，倫提斯的紫光耳環1 個和倫提斯的強化卷軸 8 張。"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "倫提斯的紫光耳環箱",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原木",
+    "重量": "0.01",
+    "說明": "使用時，獲得以下所有道具，倫提斯的紫光耳環1 個和倫提斯的強化卷軸 8 張。"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1281",
+      "material_id": "1281",
+      "material_name": "倫提斯耳環交易證書",
+      "material_image": "https://www.gametsg.net/img/1/9/342867000257441fa739514a1c12429b.jpg",
+      "material_grade": "grade042",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1282",
+          "alt_id": "1282",
+          "alt_name": "倫提斯耳環交易證書",
+          "alt_grade": "grade042",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1282",
+      "material_id": "1282",
+      "material_name": "",
+      "material_grade": "grade042",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "10000"
+    }
+  ],
+  "monster_drops": []
+}

@@ -1,0 +1,367 @@
+{
+  "item_id": "889",
+  "item_name": "力量的長靴",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=889",
+  "item_image": "https://www.gametsg.net/img/1/6/19be25013ffc5378dff66e3bc4d9b3ac.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "力量+1"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "22",
+  "category_name": "鞋子",
+  "basic_info": {
+    "title": "力量的長靴",
+    "類型": "防具(鞋子)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": "力量+1",
+    "祝福屬性": "+100 負重獎勵",
+    "材質": "皮革",
+    "重量": "15"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+20,物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40,物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "最大HP+60,物理防禦力 (AC)-9,傷害減免+1"
+    },
+    {
+      "level": "10",
+      "attributes": "最大HP+60,物理防禦力 (AC)-10,傷害減免+2"
+    },
+    {
+      "level": "11",
+      "attributes": "最大HP+60,物理防禦力 (AC)-11,傷害減免+3"
+    },
+    {
+      "level": "12",
+      "attributes": "最大HP+60,物理防禦力 (AC)-12,傷害減免+4"
+    },
+    {
+      "level": "13",
+      "attributes": "最大HP+60,物理防禦力 (AC)-13,傷害減免+5"
+    },
+    {
+      "level": "14",
+      "attributes": "最大HP+60,物理防禦力 (AC)-14,傷害減免+6"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "安塔瑞斯的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=15",
+      "monster_id": "15",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-15 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "巴拉卡斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=16",
+      "monster_id": "16",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "其他-巴拉卡斯保護區"
+      ]
+    },
+    {
+      "monster_name": "巴拉卡斯的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=23",
+      "monster_id": "23",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-19 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "聖地的侏儒將軍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=244",
+      "monster_id": "244",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-19.古龍的聖地"
+      ]
+    },
+    {
+      "monster_name": "聖地的侏儒弓手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=270",
+      "monster_id": "270",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-19.古龍的聖地"
+      ]
+    },
+    {
+      "monster_name": "聖地的侏儒槍兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=271",
+      "monster_id": "271",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-19.古龍的聖地"
+      ]
+    },
+    {
+      "monster_name": "聖地的侏儒咒術師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=275",
+      "monster_id": "275",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-19.古龍的聖地"
+      ]
+    },
+    {
+      "monster_name": "聖地的侏儒劍士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=306",
+      "monster_id": "306",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-19.古龍的聖地"
+      ]
+    },
+    {
+      "monster_name": "聖地的侏儒斧兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=307",
+      "monster_id": "307",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-19.古龍的聖地"
+      ]
+    },
+    {
+      "monster_name": "暗黑領主塔洛斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=339",
+      "monster_id": "339",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-2樓"
+      ]
+    },
+    {
+      "monster_name": "疾風的巨大飛龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=538",
+      "monster_id": "538",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-82.龍之谷三岔路",
+        "亞丁大陸-86.龍之谷地監西邊入口"
+      ]
+    },
+    {
+      "monster_name": "暗黑巴風特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=578",
+      "monster_id": "578",
+      "monster_type": "monType04",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "75",
+      "monster_areas": [
+        "其他-血盟-12 級 突襲"
+      ]
+    },
+    {
+      "monster_name": "魔獸軍王巴蘭卡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=875",
+      "monster_id": "875",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-沉默洞穴"
+      ]
+    },
+    {
+      "monster_name": "沙蟲的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=941",
+      "monster_id": "941",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-20 級突襲副本 (神話)"
+      ]
+    }
+  ]
+}

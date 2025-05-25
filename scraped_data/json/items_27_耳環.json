@@ -1,0 +1,547 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1054",
+    "item_name": "倫提斯的黑光耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1054",
+    "item_image": "https://www.gametsg.net/img/1/7/5d618835eb09221a8ad1e23ac1fdfb7b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1055",
+    "item_name": "倫提斯的紫光耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1055",
+    "item_image": "https://www.gametsg.net/img/1/7/1bce816e1b45789030dbaab2c52c45a6.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1056",
+    "item_name": "倫提斯的紅光耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1056",
+    "item_image": "https://www.gametsg.net/img/1/7/419a883b969a5ff2b3012323014428e4.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1057",
+    "item_name": "倫提斯的藍光耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1057",
+    "item_image": "https://www.gametsg.net/img/1/7/b51862dae91e66507c2bb0e807415c1c.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "藥水恢復率+2%",
+      "藥水恢復量+2"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1058",
+    "item_name": "伊莎貝的耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1058",
+    "item_image": "https://www.gametsg.net/img/1/7/b588b46fefa434769684da385bfa5b5a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "無視傷害減免+3",
+      "發動:伊莎貝的嫉妒 1%"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1059",
+    "item_name": "聖靈耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1059",
+    "item_image": "https://www.gametsg.net/img/1/7/36fd7e4c87bf91da40c4c84c1c6b4e30.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "不死族額外傷害+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1060",
+    "item_name": "水靈的耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1060",
+    "item_image": "https://www.gametsg.net/img/1/7/b7abbd9dc3665f935901a9b640e3f57d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "水屬性追加傷害+2",
+      "屬性爆擊2%"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1061",
+    "item_name": "地靈的耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1061",
+    "item_image": "https://www.gametsg.net/img/1/7/0325232dce3f7d37bc7d1a5da10393f3.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "地屬性追加傷害+2",
+      "屬性爆擊2%"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1062",
+    "item_name": "風靈的耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1062",
+    "item_image": "https://www.gametsg.net/img/1/7/0e020abc95084cc1de5b2eefc8beaf35.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "風屬性追加傷害+2",
+      "屬性爆擊2%"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1063",
+    "item_name": "火靈的耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1063",
+    "item_image": "https://www.gametsg.net/img/1/7/444e5b2eb91f926b1661a328c908f57d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "火屬性追加傷害+2",
+      "屬性爆擊2%"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1064",
+    "item_name": "精靈使耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1064",
+    "item_image": "https://www.gametsg.net/img/1/7/3d4a5acf2b6c40483cbdd19f60f72bbb.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +20",
+      "MP回復(tic)+4"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1065",
+    "item_name": "精靈使耳環(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1065",
+    "item_image": "https://www.gametsg.net/img/1/7/3d4a5acf2b6c40483cbdd19f60f72bbb.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +20",
+      "MP回復(tic)+4"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1066",
+    "item_name": "骷髏耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1066",
+    "item_image": "https://www.gametsg.net/img/1/7/d2560734d55b8314cc9a6943ba246a4c.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+50",
+      "最大MP +20",
+      "負重獎勵+600"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1067",
+    "item_name": "骷髏耳環(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1067",
+    "item_image": "https://www.gametsg.net/img/1/7/d2560734d55b8314cc9a6943ba246a4c.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+50",
+      "最大MP +20",
+      "負重獎勵+600"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1068",
+    "item_name": "靈魂耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1068",
+    "item_image": "https://www.gametsg.net/img/1/7/5b76748a5de136d1ae7d8a86f0e71ea0.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+25",
+      "最大MP+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1069",
+    "item_name": "靈魂耳環(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1069",
+    "item_image": "https://www.gametsg.net/img/1/7/5b76748a5de136d1ae7d8a86f0e71ea0.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+25",
+      "最大MP+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1070",
+    "item_name": "不死耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1070",
+    "item_image": "https://www.gametsg.net/img/1/7/97845fd6397efb3787c74bb53e17fcbe.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+20",
+      "最大MP +10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1071",
+    "item_name": "紅色妖魔耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1071",
+    "item_image": "https://www.gametsg.net/img/1/7/bf20b4b701045883be4af7570b3b402d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+3",
+      "HP回復 (tic)+3"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1072",
+    "item_name": "修好的耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1072",
+    "item_image": "https://www.gametsg.net/img/1/7/d0b7b0c0929163f14843e6828d9c5c87.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1073",
+    "item_name": "勇猛耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1073",
+    "item_image": "https://www.gametsg.net/img/1/7/1ed15c0c388cf101659aad55e87511cf.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+20",
+      "最大MP +5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1074",
+    "item_name": "戰士的耳環",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1074",
+    "item_image": "https://www.gametsg.net/img/1/7/9474a75386dd5e623e12ea6c29351da7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "HP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  },
+  {
+    "item_id": "1075",
+    "item_name": "戰士的耳環(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1075",
+    "item_image": "https://www.gametsg.net/img/1/7/9474a75386dd5e623e12ea6c29351da7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "HP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "27",
+    "category_name": "耳環"
+  }
+]

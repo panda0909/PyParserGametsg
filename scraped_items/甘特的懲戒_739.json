@@ -1,0 +1,308 @@
+{
+  "item_id": "739",
+  "item_name": "甘特的懲戒",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=739",
+  "item_image": "https://www.gametsg.net/img/1/5/8f32579f3b88fd3869fc22bb57a84bb1.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    },
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-8",
+  "item_stats": [
+    "力量+5",
+    "昏迷命中 +10%",
+    "近距離傷害+5",
+    "近距離命中+5",
+    "激活:神秘混沌 1%"
+  ],
+  "data_zhiye": "1|4|8|5|52|81|7|12|13",
+  "category_id": "20",
+  "category_name": "手套",
+  "basic_info": {
+    "title": "甘特的懲戒",
+    "類型": "防具(手套)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-8",
+    "屬性": [
+      "力量+5",
+      "昏迷命中 +10%",
+      "近距離傷害+5",
+      "近距離命中+5",
+      "激活:神秘混沌 1%"
+    ],
+    "祝福屬性": "物理防禦 (AC)-3",
+    "材質": "皮革",
+    "重量": "10",
+    "說明": "騎士們的導師“甘特”"
+  },
+  "detail_info": {
+    "倉庫": "可儲存",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦 (AC)-5，近戰傷害+1，近戰命中+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦 (AC)-6，近戰傷害+2，近戰命中+2"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦 (AC)-7，近戰傷害+3，近戰命中+3"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦 (AC)-8，近戰傷害+4，近戰命中+4"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦 (AC)-9，近戰傷害+5，近戰命中+5"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦 (AC)-10，近戰傷害+6，近戰命中+6"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦 (AC)-11，近戰傷害+7，近戰命中+7"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦 (AC)-12，近戰傷害+8，近戰命中+8"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦 (AC)-13，近戰傷害+9，近戰命中+9"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦 (AC)-14，近戰傷害+10，近戰命中+10"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+      "material_id": "2749",
+      "material_name": "龍之鑽石",
+      "material_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+      "material_grade": "grade00",
+      "material_count": "2000",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+          "alt_id": "2500",
+          "alt_name": "金幣",
+          "alt_grade": "grade01",
+          "alt_count": "500000000"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "",
+      "material_grade": "grade01",
+      "material_count": "500000000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1327",
+      "material_id": "1327",
+      "material_name": "神話防具製作秘笈",
+      "material_image": "https://www.gametsg.net/img/1/9/fc0b5a1a8d522ec15d7c168bf05ab6c5.jpg",
+      "material_grade": "grade032",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1328",
+          "alt_id": "1328",
+          "alt_name": "神話防具製作秘笈(刻印)",
+          "alt_grade": "grade032",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1330",
+          "alt_id": "1330",
+          "alt_name": "神話製作秘笈",
+          "alt_grade": "grade032",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1331",
+          "alt_id": "1331",
+          "alt_name": "神話製作秘笈(刻印)",
+          "alt_grade": "grade032",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1328",
+      "material_id": "1328",
+      "material_name": "",
+      "material_grade": "grade032",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1330",
+      "material_id": "1330",
+      "material_name": "",
+      "material_grade": "grade032",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1331",
+      "material_id": "1331",
+      "material_name": "",
+      "material_grade": "grade032",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2755",
+      "material_id": "2755",
+      "material_name": "最高級皮革",
+      "material_image": "https://www.gametsg.net/img/3/25/8705804bec5ec77b5345aad349fea3ba.jpg",
+      "material_grade": "grade00",
+      "material_count": "1000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "4000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1568",
+      "material_id": "1568",
+      "material_name": "黃金金屬板",
+      "material_image": "https://www.gametsg.net/img/2/11/7e31e7e09a3ded0b919410301a7960c5.jpg",
+      "material_grade": "grade01",
+      "material_count": "200"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "支配者吉爾塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1",
+      "monster_id": "1",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "150",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    }
+  ]
+}

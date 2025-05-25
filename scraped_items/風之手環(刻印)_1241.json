@@ -1,0 +1,143 @@
+{
+  "item_id": "1241",
+  "item_name": "風之手環(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1241",
+  "item_image": "https://www.gametsg.net/img/1/9/f0a2b8a2e43f8c9dd3fae6be52294130.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "施法速度+1%",
+    "負重獎勵+200"
+  ],
+  "data_zhiye": "",
+  "category_id": "32",
+  "category_name": "手環",
+  "basic_info": {
+    "title": "風之手環(刻印)",
+    "類型": "飾品(手環)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "施法速度+1%",
+      "負重獎勵+200"
+    ],
+    "祝福屬性": "最大HP+20",
+    "材質": "皮革",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5，負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10，負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15，負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20，負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25，負重獎勵+25，近距離爆擊+2%，遠距離爆擊+2%，魔法爆擊+2%"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30，負重獎勵+30，近距離爆擊+4%，遠距離爆擊+4%，魔法爆擊+4%"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35，負重獎勵+35，近距離爆擊+6%，遠距離爆擊+6%，魔法爆擊+6%"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40，負重獎勵+40，近距離爆擊+8%，遠距離爆擊+8%，魔法爆擊+8%"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1469",
+      "material_id": "1469",
+      "material_name": "風之皮革",
+      "material_image": "https://www.gametsg.net/img/1/10/c1589fc3b4d9277e3c3534bae3d0ae3e.jpg",
+      "material_grade": "grade01",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "3000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1412",
+      "material_id": "1412",
+      "material_name": "稀有飾品製作秘笈(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/10/07390bebbee2897f9384f0687d33021a.jpg",
+      "material_grade": "grade03",
+      "material_count": "3",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2595",
+          "alt_id": "2595",
+          "alt_name": "稀有製作卷軸",
+          "alt_grade": "grade00",
+          "alt_count": "3"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1414",
+          "alt_id": "1414",
+          "alt_name": "稀有工藝食譜書(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "3"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2595",
+      "material_id": "2595",
+      "material_name": "",
+      "material_grade": "grade00",
+      "material_count": "3"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1414",
+      "material_id": "1414",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "3"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "1000000"
+    }
+  ],
+  "monster_drops": []
+}

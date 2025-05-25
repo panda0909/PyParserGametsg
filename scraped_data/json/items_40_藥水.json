@@ -1,0 +1,1004 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2101",
+    "item_name": "死神石榴石(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2101",
+    "item_image": "https://www.gametsg.net/img/2/12/4d9e2643315857265b7d4503b3f608f5.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 1 小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2102",
+    "item_name": "女巫的魔法恢復藥水",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2102",
+    "item_image": "https://www.gametsg.net/img/2/12/b5e1e79fb951d887ae174fced4291c1f.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "法力恢復 1000"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2103",
+    "item_name": "先行者指南第 1 部分",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2103",
+    "item_image": "https://www.gametsg.net/img/2/12/a2c3cb7368779a430c8063f4337acfbb.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得先知的啟蒙增益"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2104",
+    "item_name": "先行者指南第 2 部分",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2104",
+    "item_image": "https://www.gametsg.net/img/2/12/a2c3cb7368779a430c8063f4337acfbb.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得先知的啟蒙增益"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2105",
+    "item_name": "先行者指南第 3 部分",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2105",
+    "item_image": "https://www.gametsg.net/img/2/12/a2c3cb7368779a430c8063f4337acfbb.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得先知的啟蒙增益"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2106",
+    "item_name": "伊因哈薩德的恩典 1 級",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2106",
+    "item_image": "https://www.gametsg.net/img/2/12/4bcefdaf5d94b52f80fe03472b92a2ce.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "殷海薩的祝福量增加 +50%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2107",
+    "item_name": "伊因哈薩德的恩典 2 級",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2107",
+    "item_image": "https://www.gametsg.net/img/2/12/4bcefdaf5d94b52f80fe03472b92a2ce.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "殷海薩的祝福充能增加 +100%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2108",
+    "item_name": "伊因哈薩德的恩典 3 級",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2108",
+    "item_image": "https://www.gametsg.net/img/2/12/4bcefdaf5d94b52f80fe03472b92a2ce.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "殷海薩的祝福量增加 +150%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2109",
+    "item_name": "伊娃的低語",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2109",
+    "item_image": "https://www.gametsg.net/img/2/12/81a67a58ec8d1b4bbd711dec8dc80461.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "高級體力恢復劑可自動使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2110",
+    "item_name": "艾保羅泰因的成長藥水",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2110",
+    "item_image": "https://www.gametsg.net/img/2/12/2968edbec6de9b9a18b5ad891d33154a.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 1 小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2111",
+    "item_name": "艾金斯的高級成長藥水",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2111",
+    "item_image": "https://www.gametsg.net/img/2/12/e6d1766a7c2b28a199a8971019824186.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:3小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2112",
+    "item_name": "艾金斯的成長藥水",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2112",
+    "item_image": "https://www.gametsg.net/img/2/12/2a91bf467a54c7304cf419da464fb1ac.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 1 小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2113",
+    "item_name": "煉金術士的成長藥劑",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2113",
+    "item_image": "https://www.gametsg.net/img/2/12/d1aca501c178542375172af49c867bc1.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 1 小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2114",
+    "item_name": "鄒的高級成長藥劑",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2114",
+    "item_image": "https://www.gametsg.net/img/2/12/e6d1766a7c2b28a199a8971019824186.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:3小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2115",
+    "item_name": "鄒氏成長藥水",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2115",
+    "item_image": "https://www.gametsg.net/img/2/12/2a91bf467a54c7304cf419da464fb1ac.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 1 小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2116",
+    "item_name": "克洛諾斯的成長藥水",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2116",
+    "item_image": "https://www.gametsg.net/img/2/12/bbcd920b18e9e001c1ced162f53622b1.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 1 小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2117",
+    "item_name": "赫利俄斯的成長藥水",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2117",
+    "item_image": "https://www.gametsg.net/img/2/12/926132999053727786986bcb3fdf3d7d.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 1 小時"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2118",
+    "item_name": "強力體力恢復劑(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2118",
+    "item_image": "https://www.gametsg.net/img/2/12/25d22bba61b673846ded579e4adffff5.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "HP回復.",
+      "當91級達到80%時,",
+      "可登錄自動使用."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2119",
+    "item_name": "強化自我加速藥水(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2119",
+    "item_image": "https://www.gametsg.net/img/2/12/3be6d0511a296ff6e75f71e2852b6d81.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2120",
+    "item_name": "高級治癒藥水(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2120",
+    "item_image": "https://www.gametsg.net/img/2/12/4f526d248fe32000bea94121ed4d70fa.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "HP回復.",
+      "當達到88級66%時,",
+      "可登錄自動使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2121",
+    "item_name": "格蘭肯的心靈之眼",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2121",
+    "item_image": "https://www.gametsg.net/img/2/12/f4b88ab57465588038ac845240f83deb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2122",
+    "item_name": "蒸鮭魚(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2122",
+    "item_image": "https://www.gametsg.net/img/2/12/f47fd93a5c9da33bdd9a40a510d8512d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2123",
+    "item_name": "法力回復藥水(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2123",
+    "item_image": "https://www.gametsg.net/img/2/12/c340ffe8bcd45de257fe8fe4fb950d10.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:5 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2124",
+    "item_name": "米斯皮亞的美食(活動)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2124",
+    "item_image": "https://www.gametsg.net/img/2/12/9946a481a22e735b9703203b14736e26.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2125",
+    "item_name": "成長藥水(10%)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2125",
+    "item_image": "https://www.gametsg.net/img/2/12/7a7d81d038bda2f6ced07b0ec94fcedb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2126",
+    "item_name": "勝利果實(第一名)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2126",
+    "item_image": "https://www.gametsg.net/img/2/12/41f699acfe4e8d8283df4fb794f5019f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得經驗值 4,000,000",
+      "從 40 級開始可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2127",
+    "item_name": "勝利果實(第二名)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2127",
+    "item_image": "https://www.gametsg.net/img/2/12/b5c88c3aea0b79110846ffcfbf46d872.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得經驗值3,000,000",
+      "從 40 級開始可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2128",
+    "item_name": "勝利果實(第三名)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2128",
+    "item_image": "https://www.gametsg.net/img/2/12/cf69bb2b69b7238117919302307c82ec.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得經驗值2,000,000",
+      "從 40 級開始可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2129",
+    "item_name": "殷海薩之墓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2129",
+    "item_image": "https://www.gametsg.net/img/2/12/7ac655eb0f4b7d8de7887f5c73a2d038.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:15 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2130",
+    "item_name": "惡魔之血(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2130",
+    "item_image": "https://www.gametsg.net/img/2/12/c96104983d08653483fb4a67c11a2ba0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 10 分鐘"
+    ],
+    "data_zhiye": "8",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2131",
+    "item_name": "伊娃的祝福(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2131",
+    "item_image": "https://www.gametsg.net/img/2/12/1da4435800adf7d087b2350ff7029b68.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2132",
+    "item_name": "精靈餅乾(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2132",
+    "item_image": "https://www.gametsg.net/img/2/12/98297d63dc4c92e3a6eb79263db4f0cc.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:5 分鐘"
+    ],
+    "data_zhiye": "2",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2133",
+    "item_name": "聰明的烤火雞(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2133",
+    "item_image": "https://www.gametsg.net/img/2/12/f97ba57cc38230fa57d380ddaa9a162c.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2134",
+    "item_name": "勇敢藥水(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2134",
+    "item_image": "https://www.gametsg.net/img/2/12/d2e0047840e8228c4b71bf9e2fbcea82.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:5 分鐘"
+    ],
+    "data_zhiye": "1|52|81|7|12|13",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2135",
+    "item_name": "勇者的勳章(世界首領)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2135",
+    "item_image": "https://www.gametsg.net/img/2/12/9d39f82b73c26e8bfe464d3f6e00026e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "使用時獲得經驗值2,000,000",
+      "從 45 級開始可用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2136",
+    "item_name": "慎重藥水(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2136",
+    "item_image": "https://www.gametsg.net/img/2/12/cf670434c895c81dba85df19f45f23cc.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:5 分鐘"
+    ],
+    "data_zhiye": "3",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2137",
+    "item_name": "體力恢復劑(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2137",
+    "item_image": "https://www.gametsg.net/img/2/12/0726a43cb778ab7c3b521873b61e3669.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "HP回復,可自動使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2138",
+    "item_name": "自我加速藥水(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2138",
+    "item_image": "https://www.gametsg.net/img/2/12/9b9effc1e9e4b949cb48d12db18a3191.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間:5 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2139",
+    "item_name": "卡西奧佩婭的美食",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2139",
+    "item_image": "https://www.gametsg.net/img/2/12/9946a481a22e735b9703203b14736e26.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2140",
+    "item_name": "庫扎克的靈藥(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2140",
+    "item_image": "https://www.gametsg.net/img/2/12/8a4a5cc842b077336736156c7287d642.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "立即恢復 6000 HP",
+      "(15分鐘冷卻時間)"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2141",
+    "item_name": "令人垂涎的成長藥水",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2141",
+    "item_image": "https://www.gametsg.net/img/2/12/72d74dcdb1976a4c802b1ce8c6f9eb78.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2142",
+    "item_name": "解毒藥(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2142",
+    "item_image": "https://www.gametsg.net/img/2/12/d8a7f463eb395e24ae964fda239ba6db.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "解毒藥水"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  },
+  {
+    "item_id": "2143",
+    "item_name": "強壯牛排(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2143",
+    "item_image": "https://www.gametsg.net/img/2/12/c14131d3738990e245e6999f271888f9.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "持續時間 30 分鐘"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "40",
+    "category_name": "藥水"
+  }
+]

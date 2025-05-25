@@ -1,0 +1,91 @@
+{
+  "item_id": "1868",
+  "item_name": "黑暗精靈水晶(燃燒鬥志:命運)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1868",
+  "item_image": "https://www.gametsg.net/img/2/12/89d9b40ea1d0b19126e72aca554f32ff.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "黑暗精靈水晶"
+  ],
+  "data_zhiye": "4",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "黑暗精靈水晶(燃燒鬥志:命運)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "黑暗精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "長老:比亞塔斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=116",
+      "monster_id": "116",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "91",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-暗殺軍王室"
+      ]
+    },
+    {
+      "monster_name": "黑暗的化石龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=953",
+      "monster_id": "953",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 白天"
+      ]
+    },
+    {
+      "monster_name": "黑暗的化石龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=969",
+      "monster_id": "969",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-3 樓 - 夜晚"
+      ]
+    }
+  ]
+}

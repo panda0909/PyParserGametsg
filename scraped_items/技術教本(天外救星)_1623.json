@@ -1,0 +1,72 @@
+{
+  "item_id": "1623",
+  "item_name": "技術教本(天外救星)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1623",
+  "item_image": "https://www.gametsg.net/img/2/11/bedc9fbb0f7b16c024ece2d8ea791161.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "技術教本"
+  ],
+  "data_zhiye": "34",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "技術教本(天外救星)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "技術教本"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "祭司長納格巴斯 (本體)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=8",
+      "monster_id": "8",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "傲慢的王子戴歐斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=37",
+      "monster_id": "37",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "97",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    }
+  ]
+}

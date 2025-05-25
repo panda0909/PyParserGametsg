@@ -1,0 +1,80 @@
+{
+  "item_id": "1827",
+  "item_name": "聖書(神聖狂襲(預言))",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1827",
+  "item_image": "https://www.gametsg.net/img/2/11/75ea8b4919e2e875170417e4de207190.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "聖書"
+  ],
+  "data_zhiye": "81",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "聖書(神聖狂襲(預言))",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "0.01",
+    "說明": "聖書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "異界的炎魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=905",
+      "monster_id": "905",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "亞丁大陸地監-異界裂縫"
+      ]
+    },
+    {
+      "monster_name": "沙蟲的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=941",
+      "monster_id": "941",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-20 級突襲副本 (神話)"
+      ]
+    }
+  ]
+}

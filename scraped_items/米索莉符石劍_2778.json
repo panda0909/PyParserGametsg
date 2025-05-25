@@ -1,0 +1,39 @@
+{
+  "item_id": "2778",
+  "item_name": "米索莉符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2778",
+  "item_image": "https://www.gametsg.net/uploads/20250114/37cfad580d6f5d066a72dcb87e317325.png",
+  "item_grade": "grade02",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "9/5",
+  "item_stats": [
+    "生命+2"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "米索莉符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "9/5",
+    "屬性": "生命+2",
+    "材質": "米索莉",
+    "重量": "60"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

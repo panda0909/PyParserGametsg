@@ -1,0 +1,757 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2502",
+    "item_name": "倫提斯的強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2502",
+    "item_image": "https://www.gametsg.net/img/2/13/36d952ad4884b424920a7e932de3a76b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "倫提斯耳環專用強化卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2503",
+    "item_name": "光之防具強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2503",
+    "item_image": "https://www.gametsg.net/img/2/13/36d952ad4884b424920a7e932de3a76b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "可以強化光之皮夾克,光之肩甲."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2504",
+    "item_name": "光之手環強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2504",
+    "item_image": "https://www.gametsg.net/img/2/13/36d952ad4884b424920a7e932de3a76b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "光之手鐲強化卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2505",
+    "item_name": "水晶強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2505",
+    "item_image": "https://www.gametsg.net/img/2/13/6c850f130e6c94e19d59297407312207.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "水晶強化材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2506",
+    "item_name": "史奈普戒指強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2506",
+    "item_image": "https://www.gametsg.net/img/2/13/36d952ad4884b424920a7e932de3a76b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "光之手環專用強化卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2507",
+    "item_name": "印章/符石強化石",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2507",
+    "item_image": "https://www.gametsg.net/img/2/13/b254d225a539d4cb10b30ac1ee6c566b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "印章,符石強化材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2508",
+    "item_name": "徽章強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2508",
+    "item_image": "https://www.gametsg.net/img/2/13/36d952ad4884b424920a7e932de3a76b.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "徽章專用強化卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "1485",
+    "item_name": "封印的祝福賦予卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1485",
+    "item_image": "https://www.gametsg.net/img/1/10/fab39cee857ed158ccbf2aae8289943d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "封印可以透過製作來釋放"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2509",
+    "item_name": "對盔甲施法的卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2509",
+    "item_image": "https://www.gametsg.net/img/2/13/f140c581f2d18bf5355805cf931a5d06.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "對防具使用後,防具的強化數值以指定的概率上升或下降.",
+      "一般強化數值+1",
+      "祝福強化數值+1~+3",
+      "詛咒強化數值-1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2510",
+    "item_name": "對盔甲施法的卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2510",
+    "item_image": "https://www.gametsg.net/img/2/13/f140c581f2d18bf5355805cf931a5d06.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "對防具使用後,防具的強化數值以指定的概率上升或下降.",
+      "一般強化數值+1",
+      "祝福強化數值+1~+3",
+      "詛咒強化數值-1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2511",
+    "item_name": "對武器施法的卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2511",
+    "item_image": "https://www.gametsg.net/img/2/13/d786b4069a0cb00dc3fa2a42a59c30bb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "對武器使用後,防具的強化數值以指定的概率上升或下降.",
+      "一般強化數值+1",
+      "祝福強化數值+1~+3",
+      "詛咒強化數值-1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2512",
+    "item_name": "對武器施法的卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2512",
+    "item_image": "https://www.gametsg.net/img/2/13/d786b4069a0cb00dc3fa2a42a59c30bb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "當用於武器時,武器的強化等級會以一定機率增加或減少.",
+      "一般強化數值+1",
+      "祝福強化數值+1~+3",
+      "詛咒強化數值-1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2513",
+    "item_name": "水之武器強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2513",
+    "item_image": "https://www.gametsg.net/img/2/13/16f3494ad48289f5455cee367575de8a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2514",
+    "item_name": "水之武器強化卷軸(血盟商店)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2514",
+    "item_image": "https://www.gametsg.net/img/2/13/16f3494ad48289f5455cee367575de8a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2515",
+    "item_name": "水之武器強化卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2515",
+    "item_image": "https://www.gametsg.net/img/2/13/dc7956cf0b514cad793868f6c96e9b94.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2516",
+    "item_name": "歐林的對飾品施法的卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2516",
+    "item_image": "https://www.gametsg.net/img/2/13/d1d45ccda03f87392f95b8e37c41f876.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "對飾品使用後,防具的強化數值以指定的概率上升或下降.",
+      "然而,目標物品並沒有遺失.",
+      "一般 :",
+      "強化成功時,數值+1",
+      "如果發生故障,加固值就會降低.",
+      "祝福:",
+      "強化成功時,數值+1",
+      "如果發生故障,加固值不會減少"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2517",
+    "item_name": "對飾品施法的卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2517",
+    "item_image": "https://www.gametsg.net/img/2/13/9f9b18343ea8e983d7d76a7bd3056f08.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "對飾品使用後,防具的強化數值以指定的概率上升或下降.",
+      "強化值+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2518",
+    "item_name": "工匠的對盔甲施法的卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2518",
+    "item_image": "https://www.gametsg.net/img/2/13/4df56dcbafd609f6922434ec0ad3b007.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "魔法書可用於 +7 護甲",
+      "以一定機率增加附魔值",
+      "如果失敗,裝甲仍完好無損.",
+      "骨頭,安全附魔 6 不能用於盔甲.",
+      "可用的最大附魔值",
+      "+7 至 +8"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2519",
+    "item_name": "工匠的對盔甲施法的卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2519",
+    "item_image": "https://www.gametsg.net/img/2/13/4df56dcbafd609f6922434ec0ad3b007.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "魔法書可用於 +7 護甲",
+      "以一定機率增加附魔值",
+      "如果失敗,裝甲仍完好無損.",
+      "骨頭,安全附魔 6 不能用於盔甲.",
+      "可用的最大附魔值",
+      "+7 至 +8"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2520",
+    "item_name": "工匠的武器魔法卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2520",
+    "item_image": "https://www.gametsg.net/img/2/13/ba107ee03414889a1c845b8a171c030d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "+9 可用於武器的魔法書",
+      "以一定機率增加附魔值",
+      "如果失敗,武器仍然完好無損.",
+      "無法使用骨製武器和黑秘銀武器.",
+      "每個物品等級可用的最大附魔值",
+      "普通~英雄 +9",
+      "傳說 +9 ~ +10",
+      "神話 +9 ~ +11"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2521",
+    "item_name": "工匠武器魔法卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2521",
+    "item_image": "https://www.gametsg.net/img/2/13/ba107ee03414889a1c845b8a171c030d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "+9 可用於武器的魔法書",
+      "以一定機率增加附魔值",
+      "如果失敗,武器仍然完好無損.",
+      "無法使用骨製武器和黑秘銀武器.",
+      "每個物品等級可用的最大附魔值",
+      "普通~英雄 +9",
+      "傳說 +9 ~ +10",
+      "神話 +9 ~ +11"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2522",
+    "item_name": "地之武器強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2522",
+    "item_image": "https://www.gametsg.net/img/2/13/6b28b4a5a18071ee90dea366716611b6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2523",
+    "item_name": "地之武器強化卷軸(血盟商店)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2523",
+    "item_image": "https://www.gametsg.net/img/2/13/6b28b4a5a18071ee90dea366716611b6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2524",
+    "item_name": "地之武器強化卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2524",
+    "item_image": "https://www.gametsg.net/img/2/13/4b996abf69ed7617f270d969743b7466.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2525",
+    "item_name": "風之武器強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2525",
+    "item_image": "https://www.gametsg.net/img/2/13/185e507113097b1c63cca2664affd775.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2526",
+    "item_name": "風之武器強化卷軸(血盟商店)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2526",
+    "item_image": "https://www.gametsg.net/img/2/13/185e507113097b1c63cca2664affd775.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2527",
+    "item_name": "風之武器強化卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2527",
+    "item_image": "https://www.gametsg.net/img/2/13/0a3c84bcdce7b102160445fada016c32.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2528",
+    "item_name": "火之武器強化卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2528",
+    "item_image": "https://www.gametsg.net/img/2/13/318b41ded4dba20f278151f314ba0f78.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2529",
+    "item_name": "火之武器強化卷軸(血盟商店)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2529",
+    "item_image": "https://www.gametsg.net/img/2/13/318b41ded4dba20f278151f314ba0f78.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2530",
+    "item_name": "火之武器強化卷軸(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2530",
+    "item_image": "https://www.gametsg.net/img/2/13/4112770a618b425dce22ba0b58d76eff.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "卷軸"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  },
+  {
+    "item_id": "2600",
+    "item_name": "祝福賦予卷軸",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2600",
+    "item_image": "https://www.gametsg.net/img/2/13/3de8449f825981123346aecf0547351f.jpg",
+    "item_grade": "grade00",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "43",
+    "category_name": "強化卷軸"
+  }
+]

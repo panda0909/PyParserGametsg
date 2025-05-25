@@ -1,0 +1,126 @@
+{
+  "item_id": "127",
+  "item_name": "魔族之弓",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=127",
+  "item_image": "https://www.gametsg.net/img/1/1/c834b00ce62fdfc7a98e8184cff6b48e.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    }
+  ],
+  "item_level": "2 / 2",
+  "item_stats": [
+    "額外攻擊+6",
+    "武器命中+3",
+    "防止武器損壞",
+    "發動:藍惡靈奪魔 4%"
+  ],
+  "data_zhiye": "2|3|8",
+  "category_id": "5",
+  "category_name": "弓",
+  "basic_info": {
+    "title": "魔族之弓",
+    "類型": "武器(弓)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "武器攻擊力": "2 / 2",
+    "屬性": [
+      "額外攻擊+6",
+      "武器命中+3",
+      "防止武器損壞",
+      "發動:藍惡靈奪魔 4%"
+    ],
+    "祝福屬性": "武器命中+1",
+    "材質": "黑色米索莉",
+    "重量": "35"
+  },
+  "detail_info": {
+    "損傷": "不會被損壞",
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "額外攻擊+1,武器命中+1,發動:邪術1%"
+    },
+    {
+      "level": "2",
+      "attributes": "額外攻擊+2,武器命中+2,發動:邪術2%"
+    },
+    {
+      "level": "3",
+      "attributes": "額外攻擊+3,武器命中+3,發動:邪術3%"
+    },
+    {
+      "level": "4",
+      "attributes": "額外攻擊+4,武器命中+4,發動:邪術4%"
+    },
+    {
+      "level": "5",
+      "attributes": "額外攻擊+5,武器命中+5,發動:邪術5%"
+    },
+    {
+      "level": "6",
+      "attributes": "額外攻擊+6,武器命中+6,發動:邪術6%"
+    },
+    {
+      "level": "7",
+      "attributes": "額外攻擊+7,武器命中+7,發動:邪術7%"
+    },
+    {
+      "level": "8",
+      "attributes": "額外攻擊+8,武器命中+8,發動:邪術8%"
+    },
+    {
+      "level": "9",
+      "attributes": "額外攻擊+9,武器命中+9,發動:邪術9%"
+    },
+    {
+      "level": "10",
+      "attributes": "額外攻擊+11,武器命中+10,發動:邪術10%"
+    },
+    {
+      "level": "11",
+      "attributes": "額外攻擊+13,武器命中+11,發動:邪術11%"
+    },
+    {
+      "level": "12",
+      "attributes": "額外攻擊+15,武器命中+12,發動:邪術12%"
+    },
+    {
+      "level": "13",
+      "attributes": "額外攻擊+17,武器命中+13,發動:邪術13%"
+    },
+    {
+      "level": "14",
+      "attributes": "額外攻擊+19,武器命中+14,發動:邪術14%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,41 @@
+{
+  "item_id": "1537",
+  "item_name": "死亡能量碎片",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1537",
+  "item_image": "https://www.gametsg.net/img/2/11/b56559b0aafde7bd3dec1c760e08ee5b.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "創造死亡能量的材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "死亡能量碎片",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石",
+    "重量": "0.01",
+    "說明": "創造死亡能量的材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

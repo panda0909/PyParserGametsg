@@ -1,0 +1,299 @@
+{
+  "item_id": "977",
+  "item_name": "體力臂甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=977",
+  "item_image": "https://www.gametsg.net/img/1/7/6367900f2e4d24029835d07c32ca77a8.jpg",
+  "item_grade": "grade02",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    },
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "0",
+  "item_stats": [
+    "最大HP+50",
+    "支撐抗性+5%"
+  ],
+  "data_zhiye": "1|2|4|5|8|34|52|81|7|12|13",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "體力臂甲",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "0",
+    "屬性": [
+      "最大HP+50",
+      "支撐抗性+5%"
+    ],
+    "祝福屬性": "最大HP+30",
+    "材質": "骨頭",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25,物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+25,物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+50,物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+50,物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "最大HP+75,物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "最大HP+100,物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "最大HP+125,物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "最大HP+150,物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "最大HP+175,物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "最大HP+200,物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "死亡的骷髏警衛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=542",
+      "monster_id": "542",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-4樓(死亡)"
+      ]
+    },
+    {
+      "monster_name": "不幸的密密",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=588",
+      "monster_id": "588",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "變種巨蟻女皇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=649",
+      "monster_id": "649",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-11 級 突襲 (高級)"
+      ]
+    },
+    {
+      "monster_name": "歐吉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=660",
+      "monster_id": "660",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-10.黑暗森林內部",
+        "亞丁大陸-82.龍之谷三岔路",
+        "亞丁大陸-85.龍之谷地監東邊入口",
+        "亞丁大陸-84.龍之谷地監北邊入口",
+        "亞丁大陸-86.龍之谷地監西邊入口",
+        "亞丁大陸-83.龍之谷地監中央入口"
+      ]
+    },
+    {
+      "monster_name": "卡伊拉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=729",
+      "monster_id": "729",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "60",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-12.南部地區",
+        "亞丁大陸-70.海音沼澤",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-68.鏡子森林"
+      ]
+    },
+    {
+      "monster_name": "蜥蜴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=747",
+      "monster_id": "747",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "59",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-68.鏡子森林",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-03.亞丁吉普賽村",
+        "亞丁大陸-63.野蠻森林地帶"
+      ]
+    }
+  ]
+}

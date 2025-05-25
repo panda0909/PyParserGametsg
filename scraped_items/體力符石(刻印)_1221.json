@@ -1,0 +1,48 @@
+{
+  "item_id": "1221",
+  "item_name": "體力符石(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1221",
+  "item_image": "https://www.gametsg.net/img/1/8/d1047b6ce951ef43ff53ddcf9b07f8e8.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "體質 +1",
+    "魔法防禦(MR)+5"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "30",
+  "category_name": "符石",
+  "basic_info": {
+    "title": "體力符石(刻印)",
+    "類型": "飾品(符石)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "體質 +1",
+      "魔法防禦(MR)+5"
+    ],
+    "祝福屬性": "最大HP+20",
+    "材質": "礦石",
+    "重量": "1"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

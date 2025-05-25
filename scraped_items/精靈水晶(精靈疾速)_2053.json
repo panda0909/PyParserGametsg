@@ -1,0 +1,99 @@
+{
+  "item_id": "2053",
+  "item_name": "精靈水晶(精靈疾速)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2053",
+  "item_image": "https://www.gametsg.net/img/2/12/fb1e051a3cd3518046508afbb39494df.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "精靈水晶"
+  ],
+  "data_zhiye": "2",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "精靈水晶(精靈疾速)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "翼龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=387",
+      "monster_id": "387",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-74.風龍窟",
+        "拉斯塔巴德-中央廣場"
+      ]
+    },
+    {
+      "monster_name": "毒殺人蜂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=535",
+      "monster_id": "535",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "77",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-74.風龍窟"
+      ]
+    },
+    {
+      "monster_name": "奇異鸚鵡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=728",
+      "monster_id": "728",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "60",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-68.鏡子森林",
+        "亞丁大陸-27.密林地帶",
+        "亞丁大陸-63.野蠻森林地帶"
+      ]
+    }
+  ]
+}

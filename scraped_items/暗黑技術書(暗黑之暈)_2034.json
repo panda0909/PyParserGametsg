@@ -1,0 +1,186 @@
+{
+  "item_id": "2034",
+  "item_name": "暗黑技術書(暗黑之暈)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2034",
+  "item_image": "https://www.gametsg.net/img/2/12/fa6ea0508bf7fb5b0c82a5d1f681765e.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "暗黑技術書"
+  ],
+  "data_zhiye": "52",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "暗黑技術書(暗黑之暈)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "0.01",
+    "說明": "暗黑技術書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "精英暗黑騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=296",
+      "monster_id": "296",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "精英暗黑騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=297",
+      "monster_id": "297",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "暗黑法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=299",
+      "monster_id": "299",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "黑魔女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=300",
+      "monster_id": "300",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "黑魔術師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=301",
+      "monster_id": "301",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "闇精靈使",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=302",
+      "monster_id": "302",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "暗黑實驗體",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=303",
+      "monster_id": "303",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "暗黑實驗體",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=304",
+      "monster_id": "304",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "暗黑實驗體",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=305",
+      "monster_id": "305",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "黑魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=365",
+      "monster_id": "365",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "84",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "黑騎士戰鬥兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=396",
+      "monster_id": "396",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    },
+    {
+      "monster_name": "黑騎士狙擊手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=397",
+      "monster_id": "397",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_areas": [
+        "亞丁大陸-81.黑騎士戰鬥基地"
+      ]
+    }
+  ]
+}

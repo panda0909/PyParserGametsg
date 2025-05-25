@@ -1,0 +1,55 @@
+{
+  "item_id": "2756",
+  "item_name": "最高級的金屬板",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2756",
+  "item_image": "https://www.gametsg.net/img/3/25/d7fc5be606f350295cefbfb203708905.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "最高級的金屬板",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "重量": "1"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2602",
+      "material_id": "2602",
+      "material_name": "高級金屬板",
+      "material_image": "https://www.gametsg.net/img/2/13/f09d098cb527a655e9704632043323e9.jpg",
+      "material_grade": "grade00",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "100000"
+    }
+  ],
+  "monster_drops": []
+}

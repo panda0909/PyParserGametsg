@@ -1,0 +1,40 @@
+{
+  "item_id": "1298",
+  "item_name": "萬能補充寶石碎片",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1298",
+  "item_image": "https://www.gametsg.net/img/1/9/747ce8383f671c7ffd623baa883c5d4a.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "製作通用補充石的材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "萬能補充寶石碎片",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦物質",
+    "說明": "製作通用補充石的材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,188 @@
+{
+  "item_id": "870",
+  "item_name": "瑪幽的冰凍長靴",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=870",
+  "item_image": "https://www.gametsg.net/img/1/6/e3eec8cb3c4d6743f8dd68b74f3795b0.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    },
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    },
+    {
+      "name": "王族",
+      "level": "level08"
+    },
+    {
+      "name": "暗黑騎士",
+      "level": "level10"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    },
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    },
+    {
+      "name": "死神",
+      "level": "level12"
+    },
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-4",
+  "item_stats": [
+    "力量+1",
+    "寒冰抗性+10%"
+  ],
+  "data_zhiye": "1|4|5|8|52|81|7|12|13",
+  "category_id": "22",
+  "category_name": "鞋子",
+  "basic_info": {
+    "title": "瑪幽的冰凍長靴",
+    "類型": "防具(鞋子)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "物理防禦 (AC)": "-4",
+    "屬性": [
+      "力量+1",
+      "寒冰抗性+10%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "皮革",
+    "重量": "15"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+20,物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40,物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "最大HP+60,物理防禦力 (AC)-9,傷害減免+1"
+    },
+    {
+      "level": "10",
+      "attributes": "最大HP+60,物理防禦力 (AC)-10,傷害減免+2"
+    },
+    {
+      "level": "11",
+      "attributes": "最大HP+60,物理防禦力 (AC)-11,傷害減免+3"
+    },
+    {
+      "level": "12",
+      "attributes": "最大HP+60,物理防禦力 (AC)-12,傷害減免+4"
+    },
+    {
+      "level": "13",
+      "attributes": "最大HP+60,物理防禦力 (AC)-13,傷害減免+5"
+    },
+    {
+      "level": "14",
+      "attributes": "最大HP+60,物理防禦力 (AC)-14,傷害減免+6"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "残酷的大脚瑪幽",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=466",
+      "monster_id": "466",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁"
+      ]
+    }
+  ]
+}

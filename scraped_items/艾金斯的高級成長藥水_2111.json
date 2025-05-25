@@ -1,0 +1,46 @@
+{
+  "item_id": "2111",
+  "item_name": "艾金斯的高級成長藥水",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2111",
+  "item_image": "https://www.gametsg.net/img/2/12/e6d1766a7c2b28a199a8971019824186.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間:3小時"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "40",
+  "category_name": "藥水",
+  "basic_info": {
+    "title": "艾金斯的高級成長藥水",
+    "類型": "其他(藥水)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "持續時間:3小時",
+    "材質": "玻璃",
+    "說明": [
+      "經驗獎勵增益",
+      "殷海薩的祝福減少增益",
+      "負重獎勵增益",
+      "獲得藥水恢復率buff"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

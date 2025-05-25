@@ -1,0 +1,49 @@
+{
+  "item_id": "2773",
+  "item_name": "共鳴符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2773",
+  "item_image": "https://www.gametsg.net/uploads/20250114/36b17c36773a89fbfe29fb4793e0add7.png",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "10/10",
+  "item_stats": [
+    "額外攻擊+1",
+    "力量+1",
+    "生命+3",
+    "精神+2",
+    "發動：共鳴衝擊1%"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "共鳴符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "10/10",
+    "屬性": [
+      "額外攻擊+1",
+      "力量+1",
+      "生命+3",
+      "精神+2",
+      "發動：共鳴衝擊1%"
+    ],
+    "材質": "金屬塊",
+    "重量": "40"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,332 @@
+{
+  "item_id": "1548",
+  "item_name": "破滅的憑證",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1548",
+  "item_image": "https://www.gametsg.net/img/2/11/5f7f9eff2df755ca8876bd9479a37748.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "破滅的憑證",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦石",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "哈爾巴斯的追随者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=254",
+      "monster_id": "254",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "哈爾巴斯的追随者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=255",
+      "monster_id": "255",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "哈爾巴斯的追随者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=256",
+      "monster_id": "256",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "哈爾巴斯的追随者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=257",
+      "monster_id": "257",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "貪污的監督者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=330",
+      "monster_id": "330",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-2樓"
+      ]
+    },
+    {
+      "monster_name": "貪污的監督者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=331",
+      "monster_id": "331",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-2樓"
+      ]
+    },
+    {
+      "monster_name": "貪污的監督者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=332",
+      "monster_id": "332",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-2樓"
+      ]
+    },
+    {
+      "monster_name": "貪污的監督者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=333",
+      "monster_id": "333",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-2樓"
+      ]
+    },
+    {
+      "monster_name": "破滅的骷髏神射手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=334",
+      "monster_id": "334",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-3 樓",
+        "亞丁大陸地監-破滅的奇岩地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "破滅的骷髏鬥士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=335",
+      "monster_id": "335",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-3 樓",
+        "亞丁大陸地監-破滅的奇岩地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "破滅的骷髅警衛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=336",
+      "monster_id": "336",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-3 樓",
+        "亞丁大陸地監-破滅的奇岩地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "破滅的多羅",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=337",
+      "monster_id": "337",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "邪惡的罪犯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=495",
+      "monster_id": "495",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "暴力的罪犯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=496",
+      "monster_id": "496",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "殘忍的罪犯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=497",
+      "monster_id": "497",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-1 樓"
+      ]
+    },
+    {
+      "monster_name": "飢餓的罪犯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=498",
+      "monster_id": "498",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-1 樓"
+      ]
+    }
+  ]
+}

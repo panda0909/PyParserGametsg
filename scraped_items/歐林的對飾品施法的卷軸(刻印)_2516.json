@@ -1,0 +1,57 @@
+{
+  "item_id": "2516",
+  "item_name": "歐林的對飾品施法的卷軸(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2516",
+  "item_image": "https://www.gametsg.net/img/2/13/d1d45ccda03f87392f95b8e37c41f876.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "對飾品使用後,防具的強化數值以指定的概率上升或下降.",
+    "然而,目標物品並沒有遺失.",
+    "一般 :",
+    "強化成功時,數值+1",
+    "如果發生故障,加固值就會降低.",
+    "祝福:",
+    "強化成功時,數值+1",
+    "如果發生故障,加固值不會減少"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "43",
+  "category_name": "強化卷軸",
+  "basic_info": {
+    "title": "歐林的對飾品施法的卷軸(刻印)",
+    "類型": "其他(強化卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.63",
+    "說明": [
+      "對飾品使用後,防具的強化數值以指定的概率上升或下降.",
+      "然而,目標物品並沒有遺失.",
+      "一般 :",
+      "強化成功時,數值+1",
+      "如果發生故障,加固值就會降低.",
+      "祝福:",
+      "強化成功時,數值+1",
+      "如果發生故障,加固值不會減少"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

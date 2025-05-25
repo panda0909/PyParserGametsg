@@ -1,0 +1,58 @@
+{
+  "item_id": "2766",
+  "item_name": "佩特拉的榮耀",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2766",
+  "item_image": "https://www.gametsg.net/uploads/20250114/a491cbb5b585c215c582e97be3da0e10.png",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "26/23",
+  "item_stats": [
+    "額外攻擊+25",
+    "武器命中+26",
+    "防止武器損壞",
+    "昏迷 命中+10%",
+    "力量+6",
+    "生命+7",
+    "發動：消除聖結界 2%",
+    "發動：混沌狂襲 3%",
+    "傷害增加 +10%"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "佩特拉的榮耀",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "26/23",
+    "屬性": [
+      "額外攻擊+25",
+      "武器命中+26",
+      "防止武器損壞",
+      "昏迷 命中+10%",
+      "力量+6",
+      "生命+7",
+      "發動：消除聖結界 2%",
+      "發動：混沌狂襲 3%",
+      "傷害增加 +10%"
+    ],
+    "階段": "-1",
+    "材質": "黑色米索莉",
+    "重量": "150"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

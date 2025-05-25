@@ -1,0 +1,2473 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "436",
+    "item_name": "火焰之影頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=436",
+    "item_image": "https://www.gametsg.net/img/1/3/3190073e9066d397626a9a184b6048eb.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-18",
+    "item_stats": [
+      "無視傷害減免4%",
+      "傷害減免+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "437",
+    "item_name": "守護者頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=437",
+    "item_image": "https://www.gametsg.net/img/1/3/d115a9c3ae43c6d16449e5d176305188.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "智力+2"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "438",
+    "item_name": "騎士隊長的覺醒面甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=438",
+    "item_image": "https://www.gametsg.net/img/1/3/f949acb3b42c7da1d1fb1bd42689e4cd.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "力量+3",
+      "近距離傷害+2",
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "439",
+    "item_name": "納格巴斯頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=439",
+    "item_image": "https://www.gametsg.net/img/1/3/51df85e018fa344b52240e076a5887a8.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "PVP傷害減免+10",
+      "暗黑抗性+50%",
+      "發動:黑暗的詛咒 1%"
+    ],
+    "data_zhiye": "2|3|34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "440",
+    "item_name": "杜佩里恩的面甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=440",
+    "item_image": "https://www.gametsg.net/img/1/3/b70692e99cfcad14c31c67af8bee7d90.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "PVP傷害減免+10",
+      "昏迷抗性+10%"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "441",
+    "item_name": "木乃伊王覺醒王冠",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=441",
+    "item_image": "https://www.gametsg.net/img/1/3/8e1cf6a850a9270676ea7ca60498843a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "支撐抗性+10%",
+      "敏捷+5",
+      "遠距離傷害+2",
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "2|4|8|34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "442",
+    "item_name": "木乃伊王的王冠",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=442",
+    "item_image": "https://www.gametsg.net/img/1/3/83f68b3253df8118bb36705b07405669.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "HP回復 (tic)+3",
+      "敏捷+2",
+      "支撐抗性+7%"
+    ],
+    "data_zhiye": "2|4|8|34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "443",
+    "item_name": "木乃伊王的王冠(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=443",
+    "item_image": "https://www.gametsg.net/img/1/3/83f68b3253df8118bb36705b07405669.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "HP回復 (tic)+3",
+      "敏捷+2",
+      "支撐抗性+7%"
+    ],
+    "data_zhiye": "2|4|8|34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "444",
+    "item_name": "守護者面甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=444",
+    "item_image": "https://www.gametsg.net/img/1/3/0aa0b6dac795a705179fecb6b9bac963.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "力量+2",
+      "傷害減免+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "445",
+    "item_name": "指揮官的頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=445",
+    "item_image": "https://www.gametsg.net/img/1/3/80e77e58f02a14b6144c16a4bf96e3ad.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "魔法防禦 (MR)+10",
+      "昏迷抗性+10%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "446",
+    "item_name": "真埃斯卡洛斯頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=446",
+    "item_image": "https://www.gametsg.net/img/1/3/0e8a967ba77b426efbc9bfb370f0182f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "447",
+    "item_name": "真埃斯卡洛斯頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=447",
+    "item_image": "https://www.gametsg.net/img/1/3/0e8a967ba77b426efbc9bfb370f0182f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "448",
+    "item_name": "真·冥皇頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=448",
+    "item_image": "https://www.gametsg.net/img/1/3/fe8c61765e6a59749a900db592c35d17.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "449",
+    "item_name": "哈維女皇的羽毛頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=449",
+    "item_image": "https://www.gametsg.net/img/1/3/6b3ae24e47c33063ea2aab59181f4dc9.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "最大HP+100",
+      "智力+3",
+      "魔攻+1",
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "450",
+    "item_name": "格勒西亞頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=450",
+    "item_image": "https://www.gametsg.net/img/1/3/d272e775fc193722f50d2a3a0836e84f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "34|2",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "451",
+    "item_name": "格勒西亞頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=451",
+    "item_image": "https://www.gametsg.net/img/1/3/d272e775fc193722f50d2a3a0836e84f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "34|2",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "452",
+    "item_name": "寒冰頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=452",
+    "item_image": "https://www.gametsg.net/img/1/3/5dd80e3b10b3528872097a58e1e019fb.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "5|8",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "453",
+    "item_name": "寒冰頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=453",
+    "item_image": "https://www.gametsg.net/img/1/3/5dd80e3b10b3528872097a58e1e019fb.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "5|8",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "454",
+    "item_name": "騎士頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=454",
+    "item_image": "https://www.gametsg.net/img/1/3/14bd5580334e34d555994c8430bbca8d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "455",
+    "item_name": "大法師之帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=455",
+    "item_image": "https://www.gametsg.net/img/1/3/afe184febb74a11a913d89024586cd76.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復(tic)+5",
+      "智力+1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "456",
+    "item_name": "惡魔頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=456",
+    "item_image": "https://www.gametsg.net/img/1/3/826e1807890e7505d1249a5f6c91f5d1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "457",
+    "item_name": "惡魔頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=457",
+    "item_image": "https://www.gametsg.net/img/1/3/826e1807890e7505d1249a5f6c91f5d1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "458",
+    "item_name": "死亡騎士頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=458",
+    "item_image": "https://www.gametsg.net/img/1/3/e1e0eb1ece2506db87774d0275e7ebb4.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "459",
+    "item_name": "死亡騎士頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=459",
+    "item_image": "https://www.gametsg.net/img/1/3/e1e0eb1ece2506db87774d0275e7ebb4.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "460",
+    "item_name": "冥法軍王頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=460",
+    "item_image": "https://www.gametsg.net/img/1/3/b583436a0a78de6ecb6ab633c9aee760.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "461",
+    "item_name": "冥法軍王頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=461",
+    "item_image": "https://www.gametsg.net/img/1/3/b583436a0a78de6ecb6ab633c9aee760.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "462",
+    "item_name": "神聖的魔法防禦頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=462",
+    "item_image": "https://www.gametsg.net/img/1/3/2e236ecde054875bbc64086ff80fc914.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "魔法防禦 (MR)+1",
+      "減少魔法傷害+2%"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "463",
+    "item_name": "神聖的魔法防禦頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=463",
+    "item_image": "https://www.gametsg.net/img/1/3/2e236ecde054875bbc64086ff80fc914.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "魔法防禦 (MR)+1",
+      "減少魔法傷害+2%"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "464",
+    "item_name": "冰之女王魅力頭飾",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=464",
+    "item_image": "https://www.gametsg.net/img/1/3/93d69ac7357085a17bcf721f6ce63a09.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "8",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "465",
+    "item_name": "冰之女王魅力頭飾(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=465",
+    "item_image": "https://www.gametsg.net/img/1/3/93d69ac7357085a17bcf721f6ce63a09.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "8",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "466",
+    "item_name": "埃斯卡洛斯頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=466",
+    "item_image": "https://www.gametsg.net/img/1/3/dacbb3288461440b84c273a4b1b0c2b6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "467",
+    "item_name": "埃斯卡洛斯頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=467",
+    "item_image": "https://www.gametsg.net/img/1/3/dacbb3288461440b84c273a4b1b0c2b6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "468",
+    "item_name": "杰弗雷庫的皮革頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=468",
+    "item_image": "https://www.gametsg.net/img/1/3/22bdb6fda6bc772c88b436c98cf774d3.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "469",
+    "item_name": "杰弗雷庫的鱗頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=469",
+    "item_image": "https://www.gametsg.net/img/1/3/50d86111d74df0c9f42d98fd4c29f6ce.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "470",
+    "item_name": "克特頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=470",
+    "item_image": "https://www.gametsg.net/img/1/3/d82ca3554028d2fd7ac57d716014f71e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "471",
+    "item_name": "克特頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=471",
+    "item_image": "https://www.gametsg.net/img/1/3/d82ca3554028d2fd7ac57d716014f71e.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "472",
+    "item_name": "海賊的帽子",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=472",
+    "item_image": "https://www.gametsg.net/img/1/3/b5ae7e0f341e3553371a66287940889c.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "473",
+    "item_name": "馬庫爾之帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=473",
+    "item_image": "https://www.gametsg.net/img/1/3/e2e32d0de77da4f085d26279280d40b2.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "474",
+    "item_name": "馬庫爾之帽(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=474",
+    "item_image": "https://www.gametsg.net/img/1/3/e2e32d0de77da4f085d26279280d40b2.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "智力+1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "475",
+    "item_name": "武官頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=475",
+    "item_image": "https://www.gametsg.net/img/1/3/5ea357316fce8ce94956673de2dc909f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+10",
+      "HP回復(tic)+1",
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "476",
+    "item_name": "武官頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=476",
+    "item_image": "https://www.gametsg.net/img/1/3/5ea357316fce8ce94956673de2dc909f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+10",
+      "HP回復(tic)+1",
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "477",
+    "item_name": "風之貝蕾帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=477",
+    "item_image": "https://www.gametsg.net/img/1/3/4c2e313b75e5ec88d2ca071faa83fb79.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +10",
+      "魔法防禦 (MR)+4",
+      "MP回復 (tic)+2"
+    ],
+    "data_zhiye": "34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "478",
+    "item_name": "風之貝蕾帽(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=478",
+    "item_image": "https://www.gametsg.net/img/1/3/4c2e313b75e5ec88d2ca071faa83fb79.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +10",
+      "魔法防禦 (MR)+4",
+      "MP回復 (tic)+2"
+    ],
+    "data_zhiye": "34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "479",
+    "item_name": "巴士瑟之帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=479",
+    "item_image": "https://www.gametsg.net/img/1/3/bec46bc9b82449c53a608254272abfa9.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "480",
+    "item_name": "巴士瑟之帽(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=480",
+    "item_image": "https://www.gametsg.net/img/1/3/bec46bc9b82449c53a608254272abfa9.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "481",
+    "item_name": "西瑪之帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=481",
+    "item_image": "https://www.gametsg.net/img/1/3/73cb41601d4d4a1724415db3f09058d5.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +15",
+      "MP回復 (tic)+2"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "482",
+    "item_name": "西瑪之帽(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=482",
+    "item_image": "https://www.gametsg.net/img/1/3/73cb41601d4d4a1724415db3f09058d5.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +15",
+      "MP回復 (tic)+2"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "483",
+    "item_name": "神官頭飾",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=483",
+    "item_image": "https://www.gametsg.net/img/1/3/fc952f8da41bdca318db385343b549d0.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復(tic)+1",
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "484",
+    "item_name": "神官頭飾(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=484",
+    "item_image": "https://www.gametsg.net/img/1/3/fc952f8da41bdca318db385343b549d0.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復(tic)+1",
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "485",
+    "item_name": "異界戰鬥頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=485",
+    "item_image": "https://www.gametsg.net/img/1/3/ded203bbca012caddca4e9c8874d0aa9.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+10",
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "486",
+    "item_name": "異界戰鬥頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=486",
+    "item_image": "https://www.gametsg.net/img/1/3/ded203bbca012caddca4e9c8874d0aa9.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+10",
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "487",
+    "item_name": "被遺忘的旅人鋼盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=487",
+    "item_image": "https://www.gametsg.net/img/1/3/8c6faadd5f362de26da39a46b1c2e4f3.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遺忘之島中發現的古代物品"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "488",
+    "item_name": "卡士柏之帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=488",
+    "item_image": "https://www.gametsg.net/img/1/3/6af0b6828f6861ee60ae482eddad00cd.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +25"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "489",
+    "item_name": "卡士柏之帽(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=489",
+    "item_image": "https://www.gametsg.net/img/1/3/6af0b6828f6861ee60ae482eddad00cd.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +25"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "490",
+    "item_name": "提卡爾庫庫爾坎面具",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=490",
+    "item_image": "https://www.gametsg.net/img/1/3/84d02afc5d631c21f8d2b7e601db1a2b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "MP回復 (tic)+2",
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "491",
+    "item_name": "提卡爾庫庫爾坎面具(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=491",
+    "item_image": "https://www.gametsg.net/img/1/3/84d02afc5d631c21f8d2b7e601db1a2b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "MP回復 (tic)+2",
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "492",
+    "item_name": "遠征者軟呢帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=492",
+    "item_image": "https://www.gametsg.net/img/1/3/90789f9bd5d400aef728efebbfc6ae4c.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "魔法防禦 (MR)+2"
+    ],
+    "data_zhiye": "34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "493",
+    "item_name": "遠征者軟呢帽(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=493",
+    "item_image": "https://www.gametsg.net/img/1/3/90789f9bd5d400aef728efebbfc6ae4c.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "魔法防禦 (MR)+2"
+    ],
+    "data_zhiye": "34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "494",
+    "item_name": "皮革連帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=494",
+    "item_image": "https://www.gametsg.net/img/1/4/abfe076855d8a67da5775334baab3107.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "495",
+    "item_name": "皮革連帽(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=495",
+    "item_image": "https://www.gametsg.net/img/1/4/abfe076855d8a67da5775334baab3107.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "496",
+    "item_name": "鋼鐵頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=496",
+    "item_image": "https://www.gametsg.net/img/1/4/28bc5b76933e54db4a7698408d6d7af3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "497",
+    "item_name": "鋼鐵頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=497",
+    "item_image": "https://www.gametsg.net/img/1/4/28bc5b76933e54db4a7698408d6d7af3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "498",
+    "item_name": "影子假面",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=498",
+    "item_image": "https://www.gametsg.net/img/1/4/022c165bae5f7646a956ab40d61456b9.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "4",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "499",
+    "item_name": "影子假面(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=499",
+    "item_image": "https://www.gametsg.net/img/1/4/022c165bae5f7646a956ab40d61456b9.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "4",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "500",
+    "item_name": "黑暗頭飾",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=500",
+    "item_image": "https://www.gametsg.net/img/1/4/1faad444561a2074a1aa112ff61640b3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "MP回復(tic)+3"
+    ],
+    "data_zhiye": "4",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "501",
+    "item_name": "黑暗頭飾(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=501",
+    "item_image": "https://www.gametsg.net/img/1/4/1faad444561a2074a1aa112ff61640b3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "MP回復(tic)+3"
+    ],
+    "data_zhiye": "4",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "502",
+    "item_name": "艾爾穆的祝福",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=502",
+    "item_image": "https://www.gametsg.net/img/1/4/0b7bef87d2e290966c13f38d35c69130.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "503",
+    "item_name": "艾爾穆的祝福(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=503",
+    "item_image": "https://www.gametsg.net/img/1/4/0b7bef87d2e290966c13f38d35c69130.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "敏捷+1"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "504",
+    "item_name": "異界頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=504",
+    "item_image": "https://www.gametsg.net/img/1/4/770034467dff50373c961100ef507a72.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "505",
+    "item_name": "異界頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=505",
+    "item_image": "https://www.gametsg.net/img/1/4/770034467dff50373c961100ef507a72.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "512",
+    "item_name": "法師之帽(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=512",
+    "item_image": "https://www.gametsg.net/img/1/4/73c6b351ee87f7541e19ca047a340ef0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "513",
+    "item_name": "紅騎士兜帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=513",
+    "item_image": "https://www.gametsg.net/img/1/4/cdac622d329123498bc84d29aebd533f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1|5|8|52|81|7|12",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "514",
+    "item_name": "巡禮者面紗",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=514",
+    "item_image": "https://www.gametsg.net/img/1/4/1d1dffa08f43f70c71f2ca4c108fca7e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "MP回復(tic)+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "515",
+    "item_name": "歐西斯頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=515",
+    "item_image": "https://www.gametsg.net/img/1/4/8c16b0767a749989571e133631fb5517.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "516",
+    "item_name": "精靈頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=516",
+    "item_image": "https://www.gametsg.net/img/1/4/602de919a9a6d4b58e320406c17c21e7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "2|3|5|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "517",
+    "item_name": "精靈頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=517",
+    "item_image": "https://www.gametsg.net/img/1/4/602de919a9a6d4b58e320406c17c21e7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "2|3|5|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "518",
+    "item_name": "戰士團頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=518",
+    "item_image": "https://www.gametsg.net/img/1/4/b303cedc0c07b30ede41406587efd58f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "7",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "519",
+    "item_name": "戰士團頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=519",
+    "item_image": "https://www.gametsg.net/img/1/4/b303cedc0c07b30ede41406587efd58f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "7",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "520",
+    "item_name": "戰士團頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=520",
+    "item_image": "https://www.gametsg.net/img/1/4/b303cedc0c07b30ede41406587efd58f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "7",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "521",
+    "item_name": "鋼盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=521",
+    "item_image": "https://www.gametsg.net/img/1/4/0b1c31289f87aad110a820d15bb0887e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "522",
+    "item_name": "鋼盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=522",
+    "item_image": "https://www.gametsg.net/img/1/4/0b1c31289f87aad110a820d15bb0887e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "523",
+    "item_name": "骷髏頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=523",
+    "item_image": "https://www.gametsg.net/img/1/4/9df281be995928c97cf8e537df81f40f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "524",
+    "item_name": "骷髏頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=524",
+    "item_image": "https://www.gametsg.net/img/1/4/9df281be995928c97cf8e537df81f40f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "506",
+    "item_name": "騎士面甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=506",
+    "item_image": "https://www.gametsg.net/img/1/4/3fe7c8a5dba54c0964f2f38eefc972a8.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1|52|81|7",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "507",
+    "item_name": "侏儒鐵盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=507",
+    "item_image": "https://www.gametsg.net/img/1/4/7152f09b9b1a38374fd42315bb6f4ad0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "508",
+    "item_name": "侏儒鐵盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=508",
+    "item_image": "https://www.gametsg.net/img/1/4/7152f09b9b1a38374fd42315bb6f4ad0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "509",
+    "item_name": "抗魔法頭盔",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=509",
+    "item_image": "https://www.gametsg.net/img/1/4/91815657b6c407caa448466e767dbaab.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "510",
+    "item_name": "抗魔法頭盔(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=510",
+    "item_image": "https://www.gametsg.net/img/1/4/91815657b6c407caa448466e767dbaab.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "魔法防禦 (MR)+4"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|12|13",
+    "category_id": "17",
+    "category_name": "頭盔"
+  },
+  {
+    "item_id": "511",
+    "item_name": "法師之帽",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=511",
+    "item_image": "https://www.gametsg.net/img/1/4/73c6b351ee87f7541e19ca047a340ef0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "3|81",
+    "category_id": "17",
+    "category_name": "頭盔"
+  }
+]

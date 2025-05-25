@@ -1,0 +1,77 @@
+{
+  "item_id": "1168",
+  "item_name": "泰坦皮帶(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1168",
+  "item_image": "https://www.gametsg.net/img/1/8/2ddcf6d572e81baf49e0ff0a9754bc98.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "負重獎勵+1850"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "29",
+  "category_name": "腰帶",
+  "basic_info": {
+    "title": "泰坦皮帶(刻印)",
+    "類型": "飾品(腰帶)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": "負重獎勵+1850",
+    "祝福屬性": "藥水恢復率+1%",
+    "材質": "皮革",
+    "重量": "50"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+10,負重獎勵+10"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+30,負重獎勵+30"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+40,負重獎勵+40"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+50,負重獎勵+50,近距離暴擊抗性+2%,遠距離暴擊抗性+2%,PVE傷害減免+1"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+60,負重獎勵+60,近距離暴擊抗性+4%,遠距離暴擊抗性+4%,PVE傷害減免+2"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+70,負重獎勵+70,近距離暴擊抗性+6%,遠距離暴擊抗性+6%,PVE傷害減免+3"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+80,負重獎勵+80,近距離暴擊抗性+8%,遠距離暴擊抗性+8%,PVE傷害減免+4"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

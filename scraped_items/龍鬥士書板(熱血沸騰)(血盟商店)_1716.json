@@ -1,0 +1,41 @@
+{
+  "item_id": "1716",
+  "item_name": "龍鬥士書板(熱血沸騰)(血盟商店)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1716",
+  "item_image": "https://www.gametsg.net/img/2/11/9c2e7c7d3c31346e7366aec2d0abee13.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "龍鬥士書板"
+  ],
+  "data_zhiye": "5",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "龍鬥士書板(熱血沸騰)(血盟商店)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "龍鬥士書板"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

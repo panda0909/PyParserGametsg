@@ -1,0 +1,162 @@
+{
+  "item_id": "927",
+  "item_name": "信念的臂甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=927",
+  "item_image": "https://www.gametsg.net/img/1/6/52cd6ee01c6691818dfee39009626bea.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-5",
+  "item_stats": [
+    "近距離傷害+3",
+    "遠距離傷害減免+5",
+    "昏迷命中 +7%",
+    "遠距離傷害減免機率 15%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "信念的臂甲",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-5",
+    "屬性": [
+      "近距離傷害+3",
+      "遠距離傷害減免+5",
+      "昏迷命中 +7%",
+      "遠距離傷害減免機率 15%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "黑色米索莉",
+    "重量": "30",
+    "說明": [
+      "機率範圍降低+100",
+      "被擊中時以設定概率觸發"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1,機率遠距離傷害減免2%"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2,機率遠距離傷害減免4%"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3,機率遠距離傷害減免6%"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4,機率遠距離傷害減免8%"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,機率遠距離傷害減免10%"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,機率遠距離傷害減免12%"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,機率遠距離傷害減免14%"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,機率遠距離傷害減免16%"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,機率遠距離傷害減免18%"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,機率遠距離傷害減免20%"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,機率遠距離傷害減免22%"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,機率遠距離傷害減免24%"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,機率遠距離傷害減免26%"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,機率遠距離傷害減免28%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "嫉妒的公主伊莎貝",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=22",
+      "monster_id": "22",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "信念之塔-3樓"
+      ]
+    },
+    {
+      "monster_name": "貪婪的貝利亞爾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=28",
+      "monster_id": "28",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "98",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-2樓"
+      ]
+    },
+    {
+      "monster_name": "傲慢的王子戴歐斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=37",
+      "monster_id": "37",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "97",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-1樓"
+      ]
+    }
+  ]
+}

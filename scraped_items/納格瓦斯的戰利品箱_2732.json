@@ -1,0 +1,79 @@
+{
+  "item_id": "2732",
+  "item_name": "納格瓦斯的戰利品箱",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2732",
+  "item_image": "https://www.gametsg.net/img/2/14/2fbc27b56add222c512c31faf718857f.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時,依照機率",
+    "艾歐丁的靈魂,",
+    "納格巴斯褲子,",
+    "納格巴斯頭盔,",
+    "納格巴斯斗篷,",
+    "納格巴斯長靴,",
+    "獲得一個死者的靈魂石"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "納格瓦斯的戰利品箱",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": [
+      "使用時,依照機率",
+      "艾歐丁的靈魂,",
+      "納格巴斯褲子,",
+      "納格巴斯頭盔,",
+      "納格巴斯斗篷,",
+      "納格巴斯長靴,",
+      "獲得一個死者的靈魂石"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "祭司長納格巴斯 (分身)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=7",
+      "monster_id": "7",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "祭司長納格巴斯 (本體)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=8",
+      "monster_id": "8",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    }
+  ]
+}

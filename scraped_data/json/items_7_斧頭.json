@@ -1,0 +1,1488 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "197",
+    "item_name": "艾莉絲(斧頭)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=197",
+    "item_image": "https://www.gametsg.net/img/1/2/520522935f452f93a6d0fca2d011dfe8.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "34 / 39",
+    "item_stats": [
+      "額外攻擊+27",
+      "武器命中+15",
+      "經驗值獲得量增加+30%",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +8%",
+      "近距離爆擊+2%",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "198",
+    "item_name": "泰坦的憤怒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=198",
+    "item_image": "https://www.gametsg.net/img/1/2/ed6cb5fd65abda55fff17b4cb2ded652.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "38 / 43",
+    "item_stats": [
+      "額外攻擊+29",
+      "武器命中+20",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +10%",
+      "近距離爆擊+3%",
+      "發動:混沌狂襲 3%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "199",
+    "item_name": "泰坦的憤怒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=199",
+    "item_image": "https://www.gametsg.net/img/1/2/ed6cb5fd65abda55fff17b4cb2ded652.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "38 / 43",
+    "item_stats": [
+      "額外攻擊+29",
+      "武器命中+20",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +10%",
+      "近距離爆擊+3%",
+      "發動:混沌狂襲 3%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "200",
+    "item_name": "古代神之斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=200",
+    "item_image": "https://www.gametsg.net/img/1/2/64ec8938d221d3cfea1f02d7d5ab344a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "28 / 30",
+    "item_stats": [
+      "額外攻擊+8",
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1",
+      "昏迷命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "201",
+    "item_name": "古代神之斧頭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=201",
+    "item_image": "https://www.gametsg.net/img/1/2/64ec8938d221d3cfea1f02d7d5ab344a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "28 / 30",
+    "item_stats": [
+      "額外攻擊+8",
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1",
+      "昏迷命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "202",
+    "item_name": "歐西里斯斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=202",
+    "item_image": "https://www.gametsg.net/img/1/2/1407a8e1f9894f9e055c2d4163ce3d1f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "29 / 35",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+6",
+      "力量+1",
+      "雙手武器",
+      "防止武器損壞",
+      "死亡+3",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "203",
+    "item_name": "歐西里斯斧頭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=203",
+    "item_image": "https://www.gametsg.net/img/1/2/1407a8e1f9894f9e055c2d4163ce3d1f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "29 / 35",
+    "item_stats": [
+      "額外攻擊+9",
+      "武器命中+6",
+      "力量+1",
+      "雙手武器",
+      "防止武器損壞",
+      "死亡+3",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "204",
+    "item_name": "食人巨魔的斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=204",
+    "item_image": "https://www.gametsg.net/img/1/2/8d8db3b8e6de3691cd68353654aabc8e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "30 / 36",
+    "item_stats": [
+      "額外攻擊+11",
+      "武器命中+7",
+      "力量+1",
+      "雙手武器",
+      "昏迷命中 +7%",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "近距離爆擊+1%",
+      "發動:艾保羅泰因的徽章 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "205",
+    "item_name": "食人巨魔的斧頭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=205",
+    "item_image": "https://www.gametsg.net/img/1/2/8d8db3b8e6de3691cd68353654aabc8e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "30 / 36",
+    "item_stats": [
+      "額外攻擊+11",
+      "武器命中+7",
+      "力量+1",
+      "雙手武器",
+      "昏迷命中 +7%",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "近距離爆擊+1%",
+      "發動:艾保羅泰因的徽章 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "206",
+    "item_name": "惡魔斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=206",
+    "item_image": "https://www.gametsg.net/img/1/2/5df26033e3d61ab0e553bdd2a37da1b2.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "30 / 30",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+3",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "207",
+    "item_name": "惡魔王斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=207",
+    "item_image": "https://www.gametsg.net/img/1/2/433214a529ae5bfd88d0c39f66fb8384.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "25 / 26",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "208",
+    "item_name": "惡魔王斧頭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=208",
+    "item_image": "https://www.gametsg.net/img/1/2/433214a529ae5bfd88d0c39f66fb8384.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "25 / 26",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "209",
+    "item_name": "沉默之斧",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=209",
+    "item_image": "https://www.gametsg.net/img/1/2/7394db32d5772529bcaf5af71e050673.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "26 / 24",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+3",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:魔法封印0.3%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "210",
+    "item_name": "沉默之斧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=210",
+    "item_image": "https://www.gametsg.net/img/1/2/7394db32d5772529bcaf5af71e050673.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "26 / 24",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+3",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:魔法封印0.3%"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "211",
+    "item_name": "強盜的斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=211",
+    "item_image": "https://www.gametsg.net/img/1/2/de645ecf49c0c630350a231def332c66.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "26 / 27",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+2",
+      "最大HP+30",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1",
+      "精神+1"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "212",
+    "item_name": "強盜的斧頭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=212",
+    "item_image": "https://www.gametsg.net/img/1/2/de645ecf49c0c630350a231def332c66.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "26 / 27",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+2",
+      "最大HP+30",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1",
+      "精神+1"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "213",
+    "item_name": "巨人的斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=213",
+    "item_image": "https://www.gametsg.net/img/1/2/615f68286443def3b1586f71d316f4bb.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "24/25",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "214",
+    "item_name": "巨人之斧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=214",
+    "item_image": "https://www.gametsg.net/img/1/2/615f68286443def3b1586f71d316f4bb.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "24/25",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "215",
+    "item_name": "狂風之斧",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=215",
+    "item_image": "https://www.gametsg.net/img/1/2/7782d23347b238a40f507355a8cb35a4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "23 / 23",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:黑暗閃電 4%"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "216",
+    "item_name": "狂風之斧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=216",
+    "item_image": "https://www.gametsg.net/img/1/2/7782d23347b238a40f507355a8cb35a4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "23 / 23",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:黑暗閃電 4%"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "217",
+    "item_name": "魔族斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=217",
+    "item_image": "https://www.gametsg.net/img/1/2/5dcefb0e711e920499b7d65e5879526e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "25 / 20",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "218",
+    "item_name": "魔族斧頭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=218",
+    "item_image": "https://www.gametsg.net/img/1/2/5dcefb0e711e920499b7d65e5879526e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "25 / 20",
+    "item_stats": [
+      "額外攻擊+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "1|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "219",
+    "item_name": "被遺忘的旅人斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=219",
+    "item_image": "https://www.gametsg.net/img/1/2/1fea644c1690f9a078eab39e867d0dfc.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "220",
+    "item_name": "狂戰士斧",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=220",
+    "item_image": "https://www.gametsg.net/img/1/2/cd14860618728ad118c176d3c50116b3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "19 / 19",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "221",
+    "item_name": "狂戰士斧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=221",
+    "item_image": "https://www.gametsg.net/img/1/2/cd14860618728ad118c176d3c50116b3.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "19 / 19",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "222",
+    "item_name": "米索莉斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=222",
+    "item_image": "https://www.gametsg.net/img/1/2/5831939c161983c4d1e2926f7d3d704d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "24 / 21",
+    "item_stats": [
+      "額外攻擊+1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "223",
+    "item_name": "米索莉斧頭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=223",
+    "item_image": "https://www.gametsg.net/img/1/2/5831939c161983c4d1e2926f7d3d704d.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "24 / 21",
+    "item_stats": [
+      "額外攻擊+1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "224",
+    "item_name": "銀斧",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=224",
+    "item_image": "https://www.gametsg.net/img/1/2/afedcb10346b8212f707dc6d8dc87f16.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "17 / 24",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "225",
+    "item_name": "銀斧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=225",
+    "item_image": "https://www.gametsg.net/img/1/2/afedcb10346b8212f707dc6d8dc87f16.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "17 / 24",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "226",
+    "item_name": "侏儒鐵斧",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=226",
+    "item_image": "https://www.gametsg.net/img/1/2/1eafbb5999f9a828e24a4eabf7c136c9.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "18 / 24",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "227",
+    "item_name": "侏儒鐵斧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=227",
+    "item_image": "https://www.gametsg.net/img/1/2/1eafbb5999f9a828e24a4eabf7c136c9.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "18 / 24",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "228",
+    "item_name": "大匠的斧頭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=228",
+    "item_image": "https://www.gametsg.net/img/1/2/1caa53a223422aad1e92dfd71ed903b4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "16 / 16",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "229",
+    "item_name": "大匠的斧頭(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=229",
+    "item_image": "https://www.gametsg.net/img/1/2/1caa53a223422aad1e92dfd71ed903b4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "16 / 16",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "230",
+    "item_name": "巨斧",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=230",
+    "item_image": "https://www.gametsg.net/img/1/2/1d666a02231625982dea81bac840d5e8.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "20/26",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "231",
+    "item_name": "巨斧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=231",
+    "item_image": "https://www.gametsg.net/img/1/2/1d666a02231625982dea81bac840d5e8.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "20/26",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "232",
+    "item_name": "流星錘",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=232",
+    "item_image": "https://www.gametsg.net/img/1/2/9800deb8be8b959bbe1fed6dc064e6d9.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "9/10",
+    "item_stats": [
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|5|8|52|81",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "233",
+    "item_name": "流星錘(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=233",
+    "item_image": "https://www.gametsg.net/img/1/2/9800deb8be8b959bbe1fed6dc064e6d9.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "9/10",
+    "item_stats": [
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|5|8|52|81",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "234",
+    "item_name": "亞連",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=234",
+    "item_image": "https://www.gametsg.net/img/1/2/a2423ec0e7080f29943d21acd8a32fbd.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "武器命中+2",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|8|52|81",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "235",
+    "item_name": "戰錘(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=235",
+    "item_image": "https://www.gametsg.net/img/1/2/5af8d88c3fe9094e28a0d6f6113cef09.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "17 / 19",
+    "item_stats": [
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "236",
+    "item_name": "戰斧",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=236",
+    "item_image": "https://www.gametsg.net/img/1/2/898a53f7947e77f1a9fe3f57d24ebfdf.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "18 / 18",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  },
+  {
+    "item_id": "237",
+    "item_name": "戰斧(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=237",
+    "item_image": "https://www.gametsg.net/img/1/2/898a53f7947e77f1a9fe3f57d24ebfdf.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "18 / 18",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|5|8|52|81|7",
+    "category_id": "7",
+    "category_name": "斧頭"
+  }
+]

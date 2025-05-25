@@ -1,0 +1,40 @@
+{
+  "item_id": "1493",
+  "item_name": "聖靈收集憑證(神話)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1493",
+  "item_image": "https://www.gametsg.net/img/1/10/3b88038593a3d8d0575cf0de4969f5ac.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "註冊一個物品收藏或創建一個文物 10,000 個硬幣."
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "聖靈收集憑證(神話)",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬",
+    "說明": "註冊一個物品收藏或創建一個文物 10,000 個硬幣."
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

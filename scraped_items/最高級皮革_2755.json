@@ -1,0 +1,55 @@
+{
+  "item_id": "2755",
+  "item_name": "最高級皮革",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2755",
+  "item_image": "https://www.gametsg.net/img/3/25/8705804bec5ec77b5345aad349fea3ba.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "最高級皮革",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "皮革",
+    "重量": "1"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2601",
+      "material_id": "2601",
+      "material_name": "高級皮革",
+      "material_image": "https://www.gametsg.net/img/2/13/521e69ae756a16723daf3332d4cac5f1.jpg",
+      "material_grade": "grade00",
+      "material_count": "10"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "100000"
+    }
+  ],
+  "monster_drops": []
+}

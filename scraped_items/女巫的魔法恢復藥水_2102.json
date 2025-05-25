@@ -1,0 +1,44 @@
+{
+  "item_id": "2102",
+  "item_name": "女巫的魔法恢復藥水",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2102",
+  "item_image": "https://www.gametsg.net/img/2/12/b5e1e79fb951d887ae174fced4291c1f.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "法力恢復 1000"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "40",
+  "category_name": "藥水",
+  "basic_info": {
+    "title": "女巫的魔法恢復藥水",
+    "類型": "其他(藥水)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "法力恢復 1000",
+    "材質": "液體",
+    "說明": [
+      "瞬間恢復 1000 MP",
+      "(30分鐘冷卻時間)"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

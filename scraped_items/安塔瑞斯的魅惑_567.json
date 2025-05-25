@@ -1,0 +1,199 @@
+{
+  "item_id": "567",
+  "item_name": "安塔瑞斯的魅惑",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=567",
+  "item_image": "https://www.gametsg.net/img/1/4/e879f188c0c4531f35c3e204da807094.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-8",
+  "item_stats": [
+    "MP恢復(tic)+10",
+    "HP恢復 (tic)+2",
+    "傷害減免+5",
+    "毒抗性+100%",
+    "土屬性抗性+50%"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "47",
+  "category_name": "盔甲",
+  "basic_info": {
+    "title": "安塔瑞斯的魅惑",
+    "類型": "防具(盔甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-8",
+    "屬性": [
+      "MP恢復(tic)+10",
+      "HP恢復 (tic)+2",
+      "傷害減免+5",
+      "毒抗性+100%",
+      "土屬性抗性+50%"
+    ],
+    "祝福屬性": "物理防禦 (AC)-1",
+    "材質": "龍鱗",
+    "重量": "50",
+    "說明": "[7~9每次附魔 減少傷害1 最多減少3]"
+  },
+  "detail_info": {
+    "倉庫": "可儲存",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦 (AC)-7，傷害減免+1"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦 (AC)-8，傷害減免+2"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦 (AC)-9，傷害減免+3"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦 (AC)-10，傷害減免+3"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦 (AC)-11，傷害減免+3"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦 (AC)-12，傷害減免+3"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦 (AC)-13，傷害減免+3"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦 (AC)-14，傷害減免+3"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=614",
+      "material_id": "614",
+      "material_name": "+5 安塔拉斯的祝福魔盔甲",
+      "material_image": "https://www.gametsg.net/img/1/4/0e11cbda3fd55b21aeb00ac31824cab0.jpg",
+      "material_grade": "grade04",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=615",
+          "alt_id": "615",
+          "alt_name": "+5 安塔拉斯的祝福魔盔甲(刻印)",
+          "alt_grade": "grade04",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=615",
+      "material_id": "615",
+      "material_name": "",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1340",
+      "material_id": "1340",
+      "material_name": "安塔瑞斯之心",
+      "material_image": "https://www.gametsg.net/img/1/9/d97b2bfdd62992e83689ed898ecc2a32.jpg",
+      "material_grade": "grade05",
+      "material_count": "2",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+          "alt_id": "1348",
+          "alt_name": "傳說製作秘笈",
+          "alt_grade": "grade05",
+          "alt_count": "2"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+          "alt_id": "1349",
+          "alt_name": "傳說製作秘笈(刻印)",
+          "alt_grade": "grade05",
+          "alt_count": "2"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1348",
+      "material_id": "1348",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1349",
+      "material_id": "1349",
+      "material_name": "",
+      "material_grade": "grade05",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2757",
+      "material_id": "2757",
+      "material_name": "最高級的布",
+      "material_image": "https://www.gametsg.net/img/3/25/ae909309915392f57c616f2377927e32.jpg",
+      "material_grade": "grade00",
+      "material_count": "100"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "50000000"
+    }
+  ],
+  "monster_drops": []
+}

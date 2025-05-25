@@ -1,0 +1,70 @@
+{
+  "item_id": "2556",
+  "item_name": "傲慢之塔4樓支配符咒",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2556",
+  "item_image": "https://www.gametsg.net/img/2/13/93d6d594a3efc78cf0e3f51e31d2751b.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "位於傲慢與信念之塔入口處",
+    "68級以上可用",
+    "擁有第四層主宰符時",
+    "可以從傲慢之塔4樓傳送",
+    "應用艾保羅泰因之怒",
+    "[艾保羅泰因之怒]",
+    "近/遠傷害+3",
+    "近距離/遠距離命中+3",
+    "魔法命中+1",
+    "魔攻+3"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "44",
+  "category_name": "移動道具",
+  "basic_info": {
+    "title": "傲慢之塔4樓支配符咒",
+    "類型": "其他(移動道具)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用",
+      "擁有第四層主宰符時",
+      "可以從傲慢之塔4樓傳送",
+      "應用艾保羅泰因之怒",
+      "[艾保羅泰因之怒]",
+      "近/遠傷害+3",
+      "近距離/遠距離命中+3",
+      "魔法命中+1",
+      "魔攻+3"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2555",
+      "material_id": "2555",
+      "material_name": "傲慢之塔4樓傳送符",
+      "material_image": "https://www.gametsg.net/img/2/13/3992dd22c4d2aba6bb739197f5986da0.jpg",
+      "material_grade": "grade01",
+      "material_count": "2"
+    }
+  ],
+  "monster_drops": []
+}

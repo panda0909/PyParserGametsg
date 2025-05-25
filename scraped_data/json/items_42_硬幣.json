@@ -1,0 +1,1005 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1305",
+    "item_name": "榮譽貨幣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1305",
+    "item_image": "https://www.gametsg.net/img/1/9/28896494b1f02037555284f4553b64d0.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "物品製作材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2489",
+    "item_name": "熟練屬性變更卷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2489",
+    "item_image": "https://www.gametsg.net/img/2/12/a8ea4cec062b7d32b526e046496915ac.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "更改技能選項時使用的票證"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2490",
+    "item_name": "印章票",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2490",
+    "item_image": "https://www.gametsg.net/img/1/10/8486b60f5b08632ca31b5f16711d4e20.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "封印商人貨幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2491",
+    "item_name": "國王的硬幣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2491",
+    "item_image": "https://www.gametsg.net/img/2/12/bb7bdfac3c0464f0fb3f9597484aeaea.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "哪裡獲取:",
+      "戰利品店"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1418",
+    "item_name": "水龍的憑證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1418",
+    "item_image": "https://www.gametsg.net/img/1/10/6997ef325e05d62ac692aad7266f9a9c.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "水龍魔眼材質"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1429",
+    "item_name": "地龍的動章",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1429",
+    "item_image": "https://www.gametsg.net/img/1/10/799520545b429f959b456528980fb1fc.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "地龍魔眼材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1430",
+    "item_name": "風龍的動章",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1430",
+    "item_image": "https://www.gametsg.net/img/1/10/087131cc4a674e92797ceae12d5b4893.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "風龍魔眼材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1431",
+    "item_name": "火龍的標誌",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1431",
+    "item_image": "https://www.gametsg.net/img/1/10/ad60fda53c701a988ec083890873ec91.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "火龍魔眼材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1548",
+    "item_name": "破滅的憑證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1548",
+    "item_image": "https://www.gametsg.net/img/2/11/5f7f9eff2df755ca8876bd9479a37748.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1567",
+    "item_name": "烈焰的憑證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1567",
+    "item_image": "https://www.gametsg.net/img/2/11/49ef8e4e92a46341a64a7cdc2e7cee7a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1456",
+    "item_name": "魔法娃娃探險憑證(高級)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1456",
+    "item_image": "https://www.gametsg.net/img/1/10/8fd5f3f0e2cf6f48b0761436ca2ee8e6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊一個物品收藏或創建一個魔法娃娃並賺取 200 個金幣."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1457",
+    "item_name": "魔法娃娃探險憑證(神話)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1457",
+    "item_image": "https://www.gametsg.net/img/1/10/21614a64e0076f2c6f512e2ed05c94fe.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊一個物品收藏或創建一個魔法娃娃創建 10,000 個硬幣."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1458",
+    "item_name": "魔法娃娃探險憑證(英雄)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1458",
+    "item_image": "https://www.gametsg.net/img/1/10/a0a2ec2256dc5775fe6c28997d286ba6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊一個物品收藏或創建一個魔法娃娃並賺取 500 個金幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1459",
+    "item_name": "魔法娃娃探險憑證(一般)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1459",
+    "item_image": "https://www.gametsg.net/img/1/10/efe516301eb5570f5db3dccd5b488eb4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊一個物品收藏或創建一個魔法娃娃並賺取 100 個硬幣."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1460",
+    "item_name": "魔法娃娃探索憑證(傳說)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1460",
+    "item_image": "https://www.gametsg.net/img/1/10/3856963619ecac569ff3d99c6d7d95ce.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊一個物品收藏或創建一個魔法娃娃並賺取 1,000 個金幣."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1461",
+    "item_name": "魔法娃娃探索憑證(稀有)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1461",
+    "item_image": "https://www.gametsg.net/img/1/10/9a3fa37eda7f4f6f66ed73968c1c1a5d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊一個物品收藏或創建一個魔法娃娃並賺取 300 個金幣."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2492",
+    "item_name": "虛空的塵埃",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2492",
+    "item_image": "https://www.gametsg.net/img/2/12/b7252dc583c38d15d47bb2d50c79a371.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "在虛空神殿中使用虛空傳送門時所使用的貨幣物品",
+      "或可以出售給購買該物品的商人.",
+      "哪裡獲取:",
+      "[虛空神殿]"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2493",
+    "item_name": "救護證書",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2493",
+    "item_image": "https://www.gametsg.net/img/2/12/4ff60ae0531890ed35f34d0751f80ea4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "可透過回復神女回復經驗值",
+      "可免費回復後使用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2494",
+    "item_name": "騎士團的憑證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2494",
+    "item_image": "https://www.gametsg.net/img/2/12/9ff56056f14a1e4c6c362030884d9042.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "哪裡獲取:",
+      "[任務]",
+      "[血盟捐贈]",
+      "用途:",
+      "[血盟商店]"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2495",
+    "item_name": "魔法娃娃製作硬幣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2495",
+    "item_image": "https://www.gametsg.net/img/2/12/ae1dd7f7f6d7f55516a3ba13374dc93d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2496",
+    "item_name": "名譽金幣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2496",
+    "item_image": "https://www.gametsg.net/img/2/12/379043d028717e023388d732e5a91ffa.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "哪裡獲取:",
+      "[任務]",
+      "[任務]",
+      "[血盟簽到]",
+      "[血盟捐贈]",
+      "用途:",
+      "[血盟商店]"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2497",
+    "item_name": "變身製作硬幣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2497",
+    "item_image": "https://www.gametsg.net/img/2/12/bf6eee1d4a6409d3c2e5de37ae8414ae.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2498",
+    "item_name": "聖物製作硬幣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2498",
+    "item_image": "https://www.gametsg.net/img/2/13/8e504d670265f0428fa360c5f31146f0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2499",
+    "item_name": "守護石",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2499",
+    "item_image": "https://www.gametsg.net/img/2/13/9a5187859445c02ed246e0783e2f81eb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "守護槽開口材質"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2500",
+    "item_name": "金幣",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+    "item_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "血統貨幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "2501",
+    "item_name": "血盟通行證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=2501",
+    "item_image": "https://www.gametsg.net/img/2/13/95b8b469bc92b1cbe80e88c7197f8db0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "與部落成員一起旅行的通行證"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1489",
+    "item_name": "死神的印章",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1489",
+    "item_image": "https://www.gametsg.net/img/1/10/7c83f29072b7c02e9f0b140f0cf5c1cf.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1492",
+    "item_name": "聖靈收集憑證(高級)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1492",
+    "item_image": "https://www.gametsg.net/img/1/10/c454d6b7d72bfc6aad113cd89636dcd8.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或手工藝品並賺取 200 個硬幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1493",
+    "item_name": "聖靈收集憑證(神話)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1493",
+    "item_image": "https://www.gametsg.net/img/1/10/3b88038593a3d8d0575cf0de4969f5ac.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊一個物品收藏或創建一個文物 10,000 個硬幣."
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1494",
+    "item_name": "聖靈收集憑證(英雄)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1494",
+    "item_image": "https://www.gametsg.net/img/1/10/dfceeec57892495f809fc3e71f727415.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或手工藝品並賺取 500 個硬幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1495",
+    "item_name": "聖靈收集憑證(一般)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1495",
+    "item_image": "https://www.gametsg.net/img/1/10/619b668515a5bff7dc6f2af7747e8eb5.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或製作 100 枚聖物硬幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1496",
+    "item_name": "聖靈收集憑證(傳奇)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1496",
+    "item_image": "https://www.gametsg.net/img/1/10/9465754f06f8f225583781065d9573a7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或生產 1,000 枚聖物幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1497",
+    "item_name": "聖靈收集憑證(稀有)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1497",
+    "item_image": "https://www.gametsg.net/img/1/10/85b38d5e23d98a23315bbfa72d5a32dc.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或創建聖物並賺取 300 個硬幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1501",
+    "item_name": "試煉硬幣(高級)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1501",
+    "item_image": "https://www.gametsg.net/img/1/10/f3a94e82c577eb3f2a8d6b9706b0804d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或製作改造工藝品 300 金幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1502",
+    "item_name": "試煉硬幣(神話)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1502",
+    "item_image": "https://www.gametsg.net/img/1/10/0c0d8c14c505d6a84d16d922d12f4f65.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或製作改造工藝品 100,000 金幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1503",
+    "item_name": "試煉硬幣(英雄)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1503",
+    "item_image": "https://www.gametsg.net/img/1/10/a307638c4bc9ea495e8cf1fcb04c4669.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或製作改造工藝 4,500 金幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1504",
+    "item_name": "試煉硬幣(一般)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1504",
+    "item_image": "https://www.gametsg.net/img/1/10/5880425ad5416e8dd8ab3bef4ed62b40.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或製作 100 個變身幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1505",
+    "item_name": "試煉硬幣(傳奇)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1505",
+    "item_image": "https://www.gametsg.net/img/1/10/ea613e0ff2aa5959efb5efb5231c399f.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或製作改造工藝品 20,000 金幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1506",
+    "item_name": "試煉硬幣(稀有)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1506",
+    "item_image": "https://www.gametsg.net/img/1/10/97cdf3b59a0e853e8b6b1800fbf74a65.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "註冊物品收藏或生產 1,000 個變身幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1510",
+    "item_name": "惡魔之印",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1510",
+    "item_image": "https://www.gametsg.net/img/1/10/df39746b612b62b69bf97f4dac41b938.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1516",
+    "item_name": "黑暗的憑證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1516",
+    "item_image": "https://www.gametsg.net/img/2/11/816c5ec056d4a1639ce3ab50c5d2b531.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "收集材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1519",
+    "item_name": "英雄的憑證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1519",
+    "item_image": "https://www.gametsg.net/img/2/11/8f1b96d1527dac0ab58c9ac02d4137e4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "代幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1529",
+    "item_name": "傳說的憑證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1529",
+    "item_image": "https://www.gametsg.net/img/2/11/23cb11d798f3f166135af9817c0253ad.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "代幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  },
+  {
+    "item_id": "1531",
+    "item_name": "頂級憑證",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1531",
+    "item_image": "https://www.gametsg.net/img/2/11/af2885e59a38a7987abc0379358b4164.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "代幣"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "42",
+    "category_name": "硬幣"
+  }
+]

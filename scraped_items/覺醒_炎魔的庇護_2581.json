@@ -1,0 +1,55 @@
+{
+  "item_id": "2581",
+  "item_name": "覺醒:炎魔的庇護",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2581",
+  "item_image": "https://www.gametsg.net/img/2/13/6658df35e3f02b15cba5629a9db92d7b.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間 10 分鐘",
+    "冷卻時間 (秒)1小時",
+    "PVE傷害減免+4"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "45",
+  "category_name": "魔眼",
+  "basic_info": {
+    "title": "覺醒:炎魔的庇護",
+    "類型": "其他(魔眼)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "持續時間 10 分鐘",
+      "冷卻時間 (秒)1小時",
+      "PVE傷害減免+4"
+    ],
+    "材質": "龍鱗",
+    "重量": "1",
+    "說明": [
+      "拿著物品時:",
+      "[PVE傷害減免+4]",
+      "使用物品時:",
+      "[PVP傷害減免+4]",
+      "消耗品:",
+      "[10名譽金幣]"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

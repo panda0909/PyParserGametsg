@@ -1,0 +1,167 @@
+{
+  "item_id": "750",
+  "item_name": "真埃斯卡洛斯手套",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=750",
+  "item_image": "https://www.gametsg.net/img/1/5/d1721826573ac134e92408b53133e19c.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-6",
+  "item_stats": [
+    "PVE傷害減免+5"
+  ],
+  "data_zhiye": "",
+  "category_id": "20",
+  "category_name": "手套",
+  "basic_info": {
+    "title": "真埃斯卡洛斯手套",
+    "類型": "防具(手套)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-6",
+    "屬性": "PVE傷害減免+5",
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "金屬塊",
+    "重量": "15",
+    "套裝裝備": [
+      "真埃斯卡洛斯盔甲",
+      "真埃斯卡洛斯手套",
+      "真埃斯卡洛斯長靴",
+      "真埃斯卡洛斯頭盔",
+      "真埃斯卡洛斯盔甲(刻印)",
+      "真埃斯卡洛斯手套(刻印)",
+      "真埃斯卡洛斯長靴(刻印)",
+      "真埃斯卡洛斯頭盔(刻印)"
+    ],
+    "套裝屬性": [
+      "2套裝效果",
+      "經驗值獲得量增加+20%",
+      "物理防禦力 (AC)-5",
+      "PVE傷害減免+10",
+      "4套裝效果",
+      "經驗值獲得量增加+20%",
+      "物理防禦力 (AC)-5",
+      "PVE傷害減免+10"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1361",
+      "material_id": "1361",
+      "material_name": "埃斯卡洛斯結晶",
+      "material_image": "https://www.gametsg.net/img/1/9/cdbebcf2f0e9b6fa6b06f967f23b8732.jpg",
+      "material_grade": "grade04",
+      "material_count": "20"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=765",
+      "material_id": "765",
+      "material_name": "+5 埃斯卡洛斯手套",
+      "material_image": "https://www.gametsg.net/img/1/5/c45e5d75f32c38f9cf5a1ee6c672a2b6.jpg",
+      "material_grade": "grade04",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1373",
+      "material_id": "1373",
+      "material_name": "英雄製作秘笈",
+      "material_image": "https://www.gametsg.net/img/1/9/8d026692e7dcbeb4071c5fe8c1397d31.jpg",
+      "material_grade": "grade04",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "20000000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "祭司長納格巴斯 (本體)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=8",
+      "monster_id": "8",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    }
+  ]
+}

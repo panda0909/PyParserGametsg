@@ -1,0 +1,40 @@
+{
+  "item_id": "1535",
+  "item_name": "破碎的海盜船藏寶圖",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1535",
+  "item_image": "https://www.gametsg.net/img/2/11/d882ce0c515ae7971232bf03ba296490.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "製作海盜船藏寶圖的材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "破碎的海盜船藏寶圖",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "說明": "製作海盜船藏寶圖的材料"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

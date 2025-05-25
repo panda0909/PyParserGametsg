@@ -1,0 +1,41 @@
+{
+  "item_id": "1328",
+  "item_name": "神話防具製作秘笈(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1328",
+  "item_image": "https://www.gametsg.net/img/1/9/fc0b5a1a8d522ec15d7c168bf05ab6c5.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "神話防具製作秘笈(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,270 @@
+{
+  "item_id": "2608",
+  "item_name": "加速藥水箱(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2608",
+  "item_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用後,支援目前各個職業的消耗品."
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "加速藥水箱(刻印)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原木",
+    "重量": "0.01",
+    "說明": "使用後,支援目前各個職業的消耗品."
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=711",
+      "monster_id": "711",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "64",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=719",
+      "monster_id": "719",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "63",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=720",
+      "monster_id": "720",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "63",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=725",
+      "monster_id": "725",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "62",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=726",
+      "monster_id": "726",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "62",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=738",
+      "monster_id": "738",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "60",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=739",
+      "monster_id": "739",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "60",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=750",
+      "monster_id": "750",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "59",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=754",
+      "monster_id": "754",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "58",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "被遺棄者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=758",
+      "monster_id": "758",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "57",
+      "monster_areas": [
+        "特殊副本-拋棄之地"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精殘兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=869",
+      "monster_id": "869",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-地下洞穴-2樓"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精殘兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=870",
+      "monster_id": "870",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-地下洞穴-2樓"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精殘兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=871",
+      "monster_id": "871",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-地下洞穴-2樓"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精殘兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=872",
+      "monster_id": "872",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-地下洞穴-2樓"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精殘兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=873",
+      "monster_id": "873",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-地下洞穴-2樓"
+      ]
+    },
+    {
+      "monster_name": "黑暗妖精殘兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=874",
+      "monster_id": "874",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-地下洞穴-2樓"
+      ]
+    }
+  ]
+}

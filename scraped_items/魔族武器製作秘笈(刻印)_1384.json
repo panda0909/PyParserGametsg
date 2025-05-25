@@ -1,0 +1,49 @@
+{
+  "item_id": "1384",
+  "item_name": "魔族武器製作秘笈(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1384",
+  "item_image": "https://www.gametsg.net/img/1/9/49e86a65129525c5d464de50b4433ef4.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "可以製作惡魔武器的材料物品"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "魔族武器製作秘笈(刻印)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "說明": "可以製作惡魔武器的材料物品"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1385",
+      "material_id": "1385",
+      "material_name": "魔族武器製作秘笈碎片",
+      "material_image": "https://www.gametsg.net/img/1/9/de8d5d07ff0f10f9802fb1bf7cb78634.jpg",
+      "material_grade": "grade03",
+      "material_count": "7"
+    }
+  ],
+  "monster_drops": []
+}

@@ -1,0 +1,59 @@
+{
+  "item_id": "2651",
+  "item_name": "蟻後蛋(名譽金幣)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2651",
+  "item_image": "https://www.gametsg.net/img/2/14/597175ddb4d465b25489b65ef33048c2.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "獲得3000名譽金幣"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "蟻後蛋(名譽金幣)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "動物性",
+    "說明": "獲得3000名譽金幣"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "變種巨蟻女皇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=649",
+      "monster_id": "649",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-11 級 突襲 (高級)"
+      ]
+    }
+  ]
+}

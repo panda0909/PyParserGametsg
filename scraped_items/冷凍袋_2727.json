@@ -1,0 +1,174 @@
+{
+  "item_id": "2727",
+  "item_name": "冷凍袋",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2727",
+  "item_image": "https://www.gametsg.net/img/2/14/28c81f97813fc8eddde0383594ea7600.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時,依照設定的機率取得物品"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "冷凍袋",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "皮革",
+    "重量": "0.1",
+    "說明": "使用時,依照設定的機率取得物品"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "鋼鐵高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=556",
+      "monster_id": "556",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "76",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁",
+        "亞丁大陸-55.艾爾摩戰場"
+      ]
+    },
+    {
+      "monster_name": "冰石高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=564",
+      "monster_id": "564",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "75",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁"
+      ]
+    },
+    {
+      "monster_name": "雪怪",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=583",
+      "monster_id": "583",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁",
+        "亞丁大陸-55.艾爾摩戰場"
+      ]
+    },
+    {
+      "monster_name": "冰原老虎",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=599",
+      "monster_id": "599",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "73",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁",
+        "亞丁大陸-55.艾爾摩戰場"
+      ]
+    },
+    {
+      "monster_name": "冰人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=639",
+      "monster_id": "639",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁",
+        "亞丁大陸-55.艾爾摩戰場"
+      ]
+    },
+    {
+      "monster_name": "冰人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=640",
+      "monster_id": "640",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁",
+        "亞丁大陸-55.艾爾摩戰場"
+      ]
+    },
+    {
+      "monster_name": "雪人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=700",
+      "monster_id": "700",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "65",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-69.雪壁",
+        "亞丁大陸-55.艾爾摩戰場"
+      ]
+    }
+  ]
+}

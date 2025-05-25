@@ -1,0 +1,212 @@
+{
+  "item_id": "1486",
+  "item_name": "火之氣息",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1486",
+  "item_image": "https://www.gametsg.net/img/1/10/66c02bf9138bb380bb82a83d67bd9a3b.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "火之氣息",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石",
+    "重量": "3",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "巴拉卡斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=16",
+      "monster_id": "16",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "其他-巴拉卡斯保護區"
+      ]
+    },
+    {
+      "monster_name": "巴拉卡斯的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=23",
+      "monster_id": "23",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-19 級 突襲 (神話)"
+      ]
+    },
+    {
+      "monster_name": "古龍的大火",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=161",
+      "monster_id": "161",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "90",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-13.凝固的熔岩地帶"
+      ]
+    },
+    {
+      "monster_name": "灼熱的狂野豬",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=192",
+      "monster_id": "192",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    },
+    {
+      "monster_name": "灼熱安特之劍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=262",
+      "monster_id": "262",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    },
+    {
+      "monster_name": "灼熱的扭曲槌子",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=358",
+      "monster_id": "358",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    },
+    {
+      "monster_name": "烈炎火花不死鳥",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=361",
+      "monster_id": "361",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    },
+    {
+      "monster_name": "灼熟的温迪哥",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=386",
+      "monster_id": "386",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-遺忘之島"
+      ]
+    },
+    {
+      "monster_name": "亞克魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=479",
+      "monster_id": "479",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-13 級 突襲 (英雄)"
+      ]
+    },
+    {
+      "monster_name": "憤怒的真伊弗利特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=539",
+      "monster_id": "539",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "77",
+      "monster_areas": [
+        "亞丁大陸-45.火龍窟"
+      ]
+    }
+  ]
+}

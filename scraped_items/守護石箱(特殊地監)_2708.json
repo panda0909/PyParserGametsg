@@ -1,0 +1,185 @@
+{
+  "item_id": "2708",
+  "item_name": "守護石箱(特殊地監)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2708",
+  "item_image": "https://www.gametsg.net/img/2/14/4713a5ebdf91b253569e0eaa6697e41f.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時獲得1個守護石"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "守護石箱(特殊地監)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "金屬塊",
+    "說明": "使用時獲得1個守護石"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "巨大的墓穴守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=380",
+      "monster_id": "380",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代巨人墓穴"
+      ]
+    },
+    {
+      "monster_name": "巨大的墓穴守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=381",
+      "monster_id": "381",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代巨人墓穴"
+      ]
+    },
+    {
+      "monster_name": "墓穴守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=416",
+      "monster_id": "416",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代巨人墓穴"
+      ]
+    },
+    {
+      "monster_name": "墓穴守護者騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=417",
+      "monster_id": "417",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代巨人墓穴"
+      ]
+    },
+    {
+      "monster_name": "墓穴守護者法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=418",
+      "monster_id": "418",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代巨人墓穴"
+      ]
+    },
+    {
+      "monster_name": "墓穴守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=419",
+      "monster_id": "419",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代巨人墓穴"
+      ]
+    },
+    {
+      "monster_name": "墓穴守護者騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=420",
+      "monster_id": "420",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代巨人墓穴"
+      ]
+    },
+    {
+      "monster_name": "墓穴守護者法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=421",
+      "monster_id": "421",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代巨人墓穴"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "item_id": "1174",
+  "item_name": "歐吉皮帶",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1174",
+  "item_image": "https://www.gametsg.net/img/1/8/e7be61eebeedbdf9090433a244561651.jpg",
+  "item_grade": "grade02",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "負重獎勵+1000"
+  ],
+  "data_zhiye": "",
+  "category_id": "29",
+  "category_name": "腰帶",
+  "basic_info": {
+    "title": "歐吉皮帶",
+    "類型": "飾品(腰帶)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": "負重獎勵+1000",
+    "祝福屬性": "最大HP+10",
+    "材質": "皮革",
+    "重量": "50"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5，負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10，負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15，負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20，負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25，負重獎勵+25"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30，負重獎勵+30"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35，負重獎勵+35"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40，負重獎勵+40"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "巨大歐吉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=636",
+      "monster_id": "636",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-82.龍之谷三岔路",
+        "亞丁大陸-85.龍之谷地監東邊入口",
+        "亞丁大陸-84.龍之谷地監北邊入口",
+        "亞丁大陸-86.龍之谷地監西邊入口",
+        "亞丁大陸-83.龍之谷地監中央入口"
+      ]
+    },
+    {
+      "monster_name": "歐吉",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=660",
+      "monster_id": "660",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-10.黑暗森林內部",
+        "亞丁大陸-82.龍之谷三岔路",
+        "亞丁大陸-85.龍之谷地監東邊入口",
+        "亞丁大陸-84.龍之谷地監北邊入口",
+        "亞丁大陸-86.龍之谷地監西邊入口",
+        "亞丁大陸-83.龍之谷地監中央入口"
+      ]
+    }
+  ]
+}

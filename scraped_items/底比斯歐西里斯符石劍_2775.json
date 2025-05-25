@@ -1,0 +1,51 @@
+{
+  "item_id": "2775",
+  "item_name": "底比斯歐西里斯符石劍",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2775",
+  "item_image": "https://www.gametsg.net/uploads/20250114/133ee552aa9611c9d2d8693f7504ca5d.png",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "魔劍士",
+      "level": "level14"
+    }
+  ],
+  "item_level": "10/10",
+  "item_stats": [
+    "武器命中+3",
+    "力量+1",
+    "體質+2",
+    "防止武器損壞",
+    "生命+3",
+    "發動：惡魔之吻1%"
+  ],
+  "data_zhiye": "14",
+  "category_id": "48",
+  "category_name": "符石劍",
+  "basic_info": {
+    "title": "底比斯歐西里斯符石劍",
+    "類型": "武器(符石劍)",
+    "職業": [
+      {
+        "name": "魔劍士",
+        "level": "level14"
+      }
+    ],
+    "武器攻擊力": "10/10",
+    "屬性": [
+      "武器命中+3",
+      "力量+1",
+      "體質+2",
+      "防止武器損壞",
+      "生命+3",
+      "發動：惡魔之吻1%"
+    ],
+    "材質": "金",
+    "重量": "100"
+  },
+  "detail_info": {},
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

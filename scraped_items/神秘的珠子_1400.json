@@ -1,0 +1,40 @@
+{
+  "item_id": "1400",
+  "item_name": "神秘的珠子",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1400",
+  "item_image": "https://www.gametsg.net/img/1/9/7f9abd03755985c9bb7bdb495926f11b.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "製作秘籍的材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "神秘的珠子",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "玻璃",
+    "說明": "製作秘籍的材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

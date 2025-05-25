@@ -1,0 +1,1564 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "156",
+    "item_name": "艾莉絲(矛)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=156",
+    "item_image": "https://www.gametsg.net/img/1/2/96df5ab2183f84e77460e82f2f97cbb1.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "33 / 34",
+    "item_stats": [
+      "額外攻擊+25",
+      "武器命中+15",
+      "經驗值獲得量增加30%",
+      "雙手武器",
+      "防止武器損壞",
+      "昏迷命中 +8%",
+      "力量+5",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "157",
+    "item_name": "赫爾里歐斯的審判",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=157",
+    "item_image": "https://www.gametsg.net/img/1/2/ea6e7c2a4dd8b74bfd8a6498be2d8aec.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "36 / 38",
+    "item_stats": [
+      "額外攻擊+31",
+      "武器命中+22",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +10%",
+      "發動:混沌狂襲 3%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "158",
+    "item_name": "赫爾里歐斯的審判(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=158",
+    "item_image": "https://www.gametsg.net/img/1/2/ea6e7c2a4dd8b74bfd8a6498be2d8aec.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "36 / 38",
+    "item_stats": [
+      "額外攻擊+31",
+      "武器命中+22",
+      "力量+5",
+      "防止武器損壞",
+      "雙手武器",
+      "昏迷命中 +10%",
+      "發動:混沌狂襲 3%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "159",
+    "item_name": "古代神之槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=159",
+    "item_image": "https://www.gametsg.net/img/1/2/88b1837b14e76d1c6af7252177148a6d.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "27 / 30",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1",
+      "昏迷命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "160",
+    "item_name": "古代神之槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=160",
+    "item_image": "https://www.gametsg.net/img/1/2/88b1837b14e76d1c6af7252177148a6d.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "27 / 30",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器",
+      "力量+1",
+      "昏迷命中 +5%",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "161",
+    "item_name": "歐西里斯之矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=161",
+    "item_image": "https://www.gametsg.net/img/1/2/215a877b985d48c5614965678209afef.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "28 / 32",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+8",
+      "力量+1",
+      "雙手武器",
+      "防止武器損壞",
+      "死亡+3",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "162",
+    "item_name": "歐西里斯之矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=162",
+    "item_image": "https://www.gametsg.net/img/1/2/215a877b985d48c5614965678209afef.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "28 / 32",
+    "item_stats": [
+      "額外攻擊+7",
+      "武器命中+8",
+      "力量+1",
+      "雙手武器",
+      "防止武器損壞",
+      "死亡+3",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "163",
+    "item_name": "伊弗利特之矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=163",
+    "item_image": "https://www.gametsg.net/img/1/2/220f087d03a5ba9d96febf5037714f0e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "31 / 33",
+    "item_stats": [
+      "額外攻擊+8",
+      "武器命中+9",
+      "力量+1",
+      "雙手武器",
+      "昏迷命中 +7%",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "發動:艾保羅泰因的徽章 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "164",
+    "item_name": "伊弗利特之矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=164",
+    "item_image": "https://www.gametsg.net/img/1/2/220f087d03a5ba9d96febf5037714f0e.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "31 / 33",
+    "item_stats": [
+      "額外攻擊+8",
+      "武器命中+9",
+      "力量+1",
+      "雙手武器",
+      "昏迷命中 +7%",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "發動:艾保羅泰因的徽章 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "165",
+    "item_name": "波塞頓的三叉戟",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=165",
+    "item_image": "https://www.gametsg.net/img/1/2/4a78269f97a55177b7d722a000d81cdf.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "35 / 27",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+9",
+      "力量+1",
+      "防止武器損壞",
+      "昏迷命中 +7%",
+      "無視近距離迴避力+2",
+      "無視近距離傷害減免+2",
+      "發動:海神之怒 3%",
+      "發動:波塞冬的詛咒 1%"
+    ],
+    "data_zhiye": "7|1|8|52|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "166",
+    "item_name": "惡魔王的矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=166",
+    "item_image": "https://www.gametsg.net/img/1/2/cb9e3c42d8ff19f7dc960b8d524a583d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "25 / 25",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "8|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "167",
+    "item_name": "惡魔王的矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=167",
+    "item_image": "https://www.gametsg.net/img/1/2/cb9e3c42d8ff19f7dc960b8d524a583d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "25 / 25",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "8|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "168",
+    "item_name": "奥里哈魯根矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=168",
+    "item_image": "https://www.gametsg.net/img/1/2/5a94b6b54f80f47601360e87be551d40.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "20/22",
+    "item_stats": [
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "169",
+    "item_name": "奥里哈魯根矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=169",
+    "item_image": "https://www.gametsg.net/img/1/2/5a94b6b54f80f47601360e87be551d40.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "20/22",
+    "item_stats": [
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "170",
+    "item_name": "魔族的矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=170",
+    "item_image": "https://www.gametsg.net/img/1/2/d711d3566fd2a869155c0589b77e2939.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "24 / 22",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+2",
+      "最大HP+30",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "13|7",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "171",
+    "item_name": "魔族的矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=171",
+    "item_image": "https://www.gametsg.net/img/1/2/d711d3566fd2a869155c0589b77e2939.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "24 / 22",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+2",
+      "最大HP+30",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "13|7",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "172",
+    "item_name": "被遣忘的旅人矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=172",
+    "item_image": "https://www.gametsg.net/img/1/2/74d80c92e7f3857a01b765469c708b71.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "173",
+    "item_name": "提卡爾庫庫爾坎之矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=173",
+    "item_image": "https://www.gametsg.net/img/1/2/75fefcb0853c101ce3b795b3fdc6c44a.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "24/20",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+5",
+      "敏捷+2",
+      "魔法防禦(MR)+5",
+      "雙手武器",
+      "發動:庫庫爾之吻 4%"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "174",
+    "item_name": "提卡爾庫庫爾坎之矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=174",
+    "item_image": "https://www.gametsg.net/img/1/2/75fefcb0853c101ce3b795b3fdc6c44a.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "24/20",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+5",
+      "敏捷+2",
+      "魔法防禦(MR)+5",
+      "雙手武器",
+      "發動:庫庫爾之吻 4%"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "175",
+    "item_name": "底比斯歐西里斯矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=175",
+    "item_image": "https://www.gametsg.net/img/1/2/1e714e206053b718bc5bf7d75c978e90.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "20/19",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+5",
+      "雙手武器",
+      "力量+1",
+      "防止武器損壞",
+      "體質 +2",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "13|7",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "176",
+    "item_name": "底比斯歐西里斯矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=176",
+    "item_image": "https://www.gametsg.net/img/1/2/1e714e206053b718bc5bf7d75c978e90.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "20/19",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+5",
+      "雙手武器",
+      "力量+1",
+      "防止武器損壞",
+      "體質 +2",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "13|7",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "177",
+    "item_name": "海神三叉戟",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=177",
+    "item_image": "https://www.gametsg.net/img/1/2/41d28353b7acc6e1c0c4d0d283bf0bf4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "24 / 22",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+4",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "178",
+    "item_name": "海神三叉戟(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=178",
+    "item_image": "https://www.gametsg.net/img/1/2/41d28353b7acc6e1c0c4d0d283bf0bf4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "24 / 22",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+4",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "179",
+    "item_name": "酷寒之矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=179",
+    "item_image": "https://www.gametsg.net/img/1/2/3c309ac79ac2d6c32b7b8bfb19c18119.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "15 / 15",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+1",
+      "防止武器損壞",
+      "發動:冷追者 1%"
+    ],
+    "data_zhiye": "1|2|8|52|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "180",
+    "item_name": "酷寒之矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=180",
+    "item_image": "https://www.gametsg.net/img/1/2/3c309ac79ac2d6c32b7b8bfb19c18119.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "15 / 15",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+1",
+      "防止武器損壞",
+      "發動:冷追者 1%"
+    ],
+    "data_zhiye": "1|2|8|52|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "181",
+    "item_name": "巡查兵之矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=181",
+    "item_image": "https://www.gametsg.net/img/1/2/c99c93432131bb343a0a9099daa3a280.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "12 / 6",
+    "item_stats": [
+      "武器命中+2"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "182",
+    "item_name": "標槍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=182",
+    "item_image": "https://www.gametsg.net/img/1/2/d3c354eef5a8748ec4ecfe6de570d1be.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "21 / 20",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+4",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "183",
+    "item_name": "標槍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=183",
+    "item_image": "https://www.gametsg.net/img/1/2/d3c354eef5a8748ec4ecfe6de570d1be.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "21 / 20",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+4",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "184",
+    "item_name": "深紅長矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=184",
+    "item_image": "https://www.gametsg.net/img/1/2/e3b38cdae289d323450284dc6cb4066a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "19 / 19",
+    "item_stats": [
+      "武器命中+4",
+      "最大HP+50",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "185",
+    "item_name": "深紅長矛(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=185",
+    "item_image": "https://www.gametsg.net/img/1/2/e3b38cdae289d323450284dc6cb4066a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "19 / 19",
+    "item_stats": [
+      "武器命中+4",
+      "最大HP+50",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "186",
+    "item_name": "闊矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=186",
+    "item_image": "https://www.gametsg.net/img/1/2/fc7dec90075c6845ee63fa21239e1f3c.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "12 / 16",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "187",
+    "item_name": "拉斯塔巴德單手矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=187",
+    "item_image": "https://www.gametsg.net/img/1/2/e06ea63e4668eca23684fc0e9c5c81e5.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "8 / 8",
+    "item_stats": [],
+    "data_zhiye": "1|2|8|52|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "188",
+    "item_name": "露西錘",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=188",
+    "item_image": "https://www.gametsg.net/img/1/2/323fea8f1c66e16e1b4467a6aec6f89c.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "15 / 17",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "189",
+    "item_name": "露西錘(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=189",
+    "item_image": "https://www.gametsg.net/img/1/2/323fea8f1c66e16e1b4467a6aec6f89c.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "15 / 17",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "190",
+    "item_name": "戟",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=190",
+    "item_image": "https://www.gametsg.net/img/1/2/5ea45e0c87eb283a1ffb2255bbf21430.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "16 / 12",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "191",
+    "item_name": "貝卡合金",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=191",
+    "item_image": "https://www.gametsg.net/img/1/2/f2bdb374123280ca9e608db7447e10c4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "17 / 17",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "192",
+    "item_name": "貝卡合金(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=192",
+    "item_image": "https://www.gametsg.net/img/1/2/f2bdb374123280ca9e608db7447e10c4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "17 / 17",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "193",
+    "item_name": "歐西斯之矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=193",
+    "item_image": "https://www.gametsg.net/img/1/2/080851fe78bd58a616b6ea2aaf3d6ce4.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "4 / 6",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|8|52|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "194",
+    "item_name": "矛",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=194",
+    "item_image": "https://www.gametsg.net/img/1/2/74d80c92e7f3857a01b765469c708b71.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "6 / 8",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|8|52|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "195",
+    "item_name": "法丘",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=195",
+    "item_image": "https://www.gametsg.net/img/1/2/6b3a05b2faf717739c367dd2f82772de.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "14 / 14",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  },
+  {
+    "item_id": "196",
+    "item_name": "法丘(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=196",
+    "item_image": "https://www.gametsg.net/img/1/2/6b3a05b2faf717739c367dd2f82772de.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "14 / 14",
+    "item_stats": [
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|8|52|7|13",
+    "category_id": "6",
+    "category_name": "矛"
+  }
+]

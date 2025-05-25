@@ -1,0 +1,127 @@
+{
+  "item_id": "1709",
+  "item_name": "精靈水晶(刺穿之矢)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1709",
+  "item_image": "https://www.gametsg.net/img/2/11/13f83c5a3b993815836729e39cebf59e.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "精靈水晶"
+  ],
+  "data_zhiye": "2",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "精靈水晶(刺穿之矢)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "覺醒的暗殺軍王史雷佛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=4",
+      "monster_id": "4",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-異界祭壇"
+      ]
+    },
+    {
+      "monster_name": "炎魔的守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=91",
+      "monster_id": "91",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    },
+    {
+      "monster_name": "長老:伊戴亞",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=171",
+      "monster_id": "171",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "89",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "其他-魔獸軍王室"
+      ]
+    },
+    {
+      "monster_name": "泰坦高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=919",
+      "monster_id": "919",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    }
+  ]
+}

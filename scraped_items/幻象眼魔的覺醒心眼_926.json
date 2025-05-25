@@ -1,0 +1,152 @@
+{
+  "item_id": "926",
+  "item_name": "幻象眼魔的覺醒心眼",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=926",
+  "item_image": "https://www.gametsg.net/img/1/6/a1be23d264ae34138bf2b2b290a3a7eb.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "法師",
+      "level": "level03"
+    },
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-4",
+  "item_stats": [
+    "智力+3",
+    "魔法命中+1",
+    "昏迷抗性+5%"
+  ],
+  "data_zhiye": "3|81",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "幻象眼魔的覺醒心眼",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "物理防禦 (AC)": "-4",
+    "屬性": [
+      "智力+3",
+      "魔法命中+1",
+      "昏迷抗性+5%"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "動物性",
+    "重量": "50"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "安全強化至6"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,魔攻 +1"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,魔攻 +2"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,魔攻 +3"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,魔攻 +4"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,魔攻 +5"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,魔攻 +6"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,魔攻 +7"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,魔攻 +8"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "不幸的幻象眼魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=363",
+      "monster_id": "363",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-2樓(不幸)"
+      ]
+    },
+    {
+      "monster_name": "支配的幻象眼魔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=907",
+      "monster_id": "907",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-支配之塔的頂端"
+      ]
+    }
+  ]
+}

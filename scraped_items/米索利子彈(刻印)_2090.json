@@ -1,0 +1,38 @@
+{
+  "item_id": "2090",
+  "item_name": "米索利子彈(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2090",
+  "item_image": "https://www.gametsg.net/img/2/12/05789a63fb210657fcf6cee8c412f7b2.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "34",
+  "category_id": "39",
+  "category_name": "箭/刺/子彈",
+  "basic_info": {
+    "title": "米索利子彈(刻印)",
+    "類型": "其他(箭/刺/子彈)",
+    "職業": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "材質": "米索利",
+    "重量": "0.01"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

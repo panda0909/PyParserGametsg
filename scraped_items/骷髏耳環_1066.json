@@ -1,0 +1,83 @@
+{
+  "item_id": "1066",
+  "item_name": "骷髏耳環",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1066",
+  "item_image": "https://www.gametsg.net/img/1/7/d2560734d55b8314cc9a6943ba246a4c.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-3",
+  "item_stats": [
+    "最大HP+50",
+    "最大MP +20",
+    "負重獎勵+600"
+  ],
+  "data_zhiye": "",
+  "category_id": "27",
+  "category_name": "耳環",
+  "basic_info": {
+    "title": "骷髏耳環",
+    "類型": "飾品(耳環)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-3",
+    "屬性": [
+      "最大HP+50",
+      "最大MP +20",
+      "負重獎勵+600"
+    ],
+    "祝福屬性": "最大HP+20",
+    "材質": "骨頭",
+    "重量": "15"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5，負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10，負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15，負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20，負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25，負重獎勵+25，藥水恢復+2"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30，負重獎勵+30，藥水恢復+4"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35，負重獎勵+35，藥水恢復+6"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40，負重獎勵+40，藥水恢復+8"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

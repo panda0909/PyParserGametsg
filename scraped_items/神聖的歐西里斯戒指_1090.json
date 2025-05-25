@@ -1,0 +1,129 @@
+{
+  "item_id": "1090",
+  "item_name": "神聖的歐西里斯戒指",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1090",
+  "item_image": "https://www.gametsg.net/img/1/7/ab15db5ade2b9eaa2d33e73c169c5205.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    },
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "-2",
+  "item_stats": [
+    "遠距離命中+1",
+    "敏捷+2",
+    "昏迷抗性+5%"
+  ],
+  "data_zhiye": "2|34",
+  "category_id": "28",
+  "category_name": "戒指",
+  "basic_info": {
+    "title": "神聖的歐西里斯戒指",
+    "類型": "飾品(戒指)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "物理防禦 (AC)": "-2",
+    "屬性": [
+      "遠距離命中+1",
+      "敏捷+2",
+      "昏迷抗性+5%"
+    ],
+    "祝福屬性": "藥水恢復率+2%",
+    "材質": "金",
+    "重量": "1",
+    "說明": "充滿歐西里斯力量的戒指"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+40,負重獎勵+40"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+60,負重獎勵+60"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+80,負重獎勵+80"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+100,負重獎勵+100,近距離命中+1,遠距離命中+1,魔法命中+1,近距離傷害+1,遠距離傷害+1,魔攻+1,傷害減免無視+1"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+120,負重獎勵+120,近距離命中+2,遠距離命中+2,魔法命中+2,近距離傷害+2,遠距離傷害+2,魔攻+2,傷害減免無視+2"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+140,負重獎勵+140,近距離命中+3,遠距離命中+3,魔法命中+3,近距離傷害+3,遠距離傷害+3,魔攻+3,傷害減免無視+3"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+160,負重獎勵+160,近距離命中+4,遠距離命中+4,魔法命中+4,近距離傷害+4,遠距離傷害+4,魔攻+4,傷害減免無視+4"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "底比斯 歐西里斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=18",
+      "monster_id": "18",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    },
+    {
+      "monster_name": "底比斯阿努比斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=24",
+      "monster_id": "24",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "98",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    },
+    {
+      "monster_name": "底比斯賀洛斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=25",
+      "monster_id": "25",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "98",
+      "monster_areas": [
+        "世界副本-底比斯沙漠"
+      ]
+    }
+  ]
+}

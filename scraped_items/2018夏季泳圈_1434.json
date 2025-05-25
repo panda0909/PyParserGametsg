@@ -1,0 +1,44 @@
+{
+  "item_id": "1434",
+  "item_name": "2018夏季泳圈",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1434",
+  "item_image": "https://www.gametsg.net/img/1/10/0aeed5d3729161b2e55f1a1901ef0dc4.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "可作為物品收集材料",
+    "用於物品登錄的物品無法恢復,請謹慎選擇."
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "2018夏季泳圈",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "皮革",
+    "說明": [
+      "可作為物品收集材料",
+      "用於物品登錄的物品無法恢復,請謹慎選擇."
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

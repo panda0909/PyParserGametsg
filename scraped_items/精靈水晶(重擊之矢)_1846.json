@@ -1,0 +1,73 @@
+{
+  "item_id": "1846",
+  "item_name": "精靈水晶(重擊之矢)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1846",
+  "item_image": "https://www.gametsg.net/img/2/11/eac02b94de8d5a5fdb50fe4c328f7c1a.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "精靈水晶"
+  ],
+  "data_zhiye": "2",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "精靈水晶(重擊之矢)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "長老:安迪斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=145",
+      "monster_id": "145",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "90",
+      "monster_areas": [
+        "拉斯塔巴德-中央廣場",
+        "拉斯塔巴德-魔獸軍王的職務室"
+      ]
+    },
+    {
+      "monster_name": "泰坦高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=919",
+      "monster_id": "919",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    }
+  ]
+}

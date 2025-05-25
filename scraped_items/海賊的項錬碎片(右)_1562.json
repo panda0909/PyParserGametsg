@@ -1,0 +1,456 @@
+{
+  "item_id": "1562",
+  "item_name": "海賊的項錬碎片(右)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1562",
+  "item_image": "https://www.gametsg.net/img/2/11/a8750a7dffc8b499eb05a09a5f27ec39.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "海賊的項錬碎片(右)",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石",
+    "重量": "0.14",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "深淵的克爾拉奇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=38",
+      "monster_id": "38",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "97",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "海賊狙擊手",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=43",
+      "monster_id": "43",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "96",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "精英海盜船長",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=44",
+      "monster_id": "44",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "96",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "劇毒花",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=218",
+      "monster_id": "218",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "深淵的克拉肯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=219",
+      "monster_id": "219",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "深淵的克拉普",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=220",
+      "monster_id": "220",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "深淵的靈魂",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=221",
+      "monster_id": "221",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "深淵的蟹人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=222",
+      "monster_id": "222",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "深淵殺翅魚",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=223",
+      "monster_id": "223",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "88",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "被詛咒的航海師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=252",
+      "monster_id": "252",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "深淵的蟹人",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=253",
+      "monster_id": "253",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "被詛咒的航海師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=287",
+      "monster_id": "287",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "藍色尾巴",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=288",
+      "monster_id": "288",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "劇毒曼陀羅草",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=289",
+      "monster_id": "289",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "深淵的精靈",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=290",
+      "monster_id": "290",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-海盜墳墓"
+      ]
+    },
+    {
+      "monster_name": "被詛咒的甲板長",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=328",
+      "monster_id": "328",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "被詛咒的暗殺客",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=329",
+      "monster_id": "329",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        },
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    },
+    {
+      "monster_name": "劇毒花",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=378",
+      "monster_id": "378",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "84",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-海盜島-後半部"
+      ]
+    }
+  ]
+}

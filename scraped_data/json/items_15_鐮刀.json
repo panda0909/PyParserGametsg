@@ -1,0 +1,802 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "408",
+    "item_name": "冥王的憐憫",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=408",
+    "item_image": "https://www.gametsg.net/img/1/3/4a2dfb7d166bdf5e851ca614b2f0e02f.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "37 / 32",
+    "item_stats": [
+      "額外攻擊+34",
+      "武器命中+24",
+      "雙手武器",
+      "防止武器損壞",
+      "昏迷命中 +10%",
+      "力量+5",
+      "發動:混沌狂襲 3%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "409",
+    "item_name": "冥王的憐憫(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=409",
+    "item_image": "https://www.gametsg.net/img/1/3/4a2dfb7d166bdf5e851ca614b2f0e02f.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "37 / 32",
+    "item_stats": [
+      "額外攻擊+34",
+      "武器命中+23",
+      "雙手武器",
+      "防止武器損壞",
+      "昏迷命中 +10%",
+      "力量+2",
+      "發動:混沌狂襲 3%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "410",
+    "item_name": "艾莉絲(鐮刀)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=410",
+    "item_image": "https://www.gametsg.net/img/1/3/ddcdd05c7af30e48a1a1d0d56832921f.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "33 / 28",
+    "item_stats": [
+      "額外攻擊+29",
+      "武器命中+19",
+      "經驗值獲得量增加+30%",
+      "雙手武器",
+      "防止武器損壞",
+      "昏迷命中 +8%",
+      "力量+5",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "411",
+    "item_name": "艾莉絲(鐮刀)(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=411",
+    "item_image": "https://www.gametsg.net/img/1/3/ddcdd05c7af30e48a1a1d0d56832921f.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "33 / 28",
+    "item_stats": [
+      "額外攻擊+29",
+      "武器命中+22",
+      "雙手武器",
+      "防止武器損壞",
+      "昏迷命中 +8%",
+      "力量+2",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "412",
+    "item_name": "鐮刀死神鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=412",
+    "item_image": "https://www.gametsg.net/img/1/3/89f846032ccc77f095f1120d1533ce09.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "29 / 23",
+    "item_stats": [
+      "額外攻擊+13",
+      "武器命中+11",
+      "雙手武器",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "昏迷命中 +7%",
+      "力量+1",
+      "啟動:鐮刀死神的詛咒 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "413",
+    "item_name": "鐮刀死神鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=413",
+    "item_image": "https://www.gametsg.net/img/1/3/89f846032ccc77f095f1120d1533ce09.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "29 / 23",
+    "item_stats": [
+      "額外攻擊+13",
+      "武器命中+11",
+      "雙手武器",
+      "防止武器損壞",
+      "無視近距離傷害減免+2",
+      "無視近距離迴避力+2",
+      "昏迷命中 +7%",
+      "力量+1",
+      "啟動:鐮刀死神的詛咒 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "414",
+    "item_name": "阿努比斯的側面",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=414",
+    "item_image": "https://www.gametsg.net/img/1/3/33eb9549d5ffb3f93d4395051e9d2b90.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "25 / 21",
+    "item_stats": [
+      "額外攻擊+10",
+      "武器命中+6",
+      "雙手武器",
+      "昏迷命中 +5%",
+      "防止武器損壞",
+      "力量+1",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "415",
+    "item_name": "阿努比斯鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=415",
+    "item_image": "https://www.gametsg.net/img/1/3/33eb9549d5ffb3f93d4395051e9d2b90.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "25 / 21",
+    "item_stats": [
+      "額外攻擊+10",
+      "武器命中+6",
+      "雙手武器",
+      "昏迷命中 +5%",
+      "防止武器損壞",
+      "力量+1",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "416",
+    "item_name": "歐西里斯鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=416",
+    "item_image": "https://www.gametsg.net/img/1/3/c38abb60f99c9418c2fd349fa09d25c4.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "28 / 22",
+    "item_stats": [
+      "額外攻擊+11",
+      "武器命中+9",
+      "雙手武器",
+      "防止武器損壞",
+      "死亡+3",
+      "力量+1",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "417",
+    "item_name": "歐西里斯鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=417",
+    "item_image": "https://www.gametsg.net/img/1/3/c38abb60f99c9418c2fd349fa09d25c4.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "28 / 22",
+    "item_stats": [
+      "額外攻擊+11",
+      "武器命中+9",
+      "雙手武器",
+      "防止武器損壞",
+      "死亡+3",
+      "力量+1",
+      "昏迷命中 +6%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "418",
+    "item_name": "納格巴斯的鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=418",
+    "item_image": "https://www.gametsg.net/img/1/3/ab6b1533845efc8a32013256b704497f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "20/16",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+6",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "419",
+    "item_name": "納格巴斯的鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=419",
+    "item_image": "https://www.gametsg.net/img/1/3/ab6b1533845efc8a32013256b704497f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "20/16",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+6",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "420",
+    "item_name": "惡魔王鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=420",
+    "item_image": "https://www.gametsg.net/img/1/3/b65f45871169db5618625c5acce4258a.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "22 / 17",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+4",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "421",
+    "item_name": "惡魔王鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=421",
+    "item_image": "https://www.gametsg.net/img/1/3/b65f45871169db5618625c5acce4258a.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "22 / 17",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+4",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "422",
+    "item_name": "夜禍",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=422",
+    "item_image": "https://www.gametsg.net/img/1/3/27a519352793d86b1cb18f27bb6b6d4d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "20/17",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+4",
+      "雙手武器",
+      "體質 +1"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "423",
+    "item_name": "夜禍(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=423",
+    "item_image": "https://www.gametsg.net/img/1/3/27a519352793d86b1cb18f27bb6b6d4d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "20/17",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+4",
+      "雙手武器",
+      "體質 +1"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "424",
+    "item_name": "魔族鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=424",
+    "item_image": "https://www.gametsg.net/img/1/3/8bc9e1fee0a9ff440150713b3d3c7fd2.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "25 / 20",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "425",
+    "item_name": "魔族鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=425",
+    "item_image": "https://www.gametsg.net/img/1/3/8bc9e1fee0a9ff440150713b3d3c7fd2.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "25 / 20",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:白惡靈逆襲 4%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "426",
+    "item_name": "吸血鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=426",
+    "item_image": "https://www.gametsg.net/img/1/3/038616d41b1c54362533ea8845209507.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "18 / 13",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+2",
+      "雙手武器",
+      "HP吸收"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "427",
+    "item_name": "吸血鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=427",
+    "item_image": "https://www.gametsg.net/img/1/3/038616d41b1c54362533ea8845209507.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "18 / 13",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+2",
+      "雙手武器",
+      "HP吸收"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "428",
+    "item_name": "底比斯歐西里斯鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=428",
+    "item_image": "https://www.gametsg.net/img/1/3/ca120b0607ce43fe70315368914f0218.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "21 / 17",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+6",
+      "雙手武器",
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "429",
+    "item_name": "底比斯歐西里斯鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=429",
+    "item_image": "https://www.gametsg.net/img/1/3/ca120b0607ce43fe70315368914f0218.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "21 / 17",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+6",
+      "雙手武器",
+      "力量+1",
+      "體質 +2",
+      "防止武器損壞",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "430",
+    "item_name": "殘酷鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=430",
+    "item_image": "https://www.gametsg.net/img/1/3/1fa2abc75da92508611c7336aad2b780.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "17 / 13",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+4",
+      "雙手武器"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "431",
+    "item_name": "殘酷鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=431",
+    "item_image": "https://www.gametsg.net/img/1/3/1fa2abc75da92508611c7336aad2b780.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "17 / 13",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+4",
+      "雙手武器"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "432",
+    "item_name": "深紅鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=432",
+    "item_image": "https://www.gametsg.net/img/1/3/fb4bfc31948dda076d350b6853356e94.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "17 / 14",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+4",
+      "雙手武器"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "433",
+    "item_name": "深紅鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=433",
+    "item_image": "https://www.gametsg.net/img/1/3/fb4bfc31948dda076d350b6853356e94.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "17 / 14",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+4",
+      "雙手武器"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "434",
+    "item_name": "戰鬥鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=434",
+    "item_image": "https://www.gametsg.net/img/1/3/f082cc323fe83f58df07d7e4b0dd1a16.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "16 / 13",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  },
+  {
+    "item_id": "435",
+    "item_name": "戰鬥鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=435",
+    "item_image": "https://www.gametsg.net/img/1/3/f082cc323fe83f58df07d7e4b0dd1a16.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "16 / 13",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+3",
+      "雙手武器"
+    ],
+    "data_zhiye": "12",
+    "category_id": "15",
+    "category_name": "鐮刀"
+  }
+]

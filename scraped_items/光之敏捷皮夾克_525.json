@@ -1,0 +1,88 @@
+{
+  "item_id": "525",
+  "item_name": "光之敏捷皮夾克",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=525",
+  "item_image": "https://www.gametsg.net/img/1/4/8f6d5594e32350e26946ff64804a5cf2.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-1",
+  "item_stats": [
+    "遠距離傷害+1",
+    "敏捷+1"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "18",
+  "category_name": "T恤",
+  "basic_info": {
+    "title": "光之敏捷皮夾克",
+    "類型": "防具(T恤)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-1",
+    "屬性": [
+      "遠距離傷害+1",
+      "敏捷+1"
+    ],
+    "材質": "布",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "-",
+      "attributes": ""
+    },
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,遠距離命中+1"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,遠距離傷害+1,遠距離命中+1"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,魔法防禦 (MR)+5,遠距離傷害+1,遠距離命中+2"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,魔法防禦 (MR)+6,遠距離傷害+1,遠距離命中+2,昏迷抗性+5%"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,魔法防禦 (MR)+7,遠距離傷害+1,遠距離命中+2,昏迷抗性+5%,PVP傷害減免+1,PVP遠距離額外攻擊+1"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

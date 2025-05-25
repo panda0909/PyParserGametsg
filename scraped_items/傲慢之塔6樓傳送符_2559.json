@@ -1,0 +1,78 @@
+{
+  "item_id": "2559",
+  "item_name": "傲慢之塔6樓傳送符",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2559",
+  "item_image": "https://www.gametsg.net/img/2/13/78d517d662946e0bc62beffb1a043c0a.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "位於傲慢與信念之塔入口處",
+    "68級以上可用"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "44",
+  "category_name": "移動道具",
+  "basic_info": {
+    "title": "傲慢之塔6樓傳送符",
+    "類型": "其他(移動道具)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "重量": "1",
+    "說明": [
+      "位於傲慢與信念之塔入口處",
+      "68級以上可用"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1481",
+      "material_id": "1481",
+      "material_name": "封印的傲慢之塔6樓傳送符",
+      "material_image": "https://www.gametsg.net/img/1/10/43b718f721be172f2e8d658a76c9c31b.jpg",
+      "material_grade": "grade01",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2623",
+      "material_id": "2623",
+      "material_name": "傲慢之塔6樓移動卷軸",
+      "material_image": "https://www.gametsg.net/img/2/14/47cccde45708157a2e7dc051e654e658.jpg",
+      "material_grade": "grade00",
+      "material_count": "300"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "3000000"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1481",
+      "material_id": "1481",
+      "material_name": "封印的傲慢之塔6樓傳送符",
+      "material_image": "https://www.gametsg.net/img/1/10/43b718f721be172f2e8d658a76c9c31b.jpg",
+      "material_grade": "grade01",
+      "material_count": "2"
+    }
+  ],
+  "monster_drops": []
+}

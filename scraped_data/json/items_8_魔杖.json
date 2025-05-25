@@ -1,0 +1,1135 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "238",
+    "item_name": "聖晶魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=238",
+    "item_image": "https://www.gametsg.net/img/1/2/2fc5acf79256bcae81d86c0cda26e21b.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "5 / 6",
+    "item_stats": [
+      "額外攻擊+28",
+      "武器命中+31",
+      "智力+5",
+      "魔攻+10",
+      "防止武器損壞",
+      "MP恢復(tic)+15",
+      "MP吸收",
+      "魔法穿透3%",
+      "發動:極道落雷 17%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%",
+      "發動:心靈破壞 10%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "239",
+    "item_name": "艾莉絲(魔杖)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=239",
+    "item_image": "https://www.gametsg.net/img/1/2/240d47cd021ae5897d1f60ffe77e4acf.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "29 / 26",
+    "item_stats": [
+      "額外攻擊+23",
+      "武器命中 +27",
+      "經驗值獲得量增加30%",
+      "魔攻+8",
+      "防止武器損壞",
+      "MP吸收",
+      "MP回復(tic)+15",
+      "魔法穿透3%",
+      "智力+5",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%",
+      "發動:心靈破壞 10%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "240",
+    "item_name": "吉倫的魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=240",
+    "item_image": "https://www.gametsg.net/img/1/2/950684b3d362ceef03e6ffc7c622ca40.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "27 / 24",
+    "item_stats": [
+      "額外攻擊+13",
+      "武器命中 +20",
+      "魔攻+6",
+      "防止武器損壞",
+      "MP吸收",
+      "無視近距離迴避力+2",
+      "MP回復(tic)+15",
+      "魔法穿透2%",
+      "無視近距離傷害減免+2",
+      "智力+2",
+      "發動:格蘭肯的詛咒 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "241",
+    "item_name": "蕾雅法杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=241",
+    "item_image": "https://www.gametsg.net/img/1/2/7a4100d3bfb365851a526932e5224abf.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "16 / 8",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+13",
+      "力量+3",
+      "魔攻+5",
+      "雙手武器",
+      "MP吸收",
+      "MP回復(tic)+10",
+      "防止武器損壞",
+      "魔法穿透2%",
+      "發動:寒冰尖刺 7%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "242",
+    "item_name": "歐西里斯魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=242",
+    "item_image": "https://www.gametsg.net/img/1/2/eb6ff409e7fab4e5b702725124340c54.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "25 / 23",
+    "item_stats": [
+      "額外攻擊+11",
+      "武器命中 +20",
+      "魔攻+5",
+      "防止武器損壞",
+      "MP吸收",
+      "死亡+3",
+      "MP回復(tic)+15",
+      "魔法穿透2%",
+      "智力+1",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "243",
+    "item_name": "傑羅斯的魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=243",
+    "item_image": "https://www.gametsg.net/img/1/2/8f49884fc26ddc6d507036095bb1c944.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+11",
+      "智力+1",
+      "魔攻+5",
+      "防止武器損壞",
+      "MP回復(tic)+10",
+      "MP吸收",
+      "魔法穿透2%",
+      "發動:暴擊烈炎 9%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "244",
+    "item_name": "傑羅斯的魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=244",
+    "item_image": "https://www.gametsg.net/img/1/2/8f49884fc26ddc6d507036095bb1c944.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+11",
+      "智力+1",
+      "魔攻+5",
+      "防止武器損壞",
+      "MP回復(tic)+10",
+      "MP吸收",
+      "魔法穿透2%",
+      "發動:暴擊烈炎 9%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "245",
+    "item_name": "惡魔鐮刀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=245",
+    "item_image": "https://www.gametsg.net/img/1/2/47a234edb8d356049f2c3404f500378a.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "武器命中+2",
+      "魔攻+5",
+      "防止武器損壞",
+      "魔法穿透1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "246",
+    "item_name": "惡魔鐮刀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=246",
+    "item_image": "https://www.gametsg.net/img/1/2/47a234edb8d356049f2c3404f500378a.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "武器命中+2",
+      "魔攻+5",
+      "防止武器損壞",
+      "魔法穿透1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "247",
+    "item_name": "巴風特魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=247",
+    "item_image": "https://www.gametsg.net/img/1/2/e812dabd508b8bd02a9d4af59a7ad42f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "7 / 6",
+    "item_stats": [
+      "額外攻擊+5",
+      "+10 武器命中",
+      "防止武器損壞",
+      "魔法穿透1%",
+      "發動:狂暴爆發8%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "248",
+    "item_name": "巴風特魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=248",
+    "item_image": "https://www.gametsg.net/img/1/2/e812dabd508b8bd02a9d4af59a7ad42f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "7 / 6",
+    "item_stats": [
+      "額外攻擊+5",
+      "+10 武器命中",
+      "防止武器損壞",
+      "魔法穿透1%",
+      "發動:狂暴爆發8%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "249",
+    "item_name": "惡魔王魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=249",
+    "item_image": "https://www.gametsg.net/img/1/2/a029973d0feb0594106823d1fe13b6d5.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "12 / 12",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+8",
+      "MP回復(tic)+10",
+      "魔攻+2",
+      "防止武器損壞",
+      "MP吸收",
+      "魔法穿透1%",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "250",
+    "item_name": "惡魔王魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=250",
+    "item_image": "https://www.gametsg.net/img/1/2/a029973d0feb0594106823d1fe13b6d5.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "12 / 12",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+8",
+      "MP回復(tic)+10",
+      "魔攻+2",
+      "防止武器損壞",
+      "MP吸收",
+      "魔法穿透1%",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "251",
+    "item_name": "冰之女王魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=251",
+    "item_image": "https://www.gametsg.net/img/1/2/2e03c1719715f8d5ba1a9f2b8f0ec728.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "3 / 4",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+7",
+      "防止武器損壞",
+      "魔法穿透1%",
+      "發動:冰錐 7%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "252",
+    "item_name": "冰之女王魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=252",
+    "item_image": "https://www.gametsg.net/img/1/2/2e03c1719715f8d5ba1a9f2b8f0ec728.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "3 / 4",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+7",
+      "防止武器損壞",
+      "魔法穿透1%",
+      "發動:冰錐 7%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "256",
+    "item_name": "神官魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=256",
+    "item_image": "https://www.gametsg.net/img/1/2/67276fe99ed392381f9e7cf0e0e9b3d7.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "9 / 9",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "257",
+    "item_name": "神官魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=257",
+    "item_image": "https://www.gametsg.net/img/1/2/67276fe99ed392381f9e7cf0e0e9b3d7.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "9 / 9",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "258",
+    "item_name": "被遺忘的旅人魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=258",
+    "item_image": "https://www.gametsg.net/img/1/2/eea22bdfb8ec3686d760f49b76b22837.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "259",
+    "item_name": "南瓜傑克的之魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=259",
+    "item_image": "https://www.gametsg.net/img/1/2/66e05fa6f590002ca6b5ae0000c3e473.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "8 / 8",
+    "item_stats": [
+      "最大MP +50",
+      "智力+2",
+      "防止武器損壞",
+      "發動:南瓜的玩笑 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "260",
+    "item_name": "天使魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=260",
+    "item_image": "https://www.gametsg.net/img/1/2/093a70e9afa04952f26955fcc522036e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "12 / 12",
+    "item_stats": [
+      "MP回復(tic)+4",
+      "智力+1",
+      "防止武器損壞",
+      "發動:起死回生術 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "261",
+    "item_name": "天使魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=261",
+    "item_image": "https://www.gametsg.net/img/1/2/093a70e9afa04952f26955fcc522036e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "12 / 12",
+    "item_stats": [
+      "MP回復(tic)+4",
+      "智力+1",
+      "防止武器損壞",
+      "發動:起死回生術 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "262",
+    "item_name": "底比斯歐西里斯魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=262",
+    "item_image": "https://www.gametsg.net/img/1/2/0023ff7c397b14c859d06e5c31b53074.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "20/18",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+4",
+      "MP回復(tic)+7",
+      "防止武器損壞",
+      "力量+2",
+      "魔攻+2",
+      "雙手武器",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "263",
+    "item_name": "底比斯歐西里斯魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=263",
+    "item_image": "https://www.gametsg.net/img/1/2/0023ff7c397b14c859d06e5c31b53074.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "20/18",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+4",
+      "MP回復(tic)+7",
+      "防止武器損壞",
+      "力量+2",
+      "魔攻+2",
+      "雙手武器",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "253",
+    "item_name": "鋼鐵馬那魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=253",
+    "item_image": "https://www.gametsg.net/img/1/2/97e302281e1b47bad347a4514c9d21be.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "15 / 15",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+6",
+      "力量+3",
+      "魔攻+3",
+      "防止武器損壞",
+      "MP吸收"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "254",
+    "item_name": "魔族魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=254",
+    "item_image": "https://www.gametsg.net/img/1/2/00d58eaebe6e48fa57614e9a76ffdb6e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "15 / 16",
+    "item_stats": [
+      "武器命中+4",
+      "MP回復(tic)+3",
+      "魔攻+1",
+      "防止武器損壞",
+      "發動:藍惡靈奪魔 4%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "255",
+    "item_name": "魔族魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=255",
+    "item_image": "https://www.gametsg.net/img/1/2/00d58eaebe6e48fa57614e9a76ffdb6e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "15 / 16",
+    "item_stats": [
+      "武器命中+4",
+      "MP回復(tic)+3",
+      "魔攻+1",
+      "防止武器損壞",
+      "發動:藍惡靈奪魔 4%"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "264",
+    "item_name": "瑪那魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=264",
+    "item_image": "https://www.gametsg.net/img/1/2/a02b93ff7262043494790b58f64a6555.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "7 / 7",
+    "item_stats": [
+      "武器精度-3",
+      "魔攻+1",
+      "防止武器損壞",
+      "MP吸收"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "265",
+    "item_name": "瑪那魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=265",
+    "item_image": "https://www.gametsg.net/img/1/2/a02b93ff7262043494790b58f64a6555.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "7 / 7",
+    "item_stats": [
+      "武器精度-3",
+      "魔攻+1",
+      "防止武器損壞",
+      "MP吸收"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "266",
+    "item_name": "守護人魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=266",
+    "item_image": "https://www.gametsg.net/img/1/2/c717e09591517b0e936c08943f5819bb.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "10/5",
+    "item_stats": [
+      "武器命中+2",
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "267",
+    "item_name": "紅水晶魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=267",
+    "item_image": "https://www.gametsg.net/img/1/2/21d1e08ab0e8ee4ef712d66faa52264f.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "8 / 8",
+    "item_stats": [
+      "MP回復(tic)+5",
+      "智力+1",
+      "精神+1",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "268",
+    "item_name": "紅水晶魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=268",
+    "item_image": "https://www.gametsg.net/img/1/2/21d1e08ab0e8ee4ef712d66faa52264f.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "8 / 8",
+    "item_stats": [
+      "MP回復(tic)+5",
+      "智力+1",
+      "精神+1",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "269",
+    "item_name": "黑法師之杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=269",
+    "item_image": "https://www.gametsg.net/img/1/2/1093b84f460c66a7740f8fdb673d0e6b.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "魔攻+2",
+      "防止武器損壞",
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "270",
+    "item_name": "黑法師之杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=270",
+    "item_image": "https://www.gametsg.net/img/1/2/1093b84f460c66a7740f8fdb673d0e6b.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "魔攻+2",
+      "防止武器損壞",
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "271",
+    "item_name": "水晶魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=271",
+    "item_image": "https://www.gametsg.net/img/1/2/db4463b18415d6786265ccbe5613e947.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "MP回復(tic)+10",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "272",
+    "item_name": "水晶魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=272",
+    "item_image": "https://www.gametsg.net/img/1/2/db4463b18415d6786265ccbe5613e947.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "MP回復(tic)+10",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "273",
+    "item_name": "力量魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=273",
+    "item_image": "https://www.gametsg.net/img/1/2/fa3f596554fdc2a8910a4d79c7c14dd6.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "9 / 9",
+    "item_stats": [
+      "額外攻擊+3",
+      "力量+3",
+      "魔攻 -2",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "274",
+    "item_name": "力量魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=274",
+    "item_image": "https://www.gametsg.net/img/1/2/fa3f596554fdc2a8910a4d79c7c14dd6.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "9 / 9",
+    "item_stats": [
+      "額外攻擊+3",
+      "力量+3",
+      "魔攻 -2",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "275",
+    "item_name": "拉斯塔巴德之杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=275",
+    "item_image": "https://www.gametsg.net/img/1/2/9b2c66c19dcc1b32cf4835dac313ccb6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "2 / 3",
+    "item_stats": [
+      "MP回復(tic)+8",
+      "魔攻+1"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "276",
+    "item_name": "巫術魔法杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=276",
+    "item_image": "https://www.gametsg.net/img/1/2/496a191c6027f4d33d999e0df2bf22af.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "2 / 3",
+    "item_stats": [
+      "魔攻+1",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "277",
+    "item_name": "美基魔法杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=277",
+    "item_image": "https://www.gametsg.net/img/1/2/7241350f2a1110e2beddf068e5c970a6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "4 / 5",
+    "item_stats": [
+      "防止武器損壞",
+      "魔法傷害+3"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "278",
+    "item_name": "冥想魔杖",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=278",
+    "item_image": "https://www.gametsg.net/img/1/2/4a7ff987c4d578ec639fb83c60687533.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "防止武器損壞",
+      "MP回復(tic)+3",
+      "魔攻+1"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  },
+  {
+    "item_id": "279",
+    "item_name": "冥想魔杖(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=279",
+    "item_image": "https://www.gametsg.net/img/1/2/4a7ff987c4d578ec639fb83c60687533.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "MP回復(tic)+3",
+      "魔攻+1",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "3",
+    "category_id": "8",
+    "category_name": "魔杖"
+  }
+]

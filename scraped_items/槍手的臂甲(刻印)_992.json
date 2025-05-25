@@ -1,0 +1,101 @@
+{
+  "item_id": "992",
+  "item_name": "槍手的臂甲(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=992",
+  "item_image": "https://www.gametsg.net/img/1/7/b08ba614b62959e8204336837c27e3d3.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "0",
+  "item_stats": [
+    "遠距離傷害+1"
+  ],
+  "data_zhiye": "34",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "槍手的臂甲(刻印)",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "物理防禦 (AC)": "0",
+    "屬性": "遠距離傷害+1",
+    "祝福屬性": "魔法防禦 (MR)+1",
+    "材質": "骨頭",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

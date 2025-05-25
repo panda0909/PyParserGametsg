@@ -1,0 +1,184 @@
+{
+  "item_id": "1140",
+  "item_name": "深淵戒指",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1140",
+  "item_image": "https://www.gametsg.net/img/1/8/1294721da614bb877474aefeab9e2c99.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "0",
+  "item_stats": [
+    "MP回復(tic)+1",
+    "睡眠抗性+8%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "28",
+  "category_name": "戒指",
+  "basic_info": {
+    "title": "深淵戒指",
+    "類型": "飾品(戒指)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "0",
+    "屬性": [
+      "MP回復(tic)+1",
+      "睡眠抗性+8%"
+    ],
+    "祝福屬性": "最大HP+5",
+    "材質": "白金",
+    "重量": "3"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5,負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10,負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15,負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25,負重獎勵+25"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30,負重獎勵+30"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35,負重獎勵+35"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40,負重獎勵+40"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "海洋龍龜",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=653",
+      "monster_id": "653",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "69",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "火靈奴隸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=666",
+      "monster_id": "666",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    },
+    {
+      "monster_name": "水靈奴隸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=667",
+      "monster_id": "667",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    },
+    {
+      "monster_name": "風靈奴隸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=668",
+      "monster_id": "668",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    },
+    {
+      "monster_name": "地靈奴隸",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=669",
+      "monster_id": "669",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    },
+    {
+      "monster_name": "曼波兔",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=670",
+      "monster_id": "670",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "68",
+      "monster_areas": [
+        "特殊副本-古代精靈墓穴"
+      ]
+    }
+  ]
+}

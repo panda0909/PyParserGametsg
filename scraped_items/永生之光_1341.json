@@ -1,0 +1,57 @@
+{
+  "item_id": "1341",
+  "item_name": "永生之光",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1341",
+  "item_image": "https://www.gametsg.net/img/1/9/29d61721a7a0b96bd109b64f7de8ed4e.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "永生之光",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦物質",
+    "重量": "1"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "泰坦高崙",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=919",
+      "monster_id": "919",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-高崙研究所"
+      ]
+    }
+  ]
+}

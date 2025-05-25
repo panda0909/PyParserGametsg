@@ -1,0 +1,1703 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1076",
+    "item_name": "100天紀念戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1076",
+    "item_image": "https://www.gametsg.net/img/1/7/158b8847de4310a7761047b7eb06ef3a.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "用作1週年戒指的材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1077",
+    "item_name": "200天紀念戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1077",
+    "item_image": "https://www.gametsg.net/img/1/7/183a218ef52849308eb9d9301441041f.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "用作1週年戒指的材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1078",
+    "item_name": "300天紀念戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1078",
+    "item_image": "https://www.gametsg.net/img/1/7/410c076caa29d0428399b16bc6ee6a0d.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "用作1週年戒指的材料"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1079",
+    "item_name": "1週年紀念戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1079",
+    "item_image": "https://www.gametsg.net/img/1/7/67d7d52c506fa20e6ca49e5a6b8db152.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "作為道具收藏品，材料使用（不可收藏品重複登錄）",
+      "獲得來源:商店 (紅利)"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1080",
+    "item_name": "史奈普的防禦戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1080",
+    "item_image": "https://www.gametsg.net/img/1/7/614e1b8b0c6979cf640d486856bde9ce.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "負重獎勵+250",
+      "魔法防禦 (MR)+3"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1081",
+    "item_name": "史奈普的英雄戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1081",
+    "item_image": "https://www.gametsg.net/img/1/7/1283c671232dd32bd0a5931f50ab84a3.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+10",
+      "負重獎勵+250"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1082",
+    "item_name": "史奈普的智慧戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1082",
+    "item_image": "https://www.gametsg.net/img/1/7/b827d3d5bc88268e4b6058544e30b532.jpg",
+    "item_grade": "grade042",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "負重獎勵+250"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1083",
+    "item_name": "古魯丁的詛咒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1083",
+    "item_image": "https://www.gametsg.net/img/1/7/69f9b9065a547d9d387e00e1ddf2de67.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "昏迷抗性+7%",
+      "死亡+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1084",
+    "item_name": "火焰之影戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1084",
+    "item_image": "https://www.gametsg.net/img/1/7/61fccc69ccf71d84e4d32c9f05ef43d6.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "無視傷害減免+10",
+      "MP吸收"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1085",
+    "item_name": "蕾雅戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1085",
+    "item_image": "https://www.gametsg.net/img/1/7/0aeb0863b5413b52980875ba12cee165.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1086",
+    "item_name": "巫妖戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1086",
+    "item_image": "https://www.gametsg.net/img/1/7/2c20572e6aaca08d1b133fe90ca161cd.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "死亡+3",
+      "昏迷抗性+5%",
+      "魔攻+3"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1087",
+    "item_name": "貝利亞爾的戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1087",
+    "item_image": "https://www.gametsg.net/img/1/7/ffb61fe707b27a34feb53de6b2d6f648.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "昏迷抗性+5%",
+      "恐怖抗性 +5%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1088",
+    "item_name": "死神戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1088",
+    "item_image": "https://www.gametsg.net/img/1/7/5e66bcac228b5d29073036f7b1cb9d4f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "昏迷命中 +3%",
+      "死亡+3",
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1089",
+    "item_name": "神聖的阿努比斯戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1089",
+    "item_image": "https://www.gametsg.net/img/1/7/6fc9880352b6c0de8a90e4a470c36988.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+15",
+      "昏迷抗性+5%",
+      "力量+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1090",
+    "item_name": "神聖的歐西里斯戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1090",
+    "item_image": "https://www.gametsg.net/img/1/7/ab15db5ade2b9eaa2d33e73c169c5205.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "遠距離命中+1",
+      "敏捷+2",
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1091",
+    "item_name": "神聖的賀洛斯戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1091",
+    "item_image": "https://www.gametsg.net/img/1/7/00c041455a25384c61be916c0c58fe44.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "昏迷抗性+5%",
+      "智力+2",
+      "魔攻+2",
+      "MP回復(tic)+1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1092",
+    "item_name": "榮譽戰鬥戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1092",
+    "item_image": "https://www.gametsg.net/img/1/7/215a99d5b12930c5c7ad160a4b5d211f.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "[攻城戰專用裝備]",
+      "離開圍困區域時禁用裝置效果的自動應用"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1093",
+    "item_name": "傑尼斯覺醒戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1093",
+    "item_image": "https://www.gametsg.net/img/1/7/4924f44693db5757eb3f04527964765c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "毒抗性+100%",
+      "智力+3",
+      "魔法命中+2",
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1094",
+    "item_name": "古代巨人戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1094",
+    "item_image": "https://www.gametsg.net/img/1/8/aa440242153ca8ca110ae5cfb4435106.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "PVE傷害減免+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1095",
+    "item_name": "變形怪首領之戒(右)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1095",
+    "item_image": "https://www.gametsg.net/img/1/8/bd39dc824a9c478af388b5741323dfdf.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1096",
+    "item_name": "變形怪首領之戒(左)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1096",
+    "item_image": "https://www.gametsg.net/img/1/8/f87a4cdc810272b86a4547099ea25f77.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "昏迷抗性+7%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1097",
+    "item_name": "光之沙哈的戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1097",
+    "item_image": "https://www.gametsg.net/img/1/8/112ce9b59d83104d4908e40d78898e24.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "MP回復 (tic)+2",
+      "敏捷+2",
+      "負重獎勵+450"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1098",
+    "item_name": "聖地戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1098",
+    "item_image": "https://www.gametsg.net/img/1/8/6b70286f179fa71bf4487dcf44524cef.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "力量+1",
+      "智力+1",
+      "MP回復(tic)+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1099",
+    "item_name": "史雷佛戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1099",
+    "item_image": "https://www.gametsg.net/img/1/8/3420d34a0e3f332a9159e00f0af8a18b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1100",
+    "item_name": "神聖的敏捷之戒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1100",
+    "item_image": "https://www.gametsg.net/img/1/8/e55a5fc650d6ebb8fe535f3b6db2db94.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+60",
+      "敏捷+1",
+      "魔法防禦 (MR)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1101",
+    "item_name": "神聖的敏捷之戒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1101",
+    "item_image": "https://www.gametsg.net/img/1/8/e55a5fc650d6ebb8fe535f3b6db2db94.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+60",
+      "敏捷+1",
+      "魔法防禦 (MR)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1102",
+    "item_name": "神聖的征戰之戒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1102",
+    "item_image": "https://www.gametsg.net/img/1/8/acb0db72073867054a8eb512cc6971b3.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+60",
+      "力量+1",
+      "魔法防禦 (MR)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1103",
+    "item_name": "神聖的征戰之戒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1103",
+    "item_image": "https://www.gametsg.net/img/1/8/acb0db72073867054a8eb512cc6971b3.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+60",
+      "力量+1",
+      "魔法防禦 (MR)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1104",
+    "item_name": "神聖的賢者之戒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1104",
+    "item_image": "https://www.gametsg.net/img/1/8/4d4fb8b9e004b66ac68ada4fa0dc5e76.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+60",
+      "智力+1",
+      "魔法防禦 (MR)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1105",
+    "item_name": "神聖的賢者之戒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1105",
+    "item_image": "https://www.gametsg.net/img/1/8/4d4fb8b9e004b66ac68ada4fa0dc5e76.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+60",
+      "智力+1",
+      "魔法防禦 (MR)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1106",
+    "item_name": "阿努比斯戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1106",
+    "item_image": "https://www.gametsg.net/img/1/8/30f90bf2d817a860711d4c40af74cd7d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+15",
+      "力量+1",
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1107",
+    "item_name": "阿努比斯戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1107",
+    "item_image": "https://www.gametsg.net/img/1/8/30f90bf2d817a860711d4c40af74cd7d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+15",
+      "力量+1",
+      "昏迷抗性+5%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1108",
+    "item_name": "英雄變身戒指(真 死亡騎士 紅)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1108",
+    "item_image": "https://www.gametsg.net/img/1/8/4377a896febc2bc78ad05d49f2d508ab.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "變身為真死亡騎士 (紅)"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1109",
+    "item_name": "命中之戒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1109",
+    "item_image": "https://www.gametsg.net/img/1/8/cc0a3e33c539d69d366d89d147c79791.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "敏捷+1",
+      "遠距離命中+1",
+      "昏迷抗性+3%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1110",
+    "item_name": "傑尼斯戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1110",
+    "item_image": "https://www.gametsg.net/img/1/8/e192e46b31e94f93e6c4b3aae308e0e0.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "毒抗性+100%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1111",
+    "item_name": "賀洛斯戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1111",
+    "item_image": "https://www.gametsg.net/img/1/8/f728c1ba5caaa0b506569cd69779f50b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "智力+1",
+      "魔攻+2",
+      "昏迷抗性+3%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1112",
+    "item_name": "賀洛斯戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1112",
+    "item_image": "https://www.gametsg.net/img/1/8/f728c1ba5caaa0b506569cd69779f50b.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "智力+1",
+      "魔攻+2",
+      "昏迷抗性+3%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1113",
+    "item_name": "求道者戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1113",
+    "item_image": "https://www.gametsg.net/img/1/8/3b299526cb296158b1bc9a6ea9c2e14b.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "負重獎勵+100"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1114",
+    "item_name": "騎士團的戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1114",
+    "item_image": "https://www.gametsg.net/img/1/8/24188fae4567613a0f74f8c1370ac24d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1115",
+    "item_name": "騎士團的戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1115",
+    "item_image": "https://www.gametsg.net/img/1/8/24188fae4567613a0f74f8c1370ac24d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1116",
+    "item_name": "疾風之戒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1116",
+    "item_image": "https://www.gametsg.net/img/1/8/ece0143b0eecdb40b97f9d1736bbb916.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "精神+1",
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1117",
+    "item_name": "疾風之戒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1117",
+    "item_image": "https://www.gametsg.net/img/1/8/ece0143b0eecdb40b97f9d1736bbb916.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "精神+1",
+      "敏捷+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1118",
+    "item_name": "光之防禦戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1118",
+    "item_image": "https://www.gametsg.net/img/1/8/8d810baa1ee35af0bd0e00592678dfcd.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "魔法防禦 (MR)+7"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1119",
+    "item_name": "光之防禦戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1119",
+    "item_image": "https://www.gametsg.net/img/1/8/8d810baa1ee35af0bd0e00592678dfcd.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "魔法防禦 (MR)+7"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1120",
+    "item_name": "閃亮的水靈戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1120",
+    "item_image": "https://www.gametsg.net/img/1/8/47957dc3bacc3d54604d12d99829aedc.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "水屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1121",
+    "item_name": "閃亮的水靈戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1121",
+    "item_image": "https://www.gametsg.net/img/1/8/47957dc3bacc3d54604d12d99829aedc.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "水屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1122",
+    "item_name": "閃亮的地靈戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1122",
+    "item_image": "https://www.gametsg.net/img/1/8/05b4b1e0995668a6c845e377d2efbbd5.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "地屬性抗性+30%"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1123",
+    "item_name": "閃亮的地靈戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1123",
+    "item_image": "https://www.gametsg.net/img/1/8/05b4b1e0995668a6c845e377d2efbbd5.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "地屬性抗性+30%"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1124",
+    "item_name": "閃亮的風靈戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1124",
+    "item_image": "https://www.gametsg.net/img/1/8/4fe955e8a852d1d7bcc6eafb2e4b33b4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "風屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1125",
+    "item_name": "閃亮的風靈戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1125",
+    "item_image": "https://www.gametsg.net/img/1/8/4fe955e8a852d1d7bcc6eafb2e4b33b4.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "風屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1126",
+    "item_name": "閃亮的火靈戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1126",
+    "item_image": "https://www.gametsg.net/img/1/8/c9098e1691d274574055a2682da028c2.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "火屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1127",
+    "item_name": "閃亮的火靈戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1127",
+    "item_image": "https://www.gametsg.net/img/1/8/c9098e1691d274574055a2682da028c2.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "火屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1128",
+    "item_name": "征戰之戒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1128",
+    "item_image": "https://www.gametsg.net/img/1/8/736603f60190f1d6fa54a244514d1ec0.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "力量+1",
+      "精神+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1129",
+    "item_name": "征戰之戒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1129",
+    "item_image": "https://www.gametsg.net/img/1/8/736603f60190f1d6fa54a244514d1ec0.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "力量+1",
+      "精神+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1130",
+    "item_name": "賢者之戒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1130",
+    "item_image": "https://www.gametsg.net/img/1/8/5d18a8875f899b4a3af4f862022daa73.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "智力+1",
+      "精神+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1131",
+    "item_name": "賢者之戒(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1131",
+    "item_image": "https://www.gametsg.net/img/1/8/5d18a8875f899b4a3af4f862022daa73.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "智力+1",
+      "精神+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1132",
+    "item_name": "滅魔戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1132",
+    "item_image": "https://www.gametsg.net/img/1/8/9dd759db93e3a19473b1e5590029a6ed.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "魔法防禦 (MR)+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1133",
+    "item_name": "滅魔戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1133",
+    "item_image": "https://www.gametsg.net/img/1/8/9dd759db93e3a19473b1e5590029a6ed.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "魔法防禦 (MR)+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1134",
+    "item_name": "守護戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1134",
+    "item_image": "https://www.gametsg.net/img/1/8/7b019404db81a91e4e5a8c57e8802442.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1135",
+    "item_name": "守護戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1135",
+    "item_image": "https://www.gametsg.net/img/1/8/7b019404db81a91e4e5a8c57e8802442.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1136",
+    "item_name": "水靈戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1136",
+    "item_image": "https://www.gametsg.net/img/1/8/2020c7dc548dd1f6f65a25c67cdcff99.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "水屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1137",
+    "item_name": "水靈戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1137",
+    "item_image": "https://www.gametsg.net/img/1/8/2020c7dc548dd1f6f65a25c67cdcff99.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "水屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1138",
+    "item_name": "修好的戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1138",
+    "item_image": "https://www.gametsg.net/img/1/8/9e03c4e502e091172ddddf9e50f00d2d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大MP +5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1139",
+    "item_name": "守護者的戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1139",
+    "item_image": "https://www.gametsg.net/img/1/8/3ad4631f687a1f765463de185acde50e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+30",
+      "最大MP +20"
+    ],
+    "data_zhiye": "8",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1140",
+    "item_name": "深淵戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1140",
+    "item_image": "https://www.gametsg.net/img/1/8/1294721da614bb877474aefeab9e2c99.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "睡眠抗性+8%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1141",
+    "item_name": "深淵戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1141",
+    "item_image": "https://www.gametsg.net/img/1/8/1294721da614bb877474aefeab9e2c99.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "睡眠抗性+8%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1142",
+    "item_name": "地靈戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1142",
+    "item_image": "https://www.gametsg.net/img/1/8/9590762d20e35beccf0371d63408ccf6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "地屬性抗性+30%"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1143",
+    "item_name": "地靈戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1143",
+    "item_image": "https://www.gametsg.net/img/1/8/9590762d20e35beccf0371d63408ccf6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "地屬性抗性+30%"
+    ],
+    "data_zhiye": "",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1144",
+    "item_name": "風靈戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1144",
+    "item_image": "https://www.gametsg.net/img/1/8/ddd1b99c31e763cf2b02aef75c00ad7b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "風屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1145",
+    "item_name": "風靈戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1145",
+    "item_image": "https://www.gametsg.net/img/1/8/ddd1b99c31e763cf2b02aef75c00ad7b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "風屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1146",
+    "item_name": "抗魔戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1146",
+    "item_image": "https://www.gametsg.net/img/1/8/7c313833728fcfdfbb9eed9f8008aceb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1147",
+    "item_name": "抗魔戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1147",
+    "item_image": "https://www.gametsg.net/img/1/8/7c313833728fcfdfbb9eed9f8008aceb.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1148",
+    "item_name": "火靈戒指",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1148",
+    "item_image": "https://www.gametsg.net/img/1/8/24531acf374130afde527050fe995bbe.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "火屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  },
+  {
+    "item_id": "1149",
+    "item_name": "火靈戒指(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=1149",
+    "item_image": "https://www.gametsg.net/img/1/8/24531acf374130afde527050fe995bbe.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "火屬性抗性+30%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "28",
+    "category_name": "戒指"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "item_id": "1254",
+  "item_name": "戰場的神話(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1254",
+  "item_image": "https://www.gametsg.net/img/1/9/719ca88b2334068bda990afda9924711.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "持續時間:3 分鐘",
+    "冷卻時間 (秒) 10 分鐘"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "36",
+  "category_name": "卷軸",
+  "basic_info": {
+    "title": "戰場的神話(刻印)",
+    "類型": "其他(卷軸)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "持續時間:3 分鐘",
+      "冷卻時間 (秒) 10 分鐘"
+    ],
+    "材質": "紙",
+    "重量": "0.01",
+    "說明": [
+      "生命值增加,重疊傷害減免",
+      "可在奇岩城圍攻區使用",
+      "當你離開圍攻區時,該效果將會被刪除."
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

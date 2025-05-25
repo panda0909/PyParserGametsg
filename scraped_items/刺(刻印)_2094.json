@@ -1,0 +1,46 @@
+{
+  "item_id": "2094",
+  "item_name": "刺(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2094",
+  "item_image": "https://www.gametsg.net/img/2/12/8041f39f8fc8e8ba1fda793a19f0b1a9.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    },
+    {
+      "name": "龍鬥士",
+      "level": "level05"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [],
+  "data_zhiye": "4|5",
+  "category_id": "39",
+  "category_name": "箭/刺/子彈",
+  "basic_info": {
+    "title": "刺(刻印)",
+    "類型": "其他(箭/刺/子彈)",
+    "職業": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      }
+    ],
+    "材質": "金屬塊",
+    "重量": "0.03"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

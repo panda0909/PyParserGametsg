@@ -1,0 +1,41 @@
+{
+  "item_id": "1754",
+  "item_name": "技術教本(魔法彈:恐怖)(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1754",
+  "item_image": "https://www.gametsg.net/img/2/11/d81807eebcfd3d31592426180cbe8778.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "槍手",
+      "level": "level09"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "技術教本"
+  ],
+  "data_zhiye": "34",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "技術教本(魔法彈:恐怖)(刻印)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "技術教本"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

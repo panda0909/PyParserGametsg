@@ -1,0 +1,41 @@
+{
+  "item_id": "1600",
+  "item_name": "聖書(特殊攻擊)(血盟商店)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1600",
+  "item_image": "https://www.gametsg.net/img/2/11/549204c597ca4ca80c7e1e148a0bd98c.jpg",
+  "item_grade": "grade032",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "神聖劍士",
+      "level": "level11"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "聖書"
+  ],
+  "data_zhiye": "81",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "聖書(特殊攻擊)(血盟商店)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "聖書"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

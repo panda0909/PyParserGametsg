@@ -1,0 +1,143 @@
+{
+  "item_id": "1223",
+  "item_name": "守護印章",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1223",
+  "item_image": "https://www.gametsg.net/img/1/8/98ca2c47ced18dad812fc50cfa0a9ec8.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "經驗值獲得量增加+1%",
+    "近距離命中+1",
+    "遠距離命中+1"
+  ],
+  "data_zhiye": "",
+  "category_id": "31",
+  "category_name": "印章",
+  "basic_info": {
+    "title": "守護印章",
+    "類型": "飾品(印章)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "屬性": [
+      "經驗值獲得量增加+1%",
+      "近距離命中+1",
+      "遠距離命中+1"
+    ],
+    "祝福屬性": [
+      "經驗獲得量增加+1%",
+      "近距離命中+1",
+      "遠距離命中+1"
+    ],
+    "材質": "金屬塊",
+    "重量": "0.01"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "經驗獲得量增加+1%，近距離命中+1，遠距離命中+1"
+    },
+    {
+      "level": "2",
+      "attributes": "經驗獲得量增加+2%，近距離命中+2，遠距離命中+2"
+    },
+    {
+      "level": "3",
+      "attributes": "經驗獲得量增加+3%，近距離命中+3，祝福消耗減少1%，遠距離命中+3，近距離傷害+1，遠距離傷害+1"
+    },
+    {
+      "level": "4",
+      "attributes": "經驗獲得量增加+4%，近距離命中+4，祝福消耗減少2%，遠距離命中+4，近距離傷害+1，遠距離傷害+1"
+    },
+    {
+      "level": "5",
+      "attributes": "經驗獲得量增加+5%，近距離命中+5，祝福消耗減少3%，遠距離命中+5，近距離傷害+2，遠距離傷害+2"
+    },
+    {
+      "level": "6",
+      "attributes": "經驗獲得量增加+6%，近距離命中+6，祝福消耗減少4%，遠距離命中+6，近距離傷害+3，遠距離傷害+3，昏迷抗性+1%"
+    },
+    {
+      "level": "7",
+      "attributes": "經驗獲得量增加+8%，近距離命中+8，祝福消耗減少7%，遠距離命中+8，近距離傷害+4，遠距離傷害+4，昏迷抗性+3%"
+    },
+    {
+      "level": "8",
+      "attributes": "經驗獲得量增加+10%，近距離命中+10，祝福消耗減少9%，遠距離命中+10，近距離傷害+6，遠距離傷害+6，昏迷抗性+6%"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2759",
+      "material_id": "2759",
+      "material_name": "守護印章箱",
+      "material_image": "https://www.gametsg.net/img/2/13/8e572f635b730cbcdad018c805aa908b.jpg",
+      "material_grade": "grade00",
+      "material_count": "8"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1223",
+      "material_id": "1223",
+      "material_name": "+3 守護印章",
+      "material_image": "https://www.gametsg.net/img/1/8/98ca2c47ced18dad812fc50cfa0a9ec8.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1223",
+      "material_id": "1223",
+      "material_name": "+4 守護印章",
+      "material_image": "https://www.gametsg.net/img/1/8/98ca2c47ced18dad812fc50cfa0a9ec8.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1223",
+      "material_id": "1223",
+      "material_name": "+5 守護印章",
+      "material_image": "https://www.gametsg.net/img/1/8/98ca2c47ced18dad812fc50cfa0a9ec8.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1223",
+      "material_id": "1223",
+      "material_name": "+6 守護印章",
+      "material_image": "https://www.gametsg.net/img/1/8/98ca2c47ced18dad812fc50cfa0a9ec8.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1223",
+      "material_id": "1223",
+      "material_name": "+7 守護印章",
+      "material_image": "https://www.gametsg.net/img/1/8/98ca2c47ced18dad812fc50cfa0a9ec8.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1223",
+      "material_id": "1223",
+      "material_name": "+8 守護印章",
+      "material_image": "https://www.gametsg.net/img/1/8/98ca2c47ced18dad812fc50cfa0a9ec8.jpg",
+      "material_grade": "grade042",
+      "material_count": "2"
+    }
+  ],
+  "monster_drops": []
+}

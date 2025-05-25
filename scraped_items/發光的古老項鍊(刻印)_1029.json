@@ -1,0 +1,165 @@
+{
+  "item_id": "1029",
+  "item_name": "發光的古老項鍊(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1029",
+  "item_image": "https://www.gametsg.net/img/1/7/b75fee69e35c32355b37f50b2152757a.jpg",
+  "item_grade": "grade03",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "0",
+  "item_stats": [
+    "最大HP+30",
+    "最大MP +50",
+    "力量+1"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "26",
+  "category_name": "項鍊",
+  "basic_info": {
+    "title": "發光的古老項鍊(刻印)",
+    "類型": "飾品(項鍊)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "0",
+    "屬性": [
+      "最大HP+30",
+      "最大MP +50",
+      "力量+1"
+    ],
+    "祝福屬性": "最大HP+20",
+    "材質": "金",
+    "重量": "5"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "最大HP+5,負重獎勵+5"
+    },
+    {
+      "level": "2",
+      "attributes": "最大HP+10,負重獎勵+10"
+    },
+    {
+      "level": "3",
+      "attributes": "最大HP+15,負重獎勵+15"
+    },
+    {
+      "level": "4",
+      "attributes": "最大HP+20,負重獎勵+20"
+    },
+    {
+      "level": "5",
+      "attributes": "最大HP+25,負重獎勵+25,魔法防禦 (MR)+2"
+    },
+    {
+      "level": "6",
+      "attributes": "最大HP+30,負重獎勵+30,魔法防禦 (MR)+4"
+    },
+    {
+      "level": "7",
+      "attributes": "最大HP+35,負重獎勵+35,魔法防禦 (MR)+6"
+    },
+    {
+      "level": "8",
+      "attributes": "最大HP+40,負重獎勵+40,魔法防禦 (MR)+8"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2758",
+      "material_id": "2758",
+      "material_name": "最高級的原石",
+      "material_image": "https://www.gametsg.net/img/3/25/0a50a4adceb8686cb9fca6d208a5bacb.jpg",
+      "material_grade": "grade00",
+      "material_count": "6"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1544",
+      "material_id": "1544",
+      "material_name": "祝福粉末",
+      "material_image": "https://www.gametsg.net/img/2/11/f4165803f5223bb4f258c1ed0c5dfc98.jpg",
+      "material_grade": "grade01",
+      "material_count": "200"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1412",
+      "material_id": "1412",
+      "material_name": "稀有飾品製作秘笈(刻印)",
+      "material_image": "https://www.gametsg.net/img/1/10/07390bebbee2897f9384f0687d33021a.jpg",
+      "material_grade": "grade03",
+      "material_count": "1",
+      "alternatives": [
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=2595",
+          "alt_id": "2595",
+          "alt_name": "稀有製作卷軸",
+          "alt_grade": "grade00",
+          "alt_count": "1"
+        },
+        {
+          "alt_url": "https://www.gametsg.net/equip/detail.html?id=1414",
+          "alt_id": "1414",
+          "alt_name": "稀有工藝食譜書(刻印)",
+          "alt_grade": "grade03",
+          "alt_count": "1"
+        }
+      ]
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2595",
+      "material_id": "2595",
+      "material_name": "",
+      "material_grade": "grade00",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=1414",
+      "material_id": "1414",
+      "material_name": "",
+      "material_grade": "grade03",
+      "material_count": "1"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2500",
+      "material_id": "2500",
+      "material_name": "金幣",
+      "material_image": "https://www.gametsg.net/img/2/13/f746ea79d86bfa79a599d335504d51a7.jpg",
+      "material_grade": "grade01",
+      "material_count": "500000"
+    }
+  ],
+  "monster_drops": [
+    {
+      "monster_name": "暴走的克莱恩",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=338",
+      "monster_id": "338",
+      "monster_type": "monType02",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-破滅的奇岩地監-1 樓"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1403 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "110",
+    "item_name": "大地女神的激怒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=110",
+    "item_image": "https://www.gametsg.net/img/1/1/f259ba82a9fd337745df3fe7fa03b300.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "6 / 7",
+    "item_stats": [
+      "額外攻擊+33",
+      "武器命中+22",
+      "敏捷+5",
+      "傷害減免+2",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "無視遠距離傷害減免 +12",
+      "無視遠距離迴避力+5",
+      "昏迷命中 +10%",
+      "發動:混沌狂襲 3%",
+      "發動:消除聖結界 2%",
+      "傷害增加+10%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "111",
+    "item_name": "艾莉絲(弓)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=111",
+    "item_image": "https://www.gametsg.net/img/1/1/def29c009341c406a4afc43e8fc9537f.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "6 / 7",
+    "item_stats": [
+      "額外攻擊+30",
+      "武器命中+15",
+      "經驗值獲得量增加+30%",
+      "敏捷+5",
+      "雙手武器",
+      "防止武器損壞",
+      "無視遠距離傷害減免+3",
+      "無視遠距離迴避力+3",
+      "貫穿效果",
+      "昏迷命中 +8%",
+      "火屬性追加傷害+10",
+      "發動:流星雨（古代） 5%",
+      "發動:艾莉絲的憎恨 10%",
+      "傷害增加+8%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "112",
+    "item_name": "史雷佛弩弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=112",
+    "item_image": "https://www.gametsg.net/img/1/1/c0978c37771ac8a6137511a69a3ede2c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "5 / 5",
+    "item_stats": [
+      "額外攻擊+11",
+      "武器命中+4",
+      "敏捷+2",
+      "防止武器損壞",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "113",
+    "item_name": "惡夢的長弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=113",
+    "item_image": "https://www.gametsg.net/img/1/1/40dc2e16e5f398c7cc1d457f8813f930.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "6 / 5",
+    "item_stats": [
+      "額外攻擊+13",
+      "武器命中+4",
+      "敏捷+2",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "114",
+    "item_name": "惡夢的長弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=114",
+    "item_image": "https://www.gametsg.net/img/1/1/40dc2e16e5f398c7cc1d457f8813f930.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "6 / 5",
+    "item_stats": [
+      "額外攻擊+13",
+      "武器命中+4",
+      "敏捷+2",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "發動:緋紅旋渦 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "115",
+    "item_name": "歐西里斯長弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=115",
+    "item_image": "https://www.gametsg.net/img/1/1/d33574d203f7501fbfd0a03263720244.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "7 / 6",
+    "item_stats": [
+      "額外攻擊+12",
+      "武器命中+7",
+      "敏捷+2",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "死亡+3",
+      "昏迷命中 +3%",
+      "發動:混沌底比斯 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "116",
+    "item_name": "烏格奴斯的長弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=116",
+    "item_image": "https://www.gametsg.net/img/1/1/02a1de611c5d22115d7a367d566e4c11.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "7 / 6",
+    "item_stats": [
+      "額外攻擊+14",
+      "武器命中+9",
+      "敏捷+2",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "昏迷命中 +5%",
+      "無視遠距離傷害減免+2",
+      "無視遠距離迴避力+2",
+      "發動:烏格努斯的烙印 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "117",
+    "item_name": "惡魔王弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=117",
+    "item_image": "https://www.gametsg.net/img/1/1/9754538718e608a9032af5b2e1685b89.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "5 / 5",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+4",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "118",
+    "item_name": "惡魔王弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=118",
+    "item_image": "https://www.gametsg.net/img/1/1/9754538718e608a9032af5b2e1685b89.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "5 / 5",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+4",
+      "雙手武器",
+      "防止武器損壞",
+      "發動:疾病術 10%",
+      "發動:格蘭肯的憤怒 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "119",
+    "item_name": "安迪斯之弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=119",
+    "item_image": "https://www.gametsg.net/img/1/1/d198be71ae93db5d85f10766a931ea48.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+6",
+      "防止武器損壞",
+      "HP吸收"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "120",
+    "item_name": "安迪斯之弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=120",
+    "item_image": "https://www.gametsg.net/img/1/1/d198be71ae93db5d85f10766a931ea48.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+6",
+      "防止武器損壞",
+      "HP吸收"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "121",
+    "item_name": "腐壞的長弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=121",
+    "item_image": "https://www.gametsg.net/img/1/1/9b91624e55e070c0cf8de25e379ae678.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "5 / 4",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+7",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "122",
+    "item_name": "腐壞的長弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=122",
+    "item_image": "https://www.gametsg.net/img/1/1/9b91624e55e070c0cf8de25e379ae678.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "5 / 4",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+7",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "123",
+    "item_name": "暗黑十字弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=123",
+    "item_image": "https://www.gametsg.net/img/1/1/2425dbb1a58b2a51331bff2015c95970.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "5 / 5",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+4",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "依照指定概率的附加傷害1%"
+    ],
+    "data_zhiye": "2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "124",
+    "item_name": "暗黑十字弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=124",
+    "item_image": "https://www.gametsg.net/img/1/1/2425dbb1a58b2a51331bff2015c95970.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "5 / 5",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+4",
+      "防止武器損壞",
+      "雙手武器",
+      "貫通效果",
+      "依照指定概率的附加傷害1%"
+    ],
+    "data_zhiye": "2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "125",
+    "item_name": "熾炎天使弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=125",
+    "item_image": "https://www.gametsg.net/img/1/1/da90ca029ab1741316b147860e03cc49.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 4",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+4",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:月光地裂8%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "126",
+    "item_name": "熾炎天使弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=126",
+    "item_image": "https://www.gametsg.net/img/1/1/da90ca029ab1741316b147860e03cc49.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 4",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+4",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:月光地裂8%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "127",
+    "item_name": "魔族之弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=127",
+    "item_image": "https://www.gametsg.net/img/1/1/c834b00ce62fdfc7a98e8184cff6b48e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+3",
+      "防止武器損壞",
+      "發動:藍惡靈奪魔 4%"
+    ],
+    "data_zhiye": "2|3|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "128",
+    "item_name": "魔族之弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=128",
+    "item_image": "https://www.gametsg.net/img/1/1/c834b00ce62fdfc7a98e8184cff6b48e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+6",
+      "武器命中+3",
+      "防止武器損壞",
+      "發動:藍惡靈奪魔 4%"
+    ],
+    "data_zhiye": "2|3|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "129",
+    "item_name": "沙哈之弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=129",
+    "item_image": "https://www.gametsg.net/img/1/1/a17ac3dd389705c5ce00fa8eb2ea7fad.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "130",
+    "item_name": "沙哈之弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=130",
+    "item_image": "https://www.gametsg.net/img/1/1/a17ac3dd389705c5ce00fa8eb2ea7fad.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "4 / 4",
+    "item_stats": [
+      "額外攻擊+5",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "131",
+    "item_name": "弒神者之弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=131",
+    "item_image": "https://www.gametsg.net/img/1/1/29c84de8191bdfb9b52a95bd1172ad4c.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 4",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "敏捷+2",
+      "體質 +2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:精靈之箭 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "132",
+    "item_name": "弒神者之弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=132",
+    "item_image": "https://www.gametsg.net/img/1/1/29c84de8191bdfb9b52a95bd1172ad4c.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 4",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "敏捷+2",
+      "體質 +2",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:精靈之箭 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "133",
+    "item_name": "被遺忘的旅人弓箭",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=133",
+    "item_image": "https://www.gametsg.net/img/1/1/2df682c16ea6aaf42811f817272c029f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "1 / 1",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "134",
+    "item_name": "南瓜傑克之弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=134",
+    "item_image": "https://www.gametsg.net/img/1/1/aba7f5086dead3a65efe61298c44fdd8.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "敏捷+1",
+      "體質 +2",
+      "發動:南瓜的玩笑 1%"
+    ],
+    "data_zhiye": "2|3|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "135",
+    "item_name": "底比斯歐西里斯弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=135",
+    "item_image": "https://www.gametsg.net/img/1/1/14479a61342900ffef7c9282a283af0d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "智力+2",
+      "精神+1",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "136",
+    "item_name": "底比斯歐西里斯弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=136",
+    "item_image": "https://www.gametsg.net/img/1/1/14479a61342900ffef7c9282a283af0d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "智力+2",
+      "精神+1",
+      "發動:惡魔之吻 1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "137",
+    "item_name": "拉斯塔巴德重十字弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=137",
+    "item_image": "https://www.gametsg.net/img/1/1/af36942c22b25c6b84a0cf52664887c2.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+3",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "138",
+    "item_name": "尤米弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=138",
+    "item_image": "https://www.gametsg.net/img/1/1/fbcf6b78dc96900a21b92cf75aa23baa.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+3",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "139",
+    "item_name": "尤米弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=139",
+    "item_image": "https://www.gametsg.net/img/1/1/fbcf6b78dc96900a21b92cf75aa23baa.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+3",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "140",
+    "item_name": "深紅之弩",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=140",
+    "item_image": "https://www.gametsg.net/img/1/1/3980c4e555b0a194d037d5205fc60f77.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "武器命中+1",
+      "防止武器損壞",
+      "雙手武器",
+      "發動:持有1%"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "141",
+    "item_name": "十字弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=141",
+    "item_image": "https://www.gametsg.net/img/1/1/807bd8fb08e9a19f07fab5604e8ab8e8.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "3 / 2",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "142",
+    "item_name": "十字弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=142",
+    "item_image": "https://www.gametsg.net/img/1/1/807bd8fb08e9a19f07fab5604e8ab8e8.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "3 / 2",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+3",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "143",
+    "item_name": "赤焰之弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=143",
+    "item_image": "https://www.gametsg.net/img/1/1/590527995dda5a6691ee5ecfc1e3adff.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "144",
+    "item_name": "赤焰之弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=144",
+    "item_image": "https://www.gametsg.net/img/1/1/590527995dda5a6691ee5ecfc1e3adff.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+4",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "145",
+    "item_name": "幽暗十字弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=145",
+    "item_image": "https://www.gametsg.net/img/1/1/72116cb72df8da6ca811c63419ce4060.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "3 / 2",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "146",
+    "item_name": "幽暗十字弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=146",
+    "item_image": "https://www.gametsg.net/img/1/1/72116cb72df8da6ca811c63419ce4060.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "3 / 2",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "147",
+    "item_name": "拉斯塔巴德之弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=147",
+    "item_image": "https://www.gametsg.net/img/1/1/782b07b02082f3cbb92d5cfc68c89c06.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "8 / 6",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "雙手武器",
+      "防止武器損壞"
+    ],
+    "data_zhiye": "1|2|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "148",
+    "item_name": "拉斯塔巴德十字弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=148",
+    "item_image": "https://www.gametsg.net/img/1/1/5edbbc660847b30358203e4d20dd174e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "3 / 3",
+    "item_stats": [
+      "額外攻擊+2",
+      "武器命中+2",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "2|4",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "149",
+    "item_name": "獵人之弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=149",
+    "item_image": "https://www.gametsg.net/img/1/1/6a22fdf7f0d0ad97ee3fce81b5294312.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|3|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "150",
+    "item_name": "獵人之弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=150",
+    "item_image": "https://www.gametsg.net/img/1/1/6a22fdf7f0d0ad97ee3fce81b5294312.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+1",
+      "武器命中+5",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|3|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "151",
+    "item_name": "歐西斯弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=151",
+    "item_image": "https://www.gametsg.net/img/1/1/a1918032e073a0bc4daec7d369ce6b3e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊-1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|3|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "152",
+    "item_name": "精靈弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=152",
+    "item_image": "https://www.gametsg.net/img/1/2/e2b83b9f236533b1929a6bacf8e09ea6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|3|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "153",
+    "item_name": "精靈弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=153",
+    "item_image": "https://www.gametsg.net/img/1/2/e2b83b9f236533b1929a6bacf8e09ea6.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊+1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|3|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "154",
+    "item_name": "短弓",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=154",
+    "item_image": "https://www.gametsg.net/img/1/2/27f923f91fd3e80f806eb544399dbfc7.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "額外攻擊-1",
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|3|4|8",
+    "category_id": "5",
+    "category_name": "弓"
+  },
+  {
+    "item_id": "155",
+    "item_name": "短弓(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=155",
+    "item_image": "https://www.gametsg.net/img/1/2/7c3b9efb57ffe49e70acadbfc9693b66.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "2 / 2",
+    "item_stats": [
+      "防止武器損壞",
+      "雙手武器"
+    ],
+    "data_zhiye": "1|2|3|8|7",
+    "category_id": "5",
+    "category_name": "弓"
+  }
+]

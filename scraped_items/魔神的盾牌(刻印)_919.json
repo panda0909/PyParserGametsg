@@ -1,0 +1,107 @@
+{
+  "item_id": "919",
+  "item_name": "魔神的盾牌(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=919",
+  "item_image": "https://www.gametsg.net/img/1/6/1328bb946e40da89dbfd1c540a83a75d.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    }
+  ],
+  "item_level": "-6",
+  "item_stats": [
+    "傷害減免+2",
+    "昏迷抗性+5%",
+    "魔法防禦 (MR)+10"
+  ],
+  "data_zhiye": "7",
+  "category_id": "23",
+  "category_name": "盾牌/臂甲",
+  "basic_info": {
+    "title": "魔神的盾牌(刻印)",
+    "類型": "防具(盾牌/臂甲)",
+    "職業": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "物理防禦 (AC)": "-6",
+    "屬性": [
+      "傷害減免+2",
+      "昏迷抗性+5%",
+      "魔法防禦 (MR)+10"
+    ],
+    "祝福屬性": "物理防禦力 (AC)-1",
+    "材質": "骨頭",
+    "重量": "30"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易",
+    "安定值": "無安定值"
+  },
+  "enhance_info": [
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1,昏迷抗性+1%"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2,昏迷抗性+2%"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3,昏迷抗性+3%"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4,昏迷抗性+4%"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,昏迷抗性+5%"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,昏迷抗性+6%"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,昏迷抗性+7%"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,昏迷抗性+8%"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,昏迷抗性+9%"
+    },
+    {
+      "level": "10",
+      "attributes": "物理防禦力 (AC)-10,昏迷抗性+10%"
+    },
+    {
+      "level": "11",
+      "attributes": "物理防禦力 (AC)-11,昏迷抗性+11%"
+    },
+    {
+      "level": "12",
+      "attributes": "物理防禦力 (AC)-12,昏迷抗性+12%"
+    },
+    {
+      "level": "13",
+      "attributes": "物理防禦力 (AC)-13,昏迷抗性+13%"
+    },
+    {
+      "level": "14",
+      "attributes": "物理防禦力 (AC)-14,昏迷抗性+14%"
+    }
+  ],
+  "craft_materials": [],
+  "monster_drops": []
+}

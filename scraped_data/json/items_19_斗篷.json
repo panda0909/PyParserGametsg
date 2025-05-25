@@ -1,0 +1,1956 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "686",
+    "item_name": "火焰之影斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=686",
+    "item_image": "https://www.gametsg.net/img/1/5/2d1bb990d3b7c56d7d7a12e7d63d95ec.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-19",
+    "item_stats": [
+      "無視傷害減免4%",
+      "傷害減免+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "687",
+    "item_name": "依詩蒂的保護",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=687",
+    "item_image": "https://www.gametsg.net/img/1/5/9aafd356e6dbbab10beea43a08bdf58b.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-10",
+    "item_stats": [
+      "傷害減免+5",
+      "魔法防禦 (MR)+30",
+      "MP恢復 (tic)+12",
+      "激活:神秘混沌 1%"
+    ],
+    "data_zhiye": "2|3|34",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "688",
+    "item_name": "守護者披風",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=688",
+    "item_image": "https://www.gametsg.net/img/1/5/c93f7c986123c92f839f8d51225213ff.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "力量+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "689",
+    "item_name": "納格巴斯斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=689",
+    "item_image": "https://www.gametsg.net/img/1/5/6e2ea7a5f6997903c3bb3c5c5cc38341.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "PVP傷害減免+10",
+      "暗黑抗性+50%",
+      "發動:黑暗的詛咒 1%"
+    ],
+    "data_zhiye": "2|3|34",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "690",
+    "item_name": "牛人的皮斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=690",
+    "item_image": "https://www.gametsg.net/img/1/5/7221571a5720fce3aee44733c8987f33.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大HP+100",
+      "力量+2",
+      "傷害減免+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "691",
+    "item_name": "吸血鬼覺醒斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=691",
+    "item_image": "https://www.gametsg.net/img/1/5/c972b97ee8f0412c93851b9f2918509a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "最大HP+100",
+      "智力+2",
+      "傷害減免+1",
+      "MP回復 (tic)+9",
+      "魔法暴擊+5%"
+    ],
+    "data_zhiye": "3|4|5|81|12",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "692",
+    "item_name": "貝利亞爾的黑色翅膀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=692",
+    "item_image": "https://www.gametsg.net/img/1/5/dcd178c76f7aa9c8e3a500c278473bed.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [
+      "最大HP+150",
+      "近距離傷害+5",
+      "近距離命中+3"
+    ],
+    "data_zhiye": "1|4|7|12|5|8|52|81|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "693",
+    "item_name": "貝利亞爾的紫色翅膀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=693",
+    "item_image": "https://www.gametsg.net/img/1/5/6d9a83d8f6491de22dc20287818794ad.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "最大HP+100",
+      "魔攻+5",
+      "魔法命中+3"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "694",
+    "item_name": "幻象眼魔皮斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=694",
+    "item_image": "https://www.gametsg.net/img/1/5/c007ba44fc593b211c824f51df56e947.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "智力+1",
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "695",
+    "item_name": "約尼爾的斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=695",
+    "item_image": "https://www.gametsg.net/img/1/5/589510dfef134d2fda58de7d55497734.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "PVP傷害減免+10",
+      "遠距離暴擊抗性 +5%"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "696",
+    "item_name": "真·冥皇斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=696",
+    "item_image": "https://www.gametsg.net/img/1/5/a8a172a2f9b71f6788ee7cd2819f5f8b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-7",
+    "item_stats": [],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "697",
+    "item_name": "亞力安王的鱗片斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=697",
+    "item_image": "https://www.gametsg.net/img/1/5/9275e65db1e86bd2d8c2485e004fed9a.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "最大HP+100",
+      "敏捷+2",
+      "傷害減免+1",
+      "MP回復 (tic)+9",
+      "遠距離爆擊 +5%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "698",
+    "item_name": "黑豹皮披風",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=698",
+    "item_image": "https://www.gametsg.net/img/1/5/9e32ffcd96a637b68e19bd28c9e884af.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "敏捷+1",
+      "MP回復(tic)+7",
+      "遠距離爆擊+3%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "699",
+    "item_name": "隱身斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=699",
+    "item_image": "https://www.gametsg.net/img/1/5/2d5d4dc13b326c593a4a9c4eb85b38b4.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "裝備時套用透明效果"
+    ],
+    "data_zhiye": "",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "700",
+    "item_name": "霸王的威嚴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=700",
+    "item_image": "https://www.gametsg.net/img/1/5/d098332191c6f548f5825bb59476c874.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "力量+3",
+      "智力+3",
+      "精神+3",
+      "敏捷+5",
+      "體質 +3",
+      "魅力+3",
+      "傷害減免+3",
+      "裝備技能:獅子心",
+      "恐怖 命中+5%"
+    ],
+    "data_zhiye": "8",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "701",
+    "item_name": "巨蟻女皇的金翅膀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=701",
+    "item_image": "https://www.gametsg.net/img/1/5/1785671675cffe433bd57460666b3d9d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "最大HP+50",
+      "魔法防禦 (MR)+6",
+      "近距離暴擊傷害+3"
+    ],
+    "data_zhiye": "1|2|5|8|34|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "702",
+    "item_name": "巨蟻女皇的金翅膀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=702",
+    "item_image": "https://www.gametsg.net/img/1/5/1785671675cffe433bd57460666b3d9d.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "最大HP+50",
+      "魔法防禦 (MR)+6",
+      "近距離暴擊傷害+3"
+    ],
+    "data_zhiye": "1|2|5|8|34|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "703",
+    "item_name": "巨蟻女皇的銀翅膀",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=703",
+    "item_image": "https://www.gametsg.net/img/1/5/967a550230bb69da27cf7e9ed539a3c5.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +70",
+      "MP回復(tic)+7",
+      "魔法防禦(MR)+5",
+      "遠距離暴擊傷害+3",
+      "魔法暴擊傷害+3"
+    ],
+    "data_zhiye": "2|3|4|34|81",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "704",
+    "item_name": "巨蟻女皇的銀翅膀(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=704",
+    "item_image": "https://www.gametsg.net/img/1/5/967a550230bb69da27cf7e9ed539a3c5.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +70",
+      "MP回復(tic)+7",
+      "魔法防禦(MR)+5",
+      "遠距離暴擊傷害+3",
+      "魔法暴擊傷害+3"
+    ],
+    "data_zhiye": "2|3|4|34|81",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "705",
+    "item_name": "吸血鬼斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=705",
+    "item_image": "https://www.gametsg.net/img/1/5/a6ab2b996527df5bf950d68c8d4d3ef2.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "最大HP+60",
+      "HP回復 (tic)+4",
+      "魔法防禦 (MR)+3"
+    ],
+    "data_zhiye": "3|4|5|81|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "706",
+    "item_name": "挪威海怪的斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=706",
+    "item_image": "https://www.gametsg.net/img/1/5/de356360f650a74e5c01135500f95980.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "最大HP+50",
+      "力量+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|12|7|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "707",
+    "item_name": "武官斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=707",
+    "item_image": "https://www.gametsg.net/img/1/5/a6ca84b89f20fc35a60c4eb4610ffb99.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20",
+      "HP回復 (tic)+3",
+      "魔法防禦 (MR)+6"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "708",
+    "item_name": "武官斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=708",
+    "item_image": "https://www.gametsg.net/img/1/5/a6ca84b89f20fc35a60c4eb4610ffb99.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20",
+      "HP回復 (tic)+3",
+      "魔法防禦 (MR)+6"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "709",
+    "item_name": "馴獸師斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=709",
+    "item_image": "https://www.gametsg.net/img/1/5/6854d53ff8ac1d19106b2a7eb17e889d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+50"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "710",
+    "item_name": "馴獸師斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=710",
+    "item_image": "https://www.gametsg.net/img/1/5/6854d53ff8ac1d19106b2a7eb17e889d.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+50"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "711",
+    "item_name": "神官斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=711",
+    "item_image": "https://www.gametsg.net/img/1/5/86c66f605f325aa484b4159a2310614c.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復(tic)+3",
+      "魔法防禦 (MR)+6"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "712",
+    "item_name": "神官斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=712",
+    "item_image": "https://www.gametsg.net/img/1/5/86c66f605f325aa484b4159a2310614c.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復(tic)+3",
+      "魔法防禦 (MR)+6"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "713",
+    "item_name": "銀光斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=713",
+    "item_image": "https://www.gametsg.net/img/1/5/6506a8e2e2d676088d222e6e40dd3699.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20",
+      "MP回復(tic)+4",
+      "魔法防禦 (MR)+6"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "714",
+    "item_name": "銀光斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=714",
+    "item_image": "https://www.gametsg.net/img/1/5/6506a8e2e2d676088d222e6e40dd3699.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+20",
+      "MP回復(tic)+4",
+      "魔法防禦 (MR)+6"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "715",
+    "item_name": "異界戰鬥斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=715",
+    "item_image": "https://www.gametsg.net/img/1/5/50c96fa38fae2e58a375f7e8d2e48217.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+40",
+      "HP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "716",
+    "item_name": "異界戰鬥斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=716",
+    "item_image": "https://www.gametsg.net/img/1/5/50c96fa38fae2e58a375f7e8d2e48217.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+40",
+      "HP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "717",
+    "item_name": "被遺忘的旅人斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=717",
+    "item_image": "https://www.gametsg.net/img/1/5/3b6678be94230b5d8a0f075b7ad413e0.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "遺忘之島中發現的古代物品"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "718",
+    "item_name": "君主的威嚴",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=718",
+    "item_image": "https://www.gametsg.net/img/1/5/a312788d021dd09b38433cc3fddb5683.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "力量+1",
+      "智力+1",
+      "精神+1",
+      "敏捷+1",
+      "體質 +1",
+      "魅力+1"
+    ],
+    "data_zhiye": "8",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "719",
+    "item_name": "君主的威嚴(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=719",
+    "item_image": "https://www.gametsg.net/img/1/5/a312788d021dd09b38433cc3fddb5683.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "王族",
+        "level": "level08"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "力量+1",
+      "智力+1",
+      "精神+1",
+      "敏捷+1",
+      "體質 +1",
+      "魅力+1"
+    ],
+    "data_zhiye": "8",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "720",
+    "item_name": "狼皮斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=720",
+    "item_image": "https://www.gametsg.net/img/1/5/84a1b8da5a77473a5c6f67d3b0675a4a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "721",
+    "item_name": "狼皮斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=721",
+    "item_image": "https://www.gametsg.net/img/1/5/84a1b8da5a77473a5c6f67d3b0675a4a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "722",
+    "item_name": "瑪那斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=722",
+    "item_image": "https://www.gametsg.net/img/1/5/8b047db643bd4a54230aaf000a59b1a9.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "723",
+    "item_name": "瑪那斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=723",
+    "item_image": "https://www.gametsg.net/img/1/5/8b047db643bd4a54230aaf000a59b1a9.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "MP回復(tic)+5"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "724",
+    "item_name": "黑虎斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=724",
+    "item_image": "https://www.gametsg.net/img/1/5/86f2e1c5e617e78682b9fc8f07bf99a9.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "HP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "725",
+    "item_name": "黑虎斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=725",
+    "item_image": "https://www.gametsg.net/img/1/5/86f2e1c5e617e78682b9fc8f07bf99a9.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "HP回復 (tic)+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "726",
+    "item_name": "黑暗斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=726",
+    "item_image": "https://www.gametsg.net/img/1/5/8802a3e668a1cda707f88ee3ec275417.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+30"
+    ],
+    "data_zhiye": "4",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "727",
+    "item_name": "黑暗斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=727",
+    "item_image": "https://www.gametsg.net/img/1/5/8802a3e668a1cda707f88ee3ec275417.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+30"
+    ],
+    "data_zhiye": "4",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "728",
+    "item_name": "異界斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=728",
+    "item_image": "https://www.gametsg.net/img/1/5/c4e11ea7497a281b2d3fd45ede563ac8.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "729",
+    "item_name": "異界斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=729",
+    "item_image": "https://www.gametsg.net/img/1/5/c4e11ea7497a281b2d3fd45ede563ac8.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "最大HP+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "730",
+    "item_name": "侏儒斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=730",
+    "item_image": "https://www.gametsg.net/img/1/5/8e6b501e9400200b6872239ea2429069.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "731",
+    "item_name": "抗魔法斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=731",
+    "item_image": "https://www.gametsg.net/img/1/5/d2db208ba7efa77c093274d1e9064de0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "魔法防禦 (MR)+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "732",
+    "item_name": "抗魔法斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=732",
+    "item_image": "https://www.gametsg.net/img/1/5/d2db208ba7efa77c093274d1e9064de0.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "魔法防禦 (MR)+10"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "733",
+    "item_name": "保護者斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=733",
+    "item_image": "https://www.gametsg.net/img/1/5/745d369c18d9ab1fe148afa3a6ea0659.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "734",
+    "item_name": "保護者斗篷(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=734",
+    "item_image": "https://www.gametsg.net/img/1/5/745d369c18d9ab1fe148afa3a6ea0659.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "735",
+    "item_name": "歐西斯斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=735",
+    "item_image": "https://www.gametsg.net/img/1/5/4bc6d48a59c2c690fc4a7828090d7f94.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7|12|13",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "736",
+    "item_name": "精靈斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=736",
+    "item_image": "https://www.gametsg.net/img/1/5/7f74b218c02bb76d1de0ccf997cd1f03.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "737",
+    "item_name": "老舊的抹布(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=737",
+    "item_image": "https://www.gametsg.net/img/1/5/e9fb8cdb27889132b4cfe844d768bd6e.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "可登錄道具收藏品"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|34|52|81|7",
+    "category_id": "19",
+    "category_name": "斗篷"
+  },
+  {
+    "item_id": "738",
+    "item_name": "詛咒斗篷",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=738",
+    "item_image": "https://www.gametsg.net/img/1/5/6451761883c4d654bdb05d325b3008ce.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "魔法防禦(MR)+5"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "19",
+    "category_name": "斗篷"
+  }
+]

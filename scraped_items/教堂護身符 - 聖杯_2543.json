@@ -1,0 +1,46 @@
+{
+  "item_id": "2543",
+  "item_name": "教堂護身符 - 聖杯",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2543",
+  "item_image": "https://www.gametsg.net/img/2/13/c08060d49977033194cb7ce4e9a5bb0d.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時,納格巴斯教堂",
+    "前往暮光聖杯區域",
+    "獲得後2小時30分鐘內銷毀"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "44",
+  "category_name": "移動道具",
+  "basic_info": {
+    "title": "教堂護身符 - 聖杯",
+    "類型": "其他(移動道具)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "說明": [
+      "使用時,納格巴斯教堂",
+      "前往暮光聖杯區域",
+      "獲得後2小時30分鐘內銷毀"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

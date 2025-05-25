@@ -1,0 +1,115 @@
+{
+  "item_id": "1001",
+  "item_name": "英雄的光之敏捷肩甲",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1001",
+  "item_image": "https://www.gametsg.net/img/1/7/bdd82e60720509371bc91039f376a441.jpg",
+  "item_grade": "grade042",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-6",
+  "item_stats": [
+    "敏捷+2",
+    "遠距離傷害+4",
+    "遠距離命中+5",
+    "傷害減免+3",
+    "HP吸收",
+    "昏迷抗性+1%",
+    "昏迷命中 +1%"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "24",
+  "category_name": "肩甲",
+  "basic_info": {
+    "title": "英雄的光之敏捷肩甲",
+    "類型": "防具(肩甲)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "物理防禦 (AC)": "-6",
+    "屬性": [
+      "敏捷+2",
+      "遠距離傷害+4",
+      "遠距離命中+5",
+      "傷害減免+3",
+      "HP吸收",
+      "昏迷抗性+1%",
+      "昏迷命中 +1%"
+    ],
+    "材質": "金屬塊",
+    "重量": "10"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易",
+    "安定值": "安全強化至4"
+  },
+  "enhance_info": [
+    {
+      "level": "-",
+      "attributes": ""
+    },
+    {
+      "level": "1",
+      "attributes": "物理防禦力 (AC)-1,昏迷抗性+1%,昏迷命中+1%"
+    },
+    {
+      "level": "2",
+      "attributes": "物理防禦力 (AC)-2,昏迷抗性+2%,昏迷命中+2%"
+    },
+    {
+      "level": "3",
+      "attributes": "物理防禦力 (AC)-3,昏迷抗性+3%,昏迷命中+3%"
+    },
+    {
+      "level": "4",
+      "attributes": "物理防禦力 (AC)-4,昏迷抗性+4%,昏迷命中+4%"
+    },
+    {
+      "level": "5",
+      "attributes": "物理防禦力 (AC)-5,遠距離傷害+1,遠距離命中+1,生命吸收,昏迷抗性+5%,昏迷命中+5%"
+    },
+    {
+      "level": "6",
+      "attributes": "物理防禦力 (AC)-6,遠距離傷害+2,遠距離命中+2,生命吸收,昏迷抗性+6%,昏迷命中+6%"
+    },
+    {
+      "level": "7",
+      "attributes": "物理防禦力 (AC)-7,遠距離傷害+3,遠距離命中+3,傷害減免+1,生命吸收,昏迷抗性+7%,昏迷命中+7%"
+    },
+    {
+      "level": "8",
+      "attributes": "物理防禦力 (AC)-8,遠距離傷害+4,遠距離命中+4,傷害減免+2,生命吸收,昏迷抗性+8%,昏迷命中+8%"
+    },
+    {
+      "level": "9",
+      "attributes": "物理防禦力 (AC)-9,遠距離傷害+5,遠距離命中+5,傷害減免+3,生命吸收,昏迷抗性+9%,暈眩命中+9%"
+    }
+  ],
+  "craft_materials": [
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=2749",
+      "material_id": "2749",
+      "material_name": "龍之鑽石",
+      "material_image": "https://www.gametsg.net/img/3/25/5e88c48f316efeeba733c10e60dccc18.jpg",
+      "material_grade": "grade00",
+      "material_count": "100"
+    },
+    {
+      "material_url": "https://www.gametsg.net/equip/detail.html?id=998",
+      "material_id": "998",
+      "material_name": "+9 光之敏捷肩甲",
+      "material_image": "https://www.gametsg.net/img/1/7/f66b9f92b3e2127f3c854098af071e6f.jpg",
+      "material_grade": "grade042",
+      "material_count": "1"
+    }
+  ],
+  "monster_drops": []
+}

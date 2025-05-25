@@ -1,0 +1,41 @@
+{
+  "item_id": "1640",
+  "item_name": "技術書(反擊屏障:大師)(刻印)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1640",
+  "item_image": "https://www.gametsg.net/img/2/11/659ad787f8b7de7fe57b638a57f1afe4.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "騎士",
+      "level": "level01"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "技術書"
+  ],
+  "data_zhiye": "1",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "技術書(反擊屏障:大師)(刻印)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.05",
+    "說明": "技術書"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

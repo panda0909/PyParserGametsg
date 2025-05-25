@@ -1,0 +1,41 @@
+{
+  "item_id": "2568",
+  "item_name": "哈爾巴斯的氣息",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2568",
+  "item_image": "https://www.gametsg.net/img/2/13/eabeba9dd33e939424f1cb183885c6bc.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時移動至暗黑龍的實驗室"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "44",
+  "category_name": "移動道具",
+  "basic_info": {
+    "title": "哈爾巴斯的氣息",
+    "類型": "其他(移動道具)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.01",
+    "說明": "使用時移動至暗黑龍的實驗室"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": []
+}

@@ -1,0 +1,180 @@
+{
+  "item_id": "1376",
+  "item_name": "龍之心",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1376",
+  "item_image": "https://www.gametsg.net/img/1/9/7158a6e3b7507aebac81ea2056662c17.jpg",
+  "item_grade": "grade04",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "材料"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "37",
+  "category_name": "材料",
+  "basic_info": {
+    "title": "龍之心",
+    "類型": "其他(材料)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "原石",
+    "重量": "5",
+    "說明": "材料"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "雪壁龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=242",
+      "monster_id": "242",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-28.崩塌的雪壁"
+      ]
+    },
+    {
+      "monster_name": "古龍的龍骨",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=243",
+      "monster_id": "243",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "87",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-13.凝固的熔岩地帶"
+      ]
+    },
+    {
+      "monster_name": "雪壁的荒龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=269",
+      "monster_id": "269",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-28.崩塌的雪壁"
+      ]
+    },
+    {
+      "monster_name": "古龍的下級龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=272",
+      "monster_id": "272",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "86",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-13.凝固的熔岩地帶"
+      ]
+    },
+    {
+      "monster_name": "古龍下級龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=308",
+      "monster_id": "308",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "85",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-13.凝固的熔岩地帶"
+      ]
+    },
+    {
+      "monster_name": "地獄的魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=422",
+      "monster_id": "422",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "83",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "地獄的下級龍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=523",
+      "monster_id": "523",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "78",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "傲慢之塔-5樓(地獄)"
+      ]
+    },
+    {
+      "monster_name": "德拉卡利斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=979",
+      "monster_id": "979",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_areas": [
+        "亞丁大陸地監-黑暗修煉地監-4 樓 - 夜晚"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "item_id": "2040",
+  "item_name": "精靈水晶(生命的祝福)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2040",
+  "item_image": "https://www.gametsg.net/img/2/12/26d2c07603d4b659023139868188bf95.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "妖精",
+      "level": "level02"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "精靈水晶"
+  ],
+  "data_zhiye": "2",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "精靈水晶(生命的祝福)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "希爾黛斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=600",
+      "monster_id": "600",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "73",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "海星",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=663",
+      "monster_id": "663",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "68",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    },
+    {
+      "monster_name": "希爾黛斯",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=685",
+      "monster_id": "685",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "67",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸地監-伊娃王國地監-4 樓"
+      ]
+    }
+  ]
+}

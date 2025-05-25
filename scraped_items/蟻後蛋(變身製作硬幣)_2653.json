@@ -1,0 +1,59 @@
+{
+  "item_id": "2653",
+  "item_name": "蟻後蛋(變身製作硬幣)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2653",
+  "item_image": "https://www.gametsg.net/img/2/14/51cdaa38a5314c4cb253da4ea883d4fe.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "獲得1000個變身製作硬幣"
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "蟻後蛋(變身製作硬幣)",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "動物性",
+    "說明": "獲得1000個變身製作硬幣"
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "變種巨蟻女皇",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=649",
+      "monster_id": "649",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "70",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-11 級 突襲 (高級)"
+      ]
+    }
+  ]
+}

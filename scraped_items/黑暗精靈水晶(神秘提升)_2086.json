@@ -1,0 +1,61 @@
+{
+  "item_id": "2086",
+  "item_name": "黑暗精靈水晶(神秘提升)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2086",
+  "item_image": "https://www.gametsg.net/img/2/12/89d9b40ea1d0b19126e72aca554f32ff.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "黑暗妖精",
+      "level": "level04"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "黑暗精靈水晶"
+  ],
+  "data_zhiye": "4",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "黑暗精靈水晶(神秘提升)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "材質": "寶石",
+    "重量": "0.04",
+    "說明": "黑暗精靈水晶"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "艾爾摩將軍",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=582",
+      "monster_id": "582",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "74",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "亞丁大陸-55.艾爾摩戰場",
+        "亞丁大陸-54.艾爾摩前哨基地"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "item_id": "1618",
+  "item_name": "狂戰士印章(佔據:上升)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1618",
+  "item_image": "https://www.gametsg.net/img/2/11/e5b2b163d4d7cdc3ebdb0fcfcab82ceb.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "狂戰士",
+      "level": "level07"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "印章"
+  ],
+  "data_zhiye": "7",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "狂戰士印章(佔據:上升)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "材質": "礦石",
+    "重量": "0.05",
+    "說明": "印章"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "祭司長納格巴斯 (本體)",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=8",
+      "monster_id": "8",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "100",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "林德拜爾的分身",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=21",
+      "monster_id": "21",
+      "monster_type": "monType04",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "99",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        },
+        {
+          "type": "水",
+          "class": "point02"
+        },
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-血盟-18 級 突襲 (神話)"
+      ]
+    }
+  ]
+}

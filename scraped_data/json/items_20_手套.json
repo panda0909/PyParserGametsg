@@ -1,0 +1,2229 @@
+[
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "",
+    "item_name": "",
+    "item_url": "",
+    "item_image": "",
+    "item_grade": "",
+    "item_comment": "",
+    "item_classes": [],
+    "item_level": "",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "739",
+    "item_name": "甘特的懲戒",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=739",
+    "item_image": "https://www.gametsg.net/img/1/5/8f32579f3b88fd3869fc22bb57a84bb1.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-8",
+    "item_stats": [
+      "力量+5",
+      "昏迷命中 +10%",
+      "近距離傷害+5",
+      "近距離命中+5",
+      "激活:神秘混沌 1%"
+    ],
+    "data_zhiye": "1|4|8|5|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "740",
+    "item_name": "火焰之影手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=740",
+    "item_image": "https://www.gametsg.net/img/1/5/1da9876ab979514bce578b5e1b036cec.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-18",
+    "item_stats": [
+      "無視傷害減免4%",
+      "傷害減免+10"
+    ],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "741",
+    "item_name": "艾歐丁手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=741",
+    "item_image": "https://www.gametsg.net/img/1/5/60137d3e6fd7ac743a3f75d2e498b377.jpg",
+    "item_grade": "grade032",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "昏迷命中 +10%",
+      "無視遠距離迴避力+10",
+      "敏捷+5"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "742",
+    "item_name": "守護者手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=742",
+    "item_image": "https://www.gametsg.net/img/1/5/576a183192f10e7fc332b45a9b2e9cd5.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "敏捷+2",
+      "遠距離命中+1",
+      "支撐抗性+5%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "743",
+    "item_name": "激怒覺醒手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=743",
+    "item_image": "https://www.gametsg.net/img/1/5/07b494d640df403b9233b87d0fdf2134.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "力量+3",
+      "近距離命中+4",
+      "昏迷命中 +5%"
+    ],
+    "data_zhiye": "2|1|3|4|8|5|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "744",
+    "item_name": "激怒手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=744",
+    "item_image": "https://www.gametsg.net/img/1/5/04bc4482a0fe6839dbf2e9aab4270f30.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "力量+2",
+      "昏迷命中 +3%"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "745",
+    "item_name": "激怒手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=745",
+    "item_image": "https://www.gametsg.net/img/1/5/04bc4482a0fe6839dbf2e9aab4270f30.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "力量+2",
+      "昏迷命中 +3%"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "746",
+    "item_name": "騎士范德的手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=746",
+    "item_image": "https://www.gametsg.net/img/1/5/eb7c52968c2639ef532f00df5bbbbda6.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "力量+3",
+      "昏迷命中 +8%",
+      "近距離傷害+2",
+      "近距離命中+4"
+    ],
+    "data_zhiye": "1|2|3|4|5|8|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "747",
+    "item_name": "飛龍王的皮手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=747",
+    "item_image": "https://www.gametsg.net/img/1/5/059a6e072a3f3ac745fd9ff5cd1ebd95.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "最大HP+100",
+      "智力+3",
+      "魔攻+1",
+      "傷害減免+1",
+      "魔法命中+3"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "748",
+    "item_name": "船長的灰光手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=748",
+    "item_image": "https://www.gametsg.net/img/1/5/e4bc668266fbea9fb04c45c082502a0b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [
+      "智力+2",
+      "魔攻+1",
+      "傷害減免+1",
+      "魔法命中+2"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "749",
+    "item_name": "艾莉絲的覺醒手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=749",
+    "item_image": "https://www.gametsg.net/img/1/5/839cd7bdc536af49306ba2871f3bfe21.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-5",
+    "item_stats": [
+      "敏捷+3",
+      "遠距離命中+2",
+      "支撐抗性+7%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "750",
+    "item_name": "真埃斯卡洛斯手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=750",
+    "item_image": "https://www.gametsg.net/img/1/5/d1721826573ac134e92408b53133e19c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "751",
+    "item_name": "真埃斯卡洛斯手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=751",
+    "item_image": "https://www.gametsg.net/img/1/5/d1721826573ac134e92408b53133e19c.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [
+      "PVE傷害減免+5"
+    ],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "752",
+    "item_name": "真·冥皇手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=752",
+    "item_image": "https://www.gametsg.net/img/1/5/e5d294ec76d04bfac7e1e60881703c6b.jpg",
+    "item_grade": "grade05",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-6",
+    "item_stats": [],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "768",
+    "item_name": "克特手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=768",
+    "item_image": "https://www.gametsg.net/img/1/5/a4800daa23597c0c8bdbbaf6f1ee65a1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "769",
+    "item_name": "塔拉斯手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=769",
+    "item_image": "https://www.gametsg.net/img/1/5/d5795be4f280e40115d82c6ca3079540.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "770",
+    "item_name": "海賊的手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=770",
+    "item_image": "https://www.gametsg.net/img/1/5/f355ad238fed314ec28b6978aad5e09c.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "771",
+    "item_name": "海露拜手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=771",
+    "item_image": "https://www.gametsg.net/img/1/5/96c358075afe34526ac3df18eb98bfec.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "敏捷+1",
+      "傷害減免+1",
+      "支撐抗性+3%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "753",
+    "item_name": "格勒西亞手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=753",
+    "item_image": "https://www.gametsg.net/img/1/5/fd3fc3ebedec27770865c4b62af44bc1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "34|2",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "754",
+    "item_name": "格勒西亞手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=754",
+    "item_image": "https://www.gametsg.net/img/1/5/fd3fc3ebedec27770865c4b62af44bc1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "34|2",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "755",
+    "item_name": "騎士手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=755",
+    "item_image": "https://www.gametsg.net/img/1/5/24d84b6ad5996a51fb121b75d51e19e3.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "756",
+    "item_name": "惡魔手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=756",
+    "item_image": "https://www.gametsg.net/img/1/5/660e06a4c531f7af045ff5cc932d4f6f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "757",
+    "item_name": "惡魔手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=757",
+    "item_image": "https://www.gametsg.net/img/1/5/660e06a4c531f7af045ff5cc932d4f6f.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "758",
+    "item_name": "死亡騎士手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=758",
+    "item_image": "https://www.gametsg.net/img/1/5/7301124ceb687022c633fca3bf6553d1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "759",
+    "item_name": "死亡騎士手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=759",
+    "item_image": "https://www.gametsg.net/img/1/5/7301124ceb687022c633fca3bf6553d1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "760",
+    "item_name": "飛龍皮手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=760",
+    "item_image": "https://www.gametsg.net/img/1/5/635d795675aa4b042881f3ce21fca879.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "智力+1",
+      "魔攻+1",
+      "魔法命中+1"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "761",
+    "item_name": "神聖的腕甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=761",
+    "item_image": "https://www.gametsg.net/img/1/5/92129d2308632eab54e885c92d70d9ae.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "敏捷+2",
+      "支撐抗性+3%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "762",
+    "item_name": "神聖的腕甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=762",
+    "item_image": "https://www.gametsg.net/img/1/5/92129d2308632eab54e885c92d70d9ae.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "敏捷+2",
+      "支撐抗性+3%"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "763",
+    "item_name": "暗殺軍王手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=763",
+    "item_image": "https://www.gametsg.net/img/1/5/52ea2646cf4dd1723fc499550701a732.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "764",
+    "item_name": "暗殺軍王手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=764",
+    "item_image": "https://www.gametsg.net/img/1/5/52ea2646cf4dd1723fc499550701a732.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-4",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "765",
+    "item_name": "埃斯卡洛斯手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=765",
+    "item_image": "https://www.gametsg.net/img/1/5/c45e5d75f32c38f9cf5a1ee6c672a2b6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "766",
+    "item_name": "埃斯卡洛斯手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=766",
+    "item_image": "https://www.gametsg.net/img/1/5/c45e5d75f32c38f9cf5a1ee6c672a2b6.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "767",
+    "item_name": "克特手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=767",
+    "item_image": "https://www.gametsg.net/img/1/5/a4800daa23597c0c8bdbbaf6f1ee65a1.jpg",
+    "item_grade": "grade04",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "772",
+    "item_name": "黑暗棲林者指套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=772",
+    "item_image": "https://www.gametsg.net/img/1/5/254dcf0e5d0fcc2fac185944783c9896.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "遠距離傷害+1",
+      "遠距離命中+1"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "773",
+    "item_name": "黑暗棲林者指套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=773",
+    "item_image": "https://www.gametsg.net/img/1/5/254dcf0e5d0fcc2fac185944783c9896.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "遠距離傷害+1",
+      "遠距離命中+1"
+    ],
+    "data_zhiye": "2|34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "774",
+    "item_name": "石製手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=774",
+    "item_image": "https://www.gametsg.net/img/1/5/434c82279c371de407a9491b91b5a703.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "傷害減免+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "775",
+    "item_name": "石製手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=775",
+    "item_image": "https://www.gametsg.net/img/1/5/434c82279c371de407a9491b91b5a703.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "傷害減免+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "776",
+    "item_name": "蜥蜴王手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=776",
+    "item_image": "https://www.gametsg.net/img/1/5/cb2b10eb78a8b342ed8684183d479689.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "遠距離命中+3",
+      "敏捷+1",
+      "魅力-2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "777",
+    "item_name": "蜥蜴王手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=777",
+    "item_image": "https://www.gametsg.net/img/1/5/cb2b10eb78a8b342ed8684183d479689.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "遠距離命中+3",
+      "敏捷+1",
+      "魅力-2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "778",
+    "item_name": "魔力的手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=778",
+    "item_image": "https://www.gametsg.net/img/1/5/e8760bbf0c699b9407e08ba3d7eea5b3.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大MP +25",
+      "智力+1",
+      "負重獎勵+180"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "779",
+    "item_name": "魔力的手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=779",
+    "item_image": "https://www.gametsg.net/img/1/5/e8760bbf0c699b9407e08ba3d7eea5b3.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大MP +25",
+      "智力+1",
+      "負重獎勵+180"
+    ],
+    "data_zhiye": "3|81",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "780",
+    "item_name": "武官手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=780",
+    "item_image": "https://www.gametsg.net/img/1/5/e716c874f3170a96e7747933ef1fa04f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+10",
+      "力量+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "781",
+    "item_name": "武官手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=781",
+    "item_image": "https://www.gametsg.net/img/1/5/e716c874f3170a96e7747933ef1fa04f.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大HP+10",
+      "力量+1"
+    ],
+    "data_zhiye": "1|4|5|8|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "782",
+    "item_name": "神官手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=782",
+    "item_image": "https://www.gametsg.net/img/1/5/923582dbba2c5f6bfec12058cd7f7b3e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復(tic)+1"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "783",
+    "item_name": "神官手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=783",
+    "item_image": "https://www.gametsg.net/img/1/5/923582dbba2c5f6bfec12058cd7f7b3e.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "法師",
+        "level": "level03"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "最大MP +10",
+      "MP回復(tic)+1"
+    ],
+    "data_zhiye": "2|3|34|81",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "784",
+    "item_name": "遠征者手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=784",
+    "item_image": "https://www.gametsg.net/img/1/5/1007c9cdfb1c226efa1719a73e2cec04.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "智力+1",
+      "MP回復(tic)+1",
+      "魔法命中+1"
+    ],
+    "data_zhiye": "34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "785",
+    "item_name": "遠征者手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=785",
+    "item_image": "https://www.gametsg.net/img/1/5/1007c9cdfb1c226efa1719a73e2cec04.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "智力+1",
+      "MP回復(tic)+1",
+      "魔法命中+1"
+    ],
+    "data_zhiye": "34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "786",
+    "item_name": "異界戰鬥手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=786",
+    "item_image": "https://www.gametsg.net/img/1/5/4f7ee9480dd75d9434159fb38eabb268.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+10",
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "787",
+    "item_name": "異界戰鬥手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=787",
+    "item_image": "https://www.gametsg.net/img/1/5/4f7ee9480dd75d9434159fb38eabb268.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [
+      "最大HP+10",
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "788",
+    "item_name": "被遺忘的旅人手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=788",
+    "item_image": "https://www.gametsg.net/img/1/5/22e401db104a435f4c3eb9d20a0cc8c8.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遺忘之島中發現的古代物品"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "789",
+    "item_name": "力量手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=789",
+    "item_image": "https://www.gametsg.net/img/1/5/fe15e16d13471f760d10beae0b7baa41.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "力量+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "790",
+    "item_name": "力量手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=790",
+    "item_image": "https://www.gametsg.net/img/1/5/fe15e16d13471f760d10beae0b7baa41.jpg",
+    "item_grade": "grade03",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "力量+2"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "791",
+    "item_name": "鋼鐵手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=791",
+    "item_image": "https://www.gametsg.net/img/1/5/f577eefe2db047944adb806d0a349559.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "792",
+    "item_name": "鋼鐵手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=792",
+    "item_image": "https://www.gametsg.net/img/1/5/f577eefe2db047944adb806d0a349559.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "793",
+    "item_name": "影子手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=793",
+    "item_image": "https://www.gametsg.net/img/1/5/1c484cd8921dfaf272a1bffc165f8863.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "體質 +1"
+    ],
+    "data_zhiye": "4",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "794",
+    "item_name": "影子手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=794",
+    "item_image": "https://www.gametsg.net/img/1/5/1c484cd8921dfaf272a1bffc165f8863.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "體質 +1"
+    ],
+    "data_zhiye": "4",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "795",
+    "item_name": "冥想手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=795",
+    "item_image": "https://www.gametsg.net/img/1/6/9d58fe74747548c2422949c464266607.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+10",
+      "遠距離傷害+1"
+    ],
+    "data_zhiye": "2",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "796",
+    "item_name": "冥想手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=796",
+    "item_image": "https://www.gametsg.net/img/1/6/9d58fe74747548c2422949c464266607.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "妖精",
+        "level": "level02"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "最大HP+10",
+      "遠距離傷害+1"
+    ],
+    "data_zhiye": "2",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "797",
+    "item_name": "射擊手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=797",
+    "item_image": "https://www.gametsg.net/img/1/6/ea37c191824e2783bddc0169dfc89c04.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離傷害+1"
+    ],
+    "data_zhiye": "34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "798",
+    "item_name": "射擊手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=798",
+    "item_image": "https://www.gametsg.net/img/1/6/ea37c191824e2783bddc0169dfc89c04.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "槍手",
+        "level": "level09"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離傷害+1"
+    ],
+    "data_zhiye": "34",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "799",
+    "item_name": "水晶手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=799",
+    "item_image": "https://www.gametsg.net/img/1/6/cfd39c19b98159aa9fe48d1b1f21399a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "水屬性抗性+4%"
+    ],
+    "data_zhiye": "1|8|5|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "800",
+    "item_name": "水晶手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=800",
+    "item_image": "https://www.gametsg.net/img/1/6/cfd39c19b98159aa9fe48d1b1f21399a.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "王族",
+        "level": "level08"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "暗黑騎士",
+        "level": "level10"
+      },
+      {
+        "name": "神聖劍士",
+        "level": "level11"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      },
+      {
+        "name": "死神",
+        "level": "level12"
+      },
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "item_level": "-3",
+    "item_stats": [
+      "水屬性抗性+4%"
+    ],
+    "data_zhiye": "1|8|5|52|81|7|12|13",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "801",
+    "item_name": "黑暗手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=801",
+    "item_image": "https://www.gametsg.net/img/1/6/17bc8182a561fc49145c8adc77d0e418.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離命中+2"
+    ],
+    "data_zhiye": "4",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "802",
+    "item_name": "黑暗手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=802",
+    "item_image": "https://www.gametsg.net/img/1/6/17bc8182a561fc49145c8adc77d0e418.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "遠距離命中+2"
+    ],
+    "data_zhiye": "4",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "803",
+    "item_name": "異界手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=803",
+    "item_image": "https://www.gametsg.net/img/1/6/3a75a7cc13d7235c357fac2e173c35de.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "804",
+    "item_name": "異界手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=804",
+    "item_image": "https://www.gametsg.net/img/1/6/3a75a7cc13d7235c357fac2e173c35de.jpg",
+    "item_grade": "grade02",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-1",
+    "item_stats": [
+      "近距離命中+1"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "805",
+    "item_name": "蜘蛛皮手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=805",
+    "item_image": "https://www.gametsg.net/img/1/6/a28975e465bc1e911e4b0e2a205c9e22.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-2",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "806",
+    "item_name": "水靈手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=806",
+    "item_image": "https://www.gametsg.net/img/1/6/18fd015f42e8b583c7d029f9db176130.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "水屬性抗性+4%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "807",
+    "item_name": "水靈手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=807",
+    "item_image": "https://www.gametsg.net/img/1/6/18fd015f42e8b583c7d029f9db176130.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "水屬性抗性+4%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "808",
+    "item_name": "暗靈手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=808",
+    "item_image": "https://www.gametsg.net/img/1/6/a2e8279208f77bf5973dc1f712b29b2b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "地屬性抗性+4%"
+    ],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "809",
+    "item_name": "暗靈手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=809",
+    "item_image": "https://www.gametsg.net/img/1/6/a2e8279208f77bf5973dc1f712b29b2b.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "-",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "地屬性抗性+4%"
+    ],
+    "data_zhiye": "",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "810",
+    "item_name": "火靈手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=810",
+    "item_image": "https://www.gametsg.net/img/1/6/f5a7a7402cb330c77547f20bed35db6a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "火屬性抗性+4%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "811",
+    "item_name": "火靈手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=811",
+    "item_image": "https://www.gametsg.net/img/1/6/f5a7a7402cb330c77547f20bed35db6a.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "火屬性抗性+4%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "812",
+    "item_name": "手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=812",
+    "item_image": "https://www.gametsg.net/img/1/6/659753fe93a14b3d92e119d5c487f593.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "813",
+    "item_name": "手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=813",
+    "item_image": "https://www.gametsg.net/img/1/6/659753fe93a14b3d92e119d5c487f593.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "814",
+    "item_name": "風靈手套",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=814",
+    "item_image": "https://www.gametsg.net/img/1/6/809dac7405d3bc229760d5a08cacff7d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "風屬性抗性+4%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "815",
+    "item_name": "風靈手套(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=815",
+    "item_image": "https://www.gametsg.net/img/1/6/809dac7405d3bc229760d5a08cacff7d.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "MP回復(tic)+1",
+      "力量+1",
+      "風屬性抗性+4%"
+    ],
+    "data_zhiye": "1000",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "816",
+    "item_name": "腕甲",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=816",
+    "item_image": "https://www.gametsg.net/img/1/6/9b647706237fdf9dc626c9744887c051.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "遠距離命中+2"
+    ],
+    "data_zhiye": "1|2|4|5|34|7",
+    "category_id": "20",
+    "category_name": "手套"
+  },
+  {
+    "item_id": "817",
+    "item_name": "腕甲(刻印)",
+    "item_url": "https://www.gametsg.net/equip/detail.html?id=817",
+    "item_image": "https://www.gametsg.net/img/1/6/9b647706237fdf9dc626c9744887c051.jpg",
+    "item_grade": "grade01",
+    "item_comment": "38",
+    "item_classes": [
+      {
+        "name": "騎士",
+        "level": "level01"
+      },
+      {
+        "name": "妖精",
+        "level": "level02"
+      },
+      {
+        "name": "黑暗妖精",
+        "level": "level04"
+      },
+      {
+        "name": "龍鬥士",
+        "level": "level05"
+      },
+      {
+        "name": "槍手",
+        "level": "level09"
+      },
+      {
+        "name": "狂戰士",
+        "level": "level07"
+      }
+    ],
+    "item_level": "0",
+    "item_stats": [
+      "遠距離命中+2"
+    ],
+    "data_zhiye": "1|2|4|5|34|7",
+    "category_id": "20",
+    "category_name": "手套"
+  }
+]

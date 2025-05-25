@@ -1,0 +1,60 @@
+{
+  "item_id": "1672",
+  "item_name": "秘傳(雷霆盔甲:奧術)",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=1672",
+  "item_image": "https://www.gametsg.net/img/2/11/ce65d425ee03f410ac8b42cbf432804c.jpg",
+  "item_grade": "grade05",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "雷神",
+      "level": "level13"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "秘傳"
+  ],
+  "data_zhiye": "13",
+  "category_id": "38",
+  "category_name": "魔法書",
+  "basic_info": {
+    "title": "秘傳(雷霆盔甲:奧術)",
+    "類型": "其他(魔法書)",
+    "職業": [
+      {
+        "name": "雷神",
+        "level": "level13"
+      }
+    ],
+    "材質": "紙",
+    "重量": "0.01",
+    "說明": "秘傳"
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "可以交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "火焰之影",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=920",
+      "monster_id": "920",
+      "monster_type": "monType02",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-魔族之地"
+      ]
+    }
+  ]
+}

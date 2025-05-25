@@ -1,0 +1,768 @@
+{
+  "item_id": "2703",
+  "item_name": "埃斯卡洛斯靈魂石袋",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2703",
+  "item_image": "https://www.gametsg.net/img/2/14/77bfafd87ba8188ea3795c6799983c25.jpg",
+  "item_grade": "grade00",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "使用時依依照指定概率獲得亡者靈魂石和艾歐丁的靈魂."
+  ],
+  "data_zhiye": "",
+  "category_id": "46",
+  "category_name": "其他",
+  "basic_info": {
+    "title": "埃斯卡洛斯靈魂石袋",
+    "類型": "其他(其他)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "皮革",
+    "重量": "0.1",
+    "說明": "使用時依依照指定概率獲得亡者靈魂石和艾歐丁的靈魂."
+  },
+  "detail_info": {
+    "倉庫": "可存倉",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "夏伊德",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=94",
+      "monster_id": "94",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "泰諾",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=95",
+      "monster_id": "95",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "波普",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=96",
+      "monster_id": "96",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "索爾洛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=97",
+      "monster_id": "97",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "柯特",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=98",
+      "monster_id": "98",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "守護者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=99",
+      "monster_id": "99",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "魯默",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=100",
+      "monster_id": "100",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "巡邏者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=101",
+      "monster_id": "101",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "希科",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=102",
+      "monster_id": "102",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "格里米",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=103",
+      "monster_id": "103",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "舊衣",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=104",
+      "monster_id": "104",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "柯斯本",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=105",
+      "monster_id": "105",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "蜘蛛",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=106",
+      "monster_id": "106",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "鋸齒",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=107",
+      "monster_id": "107",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯士兵",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=108",
+      "monster_id": "108",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=109",
+      "monster_id": "109",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯首席",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=110",
+      "monster_id": "110",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=111",
+      "monster_id": "111",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "艾斯卡洛斯刺客",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=112",
+      "monster_id": "112",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "92",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "世界副本-埃斯卡洛斯"
+      ]
+    },
+    {
+      "monster_name": "墮落的修道士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=983",
+      "monster_id": "983",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "懺悔的修女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=984",
+      "monster_id": "984",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "犧牲的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=985",
+      "monster_id": "985",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "背叛的祭司",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=986",
+      "monster_id": "986",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=987",
+      "monster_id": "987",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "埃斯卡洛斯魔法師",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=988",
+      "monster_id": "988",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黑白的城堡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=989",
+      "monster_id": "989",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黑白的主教",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=990",
+      "monster_id": "990",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黑白的城堡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=991",
+      "monster_id": "991",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "黑白的主教",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=992",
+      "monster_id": "992",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的修道士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=993",
+      "monster_id": "993",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的修女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=994",
+      "monster_id": "994",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=995",
+      "monster_id": "995",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=996",
+      "monster_id": "996",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=997",
+      "monster_id": "997",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=998",
+      "monster_id": "998",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的城堡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=999",
+      "monster_id": "999",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的主教",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1000",
+      "monster_id": "1000",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的修道士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1001",
+      "monster_id": "1001",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "水",
+          "class": "point02"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的修女",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1002",
+      "monster_id": "1002",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1003",
+      "monster_id": "1003",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖職者",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1004",
+      "monster_id": "1004",
+      "monster_type": "monType01",
+      "monster_size": "大型",
+      "monster_size_class": "size200",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的聖騎士",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1005",
+      "monster_id": "1005",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "風",
+          "class": "point03"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的司祭",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1006",
+      "monster_id": "1006",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_weaknesses": [
+        {
+          "type": "地",
+          "class": "point04"
+        }
+      ],
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的城堡",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1007",
+      "monster_id": "1007",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    },
+    {
+      "monster_name": "誓約的主教",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=1008",
+      "monster_id": "1008",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "0",
+      "monster_areas": [
+        "其他-納格巴斯的禮拜堂"
+      ]
+    }
+  ]
+}

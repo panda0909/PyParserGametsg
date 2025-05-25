@@ -1,0 +1,64 @@
+{
+  "item_id": "2493",
+  "item_name": "救護證書",
+  "item_url": "https://www.gametsg.net/equip/detail.html?id=2493",
+  "item_image": "https://www.gametsg.net/img/2/12/4ff60ae0531890ed35f34d0751f80ea4.jpg",
+  "item_grade": "grade01",
+  "item_comment": "38",
+  "item_classes": [
+    {
+      "name": "全職業",
+      "level": "class00"
+    }
+  ],
+  "item_level": "-",
+  "item_stats": [
+    "可透過回復神女回復經驗值",
+    "可免費回復後使用"
+  ],
+  "data_zhiye": "1000",
+  "category_id": "42",
+  "category_name": "硬幣",
+  "basic_info": {
+    "title": "救護證書",
+    "類型": "其他(硬幣)",
+    "職業": [
+      {
+        "name": "全職業",
+        "level": "class00"
+      }
+    ],
+    "材質": "紙",
+    "說明": [
+      "可透過回復神女回復經驗值",
+      "可免費回復後使用"
+    ]
+  },
+  "detail_info": {
+    "倉庫": "無法儲存",
+    "交換": "無法交易"
+  },
+  "enhance_info": [],
+  "craft_materials": [],
+  "monster_drops": [
+    {
+      "monster_name": "伯爵禁衛隊長",
+      "monster_url": "https://www.gametsg.net/monster/detail.html?id=487",
+      "monster_id": "487",
+      "monster_type": "monType01",
+      "monster_size": "小型",
+      "monster_size_class": "size100",
+      "monster_level": "80",
+      "monster_weaknesses": [
+        {
+          "type": "火",
+          "class": "point01"
+        }
+      ],
+      "monster_areas": [
+        "信念之塔-3樓",
+        "城堡地監-奇岩地監-4樓"
+      ]
+    }
+  ]
+}
