@@ -1,0 +1,50 @@
+2025-05-26 22:30:56,364 - INFO - Reading data from scraped_data\json\all_items.json
+2025-05-26 22:30:56,381 - INFO - Loaded 2990 items from scraped_data\json\all_items.json
+2025-05-26 22:30:56,381 - INFO - Found 2477 items where item_name is not empty
+2025-05-26 22:30:56,382 - INFO - Filtered out 513 items with empty names
+2025-05-26 22:30:56,382 - INFO - Saving filtered data to scraped_data\json\nonempty_name_items.json
+2025-05-26 22:30:56,441 - INFO - Successfully saved 2477 items to scraped_data\json\nonempty_name_items.json
+2025-05-26 22:30:56,441 - INFO - Category distribution in filtered items:
+2025-05-26 22:30:56,443 - INFO -   魔法書: 591 items
+2025-05-26 22:30:56,443 - INFO -   材料: 282 items
+2025-05-26 22:30:56,443 - INFO -   盔甲: 135 items
+2025-05-26 22:30:56,443 - INFO -   其他: 116 items
+2025-05-26 22:30:56,444 - INFO -   頭盔: 89 items
+2025-05-26 22:30:56,444 - INFO -   盾牌/臂甲: 83 items
+2025-05-26 22:30:56,444 - INFO -   手套: 79 items
+2025-05-26 22:30:56,444 - INFO -   戒指: 74 items
+2025-05-26 22:30:56,444 - INFO -   鞋子: 71 items
+2025-05-26 22:30:56,444 - INFO -   單手劍: 57 items
+2025-05-26 22:30:56,444 - INFO -   斗篷: 53 items
+2025-05-26 22:30:56,444 - INFO -   移動道具: 53 items
+2025-05-26 22:30:56,444 - INFO -   項鍊: 50 items
+2025-05-26 22:30:56,444 - INFO -   腰帶: 47 items
+2025-05-26 22:30:56,444 - INFO -   弓: 46 items
+2025-05-26 22:30:56,445 - INFO -   硬幣: 44 items
+2025-05-26 22:30:56,445 - INFO -   藥水: 43 items
+2025-05-26 22:30:56,445 - INFO -   魔杖: 42 items
+2025-05-26 22:30:56,445 - INFO -   矛: 41 items
+2025-05-26 22:30:56,445 - INFO -   斧頭: 41 items
+2025-05-26 22:30:56,445 - INFO -   雙刀: 31 items
+2025-05-26 22:30:56,445 - INFO -   強化卷軸: 31 items
+2025-05-26 22:30:56,445 - INFO -   雙手劍: 30 items
+2025-05-26 22:30:56,446 - INFO -   鐮刀: 28 items
+2025-05-26 22:30:56,446 - INFO -   鋼爪: 28 items
+2025-05-26 22:30:56,446 - INFO -   鎖鏈劍: 26 items
+2025-05-26 22:30:56,446 - INFO -   褲子: 26 items
+2025-05-26 22:30:56,446 - INFO -   T恤: 26 items
+2025-05-26 22:30:56,446 - INFO -   符石: 26 items
+2025-05-26 22:30:56,446 - INFO -   耳環: 22 items
+2025-05-26 22:30:56,446 - INFO -   卷軸: 22 items
+2025-05-26 22:30:56,446 - INFO -   匕首: 21 items
+2025-05-26 22:30:56,446 - INFO -   步槍: 21 items
+2025-05-26 22:30:56,446 - INFO -   手環: 21 items
+2025-05-26 22:30:56,447 - INFO -   魔眼: 18 items
+2025-05-26 22:30:56,447 - INFO -   手持火炮: 16 items
+2025-05-26 22:30:56,447 - INFO -   符石劍: 14 items
+2025-05-26 22:30:56,447 - INFO -   箭/刺/子彈: 11 items
+2025-05-26 22:30:56,447 - INFO -   鐵手甲: 6 items
+2025-05-26 22:30:56,447 - INFO -   肩甲: 6 items
+2025-05-26 22:30:56,447 - INFO -   水晶: 6 items
+2025-05-26 22:30:56,447 - INFO -   印章: 2 items
+2025-05-26 22:30:56,447 - INFO -   徽章: 2 items

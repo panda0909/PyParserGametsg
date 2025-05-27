@@ -1,0 +1,103 @@
+
+[遊戲資料庫] armor資料表說明
+
+防具資訊管理資料表
+
+item_id:防具編號
+name:防具中文名稱
+classname:對應執行類名稱
+name_id:對應desc-c.tbl位置
+type:類型
+├"helm"頭盔
+├"armor"盔甲
+├"T"內衣
+├"cloak"斗篷
+├"glove"手套
+├"boots"長靴
+├"shield"盾牌
+├"amulet"項鏈
+├"ring"戒指
+├"belt"腰帶
+├"ring2"戒指2
+├"earring"耳環
+├"guarder"臂甲 
+├"aidr"輔助右 
+├"aidl"輔助左 
+├"aidm"輔助中
+├"aidr2"輔助右下 
+└"aidl2"輔助左下
+
+material:材質
+├"none"無
+├"liquid"液體
+├"web"蠟
+├"vegetation"植物
+├"animalmatter"動物
+├"paper"紙
+├"cloth"布
+├"leather",皮革
+├"wood"木
+├"bone"骨頭
+├"dragonscale"龍鱗
+├"iron"鐵
+├"steel"鋼
+├"copper"銅
+├"silver"銀
+├"gold"黃金
+├"platinum"白金
+├"mithril"米索莉
+├"blackmithril"黑色米索莉
+├"glass"玻璃
+├"gemstone"寶石
+├"mineral",礦物
+└"oriharukon"奧里哈魯根
+
+weight:重量
+invgfx:背包圖行編號
+grdgfx:地面圖行編號
+itemdesc_id:鑑定顯示內容對應itemdesc-c.tbl位置
+ac:防禦力
+safenchant:安定質
+use_royal:王族是否可以使用 0:不可以 1:可以
+use_knight:騎士是否可以使用 0:不可以 1:可以
+use_mage:法師是否可以使用 0:不可以 1:可以
+use_elf:精靈是否可以使用 0:不可以 1:可以
+use_darkelf:黑暗精靈是否可以使用 0:不可以 1:可以
+use_dragonknight:龍騎士是否可以使用 0:不可以 1:可以
+use_illusionist:幻術師是否可以使用 0:不可以 1:可以
+add_str:力量增加
+add_con:體質增加
+add_dex:敏捷增加
+add_int:智力增加
+add_wis:精神增加
+add_cha:魅力增加
+add_hp:HP增加
+add_mp:MP增加
+add_hpr:HP回復量增加
+add_mpr:MP回復量增加
+add_sp:魔攻增加
+min_lvl:最小可用等級 等於0無限制
+max_lvl:最大可用等級 等於0無限制
+m_def:抗魔增加 等於0無效果
+haste_item:是否為加速物品 0:不是 1:是
+damage_reduction:傷害減免 等於0無效果
+weight_reduction:附重減免 等於0無效果
+hit_modifier:近距武器命中增加 等於0無效果
+dmg_modifier:近距武器傷害增加 等於0無效果
+bow_hit_modifier:遠距武器命中增加 等於0無效果
+bow_dmg_modifier:遠距武器傷害增加 等於0無效果
+bless:類型 0:祝福 1:一般 2:詛咒
+trade:是否可以轉移 0:可以 1:不可以
+cant_delete:是否可以刪除 0:可以 1:不可以
+max_use_time:最大可使用時間 等於0無限制
+defense_water:增加水屬性 等於0無效果
+defense_wind:增加風屬性 等於0無效果
+defense_fire:增加火屬性 等於0無效果
+defense_earth:增加地屬性 等於0無效果
+regist_stun:昏迷耐性 等於0無效果
+regist_stone:石化耐性 等於0無效果
+regist_sleep:睡眠耐性 等於0無效果
+regist_freeze:寒冰耐性 等於0無效果
+regist_sustain:支?耐性 等於0無效果
+regist_blind:暗黑耐性 等於0無效果
+greater:飾品強度等級 0:無 1:低等 2:中等 3:高等

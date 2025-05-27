@@ -1,0 +1,87 @@
+
+[遊戲資料庫] weapon 資料表說明
+
+weapon 管理資料表
+
+item_id:武器編號
+name:武器名稱
+classname:對應執行類名稱 
+name_id:物品名稱
+type:武器類型要要輸入英文喔
+├"sword"單手劍
+├"arrow"箭
+├"bow"雙手弓
+├"singlebow"單手弓
+├"staff"法杖
+├"dagger"匕首
+├"tohandsword"雙手劍
+├"blunt"單手斧
+├"tohandstaff"雙手杖
+├"tohandblunt"雙手斧
+├"claw"爪
+├"gauntlet"手甲
+├"singlespear"單手矛
+├"kiringku"奇古獸
+├"chainsword"鎖鏈劍
+└"edoryu"雙刀
+material:材質
+├"none"無
+├"liquid"液體
+├"web"蠟
+├"vegetation"植物
+├"animalmatter"動物
+├"paper"紙
+├"cloth"布
+├"leather",皮革
+├"wood"木
+├"bone"骨頭
+├"dragonscale"龍鱗
+├"iron"鐵
+├"steel"鋼
+├"copper"銅
+├"silver"銀
+├"gold"黃金
+├"platinum"白金
+├"mithril"米索莉
+├"blackmithril"黑色米索莉
+├"glass"玻璃
+├"gemstone"寶石
+├"mineral",礦物
+└"oriharukon"奧里哈魯根
+weight:重量
+invgfx:道具圖示
+grdgfx:道具欄圖示
+itemdesc_id:武器材質要要輸入英文喔
+dmg_small:對小怪的傷害
+dmg_large:對大怪的傷害
+range:攻擊距離(弓:-2、矛:2、劍:1)
+safenchant:安定值
+use_royal:王族是否能裝備(0不可 1可)
+use_knight:騎士是否能裝備(0不可 1可)
+use_mage:法師是否能裝備(0不可 1可)
+use_elf:妖精是否能裝備(0不可 1可)
+use_darkelf:黑妖是否能裝備(0不可 1可)
+use_dragonknigh:龍騎士是否能裝備(0不可 1可)
+use_illusionist:幻術師是否能裝備(0不可 1可)
+hitmodifier:命中加成
+dmgmodifier:額外攻擊加成
+add_str:增加力量
+add_con:增加體質
+add_dex:增加敏捷
+add_int:增加智力
+add_wis:增加精神
+add_cha:增加魅力
+add_hp:增加血量
+add_mp:增加魔力
+add_hpr:回血量
+add_mpr:回魔量
+add_sp:增加魔法攻擊
+m_def:增加魔法防禦
+double_dmg_chance:雙擊效果
+canbedmg:是否會損壞(0不會 1會)
+min_lvl:最小等級
+max_lvl:最大等級
+bless: (0祝福 1正常 2詛咒 )
+trade:是否可以交易 0可 1不可
+cant_delete:是否可以刪除 0可 1不可
+max_use_time:最大可使用的時間

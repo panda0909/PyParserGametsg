@@ -1,0 +1,24 @@
+2025-05-26 22:47:45,176 - INFO - Reading data from scraped_data\json\updated_filtered_items.json
+2025-05-26 22:47:45,180 - INFO - Loaded 293 items from scraped_data\json\updated_filtered_items.json
+2025-05-26 22:47:45,180 - INFO - Reading data from scraped_data\json\updated_nonempty_name_items.json
+2025-05-26 22:47:45,195 - INFO - Loaded 2477 items from scraped_data\json\updated_nonempty_name_items.json
+2025-05-26 22:47:45,196 - INFO - Created lookup dictionary with 293 valid filtered items
+2025-05-26 22:47:45,196 - INFO - Added 2477 items from nonempty_items to merged dictionary
+2025-05-26 22:47:45,196 - INFO - Added 293 unique items from filtered_items to merged dictionary
+2025-05-26 22:47:45,199 - INFO - Final merged list contains 2770 items
+2025-05-26 22:47:45,199 - INFO - Saving merged data to scraped_data\json\merge_items.json
+2025-05-26 22:47:45,275 - INFO - Successfully saved 2770 items to scraped_data\json\merge_items.json
+2025-05-26 22:47:45,276 - INFO - Items with names: 2770
+2025-05-26 22:47:45,276 - INFO - Items with URLs: 2770
+2025-05-26 22:47:45,277 - INFO - Items with monster drops: 227
+2025-05-26 22:47:45,277 - INFO - Top 10 categories in merged items:
+2025-05-26 22:47:45,277 - INFO -   魔法書: 591 items
+2025-05-26 22:47:45,277 - INFO -   材料: 282 items
+2025-05-26 22:47:45,277 - INFO -   卡片: 271 items
+2025-05-26 22:47:45,277 - INFO -   其他: 138 items
+2025-05-26 22:47:45,277 - INFO -   盔甲: 135 items
+2025-05-26 22:47:45,277 - INFO -   頭盔: 89 items
+2025-05-26 22:47:45,277 - INFO -   盾牌/臂甲: 83 items
+2025-05-26 22:47:45,278 - INFO -   手套: 79 items
+2025-05-26 22:47:45,278 - INFO -   戒指: 74 items
+2025-05-26 22:47:45,278 - INFO -   鞋子: 71 items

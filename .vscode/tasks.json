@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Random Samples Fetcher",
+			"type": "shell",
+			"command": "python random_samples_fetcher.py",
+			"group": "test",
+			"problemMatcher": []
+		}
+	]
+}

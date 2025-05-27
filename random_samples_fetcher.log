@@ -1,0 +1,309 @@
+2025-05-26 23:50:16,923 - INFO - Starting random samples fetcher
+2025-05-26 23:50:16,924 - INFO - Loading JSON data from scraped_data\json\merge_items.json
+2025-05-26 23:50:16,942 - INFO - Successfully loaded 2770 items
+2025-05-26 23:50:16,943 - INFO - Found 44 different categories
+2025-05-26 23:50:16,943 - INFO - Selected 3 samples from category '匕首'
+2025-05-26 23:50:16,944 - INFO - Selected 3 samples from category '單手劍'
+2025-05-26 23:50:16,944 - INFO - Selected 3 samples from category '雙手劍'
+2025-05-26 23:50:16,945 - INFO - Selected 3 samples from category '弓'
+2025-05-26 23:50:16,947 - INFO - Selected 3 samples from category '矛'
+2025-05-26 23:50:16,947 - INFO - Selected 3 samples from category '斧頭'
+2025-05-26 23:50:16,947 - INFO - Selected 3 samples from category '魔杖'
+2025-05-26 23:50:16,947 - INFO - Selected 3 samples from category '雙刀'
+2025-05-26 23:50:16,947 - INFO - Selected 3 samples from category '鋼爪'
+2025-05-26 23:50:16,947 - INFO - Selected 3 samples from category '鐵手甲'
+2025-05-26 23:50:16,947 - INFO - Selected 3 samples from category '步槍'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '手持火炮'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '鎖鏈劍'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '鐮刀'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '頭盔'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category 'T恤'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '盔甲'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '斗篷'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '手套'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '褲子'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '鞋子'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '盾牌/臂甲'
+2025-05-26 23:50:16,948 - INFO - Selected 3 samples from category '肩甲'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '項鍊'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '耳環'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '戒指'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '腰帶'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '符石'
+2025-05-26 23:50:16,949 - INFO - Selected 2 samples from category '印章'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '手環'
+2025-05-26 23:50:16,949 - INFO - Selected 2 samples from category '徽章'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '水晶'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '卷軸'
+2025-05-26 23:50:16,949 - INFO - Selected 3 samples from category '材料'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '硬幣'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '強化卷軸'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '魔法書'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '箭/刺/子彈'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '藥水'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '卡片'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '移動道具'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '魔眼'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '其他'
+2025-05-26 23:50:16,950 - INFO - Selected 3 samples from category '符石劍'
+2025-05-26 23:50:16,950 - INFO - Fetching HTML for item: 生命之劍 (URL: https://www.gametsg.net/equip/detail.html?id=3)
+2025-05-26 23:50:17,485 - INFO - Successfully saved HTML to example\生命之劍.html
+2025-05-26 23:50:18,486 - INFO - Fetching HTML for item: 米索莉短劍 (URL: https://www.gametsg.net/equip/detail.html?id=18)
+2025-05-26 23:50:19,056 - INFO - Successfully saved HTML to example\米索莉短劍.html
+2025-05-26 23:50:20,057 - INFO - Fetching HTML for item: 水晶短劍(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=14)
+2025-05-26 23:50:20,608 - INFO - Successfully saved HTML to example\水晶短劍(刻印).html
+2025-05-26 23:50:21,610 - INFO - Fetching HTML for item: 海賊彎刀 (URL: https://www.gametsg.net/equip/detail.html?id=67)
+2025-05-26 23:50:22,162 - INFO - Successfully saved HTML to example\海賊彎刀.html
+2025-05-26 23:50:23,163 - INFO - Fetching HTML for item: 闊劍 (URL: https://www.gametsg.net/equip/detail.html?id=62)
+2025-05-26 23:50:23,703 - INFO - Successfully saved HTML to example\闊劍.html
+2025-05-26 23:50:24,704 - INFO - Fetching HTML for item: 瑟魯基之劍 (URL: https://www.gametsg.net/equip/detail.html?id=52)
+2025-05-26 23:50:25,193 - INFO - Successfully saved HTML to example\瑟魯基之劍.html
+2025-05-26 23:50:26,193 - INFO - Fetching HTML for item: 銀色的大劍(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=105)
+2025-05-26 23:50:26,744 - INFO - Successfully saved HTML to example\銀色的大劍(刻印).html
+2025-05-26 23:50:27,745 - INFO - Fetching HTML for item: 歐西里斯雙手劍 (URL: https://www.gametsg.net/equip/detail.html?id=87)
+2025-05-26 23:50:28,275 - INFO - Successfully saved HTML to example\歐西里斯雙手劍.html
+2025-05-26 23:50:29,276 - INFO - Fetching HTML for item: 底比斯歐西里斯雙手劍 (URL: https://www.gametsg.net/equip/detail.html?id=97)
+2025-05-26 23:50:29,838 - INFO - Successfully saved HTML to example\底比斯歐西里斯雙手劍.html
+2025-05-26 23:50:30,839 - INFO - Fetching HTML for item: 魔族之弓 (URL: https://www.gametsg.net/equip/detail.html?id=127)
+2025-05-26 23:50:31,376 - INFO - Successfully saved HTML to example\魔族之弓.html
+2025-05-26 23:50:32,377 - INFO - Fetching HTML for item: 惡夢的長弓 (URL: https://www.gametsg.net/equip/detail.html?id=113)
+2025-05-26 23:50:32,937 - INFO - Successfully saved HTML to example\惡夢的長弓.html
+2025-05-26 23:50:33,938 - INFO - Fetching HTML for item: 十字弓 (URL: https://www.gametsg.net/equip/detail.html?id=141)
+2025-05-26 23:50:34,433 - INFO - Successfully saved HTML to example\十字弓.html
+2025-05-26 23:50:35,434 - INFO - Fetching HTML for item: 赫爾里歐斯的審判 (URL: https://www.gametsg.net/equip/detail.html?id=157)
+2025-05-26 23:50:35,972 - INFO - Successfully saved HTML to example\赫爾里歐斯的審判.html
+2025-05-26 23:50:36,974 - INFO - Fetching HTML for item: 矛 (URL: https://www.gametsg.net/equip/detail.html?id=194)
+2025-05-26 23:50:37,519 - INFO - Successfully saved HTML to example\矛.html
+2025-05-26 23:50:38,520 - INFO - Fetching HTML for item: 歐西里斯之矛(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=162)
+2025-05-26 23:50:39,054 - INFO - Successfully saved HTML to example\歐西里斯之矛(刻印).html
+2025-05-26 23:50:40,055 - INFO - Fetching HTML for item: 泰坦的憤怒(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=199)
+2025-05-26 23:50:40,606 - INFO - Successfully saved HTML to example\泰坦的憤怒(刻印).html
+2025-05-26 23:50:41,607 - INFO - Fetching HTML for item: 巨人之斧(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=214)
+2025-05-26 23:50:42,092 - INFO - Successfully saved HTML to example\巨人之斧(刻印).html
+2025-05-26 23:50:43,093 - INFO - Fetching HTML for item: 巨斧 (URL: https://www.gametsg.net/equip/detail.html?id=230)
+2025-05-26 23:50:43,649 - INFO - Successfully saved HTML to example\巨斧.html
+2025-05-26 23:50:44,650 - INFO - Fetching HTML for item: 冥想魔杖(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=279)
+2025-05-26 23:50:45,209 - INFO - Successfully saved HTML to example\冥想魔杖(刻印).html
+2025-05-26 23:50:46,210 - INFO - Fetching HTML for item: 水晶魔杖 (URL: https://www.gametsg.net/equip/detail.html?id=271)
+2025-05-26 23:50:46,764 - INFO - Successfully saved HTML to example\水晶魔杖.html
+2025-05-26 23:50:47,766 - INFO - Fetching HTML for item: 惡魔鐮刀(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=246)
+2025-05-26 23:50:48,307 - INFO - Successfully saved HTML to example\惡魔鐮刀(刻印).html
+2025-05-26 23:50:49,308 - INFO - Fetching HTML for item: 鋼鐵雙刀 (URL: https://www.gametsg.net/equip/detail.html?id=304)
+2025-05-26 23:50:49,872 - INFO - Successfully saved HTML to example\鋼鐵雙刀.html
+2025-05-26 23:50:50,873 - INFO - Fetching HTML for item: 暗影雙刀(復刻) (URL: https://www.gametsg.net/equip/detail.html?id=309)
+2025-05-26 23:50:51,440 - INFO - Successfully saved HTML to example\暗影雙刀(復刻).html
+2025-05-26 23:50:52,441 - INFO - Fetching HTML for item: 青銅雙刀(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=307)
+2025-05-26 23:50:53,022 - INFO - Successfully saved HTML to example\青銅雙刀(刻印).html
+2025-05-26 23:50:54,023 - INFO - Fetching HTML for item: 暗影鋼爪(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=338)
+2025-05-26 23:50:54,594 - INFO - Successfully saved HTML to example\暗影鋼爪(刻印).html
+2025-05-26 23:50:55,595 - INFO - Fetching HTML for item: 大馬士革鋼爪 (URL: https://www.gametsg.net/equip/detail.html?id=327)
+2025-05-26 23:50:56,167 - INFO - Successfully saved HTML to example\大馬士革鋼爪.html
+2025-05-26 23:50:57,168 - INFO - Fetching HTML for item: 惡魔王的鋼爪 (URL: https://www.gametsg.net/equip/detail.html?id=316)
+2025-05-26 23:50:57,765 - INFO - Successfully saved HTML to example\惡魔王的鋼爪.html
+2025-05-26 23:50:58,765 - INFO - Fetching HTML for item: 真鐵手甲 (URL: https://www.gametsg.net/equip/detail.html?id=341)
+2025-05-26 23:50:59,472 - INFO - Successfully saved HTML to example\真鐵手甲.html
+2025-05-26 23:51:00,473 - INFO - Fetching HTML for item: 提卡爾庫庫爾坎鐵手甲(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=340)
+2025-05-26 23:51:01,060 - INFO - Successfully saved HTML to example\提卡爾庫庫爾坎鐵手甲(刻印).html
+2025-05-26 23:51:02,062 - INFO - Fetching HTML for item: 鐵手甲 (URL: https://www.gametsg.net/equip/detail.html?id=343)
+2025-05-26 23:51:02,623 - INFO - Successfully saved HTML to example\鐵手甲.html
+2025-05-26 23:51:03,625 - INFO - Fetching HTML for item: 惡魔王的步槍 (URL: https://www.gametsg.net/equip/detail.html?id=351)
+2025-05-26 23:51:04,181 - INFO - Successfully saved HTML to example\惡魔王的步槍.html
+2025-05-26 23:51:05,182 - INFO - Fetching HTML for item: 解放的步槍(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=354)
+2025-05-26 23:51:05,746 - INFO - Successfully saved HTML to example\解放的步槍(刻印).html
+2025-05-26 23:51:06,747 - INFO - Fetching HTML for item: 波斯特步槍 (URL: https://www.gametsg.net/equip/detail.html?id=345)
+2025-05-26 23:51:07,277 - INFO - Successfully saved HTML to example\波斯特步槍.html
+2025-05-26 23:51:08,278 - INFO - Fetching HTML for item: 鋼鐵大炮 (URL: https://www.gametsg.net/equip/detail.html?id=380)
+2025-05-26 23:51:08,822 - INFO - Successfully saved HTML to example\鋼鐵大炮.html
+2025-05-26 23:51:09,823 - INFO - Fetching HTML for item: 末日衝擊炮 (URL: https://www.gametsg.net/equip/detail.html?id=374)
+2025-05-26 23:51:10,434 - INFO - Successfully saved HTML to example\末日衝擊炮.html
+2025-05-26 23:51:11,435 - INFO - Fetching HTML for item: 雙重大炮 (URL: https://www.gametsg.net/equip/detail.html?id=376)
+2025-05-26 23:51:12,008 - INFO - Successfully saved HTML to example\雙重大炮.html
+2025-05-26 23:51:13,009 - INFO - Fetching HTML for item: 寒冰鎖鏈劍(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=389)
+2025-05-26 23:51:13,538 - INFO - Successfully saved HTML to example\寒冰鎖鏈劍(刻印).html
+2025-05-26 23:51:14,539 - INFO - Fetching HTML for item: 歐西里斯鎖鏈劍 (URL: https://www.gametsg.net/equip/detail.html?id=387)
+2025-05-26 23:51:15,062 - INFO - Successfully saved HTML to example\歐西里斯鎖鏈劍.html
+2025-05-26 23:51:16,064 - INFO - Fetching HTML for item: 魔族鎖鏈劍 (URL: https://www.gametsg.net/equip/detail.html?id=394)
+2025-05-26 23:51:16,644 - INFO - Successfully saved HTML to example\魔族鎖鏈劍.html
+2025-05-26 23:51:17,645 - INFO - Fetching HTML for item: 底比斯歐西里斯鐮刀(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=429)
+2025-05-26 23:51:18,147 - INFO - Successfully saved HTML to example\底比斯歐西里斯鐮刀(刻印).html
+2025-05-26 23:51:19,149 - INFO - Fetching HTML for item: 艾莉絲(鐮刀)(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=411)
+2025-05-26 23:51:19,663 - INFO - Successfully saved HTML to example\艾莉絲(鐮刀)(刻印).html
+2025-05-26 23:51:20,665 - INFO - Fetching HTML for item: 夜禍(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=423)
+2025-05-26 23:51:21,195 - INFO - Successfully saved HTML to example\夜禍(刻印).html
+2025-05-26 23:51:22,196 - INFO - Fetching HTML for item: 巡禮者面紗 (URL: https://www.gametsg.net/equip/detail.html?id=514)
+2025-05-26 23:51:22,777 - INFO - Successfully saved HTML to example\巡禮者面紗.html
+2025-05-26 23:51:23,778 - INFO - Fetching HTML for item: 守護者面甲 (URL: https://www.gametsg.net/equip/detail.html?id=444)
+2025-05-26 23:51:24,357 - INFO - Successfully saved HTML to example\守護者面甲.html
+2025-05-26 23:51:25,358 - INFO - Fetching HTML for item: 異界頭盔 (URL: https://www.gametsg.net/equip/detail.html?id=504)
+2025-05-26 23:51:25,880 - INFO - Successfully saved HTML to example\異界頭盔.html
+2025-05-26 23:51:26,881 - INFO - Fetching HTML for item: 英雄的光之黑貓皮夾克 (URL: https://www.gametsg.net/equip/detail.html?id=534)
+2025-05-26 23:51:27,458 - INFO - Successfully saved HTML to example\英雄的光之黑貓皮夾克.html
+2025-05-26 23:51:28,459 - INFO - Fetching HTML for item: 老舊的力量T恤(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=544)
+2025-05-26 23:51:29,017 - INFO - Successfully saved HTML to example\老舊的力量T恤(刻印).html
+2025-05-26 23:51:30,018 - INFO - Fetching HTML for item: 老舊的智力T恤 (URL: https://www.gametsg.net/equip/detail.html?id=545)
+2025-05-26 23:51:30,545 - INFO - Successfully saved HTML to example\老舊的智力T恤.html
+2025-05-26 23:51:31,546 - INFO - Fetching HTML for item: 封印的古老的金屬盔甲(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=613)
+2025-05-26 23:51:32,086 - INFO - Successfully saved HTML to example\封印的古老的金屬盔甲(刻印).html
+2025-05-26 23:51:33,087 - INFO - Fetching HTML for item: 地龍的鱗甲(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=636)
+2025-05-26 23:51:33,647 - INFO - Successfully saved HTML to example\地龍的鱗甲(刻印).html
+2025-05-26 23:51:34,647 - INFO - Fetching HTML for item: 法力昂的魅惑 (URL: https://www.gametsg.net/equip/detail.html?id=575)
+2025-05-26 23:51:35,226 - INFO - Successfully saved HTML to example\法力昂的魅惑.html
+2025-05-26 23:51:36,227 - INFO - Fetching HTML for item: 被遺忘的旅人斗篷 (URL: https://www.gametsg.net/equip/detail.html?id=717)
+2025-05-26 23:51:36,826 - INFO - Successfully saved HTML to example\被遺忘的旅人斗篷.html
+2025-05-26 23:51:37,826 - INFO - Fetching HTML for item: 詛咒斗篷 (URL: https://www.gametsg.net/equip/detail.html?id=738)
+2025-05-26 23:51:38,400 - INFO - Successfully saved HTML to example\詛咒斗篷.html
+2025-05-26 23:51:39,401 - INFO - Fetching HTML for item: 吸血鬼斗篷 (URL: https://www.gametsg.net/equip/detail.html?id=705)
+2025-05-26 23:51:39,904 - INFO - Successfully saved HTML to example\吸血鬼斗篷.html
+2025-05-26 23:51:40,905 - INFO - Fetching HTML for item: 水晶手套(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=800)
+2025-05-26 23:51:41,484 - INFO - Successfully saved HTML to example\水晶手套(刻印).html
+2025-05-26 23:51:42,485 - INFO - Fetching HTML for item: 影子手套(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=794)
+2025-05-26 23:51:43,066 - INFO - Successfully saved HTML to example\影子手套(刻印).html
+2025-05-26 23:51:44,067 - INFO - Fetching HTML for item: 克特手套(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=768)
+2025-05-26 23:51:44,598 - INFO - Successfully saved HTML to example\克特手套(刻印).html
+2025-05-26 23:51:45,599 - INFO - Fetching HTML for item: 成長褲子 (URL: https://www.gametsg.net/equip/detail.html?id=832)
+2025-05-26 23:51:46,160 - INFO - Successfully saved HTML to example\成長褲子.html
+2025-05-26 23:51:47,161 - INFO - Fetching HTML for item: 阿努比斯褲子(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=834)
+2025-05-26 23:51:47,677 - INFO - Successfully saved HTML to example\阿努比斯褲子(刻印).html
+2025-05-26 23:51:48,679 - INFO - Fetching HTML for item: 體力褲子(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=840)
+2025-05-26 23:51:49,260 - INFO - Successfully saved HTML to example\體力褲子(刻印).html
+2025-05-26 23:51:50,262 - INFO - Fetching HTML for item: 月靈的皮長靴 (URL: https://www.gametsg.net/equip/detail.html?id=854)
+2025-05-26 23:51:50,849 - INFO - Successfully saved HTML to example\月靈的皮長靴.html
+2025-05-26 23:51:51,851 - INFO - Fetching HTML for item: 吸血鬼長靴 (URL: https://www.gametsg.net/equip/detail.html?id=851)
+2025-05-26 23:51:52,427 - INFO - Successfully saved HTML to example\吸血鬼長靴.html
+2025-05-26 23:51:53,428 - INFO - Fetching HTML for item: 魔獸軍王長靴(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=869)
+2025-05-26 23:51:53,952 - INFO - Successfully saved HTML to example\魔獸軍王長靴(刻印).html
+2025-05-26 23:51:54,954 - INFO - Fetching HTML for item: 侏儒圓盾 (URL: https://www.gametsg.net/equip/detail.html?id=981)
+2025-05-26 23:51:55,514 - INFO - Successfully saved HTML to example\侏儒圓盾.html
+2025-05-26 23:51:56,516 - INFO - Fetching HTML for item: 巨蟻女皇的臂甲 (URL: https://www.gametsg.net/equip/detail.html?id=928)
+2025-05-26 23:51:57,103 - INFO - Successfully saved HTML to example\巨蟻女皇的臂甲.html
+2025-05-26 23:51:58,104 - INFO - Fetching HTML for item: 魔族的盾牌(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=950)
+2025-05-26 23:51:58,735 - INFO - Successfully saved HTML to example\魔族的盾牌(刻印).html
+2025-05-26 23:51:59,737 - INFO - Fetching HTML for item: 光之智力肩甲 (URL: https://www.gametsg.net/equip/detail.html?id=1000)
+2025-05-26 23:52:00,246 - INFO - Successfully saved HTML to example\光之智力肩甲.html
+2025-05-26 23:52:01,247 - INFO - Fetching HTML for item: 光之敏捷肩甲 (URL: https://www.gametsg.net/equip/detail.html?id=998)
+2025-05-26 23:52:01,844 - INFO - Successfully saved HTML to example\光之敏捷肩甲.html
+2025-05-26 23:52:02,845 - INFO - Fetching HTML for item: 英雄的光之智力肩甲 (URL: https://www.gametsg.net/equip/detail.html?id=1003)
+2025-05-26 23:52:03,386 - INFO - Successfully saved HTML to example\英雄的光之智力肩甲.html
+2025-05-26 23:52:04,386 - INFO - Fetching HTML for item: 杰弗雷庫的魔眼(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1033)
+2025-05-26 23:52:04,891 - INFO - Successfully saved HTML to example\杰弗雷庫的魔眼(刻印).html
+2025-05-26 23:52:05,892 - INFO - Fetching HTML for item: 發光的古老項鍊(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1029)
+2025-05-26 23:52:06,410 - INFO - Successfully saved HTML to example\發光的古老項鍊(刻印).html
+2025-05-26 23:52:07,412 - INFO - Fetching HTML for item: 杰弗雷庫的力量項鍊 (URL: https://www.gametsg.net/equip/detail.html?id=1011)
+2025-05-26 23:52:07,996 - INFO - Successfully saved HTML to example\杰弗雷庫的力量項鍊.html
+2025-05-26 23:52:08,996 - INFO - Fetching HTML for item: 紅色妖魔耳環 (URL: https://www.gametsg.net/equip/detail.html?id=1071)
+2025-05-26 23:52:09,528 - INFO - Successfully saved HTML to example\紅色妖魔耳環.html
+2025-05-26 23:52:10,529 - INFO - Fetching HTML for item: 倫提斯的藍光耳環 (URL: https://www.gametsg.net/equip/detail.html?id=1057)
+2025-05-26 23:52:11,280 - INFO - Successfully saved HTML to example\倫提斯的藍光耳環.html
+2025-05-26 23:52:12,282 - INFO - Fetching HTML for item: 戰士的耳環 (URL: https://www.gametsg.net/equip/detail.html?id=1074)
+2025-05-26 23:52:12,804 - INFO - Successfully saved HTML to example\戰士的耳環.html
+2025-05-26 23:52:13,805 - INFO - Fetching HTML for item: 死神戒指 (URL: https://www.gametsg.net/equip/detail.html?id=1088)
+2025-05-26 23:52:14,508 - INFO - Successfully saved HTML to example\死神戒指.html
+2025-05-26 23:52:15,508 - INFO - Fetching HTML for item: 閃亮的地靈戒指 (URL: https://www.gametsg.net/equip/detail.html?id=1122)
+2025-05-26 23:52:16,011 - INFO - Successfully saved HTML to example\閃亮的地靈戒指.html
+2025-05-26 23:52:17,012 - INFO - Fetching HTML for item: 守護戒指(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1135)
+2025-05-26 23:52:17,602 - INFO - Successfully saved HTML to example\守護戒指(刻印).html
+2025-05-26 23:52:18,603 - INFO - Fetching HTML for item: 死神腰帶 (URL: https://www.gametsg.net/equip/detail.html?id=1151)
+2025-05-26 23:52:19,117 - INFO - Successfully saved HTML to example\死神腰帶.html
+2025-05-26 23:52:20,118 - INFO - Fetching HTML for item: 狂龍智力腰帶 (URL: https://www.gametsg.net/equip/detail.html?id=1165)
+2025-05-26 23:52:20,664 - INFO - Successfully saved HTML to example\狂龍智力腰帶.html
+2025-05-26 23:52:21,665 - INFO - Fetching HTML for item: 巴蘭卡骷髏腰帶 (URL: https://www.gametsg.net/equip/detail.html?id=1160)
+2025-05-26 23:52:22,222 - INFO - Successfully saved HTML to example\巴蘭卡骷髏腰帶.html
+2025-05-26 23:52:23,224 - INFO - Fetching HTML for item: 格蘭肯的遺物(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1200)
+2025-05-26 23:52:23,822 - INFO - Successfully saved HTML to example\格蘭肯的遺物(刻印).html
+2025-05-26 23:52:24,824 - INFO - Fetching HTML for item: 意志符石(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1216)
+2025-05-26 23:52:25,409 - INFO - Successfully saved HTML to example\意志符石(刻印).html
+2025-05-26 23:52:26,410 - INFO - Fetching HTML for item: 成長符石(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1218)
+2025-05-26 23:52:26,985 - INFO - Successfully saved HTML to example\成長符石(刻印).html
+2025-05-26 23:52:27,986 - INFO - Fetching HTML for item: 守護印章 (URL: https://www.gametsg.net/equip/detail.html?id=1223)
+2025-05-26 23:52:28,488 - INFO - Successfully saved HTML to example\守護印章.html
+2025-05-26 23:52:29,488 - INFO - Fetching HTML for item: 回復印章 (URL: https://www.gametsg.net/equip/detail.html?id=1224)
+2025-05-26 23:52:30,116 - INFO - Successfully saved HTML to example\回復印章.html
+2025-05-26 23:52:31,118 - INFO - Fetching HTML for item: 賽尼斯的手環 (URL: https://www.gametsg.net/equip/detail.html?id=1233)
+2025-05-26 23:52:31,668 - INFO - Successfully saved HTML to example\賽尼斯的手環.html
+2025-05-26 23:52:32,668 - INFO - Fetching HTML for item: 收穫者手環 (URL: https://www.gametsg.net/equip/detail.html?id=1244)
+2025-05-26 23:52:33,259 - INFO - Successfully saved HTML to example\收穫者手環.html
+2025-05-26 23:52:34,261 - INFO - Fetching HTML for item: 亞丁之光(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1228)
+2025-05-26 23:52:34,832 - INFO - Successfully saved HTML to example\亞丁之光(刻印).html
+2025-05-26 23:52:35,833 - INFO - Fetching HTML for item: 獵人徽章 (URL: https://www.gametsg.net/equip/detail.html?id=1246)
+2025-05-26 23:52:36,331 - INFO - Successfully saved HTML to example\獵人徽章.html
+2025-05-26 23:52:37,331 - INFO - Fetching HTML for item: 指揮官徽章 (URL: https://www.gametsg.net/equip/detail.html?id=1247)
+2025-05-26 23:52:37,920 - INFO - Successfully saved HTML to example\指揮官徽章.html
+2025-05-26 23:52:38,920 - INFO - Fetching HTML for item: 埃斯卡洛斯水晶(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1253)
+2025-05-26 23:52:39,708 - INFO - Successfully saved HTML to example\埃斯卡洛斯水晶(刻印).html
+2025-05-26 23:52:40,709 - INFO - Fetching HTML for item: 火龍的水晶 (URL: https://www.gametsg.net/equip/detail.html?id=1251)
+2025-05-26 23:52:41,324 - INFO - Successfully saved HTML to example\火龍的水晶.html
+2025-05-26 23:52:42,325 - INFO - Fetching HTML for item: 風龍的水晶 (URL: https://www.gametsg.net/equip/detail.html?id=1250)
+2025-05-26 23:52:42,864 - INFO - Successfully saved HTML to example\風龍的水晶.html
+2025-05-26 23:52:43,865 - INFO - Fetching HTML for item: 高崙結晶 (URL: https://www.gametsg.net/equip/detail.html?id=1256)
+2025-05-26 23:52:44,422 - INFO - Successfully saved HTML to example\高崙結晶.html
+2025-05-26 23:52:45,423 - INFO - Fetching HTML for item: 變身卷軸(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1266)
+2025-05-26 23:52:46,014 - INFO - Successfully saved HTML to example\變身卷軸(刻印).html
+2025-05-26 23:52:47,015 - INFO - Fetching HTML for item: 魔法卷軸(聖潔之光)(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1258)
+2025-05-26 23:52:47,560 - INFO - Successfully saved HTML to example\魔法卷軸(聖潔之光)(刻印).html
+2025-05-26 23:52:48,560 - INFO - Fetching HTML for item: 印章石(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=1528)
+2025-05-26 23:52:49,085 - INFO - Successfully saved HTML to example\印章石(刻印).html
+2025-05-26 23:52:50,087 - INFO - Fetching HTML for item: 艾歐丁之魂 (URL: https://www.gametsg.net/equip/detail.html?id=1335)
+2025-05-26 23:52:50,614 - INFO - Successfully saved HTML to example\艾歐丁之魂.html
+2025-05-26 23:52:51,615 - INFO - Fetching HTML for item: 風之皮革 (URL: https://www.gametsg.net/equip/detail.html?id=1469)
+2025-05-26 23:52:52,160 - INFO - Successfully saved HTML to example\風之皮革.html
+2025-05-26 23:52:53,161 - INFO - Fetching HTML for item: 魔法娃娃探險憑證(高級) (URL: https://www.gametsg.net/equip/detail.html?id=1456)
+2025-05-26 23:52:53,743 - INFO - Successfully saved HTML to example\魔法娃娃探險憑證(高級).html
+2025-05-26 23:52:54,744 - INFO - Fetching HTML for item: 死神的印章 (URL: https://www.gametsg.net/equip/detail.html?id=1489)
+2025-05-26 23:52:55,279 - INFO - Successfully saved HTML to example\死神的印章.html
+2025-05-26 23:52:56,281 - INFO - Fetching HTML for item: 變身製作硬幣 (URL: https://www.gametsg.net/equip/detail.html?id=2497)
+2025-05-26 23:52:56,851 - INFO - Successfully saved HTML to example\變身製作硬幣.html
+2025-05-26 23:52:57,852 - INFO - Fetching HTML for item: 地之武器強化卷軸(血盟商店) (URL: https://www.gametsg.net/equip/detail.html?id=2523)
+2025-05-26 23:52:58,379 - INFO - Successfully saved HTML to example\地之武器強化卷軸(血盟商店).html
+2025-05-26 23:52:59,380 - INFO - Fetching HTML for item: 火之武器強化卷軸 (URL: https://www.gametsg.net/equip/detail.html?id=2528)
+2025-05-26 23:52:59,874 - INFO - Successfully saved HTML to example\火之武器強化卷軸.html
+2025-05-26 23:53:00,875 - INFO - Fetching HTML for item: 倫提斯的強化卷軸 (URL: https://www.gametsg.net/equip/detail.html?id=2502)
+2025-05-26 23:53:01,423 - INFO - Successfully saved HTML to example\倫提斯的強化卷軸.html
+2025-05-26 23:53:02,424 - INFO - Fetching HTML for item: 龍斗士書板(護衛毀滅)(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=2061)
+2025-05-26 23:53:03,006 - INFO - Successfully saved HTML to example\龍斗士書板(護衛毀滅)(刻印).html
+2025-05-26 23:53:04,007 - INFO - Fetching HTML for item: 秘傳(落雷)(血盟商店) (URL: https://www.gametsg.net/equip/detail.html?id=1953)
+2025-05-26 23:53:04,840 - INFO - Successfully saved HTML to example\秘傳(落雷)(血盟商店).html
+2025-05-26 23:53:05,841 - INFO - Fetching HTML for item: 技術書(極致大師) (URL: https://www.gametsg.net/equip/detail.html?id=1634)
+2025-05-26 23:53:06,415 - INFO - Successfully saved HTML to example\技術書(極致大師).html
+2025-05-26 23:53:07,416 - INFO - Fetching HTML for item: 奧里哈魯根箭(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=2097)
+2025-05-26 23:53:07,948 - INFO - Successfully saved HTML to example\奧里哈魯根箭(刻印).html
+2025-05-26 23:53:08,949 - INFO - Fetching HTML for item: 米索利子彈(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=2090)
+2025-05-26 23:53:09,487 - INFO - Successfully saved HTML to example\米索利子彈(刻印).html
+2025-05-26 23:53:10,488 - INFO - Fetching HTML for item: 米索利箭(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=2091)
+2025-05-26 23:53:10,983 - INFO - Successfully saved HTML to example\米索利箭(刻印).html
+2025-05-26 23:53:11,984 - INFO - Fetching HTML for item: 克洛諾斯的成長藥水 (URL: https://www.gametsg.net/equip/detail.html?id=2116)
+2025-05-26 23:53:12,567 - INFO - Successfully saved HTML to example\克洛諾斯的成長藥水.html
+2025-05-26 23:53:13,567 - INFO - Fetching HTML for item: 勝利果實(第三名) (URL: https://www.gametsg.net/equip/detail.html?id=2128)
+2025-05-26 23:53:14,145 - INFO - Successfully saved HTML to example\勝利果實(第三名).html
+2025-05-26 23:53:15,146 - INFO - Fetching HTML for item: 蒸鮭魚(刻印) (URL: https://www.gametsg.net/equip/detail.html?id=2122)
+2025-05-26 23:53:15,734 - INFO - Successfully saved HTML to example\蒸鮭魚(刻印).html
+2025-05-26 23:53:16,734 - INFO - Fetching HTML for item: [變身卡]真 黑暗妖精 (URL: https://www.gametsg.net/equip/detail.html?id=2309)
+2025-05-26 23:53:17,329 - INFO - Successfully saved HTML to example\[變身卡]真 黑暗妖精.html
+2025-05-26 23:53:18,331 - INFO - Fetching HTML for item: [變身卡]優卡 (URL: https://www.gametsg.net/equip/detail.html?id=2367)
+2025-05-26 23:53:18,893 - INFO - Successfully saved HTML to example\[變身卡]優卡.html
+2025-05-26 23:53:19,894 - INFO - Fetching HTML for item: [魔法娃娃卡]狼人 (URL: https://www.gametsg.net/equip/detail.html?id=2374)
+2025-05-26 23:53:20,374 - INFO - Successfully saved HTML to example\[魔法娃娃卡]狼人.html
+2025-05-26 23:53:21,374 - INFO - Fetching HTML for item: 傲慢之塔8樓支配符咒 (URL: https://www.gametsg.net/equip/detail.html?id=2564)
+2025-05-26 23:53:21,956 - INFO - Successfully saved HTML to example\傲慢之塔8樓支配符咒.html
+2025-05-26 23:53:22,957 - INFO - Fetching HTML for item: 傲慢之塔10樓移動卷軸 (URL: https://www.gametsg.net/equip/detail.html?id=2680)
+2025-05-26 23:53:23,531 - INFO - Successfully saved HTML to example\傲慢之塔10樓移動卷軸.html
+2025-05-26 23:53:24,532 - INFO - Fetching HTML for item: 信念之塔2樓傳送符 (URL: https://www.gametsg.net/equip/detail.html?id=2538)
+2025-05-26 23:53:25,141 - INFO - Successfully saved HTML to example\信念之塔2樓傳送符.html
+2025-05-26 23:53:26,143 - INFO - Fetching HTML for item: 意志頭環 (URL: https://www.gametsg.net/equip/detail.html?id=2580)
+2025-05-26 23:53:26,705 - INFO - Successfully saved HTML to example\意志頭環.html
+2025-05-26 23:53:27,706 - INFO - Fetching HTML for item: 覺醒:炎魔的庇護 (URL: https://www.gametsg.net/equip/detail.html?id=2581)
+2025-05-26 23:53:28,264 - INFO - Successfully saved HTML to example\覺醒_炎魔的庇護.html
+2025-05-26 23:53:29,264 - INFO - Fetching HTML for item: 支配者的頭環 (URL: https://www.gametsg.net/equip/detail.html?id=2573)
+2025-05-26 23:53:29,789 - INFO - Successfully saved HTML to example\支配者的頭環.html
+2025-05-26 23:53:30,790 - INFO - Fetching HTML for item: 冷凍袋 (URL: https://www.gametsg.net/equip/detail.html?id=2727)
+2025-05-26 23:53:31,371 - INFO - Successfully saved HTML to example\冷凍袋.html
+2025-05-26 23:53:32,372 - INFO - Fetching HTML for item: 信念之塔1層移動卷軸 (URL: https://www.gametsg.net/equip/detail.html?id=2695)
+2025-05-26 23:53:32,903 - INFO - Successfully saved HTML to example\信念之塔1層移動卷軸.html
+2025-05-26 23:53:33,904 - INFO - Fetching HTML for item: 英雄技能箱 (URL: https://www.gametsg.net/equip/detail.html?id=2647)
+2025-05-26 23:53:34,483 - INFO - Successfully saved HTML to example\英雄技能箱.html
+2025-05-26 23:53:35,484 - INFO - Fetching HTML for item: 共鳴符石劍 (URL: https://www.gametsg.net/equip/detail.html?id=2773)
+2025-05-26 23:53:35,991 - INFO - Successfully saved HTML to example\共鳴符石劍.html
+2025-05-26 23:53:36,992 - INFO - Fetching HTML for item: 歐西里斯符石劍 (URL: https://www.gametsg.net/equip/detail.html?id=2770)
+2025-05-26 23:53:37,533 - INFO - Successfully saved HTML to example\歐西里斯符石劍.html
+2025-05-26 23:53:38,534 - INFO - Fetching HTML for item: 底比斯歐西里斯符石劍 (URL: https://www.gametsg.net/equip/detail.html?id=2775)
+2025-05-26 23:53:39,083 - INFO - Successfully saved HTML to example\底比斯歐西里斯符石劍.html
+2025-05-26 23:53:40,083 - INFO - Completed fetching random samples

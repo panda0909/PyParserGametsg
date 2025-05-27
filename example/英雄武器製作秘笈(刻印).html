@@ -1,0 +1,1927 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>天堂M透視鏡 | 物品 | 英雄武器製作秘笈(刻印)</title>
+  <meta name="keywords" content="物品,裝備,製作,天堂M,天堂M透視鏡,遊戲"/>
+  <meta name="description" content="天堂M最新新聞動態、物品、怪物、地圖、製作、掛機點、技能、任務、變身、魔法娃娃、聖物">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link href="/assets/css/my.css?v=1.0.31" rel="stylesheet" type="text/css"/>
+  <link href="/assets/css/color.css?v=1.0.31" rel="stylesheet" type="text/css"/>
+
+</head>
+
+<body>
+<div class="app">
+  <div class="container">
+    <header>
+  <div class="logoAd">
+    <a class="logo" title="天堂M透視鏡" href="/"><img src="/assets/img/logo.png?v=20241231" alt="天堂M透視鏡"></a>
+    <div class="Ad"><img src="/assets/img/adTop.jpg" align="廣告"></div>
+  </div>
+  <nav>
+    <ul>
+      <li ><a href="/" title="首頁">首頁</a></li>
+      <li class="selected"><a href="/equip.html" title="物品">物品</a></li>
+      <li ><a href="/monster.html" title="怪物">怪物</a></li>
+      <li ><a href="/skill.html" title="技能">技能</a></li>
+      <li ><a href="/task.html" title="任務">任務</a></li>
+      <li ><a href="/henshin.html" title="變身">變身</a></li>
+      <li ><a href="/magicdoll.html" title="魔法娃娃">魔法娃娃</a></li>
+      <li ><a href="/hallows.html" title="聖物">聖物</a></li>
+    </ul>
+  </nav>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DBEQMJDW4B"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  gtag('js', new Date());
+
+  gtag('config', 'G-DBEQMJDW4B');
+  </script>
+</header>
+<div id="right" class="float">
+  <div class="links">
+    <h2 class="tit">推薦連結</h2>
+    <div class="con">
+      <ul>
+                <li>
+          <a href="https://forum.gamer.com.tw/A.php?bsn=25908" title="天堂M哈啦區（中文）" target="_blank">
+            <i></i>天堂M哈啦區（中文）          </a>
+        </li>
+                <li>
+          <a href="https://lineagem.plaync.com/" title="韓版官方網站 (韓文)" target="_blank">
+            <i></i>韓版官方網站 (韓文)          </a>
+        </li>
+                <li>
+          <a href="https://www.facebook.com/lineagem/" title="韓版官方臉書粉絲頁 (韓文)" target="_blank">
+            <i></i>韓版官方臉書粉絲頁 (韓文)          </a>
+        </li>
+                <li>
+          <a href="http://lineagem.inven.co.kr" title="韓版inven天堂M攻略網 (韓文)" target="_blank">
+            <i></i>韓版inven天堂M攻略網 (韓文)          </a>
+        </li>
+                <li>
+          <a href="http://linlab.co.kr/index.php" title="韓版天堂研究室 (韓文)" target="_blank">
+            <i></i>韓版天堂研究室 (韓文)          </a>
+        </li>
+                <li>
+          <a href="https://lineagem.beanfun.com/Main?" title="台版天堂M官方網站 (中文)" target="_blank">
+            <i></i>台版天堂M官方網站 (中文)          </a>
+        </li>
+                <li>
+          <a href="https://www.facebook.com/Gamania.Lineage.M" title="台版天堂M官方臉書粉絲頁 (中文)" target="_blank">
+            <i></i>台版天堂M官方臉書粉絲頁 (中文)          </a>
+        </li>
+                <li>
+          <a href="https://lineagem-jp.com/" title="日版官方網站 (日文)" target="_blank">
+            <i></i>日版官方網站 (日文)          </a>
+        </li>
+                <li>
+          <a href="https://www.lineagem.com.tw" title="天堂M大補帖 (中文)" target="_blank">
+            <i></i>天堂M大補帖 (中文)          </a>
+        </li>
+                <li>
+          <a href="http://ezvideofun2.pixnet.net/blog" title="古今小教室 (中文)" target="_blank">
+            <i></i>古今小教室 (中文)          </a>
+        </li>
+                <li>
+          <a href="https://gameinfo.tw/LineageM" title="天堂M活動彙整網 (中文)" target="_blank">
+            <i></i>天堂M活動彙整網 (中文)          </a>
+        </li>
+              </ul>
+    </div>
+  </div>
+  <a class="recordBtn" href="/record.html" style="margin-top: 10px;"><h2>透視鏡更新記錄(2025/02/05 新!)</h2></a>
+</div>
+<script>
+let linksR = document.querySelector('#right')
+
+let header = document.querySelector('header')
+
+let right = header.getBoundingClientRect().right + 10
+
+setPostion(linksR, right)
+window.addEventListener('resize', () => {
+    header = document.querySelector('header')
+    linksR = document.querySelector('#right')
+    right = header.getBoundingClientRect().right + 10
+    setPostion(linksR, right)
+})
+
+function setPostion(el, x) {
+    el.style.cssText = 'left:' + x + 'px'
+}
+</script>
+    <div class="k">
+      <div class="container1 itemPage">
+        <h2 class="dbTitle">英雄武器製作秘笈(刻印)</h2>
+        <div class="detail">
+          <div class="wrap">
+            <div class="toolTip">
+              <h5 class="infoTit">基本訊息</h5>
+              <div class="toolContent">
+                <div class="itemTit">
+                  <div class="thumb">
+                    <img src="/img/1/9/50f502ccd499005a7d274f7574be5cdd.jpg" alt="英雄武器製作秘笈(刻印)">
+                  </div>
+                  <div class="name">
+                    <span class="grade04 grade_d_04">英雄武器製作秘笈(刻印)</span>
+                  </div>
+                </div>
+                <ul class="basicList itemList">
+                  <li>
+                    <div class="ti">類型</div>
+                    <div class="con">
+                      <div class="conn">其他(材料)</div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="ti">職業</div>
+                    <div class="con">
+                      <div class="clear">
+                                                <span class="class class00">全職業</span>
+                                              </div>
+                    </div>
+                  </li>
+                                    <li>
+                    <div class="ti">材質</div>
+                    <div class="con">
+                      <div class="conn">
+                                                紙<br>
+                                              </div>
+                    </div>
+                  </li>
+                                    <li>
+                    <div class="ti">重量</div>
+                    <div class="con">
+                      <div class="conn">
+                                                1                      </div>
+                    </div>
+                  </li>
+                                    <li>
+                    <div class="ti">說明</div>
+                    <div class="con">
+                      <div class="conn">
+                                                材料<br>
+                                              </div>
+                    </div>
+                  </li>
+                                  </ul>
+              </div>
+            </div>
+                        <div class="detailInfo">
+              <h5 class="infoTit">細節</h5>
+              <div class="detailTable">
+                <ul class="xjList">
+                                    <li>
+                    <div class="ti">倉庫</div>
+                    <div class="con">
+                      可存倉                    </div>
+                  </li>
+                                    <li>
+                    <div class="ti">交換</div>
+                    <div class="con">
+                      無法交易                    </div>
+                  </li>
+                  
+                </ul>
+              </div>
+                            <div class="craftInfo">
+                <h5 class="infoTit">製作材料</h5>
+                <div class="detailTable">
+                  <div class="detailTableN">
+                    <ul class="craftList">
+                                            <li>
+                        <a href="/equip/detail.html?id=215" title="+10 祝福狂風之斧">
+                          <img class="itemIcon" src="/img/1/2/7782d23347b238a40f507355a8cb35a4.jpg" alt="+10 祝福狂風之斧">
+                          <span class="itemname grade03">+10 祝福狂風之斧 x <span
+                                  class="count">1</span></span>
+                        </a>
+                                                <ul class="craftList childList fold">
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=216">
+                              <span class="itemname grade03">+10 祝福狂風之斧(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=422">
+                              <span class="itemname grade03">+10 夜禍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=423">
+                              <span class="itemname grade03">+10 夜禍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=37">
+                              <span class="itemname grade03">+10 祝福雷雨之劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=38">
+                              <span class="itemname grade03">+10 祝福雷雨之劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=125">
+                              <span class="itemname grade03">+10 祝福之熾炎天使弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=126">
+                              <span class="itemname grade03">+10 祝福之熾炎天使弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=374">
+                              <span class="itemname grade03">+10 祝福末日衝擊炮 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=375">
+                              <span class="itemname grade03">+10 祝福末日衝擊炮(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=11">
+                              <span class="itemname grade03">+10 祝福魔力短劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=12">
+                              <span class="itemname grade03">+10 祝福魔力短劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=39">
+                              <span class="itemname grade03">+10 祝福魔族之劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=40">
+                              <span class="itemname grade03">+10 祝福魔族之劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=217">
+                              <span class="itemname grade03">+10 祝福魔族斧頭 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=218">
+                              <span class="itemname grade03">+10 祝福魔族斧頭(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=355">
+                              <span class="itemname grade03">+10 祝福魔族的步槍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=356">
+                              <span class="itemname grade03">+10 祝福魔族的步槍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=424">
+                              <span class="itemname grade03">+10 魔族鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=425">
+                              <span class="itemname grade03">+10 魔族鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=254">
+                              <span class="itemname grade03">+10 祝福魔族魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=255">
+                              <span class="itemname grade03">+10 祝福魔族魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=394">
+                              <span class="itemname grade03">+10 祝福魔族鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=395">
+                              <span class="itemname grade03">+10 祝福魔族鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=321">
+                              <span class="itemname grade03">+10 祝福魔族的鋼爪 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=322">
+                              <span class="itemname grade03">+10 祝福魔族的鋼爪(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=127">
+                              <span class="itemname grade03">+10 祝福魔族之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=128">
+                              <span class="itemname grade03">+10 祝福魔族之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=92">
+                              <span class="itemname grade03">+10 祝福的武官雙手劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=93">
+                              <span class="itemname grade03">+10 祝福武官雙手劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=41">
+                              <span class="itemname grade03">+10 祝福武官之刃 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=42">
+                              <span class="itemname grade03">+10 祝福武官之刃(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=94">
+                              <span class="itemname grade03">+10 祝福紅騎士巨劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=95">
+                              <span class="itemname grade03">+10 祝福紅騎士巨劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=426">
+                              <span class="itemname grade03">+10 吸血鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=427">
+                              <span class="itemname grade03">+10 吸血鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=129">
+                              <span class="itemname grade03">+10 祝福沙哈之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=130">
+                              <span class="itemname grade03">+10 祝福沙哈之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=131">
+                              <span class="itemname grade03">+10 祝福弒神者之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=132">
+                              <span class="itemname grade03">+10 祝福弒神者之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=396">
+                              <span class="itemname grade03">+10 祝福消滅者鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=397">
+                              <span class="itemname grade03">+10 祝福消滅者鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=13">
+                              <span class="itemname grade03">+10 祝福水晶短劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=14">
+                              <span class="itemname grade03">+10 祝福水晶短劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=256">
+                              <span class="itemname grade03">+10 祝福神官魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=257">
+                              <span class="itemname grade03">+10 祝福神官魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=260">
+                              <span class="itemname grade03">+10 祝福天使魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=261">
+                              <span class="itemname grade03">+10 祝福天使魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=339">
+                              <span class="itemname grade03">+10 祝福提卡爾庫庫爾坎鐵手甲 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=340">
+                              <span class="itemname grade03">+10 祝福提卡爾庫庫爾坎鐵手甲(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=428">
+                              <span class="itemname grade03">+10 底比斯歐西里斯鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=429">
+                              <span class="itemname grade03">+10 底比斯歐西里斯鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=97">
+                              <span class="itemname grade03">+10 祝福底比斯歐西里斯雙手劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=98">
+                              <span class="itemname grade03">+10 祝福底比斯歐西里斯雙手劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=293">
+                              <span class="itemname grade03">+10 祝福底比斯歐西里斯雙刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=294">
+                              <span class="itemname grade03">+10 祝福底比斯歐西里斯雙刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=262">
+                              <span class="itemname grade03">+10 祝福底比斯歐西里斯魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=263">
+                              <span class="itemname grade03">+10 祝福底比斯歐西里斯魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=135">
+                              <span class="itemname grade03">+10 祝福底比斯歐西里斯弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=136">
+                              <span class="itemname grade03">+10 祝福底比斯歐西里斯弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=357">
+                              <span class="itemname grade03">+10 祝福特里斯坦的步槍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=358">
+                              <span class="itemname grade03">+10 祝福特里斯坦的步槍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=295">
+                              <span class="itemname grade03">+10 祝福破壞雙刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=296">
+                              <span class="itemname grade03">+10 祝福破壞雙刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=325">
+                              <span class="itemname grade03">+10 祝福破壞鋼爪 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=326">
+                              <span class="itemname grade03">+10 祝福破壞鋼爪(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=99">
+                              <span class="itemname grade03">+10 祝福的毀滅巨劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=100">
+                              <span class="itemname grade03">+10 祝福的毀滅巨劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=400">
+                              <span class="itemname grade03">+10 祝福破滅者鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=401">
+                              <span class="itemname grade03">+10 祝福破滅者鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=177">
+                              <span class="itemname grade03">+10 祝福海神三叉戟 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=178">
+                              <span class="itemname grade03">+10 祝福海神三叉戟(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=179">
+                              <span class="itemname grade03">+10 祝福酷寒之矛 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=180">
+                              <span class="itemname grade03">+10 祝福酷寒之矛(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=402">
+                              <span class="itemname grade03">+10 祝福共鳴鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=403">
+                              <span class="itemname grade03">+10 祝福共鳴鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                  </ul>
+                                              </li>
+                                            <li>
+                        <a href="/equip/detail.html?id=215" title="+11 祝福狂風之斧">
+                          <img class="itemIcon" src="/img/1/2/7782d23347b238a40f507355a8cb35a4.jpg" alt="+11 祝福狂風之斧">
+                          <span class="itemname grade03">+11 祝福狂風之斧 x <span
+                                  class="count">1</span></span>
+                        </a>
+                                                <ul class="craftList childList fold">
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=216">
+                              <span class="itemname grade03">+11 祝福狂風之斧(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=422">
+                              <span class="itemname grade03">+11 祝福夜禍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=423">
+                              <span class="itemname grade03">+11 祝福夜禍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=37">
+                              <span class="itemname grade03">+11 祝福雷雨之劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=38">
+                              <span class="itemname grade03">+11 祝福雷雨之劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=125">
+                              <span class="itemname grade03">+11 祝福之熾炎天使弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=126">
+                              <span class="itemname grade03">+11 祝福之熾炎天使弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=374">
+                              <span class="itemname grade03">+11 祝福末日衝擊炮 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=375">
+                              <span class="itemname grade03">+11 祝福末日衝擊炮(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=11">
+                              <span class="itemname grade03">+11 祝福魔力短劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=12">
+                              <span class="itemname grade03">+11 祝福魔力短劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=39">
+                              <span class="itemname grade03">+11 祝福魔族之劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=40">
+                              <span class="itemname grade03">+11 祝福魔族之劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=217">
+                              <span class="itemname grade03">+11 祝福魔族斧頭 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=218">
+                              <span class="itemname grade03">+11 祝福魔族斧頭(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=355">
+                              <span class="itemname grade03">+11 祝福魔族的步槍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=356">
+                              <span class="itemname grade03">+11 祝福魔族的步槍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=424">
+                              <span class="itemname grade03">+11 祝福魔族鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=425">
+                              <span class="itemname grade03">+11 祝福魔族鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=254">
+                              <span class="itemname grade03">+11 祝福魔族魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=255">
+                              <span class="itemname grade03">+11 祝福魔族魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=394">
+                              <span class="itemname grade03">+11 祝福魔族鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=395">
+                              <span class="itemname grade03">+11 祝福魔族鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=321">
+                              <span class="itemname grade03">+11 祝福魔族的鋼爪 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=322">
+                              <span class="itemname grade03">+11 祝福魔族的鋼爪(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=127">
+                              <span class="itemname grade03">+11 祝福魔族之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=128">
+                              <span class="itemname grade03">+11 祝福魔族之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=92">
+                              <span class="itemname grade03">+11 祝福的武官雙手劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=93">
+                              <span class="itemname grade03">+11 祝福的武官雙手劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=41">
+                              <span class="itemname grade03">+11 祝福武官之刃 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=42">
+                              <span class="itemname grade03">+11 祝福武官之刃(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=94">
+                              <span class="itemname grade03">+11 祝福紅騎士巨劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=95">
+                              <span class="itemname grade03">+11 祝福紅騎士巨劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=426">
+                              <span class="itemname grade03">+11 祝福吸血鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=427">
+                              <span class="itemname grade03">+11 祝福吸血鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=129">
+                              <span class="itemname grade03">+11 祝福沙哈之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=130">
+                              <span class="itemname grade03">+11 祝福沙哈之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=131">
+                              <span class="itemname grade03">+11 祝福弒神者之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=132">
+                              <span class="itemname grade03">+11 祝福弒神者之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=396">
+                              <span class="itemname grade03">+11 祝福消滅者鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=397">
+                              <span class="itemname grade03">+11 祝福消滅者鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=13">
+                              <span class="itemname grade03">+11 祝福水晶短劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=14">
+                              <span class="itemname grade03">+11 祝福水晶短劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=256">
+                              <span class="itemname grade03">+11 祝福神官魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=257">
+                              <span class="itemname grade03">+11 祝福神官魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=260">
+                              <span class="itemname grade03">+11 祝福天使魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=261">
+                              <span class="itemname grade03">+11 祝福天使魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=339">
+                              <span class="itemname grade03">+11 祝福提卡爾庫庫爾坎鐵手甲 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=340">
+                              <span class="itemname grade03">+11 祝福提卡爾庫庫爾坎鐵手甲(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=428">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=429">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=97">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯雙手劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=98">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯雙手劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=293">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯的雙刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=294">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯的雙刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=262">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=263">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=135">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=136">
+                              <span class="itemname grade03">+11 祝福底比斯歐西里斯弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=357">
+                              <span class="itemname grade03">+11 祝福特里斯坦的步槍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=358">
+                              <span class="itemname grade03">+11 祝福特里斯坦的步槍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=295">
+                              <span class="itemname grade03">+11 祝福破壞雙刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=296">
+                              <span class="itemname grade03">+11 祝福破壞雙刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=325">
+                              <span class="itemname grade03">+11 祝福破壞鋼爪 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=326">
+                              <span class="itemname grade03">+11 祝福破壞鋼爪(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=99">
+                              <span class="itemname grade03">+11 祝福的毀滅巨劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=100">
+                              <span class="itemname grade03">+11 祝福的毀滅巨劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=400">
+                              <span class="itemname grade03">+11 祝福破滅者鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=401">
+                              <span class="itemname grade03">+11 祝福破滅者鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=177">
+                              <span class="itemname grade03">+11 祝福海神三叉戟 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=178">
+                              <span class="itemname grade03">+11 祝福海神三叉戟(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=179">
+                              <span class="itemname grade03">+11 祝福酷寒之矛 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=180">
+                              <span class="itemname grade03">+11 祝福酷寒之矛(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=402">
+                              <span class="itemname grade03">+11 祝福共鳴鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=403">
+                              <span class="itemname grade03">+11 祝福共鳴鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                  </ul>
+                                              </li>
+                                            <li>
+                        <a href="/equip/detail.html?id=215" title="+12 祝福狂風之斧">
+                          <img class="itemIcon" src="/img/1/2/7782d23347b238a40f507355a8cb35a4.jpg" alt="+12 祝福狂風之斧">
+                          <span class="itemname grade03">+12 祝福狂風之斧 x <span
+                                  class="count">1</span></span>
+                        </a>
+                                                <ul class="craftList childList fold">
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=216">
+                              <span class="itemname grade03">+12 祝福狂風之斧(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=422">
+                              <span class="itemname grade03">+12 祝福夜禍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=423">
+                              <span class="itemname grade03">+12 祝福夜禍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=37">
+                              <span class="itemname grade03">+12 祝福雷雨之劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=38">
+                              <span class="itemname grade03">+12 祝福雷雨之劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=125">
+                              <span class="itemname grade03">+12 祝福之熾炎天使弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=126">
+                              <span class="itemname grade03">+12 祝福之熾炎天使弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=374">
+                              <span class="itemname grade03">+12 祝福末日衝擊炮 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=375">
+                              <span class="itemname grade03">+12 祝福末日衝擊炮(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=11">
+                              <span class="itemname grade03">+12 祝福魔力短劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=12">
+                              <span class="itemname grade03">+12 祝福魔力短劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=39">
+                              <span class="itemname grade03">+12 祝福魔族之劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=40">
+                              <span class="itemname grade03">+12 祝福魔族之劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=217">
+                              <span class="itemname grade03">+12 祝福魔族斧頭 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=218">
+                              <span class="itemname grade03">+12 祝福魔族斧頭(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=355">
+                              <span class="itemname grade03">+12 祝福魔族的步槍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=356">
+                              <span class="itemname grade03">+12 祝福魔族的步槍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=424">
+                              <span class="itemname grade03">+12 祝福魔族鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=425">
+                              <span class="itemname grade03">+12 祝福魔族鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=254">
+                              <span class="itemname grade03">+12 祝福魔族魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=255">
+                              <span class="itemname grade03">+12 祝福魔族魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=394">
+                              <span class="itemname grade03">+12 祝福魔族鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=395">
+                              <span class="itemname grade03">+12 祝福魔族鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=321">
+                              <span class="itemname grade03">+12 祝福魔族的鋼爪 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=322">
+                              <span class="itemname grade03">+12 祝福魔族的鋼爪(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=127">
+                              <span class="itemname grade03">+12 祝福魔族之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=128">
+                              <span class="itemname grade03">+12 祝福魔族之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=92">
+                              <span class="itemname grade03">+12 祝福的武官雙手劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=93">
+                              <span class="itemname grade03">+12 祝福的武官雙手劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=41">
+                              <span class="itemname grade03">+12 祝福武官之刃 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=42">
+                              <span class="itemname grade03">+12 祝福武官之刃(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=94">
+                              <span class="itemname grade03">+12 祝福紅騎士巨劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=95">
+                              <span class="itemname grade03">+12 祝福紅騎士巨劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=426">
+                              <span class="itemname grade03">+12 祝福吸血鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=427">
+                              <span class="itemname grade03">+12 祝福吸血鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=129">
+                              <span class="itemname grade03">+12 祝福沙哈之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=130">
+                              <span class="itemname grade03">+12 祝福沙哈之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=131">
+                              <span class="itemname grade03">+12 祝福弒神者之弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=132">
+                              <span class="itemname grade03">+12 祝福弒神者之弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=396">
+                              <span class="itemname grade03">+12 祝福消滅者鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=397">
+                              <span class="itemname grade03">+12 祝福消滅者鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=13">
+                              <span class="itemname grade03">+12 祝福水晶短劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=14">
+                              <span class="itemname grade03">+12 祝福水晶短劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=256">
+                              <span class="itemname grade03">+12 祝福神官魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=257">
+                              <span class="itemname grade03">+12 祝福神官魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=260">
+                              <span class="itemname grade03">+12 祝福天使魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=261">
+                              <span class="itemname grade03">+12 祝福天使魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=339">
+                              <span class="itemname grade03">+12 祝福提卡爾庫庫爾坎鐵手甲 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=340">
+                              <span class="itemname grade03">+12 祝福提卡爾庫庫爾坎鐵手甲(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=428">
+                              <span class="itemname grade03">+12 祝福的底比斯歐西里斯鐮刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=429">
+                              <span class="itemname grade03">+12 祝福的底比斯歐西里斯鐮刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=97">
+                              <span class="itemname grade03">+12 祝福底比斯歐西里斯雙手劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=98">
+                              <span class="itemname grade03">+12 祝福底比斯歐西里斯雙手劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=293">
+                              <span class="itemname grade03">+12 祝福底比斯歐西里斯的雙刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=294">
+                              <span class="itemname grade03">+12 祝福底比斯歐西里斯的雙刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=262">
+                              <span class="itemname grade03">+12 祝福底比斯歐西里斯魔杖 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=263">
+                              <span class="itemname grade03">+12 祝福底比斯歐西里斯魔杖(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=135">
+                              <span class="itemname grade03">+12 祝福底比斯歐西里斯弓 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=136">
+                              <span class="itemname grade03">+12 祝福底比斯歐西里斯弓(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=357">
+                              <span class="itemname grade03">+12 祝福特里斯坦的步槍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=358">
+                              <span class="itemname grade03">+12 祝福特里斯坦的步槍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=295">
+                              <span class="itemname grade03">+12 祝福破壞雙刀 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=296">
+                              <span class="itemname grade03">+12 祝福破壞雙刀(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=325">
+                              <span class="itemname grade03">+12 祝福破壞鋼爪 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=326">
+                              <span class="itemname grade03">+12 祝福破壞鋼爪(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=99">
+                              <span class="itemname grade03">+12 祝福的毀滅巨劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=100">
+                              <span class="itemname grade03">+12 祝福的毀滅巨劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=400">
+                              <span class="itemname grade03">+12 祝福破滅者鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=401">
+                              <span class="itemname grade03">+12 祝福破滅者鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=177">
+                              <span class="itemname grade03">+12 祝福海神三叉戟 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=178">
+                              <span class="itemname grade03">+12 祝福海神三叉戟(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=179">
+                              <span class="itemname grade03">+12 祝福酷寒之矛 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=180">
+                              <span class="itemname grade03">+12 祝福酷寒之矛(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=402">
+                              <span class="itemname grade03">+12 祝福共鳴鎖鏈劍 x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                    <li class="subst">
+                            <span>選擇</span>
+                            <a href="/equip/detail.html?id=403">
+                              <span class="itemname grade03">+12 祝福共鳴鎖鏈劍(刻印) x <span
+                                      class="count">1</span></span>
+                            </a>
+                          </li>
+                                                  </ul>
+                                              </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+                          </div>
+                      </div>
+                  </div>
+      </div>
+    </div>
+
+    <script src="/assets/js/vue@2.6.js"></script>
+<script src="/assets/js/axios.min.js"></script>
+<script src="/assets/js/jquery-3.7.1.min.js"></script>
+<div class="k detail">
+    <div class="container1">
+        <div class="cmtHeader">
+            <h5 class="infoTit">我想說幾句</h5>
+            <div class="total">評論 ( <i>0</i> )</div>
+        </div>
+        <div class="cmtBody">
+            <div class="listArea">
+                <ul class="list">
+                                    </ul>
+                <div class="page">
+                    <ul>
+                                            </ul>
+                </div>
+            </div>
+                        <div style="display: flex;padding: 35px 0;justify-content: center;color: #999;font-size: 14x;">沒有留言數據</div>
+                        <div class="cmtform">
+<!--                <form action="/index/add_message" method="post">-->
+                <input id="w_id" name="w_id" value="1370" style="display: none">
+                <input id="mess_type" name="mess_type" value="equip" style="display: none">
+                <div class="ht">
+                    <input id="mess_name" name="name" type="text" placeholder="請填寫暱稱，未填寫自動使用“匿名”">
+                </div>
+                <div class="ht">
+                    <textarea id="mess_text" name="text" placeholder="您的留言會在審核成功後發佈。"></textarea>
+                </div>
+                <button id="fasong">發送</button>
+                <div class="ht">
+
+                </div>
+<!--                </form>-->
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $("#fasong").click(function () {
+        var w_id = $("#w_id").val();
+        var name = $("#mess_name").val();
+        var text = $("#mess_text").val();
+        var type = $("#mess_type").val()
+        $.ajax({
+            url:"/index/add_message",
+            type:'post',
+            datatype:'json',
+            data:{
+                w_id:w_id,
+                name:name,
+                text:text,
+                type:type
+            },
+            success:function (data) {
+                if(data.code===-1){
+                    alert(data.msg)
+                    return false;
+                }
+                alert(data.msg)
+                return false;
+            }
+        });
+    })
+
+</script>
+
+    <div class="k cpright">
+  本網站資訊僅彙整遊戲官方所公開之資訊以利玩家搜尋用途，所有內容皆為遊戲官方所有。
+</div>
+<script>
+//屏蔽複製
+document.addEventListener('copy', (e) => {
+    e.preventDefault()
+})
+//屏蔽右鍵
+document.addEventListener('contextmenu', (e) => {
+    e.preventDefault()
+})
+//屏蔽F12
+// document.addEventListener('keydown', (e) => {
+//     if (e.keyCode === 123) {
+//         alert('禁止F12')
+//         if (e.preventDefault) {
+//             e.preventDefault();
+//         } else {
+//             window.event.returnValue == false;
+//         }
+//     }
+//
+// })
+//屏蔽ctrl+shift+i
+document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+        if (e.preventDefault) {
+            e.preventDefault();
+        } else {
+            window.event.returnValue == false;
+        }
+    }
+
+})
+</script>
+
+
+
+  </div>
+</div>
+<script src="/assets/js/vue@2.6.js"></script>
+<script src="/assets/js/axios.min.js"></script>
+<script src="/assets/js/qs.min.js"></script>
+</body>
+
+</html>
+
